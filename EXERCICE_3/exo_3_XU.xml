@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei_dict.xsl"?>
+<TEI  xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dictionnaire universel, 2de édition, Tome 2 (Section EFFET-EFFEUILLER) : une version électronique</title>
+                <author>Antoine Furetière(1619-1688)</author>
+                <respStmt>
+                    <resp>encodé en XML/TEI P5 par</resp>
+                    <name>Yizhou XU</name>
+                </respStmt>                
+            </titleStmt>
+            <publicationStmt>
+                <p>Dans le cadre du cours Document Structuré, Master TAL, chaque étudiant encode un groupe d'entrées du Dictionnaire universel d’Antoine Furetière, dans la version de 1701 revue, augmentée et corrigée par Basnage de Beauval.</p>
+                <availability><p>disponible en ligne, sur le site plurital.org</p></availability>
+                <date>2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Dictionnaire universel, contenant généralement tous les mots françois tant vieux que modernes &amp; les termes des sciences et des arts, Tome 2</title>
+                    <author>Antoine Furetière</author>
+                    <respStmt>
+                        <resp>Originalement publié par</resp>
+                        <name>A. et R. Leers (La Haye)</name>
+                        <date>1701</date>
+                    </respStmt>
+                    <respStmt>
+                        <resp>Seconde édition revüe, corrigée &amp; augmentée par</resp>
+                        <name>Henri Basnage de Beauval(1657-1710)</name>
+                    </respStmt>
+                    <respStmt>
+                        <resp>Digitalisé au format pdf par</resp>
+                        <name>Bibliothèque nationale de France</name>
+                        <date>2009</date>
+                    </respStmt>
+                    <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k5542578m?rk=64378;0">Gallica - Bibliothèque Nationale de France</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div n="tome_E-N">
+                <div n="E">
+                    <div n="EFF">
+                        <entry xml:id="effet">
+                            <form><orth>EFFET</orth></form>
+                            <gramGrp>
+                                <pos expand="substantif">ſ.</pos>
+                                <gen expand="masculin">m.</gen>
+                            </gramGrp>
+                            <sense n="1">
+                                <def>Ce qui eſt produit, ce qui reſulte de l'operation des cauſes agiſſantes.</def>
+                                <cit type="example">
+                                    <quote>Les cauſes ſe font connoître par les <hi rend="italic">effets</hi>.</quote>
+                                </cit>
+                                <cit type="example">
+                                    <quote>Les couleurs de l'arc-en-ciel font un bel <hi rend="italic">effet</hi>.</quote>
+                                </cit>
+                                <cit type="example">
+                                    <quote>L'art produit de beaux <hi rend="italic">effets</hi>, auſſi bien que la nature.</quote>
+                                </cit>
+                                <cit type="example">
+                                    <quote>Cette menace eſt demeurée ſans <hi rend="italic">effet</hi>.</quote>
+                                </cit>
+                                <cit type="example">
+                                    <quote>Charlemagne ſuſpendit un peu les triſtes <hi rend="italic">effets</hi> de la barbarie, &amp; des tenebres qui ſe repandirent dans les ſiecles ſuivans.</quote>
+                                    <bibl>BAIL.</bibl>
+                                </cit>
+                                <cit type="example">
+                                    <quote>Tout cela fait chez moi ſans doute un merveilleux <hi rend="italic">effet</hi>.</quote>
+                                    <bibl>MOL.</bibl>
+                                </cit>
+                                <cit type="example">
+                                    <quote>Vous accordez aux hommes l'<hi rend="italic">effet</hi> extérieur, &amp; materiel de l'action, &amp; vous donnez à Dieu ce mouvement interieur &amp; ſpirituel de l'intention, &amp; par cet équitable partage vous alliez les loix humaines, &amp; divines.</quote>
+                                    <bibl>PASC.</bibl>
+                                </cit>
+                                <cit type="example">
+                                    <quote>Les plus fages voyent toûjours avec plaiſir l'<hi rend="italic">effet</hi> de leur beauté.</quote>
+                                    <bibl>P. DE CL.</bibl>
+                                </cit>
+                                <cit type="example">
+                                    <quote>Les <hi rend="italic">effets</hi> extraordinaires des paſſions ne peut être imitez par la raiſon. Il dependent des objets.</quote>
+                                    <bibl>NIC.</bibl>
+                                </cit>
+                            </sense>
+                            <sense n="2">
+                                <form><orth>EFFET</orth></form>, <def>ſignifie auſſi, Pratique, execution.</def>
+                                <cit type="example">
+                                    <quote>Voilà une machine bien inventée, mais on ne la peut mettre en <hi rend="italic">effet</hi>, reduire en pratique.</quote>
+                                </cit>
+                                <cit type="example">
+                                    <quote>Cet homme promet beaucoup, mais on ne voit point d'<hi rend="italic">effet</hi>, point d'execution.</quote>
+                                </cit>
+                                <cit type="example">
+                                    <quote>On attend l'<hi rend="italic">effet</hi> de ſes promeſſes.</quote>
+                                    <bibl>ABLAN.</bibl>
+                                </cit>
+                            </sense>
+                            <sense n="3">
+                                <dictScrap><usg type="dom">On dit au Palais</usg>, qu'un homme a été mandé à cet <hi rend="italic">effet</hi>, pour cet <hi rend="italic">effet</hi>, qu'il a produit telle piece à cet <hi rend="italic">effet</hi>; pour dire, à cette fin, pour cette cauſe. On dit auſſi en confirmant une ſentence, qu'elle ſortira ſon plein &amp; entier <hi rend="italic">effet</hi>; pour dire, qu'elle ſera executée ſelon ſa forme &amp; teneur.</dictScrap>
+                            </sense>
+                            <sense n="4">
+                                <dictScrap><usg type="dom">En matiere beneficiale</usg>, on dit, Créer une Chanoinie à l'<hi rend="italic">effet</hi> de poſſeder une dignité dans une Cathedrale, quand on crée un titre de Chanoine en faveur de l'impetrant d'une dignité, ſans lequel il ne la peut poſſeder.</dictScrap>
+                            </sense>
+                            <sense n="5">
+                                <form><orth>EFFET</orth></form>, <usg type="dom">en termes de Manege</usg>, <def>ſe dit des mouvements de la main qui ſervent à conduire un cheval.</def>
+                                <cit>
+                                    <quote>On diſtingue quatre <hi rend="italic">effets</hi> de la main, en ſe ſervant de la bride pour pouſſer un cheval en avant, le tirer en arriere, ou pour le changer de main à droit, ou à gauche.</quote>
+                                </cit>
+                            </sense>
+                            <sense n="6">
+                                <form>
+                                    <orth>EFFET</orth>, 
+                                    <form type="inflected">
+                                        <usg type="plev">&amp; plus ordinairement</usg>
+                                        <hi rend="italic"><orth>effets</orth></hi>
+                                        <gramGrp>
+                                            <number>au plurier</number>
+                                        </gramGrp>
+                                    </form>
+                                </form>, 
+                                <def>ſe dit des biens des perſonnes, &amp; particulierement des negotians, &amp; de leurs meubles &amp; actions.</def>
+                                <cit type="example">
+                                    <quote>Les creanciers viennent à contribution ſur des <hi rend="italic">effets</hi> mobiliaires. Cette obligation eſt un bon, un mauvais <hi rend="italic">effet</hi>; c'eſt-à-dire, eſt duë par un homme riche, ou par un inſolvable.</quote>
+                                </cit>
+                                <cit type="example">
+                                    <quote>Il faut qu'une caution juſtifie de ſes <hi rend="italic">effets</hi> &amp; facultez.</quote>
+                                </cit>
+                            </sense>
+                            <re>
+                                <form type="phrase"><orth>EN EFFET</orth></form>
+                                <gramGrp>
+                                    <pos>adv.</pos>
+                                </gramGrp>
+                                <sense n="1">
+                                    <def>D'une maniere veritable &amp; réelle.</def>
+                                    <cit>
+                                        <quote>Les couleurs ne ſon rien <hi rend="italic">en effet</hi>, ce n'eſt qu'une apparence &amp; une reflexion de lumiere.</quote>
+                                    </cit>
+                                </sense>
+                                <sense n="2">
+                                    <form type="phrase"><orth>EN EFFET</orth></form> ; <def>eſt auſſi une conjonction avec laquelle on reprend un diſcours, en rendant raiſon d'une choſe qu'on a avancé.</def>
+                                    <cit>
+                                        <quote><hi rend="italic">En effet</hi> il eſt certain que, &amp;c.</quote>
+                                    </cit>
+                                </sense>
+                            </re>
+                            <re>
+                                <dictScrap>On dit proverbialement, que <re><form type="phrase"><orth>les <hi rend="italic">effets</hi> ſont les mâles, &amp; les promeſſes ſont les femelles :</orth></form></re></dictScrap>
+                                <dictScrap>qu'<re><form type="phrase"><orth>un homme eſt de peu d'<hi rend="italic">effet</hi></orth></form></re>; pour dire, <sense><def>un pauvre homme, incapable de toutes choſes.</def></sense></dictScrap>
+                                <dictScrap><re><form type="phrase"><orth>Plus de paroles que d'<hi rend="italic">effets</hi></orth></form>; pour dire, <sense><def>qu'il promet beaucoup, &amp; ne tient rien.</def></sense></re></dictScrap>
+                            </re>
+                        </entry>
+                        <entry xml:id="effeuiller">
+                            <form><orth>EFFEUILLER</orth></form>
+                            <gramGrp>
+                                <pos expand="verbe">v.</pos>
+                                <subc expand="actif">act.</subc>
+                            </gramGrp>
+                            <sense>
+                                <def>Depouiller un arbre de ſes feuilles en tout, ou en partie.</def>
+                                <cit>
+                                    <quote>On <hi rend="italic">effeuille</hi> les arbres, quand les feuilles font trop d'ombre, &amp; empêchent de meurir les fruits.</quote>
+                                </cit>
+                            </sense>
+                            <etym>Ce mot vient du <lang>Latin</lang> <hi rend="italic">effoliare</hi>.</etym>
+                        </entry>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
