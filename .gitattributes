@@ -1,2 +1,2 @@
+*.js linguist-language=xslt
 *.css linguist-language=xslt
-*.dtd linguist-language=xslt
