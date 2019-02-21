@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="exo14_XQuery_q2_1.xsl"?>
+
+<statECRISCOL type="nombre" critere="type d'opération" unit="niveau">
+  <niveau nom="LY-2">
+    <remplacement>441</remplacement>
+    <insertion>236</insertion>
+    <suppression>991</suppression>
+    <correction>1308</correction>
+  </niveau>
+  <niveau nom="CO-3">
+    <remplacement>8</remplacement>
+    <insertion>26</insertion>
+    <suppression>34</suppression>
+    <correction>329</correction>
+  </niveau>
+  <niveau nom="6EME">
+    <remplacement>183</remplacement>
+    <insertion>44</insertion>
+    <suppression>473</suppression>
+    <correction>2646</correction>
+  </niveau>
+  <niveau nom="CE1">
+    <remplacement>123</remplacement>
+    <insertion>170</insertion>
+    <suppression>213</suppression>
+    <correction>744</correction>
+  </niveau>
+  <niveau nom="CE2">
+    <remplacement>675</remplacement>
+    <insertion>786</insertion>
+    <suppression>1104</suppression>
+    <correction>2771</correction>
+  </niveau>
+  <niveau nom="CM1">
+    <remplacement>157</remplacement>
+    <insertion>571</insertion>
+    <suppression>340</suppression>
+    <correction>716</correction>
+  </niveau>
+  <niveau nom="CM2">
+    <remplacement>675</remplacement>
+    <insertion>1184</insertion>
+    <suppression>1751</suppression>
+    <correction>5186</correction>
+  </niveau>
+</statECRISCOL>

@@ -1,0 +1,64 @@
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>P#a</del>
+    </mod>
+  </del>
+  <add>P#A</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>voit</del>
+    </mod>
+  </del>
+  <add>vit</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>P#e</del>
+    </mod>
+  </del>
+  <add>P#ê</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>a</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>au</del>
+    </mod>
+  </del>
+  <add>a</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>sont</del>
+    </mod>
+  </del>
+  <add>est</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>employés</del>
+    </mod>
+  </del>
+  <add>employées</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>s</del>
+    </mod>
+  </del>
+  <add>t</add>
+</mod>

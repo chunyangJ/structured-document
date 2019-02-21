@@ -1,0 +1,1716 @@
+<mod type="add">
+  <add>T2#Tranqillement</add>
+</mod>
+<mod type="add">
+  <add>T2coup</add>
+</mod>
+<mod type="add">
+  <add>T2#découvre</add>
+</mod>
+<mod type="add">
+  <add>T2#déssevante</add>
+</mod>
+<mod type="add">
+  <add>T2#demande</add>
+</mod>
+<mod type="add">
+  <add>T2#sais</add>
+</mod>
+<mod type="add">
+  <add>T2#oû</add>
+</mod>
+<mod type="add">
+  <add>T2#Gabriel</add>
+</mod>
+<mod type="add">
+  <add>T2#Toc</add>
+</mod>
+<mod type="add">
+  <add>P#z</add>
+</mod>
+<mod type="add">
+  <add>T2#entrez</add>
+</mod>
+<mod type="add">
+  <add>T2#cherchez</add>
+</mod>
+<mod type="add">
+  <add>T2#demande</add>
+</mod>
+<mod type="add">
+  <add>P#-</add>
+</mod>
+<mod type="add">
+  <add>truc</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#r</add>
+</mod>
+<mod type="add">
+  <add>P#'</add>
+</mod>
+<mod type="add">
+  <add>P#l</add>
+</mod>
+<mod type="add">
+  <add>T2#s'appelait</add>
+</mod>
+<mod type="add">
+  <add>T2#tenait</add>
+</mod>
+<mod type="add">
+  <add>T2#Malheureusement</add>
+</mod>
+<mod type="add">
+  <add>T2#lâcha</add>
+</mod>
+<mod type="add">
+  <add>T2#aperçut</add>
+</mod>
+<mod type="add">
+  <add>T2#voix</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>T2#voix</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>T2#peux</add>
+</mod>
+<mod type="add">
+  <add>T2#r</add>
+</mod>
+<mod type="add">
+  <add>T2#le gardien de l'oubli</add>
+</mod>
+<mod type="add">
+  <add>T2#.</add>
+</mod>
+<mod type="add">
+  <add>T2#A</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>T2#!</add>
+</mod>
+<mod type="add">
+  <add>T2#remercia</add>
+</mod>
+<mod type="add">
+  <add>P#terre</add>
+</mod>
+<mod type="add">
+  <add>P#-</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#a</add>
+</mod>
+<mod type="add">
+  <add>P#le</add>
+</mod>
+<mod type="add">
+  <add>r</add>
+</mod>
+<mod type="add">
+  <add>T2#était</add>
+</mod>
+<mod type="add">
+  <add>T2#toupie</add>
+</mod>
+<mod type="add">
+  <add>T2#tiens</add>
+</mod>
+<mod type="add">
+  <add>T2#demande</add>
+</mod>
+<mod type="add">
+  <add>T2#désert</add>
+</mod>
+<mod type="add">
+  <add>T2#montre</add>
+</mod>
+<mod type="add">
+  <add>T2#entre</add>
+</mod>
+<mod type="add">
+  <add>T2#trouve</add>
+</mod>
+<mod type="add">
+  <add>T2#où</add>
+</mod>
+<mod type="add">
+  <add>T2#son</add>
+</mod>
+<mod type="add">
+  <add>T2#accrocher</add>
+</mod>
+<mod type="add">
+  <add>T2#nomme</add>
+</mod>
+<mod type="add">
+  <add>T2#emmene</add>
+</mod>
+<mod type="add">
+  <add>T2#remplient</add>
+</mod>
+<mod type="add">
+  <add>T2#trouve</add>
+</mod>
+<mod type="add">
+  <add>T2#rentre</add>
+</mod>
+<mod type="add">
+  <add>P# C'est l'histoire d'</add>
+</mod>
+<mod type="add">
+  <add>P#l</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>P#sonna</add>
+</mod>
+<mod type="add">
+  <add>P#était</add>
+</mod>
+<mod type="add">
+  <add>P#e .</add>
+</mod>
+<mod type="add">
+  <add>T2#emmèna</add>
+</mod>
+<mod type="add">
+  <add>T2#vi</add>
+</mod>
+<mod type="add">
+  <add>T2#.</add>
+</mod>
+<mod type="add">
+  <add>T2#.</add>
+</mod>
+<mod type="add">
+  <add>T2#verras</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#-</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>T2#petit</add>
+</mod>
+<mod type="add">
+  <add>T2#D'accord</add>
+</mod>
+<mod type="add">
+  <add>T2#allait</add>
+</mod>
+<mod type="add">
+  <add>T2#et</add>
+</mod>
+<mod type="add">
+  <add>P#a</add>
+</mod>
+<mod type="add">
+  <add>-</add>
+</mod>
+<mod type="add">
+  <add>T2#.</add>
+</mod>
+<mod type="add">
+  <add>T2#trouva</add>
+</mod>
+<mod type="add">
+  <add>P#de rien ,</add>
+</mod>
+<mod type="add">
+  <add>T2# le petit garçon</add>
+</mod>
+<mod type="add">
+  <add>reparti</add>
+</mod>
+<mod type="add">
+  <add>P#n</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>ç</add>
+</mod>
+<mod type="add">
+  <add>T2#D'accord</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>T2#été</add>
+</mod>
+<mod type="add">
+  <add>P#cour de</add>
+</mod>
+<mod type="add">
+  <add>T2#Tu</add>
+</mod>
+<mod type="add">
+  <add>T2#l</add>
+</mod>
+<mod type="add">
+  <add>T2#Je</add>
+</mod>
+<mod type="add">
+  <add>T2#vais</add>
+</mod>
+<mod type="add">
+  <add>T2#là</add>
+</mod>
+<mod type="add">
+  <add>T2#tien</add>
+</mod>
+<mod type="add">
+  <add>T2#trouvaient</add>
+</mod>
+<mod type="add">
+  <add>P#n '</add>
+</mod>
+<mod type="add">
+  <add>T2#là</add>
+</mod>
+<mod type="add">
+  <add>T2#là</add>
+</mod>
+<mod type="add">
+  <add>T2#il</add>
+</mod>
+<mod type="add">
+  <add>T2#partie</add>
+</mod>
+<mod type="add">
+  <add>P#était</add>
+</mod>
+<mod type="add">
+  <add>P#cour de</add>
+</mod>
+<mod type="add">
+  <add>P# ,</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P# ,</add>
+</mod>
+<mod type="add">
+  <add>T2#i</add>
+</mod>
+<mod type="add">
+  <add>T2#L</add>
+</mod>
+<mod type="add">
+  <add>T2#T</add>
+</mod>
+<mod type="add">
+  <add>T2#é</add>
+</mod>
+<mod type="add">
+  <add>P#t'emmener</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>T2#emportant</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#le</add>
+</mod>
+<mod type="add">
+  <add>P#-</add>
+</mod>
+<mod type="add">
+  <add>P#s,</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>P#voir</add>
+</mod>
+<mod type="add">
+  <add>P#ps</add>
+</mod>
+<mod type="add">
+  <add>T2#l'espace</add>
+</mod>
+<mod type="add">
+  <add>P#es</add>
+</mod>
+<mod type="add">
+  <add>P#d</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>P#merci</add>
+</mod>
+<mod type="add">
+  <add>T2#pose</add>
+</mod>
+<mod type="add">
+  <add>T2#d</add>
+</mod>
+<mod type="add">
+  <add>T2#e</add>
+</mod>
+<mod type="add">
+  <add>T2#ai</add>
+</mod>
+<mod type="add">
+  <add>T2#lacet</add>
+</mod>
+<mod type="add">
+  <add>T2#arrivant</add>
+</mod>
+<mod type="add">
+  <add>T2#à</add>
+</mod>
+<mod type="add">
+  <add>T2#qua</add>
+</mod>
+<mod type="add">
+  <add>T2#é</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#d</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#t</add>
+</mod>
+<mod type="add">
+  <add>T2#T</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#M</add>
+</mod>
+<mod type="add">
+  <add>T2#t</add>
+</mod>
+<mod type="add">
+  <add>T2#J</add>
+</mod>
+<mod type="add">
+  <add>T2#connai</add>
+</mod>
+<mod type="add">
+  <add>P#quelqu'un</add>
+</mod>
+<mod type="add">
+  <add>T2#pourrait</add>
+</mod>
+<mod type="add">
+  <add>T2#ai</add>
+</mod>
+<mod type="add">
+  <add>T2#e</add>
+</mod>
+<mod type="add">
+  <add>T2#alla</add>
+</mod>
+<mod type="add">
+  <add>T2#chez</add>
+</mod>
+<mod type="add">
+  <add>T2#personne</add>
+</mod>
+<mod type="add">
+  <add>P#conseillée</add>
+</mod>
+<mod type="add">
+  <add>T2#arrivant</add>
+</mod>
+<mod type="add">
+  <add>T2#chez</add>
+</mod>
+<mod type="add">
+  <add>T2#nne</add>
+</mod>
+<mod type="add">
+  <add>T2#l'aqueuilla</add>
+</mod>
+<mod type="add">
+  <add>P#l '</add>
+</mod>
+<mod type="add">
+  <add>T2#ce</add>
+</mod>
+<mod type="add">
+  <add>T2#centaine</add>
+</mod>
+<mod type="add">
+  <add>T2#jouets</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#d</add>
+</mod>
+<mod type="add">
+  <add>T2#Comment</add>
+</mod>
+<mod type="add">
+  <add>T2#ez</add>
+</mod>
+<mod type="add">
+  <add>P#tous</add>
+</mod>
+<mod type="add">
+  <add>P#ces</add>
+</mod>
+<mod type="add">
+  <add>T2#jouets</add>
+</mod>
+<mod type="add">
+  <add>T2#e</add>
+</mod>
+<mod type="add">
+  <add>P#'</add>
+</mod>
+<mod type="add">
+  <add>T2#ù</add>
+</mod>
+<mod type="add">
+  <add>T2#t</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>T2#quand</add>
+</mod>
+<mod type="add">
+  <add>T2#quelqu'un</add>
+</mod>
+<mod type="add">
+  <add>T2#l</add>
+</mod>
+<mod type="add">
+  <add>T2#t</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#l'accueillit</add>
+</mod>
+<mod type="add">
+  <add>P#-</add>
+</mod>
+<mod type="add">
+  <add>P#-</add>
+</mod>
+<mod type="add">
+  <add>P#?</add>
+</mod>
+<mod type="add">
+  <add>P#-</add>
+</mod>
+<mod type="add">
+  <add>P#perdus</add>
+</mod>
+<mod type="add">
+  <add>T2#a</add>
+</mod>
+<mod type="add">
+  <add>T2#chemin</add>
+</mod>
+<mod type="add">
+  <add>P#vu</add>
+</mod>
+<mod type="add">
+  <add>T2#Tu</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#l</add>
+</mod>
+<mod type="add">
+  <add>T2#chemin</add>
+</mod>
+<mod type="add">
+  <add>T2#école</add>
+</mod>
+<mod type="add">
+  <add>T2#connais</add>
+</mod>
+<mod type="add">
+  <add>T2#récupère</add>
+</mod>
+<mod type="add">
+  <add>T2#ù</add>
+</mod>
+<mod type="add">
+  <add>T2#h</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>T2#S</add>
+</mod>
+<mod type="add">
+  <add>T2# -</add>
+</mod>
+<mod type="add">
+  <add>T2#c'est</add>
+</mod>
+<mod type="add">
+  <add>T2#à</add>
+</mod>
+<mod type="add">
+  <add>T2#centaine</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#à</add>
+</mod>
+<mod type="add">
+  <add>T2#monsieur</add>
+</mod>
+<mod type="add">
+  <add>T2#sauriez</add>
+</mod>
+<mod type="add">
+  <add>T2#ù</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#R</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>T2#beaucoup</add>
+</mod>
+<mod type="add">
+  <add>T2#à</add>
+</mod>
+<mod type="add">
+  <add>T2#se</add>
+</mod>
+<mod type="add">
+  <add>T2#e</add>
+</mod>
+<mod type="add">
+  <add>T2#retrouvé</add>
+</mod>
+<mod type="add">
+  <add>P#n</add>
+</mod>
+<mod type="add">
+  <add>P#a</add>
+</mod>
+<mod type="add">
+  <add>P#-</add>
+</mod>
+<mod type="add">
+  <add>P#-</add>
+</mod>
+<mod type="add">
+  <add>T2#I</add>
+</mod>
+<mod type="add">
+  <add>P#tenait</add>
+</mod>
+<mod type="add">
+  <add>T2#beaucoup</add>
+</mod>
+<mod type="add">
+  <add>T2#I</add>
+</mod>
+<mod type="add">
+  <add>T2#perdit</add>
+</mod>
+<mod type="add">
+  <add>T2#M</add>
+</mod>
+<mod type="add">
+  <add>T2#toupie</add>
+</mod>
+<mod type="add">
+  <add>T2#chemin</add>
+</mod>
+<mod type="add">
+  <add>T2#idée</add>
+</mod>
+<mod type="add">
+  <add>T2#ramener</add>
+</mod>
+<mod type="add">
+  <add>T2#possède</add>
+</mod>
+<mod type="add">
+  <add>T2#objets</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#a</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>T2#montant</add>
+</mod>
+<mod type="add">
+  <add>T2#escaliers</add>
+</mod>
+<mod type="add">
+  <add>T2#plusieurs</add>
+</mod>
+<mod type="add">
+  <add>T2#clès</add>
+</mod>
+<mod type="add">
+  <add>T2#manteau</add>
+</mod>
+<mod type="add">
+  <add>T2#P</add>
+</mod>
+<mod type="add">
+  <add>P#ils arrivèrent</add>
+</mod>
+<mod type="add">
+  <add>T2#salle</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>T2#jouets</add>
+</mod>
+<mod type="add">
+  <add>T2#après</add>
+</mod>
+<mod type="add">
+  <add>P#dix</add>
+</mod>
+<mod type="add">
+  <add>P#vingt</add>
+</mod>
+<mod type="add">
+  <add>P#utes</add>
+</mod>
+<mod type="add">
+  <add>T2#retrouva</add>
+</mod>
+<mod type="add">
+  <add>T2#repartit</add>
+</mod>
+<mod type="add">
+  <add>T2#avoir</add>
+</mod>
+<mod type="add">
+  <add>fois</add>
+</mod>
+<mod type="add">
+  <add>T2#z</add>
+</mod>
+<mod type="add">
+  <add>P#a</add>
+</mod>
+<mod type="add">
+  <add>P#du</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>T2#s'appelait</add>
+</mod>
+<mod type="add">
+  <add>T2#e</add>
+</mod>
+<mod type="add">
+  <add>T2#multicolore</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>T2#lançait</add>
+</mod>
+<mod type="add">
+  <add>T2#répondit</add>
+</mod>
+<mod type="add">
+  <add>P#deux</add>
+</mod>
+<mod type="add">
+  <add>P#bonhomme</add>
+</mod>
+<mod type="add">
+  <add>T2#l'aceuilit</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#pendant</add>
+</mod>
+<mod type="add">
+  <add>T2#personnage</add>
+</mod>
+<mod type="add">
+  <add>T2#accompagnait</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>T2#accueillit</add>
+</mod>
+<mod type="add">
+  <add>T2#g</add>
+</mod>
+<mod type="add">
+  <add>P#allait</add>
+</mod>
+<mod type="add">
+  <add>T2#allait</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#quelque chose</add>
+</mod>
+<mod type="add">
+  <add>T2#l</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#ées</add>
+</mod>
+<mod type="add">
+  <add>T2#viens</add>
+</mod>
+<mod type="add">
+  <add>T2#viens</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>T2#Arrivé</add>
+</mod>
+<mod type="add">
+  <add>T2#clée</add>
+</mod>
+<mod type="add">
+  <add>T2#?</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P# Ces clés étaient...</add>
+</mod>
+<mod type="add">
+  <add>T2#j'ai</add>
+</mod>
+<mod type="add">
+  <add>P#!</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>T2#possédait</add>
+</mod>
+<mod type="add">
+  <add>T2#aimait</add>
+</mod>
+<mod type="add">
+  <add>T2#as</add>
+</mod>
+<mod type="add">
+  <add>T2#Après</add>
+</mod>
+<mod type="add">
+  <add>P#DEUX.S</add>
+</mod>
+<mod type="add">
+  <add>T2#où</add>
+</mod>
+<mod type="add">
+  <add>T2#pourrait</add>
+</mod>
+<mod type="add">
+  <add>T2#trouver</add>
+</mod>
+<mod type="add">
+  <add>T2#immeuble</add>
+</mod>
+<mod type="add">
+  <add>P#-</add>
+</mod>
+<mod type="add">
+  <add>T2#immeuble</add>
+</mod>
+<mod type="add">
+  <add>T2#l'immeuble</add>
+</mod>
+<mod type="add">
+  <add>T2#cherches</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>T2#V</add>
+</mod>
+<mod type="add">
+  <add>T2#savez</add>
+</mod>
+<mod type="add">
+  <add>T2#où</add>
+</mod>
+<mod type="add">
+  <add>T2#m</add>
+</mod>
+<mod type="add">
+  <add>T2#ù</add>
+</mod>
+<mod type="add">
+  <add>T2#y</add>
+</mod>
+<mod type="add">
+  <add>T2#mets</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>T2#commode</add>
+</mod>
+<mod type="add">
+  <add>T2#t</add>
+</mod>
+<mod type="add">
+  <add>T2#l'immeuble</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>P#était</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#-</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>T2#alla</add>
+</mod>
+<mod type="add">
+  <add>P#m</add>
+</mod>
+<mod type="add">
+  <add>T2#commença</add>
+</mod>
+<mod type="add">
+  <add>T2#faire</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>T2#Alors</add>
+</mod>
+<mod type="add">
+  <add>T2#partit</add>
+</mod>
+<mod type="add">
+  <add>T2#oubliant</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>T2#arriva</add>
+</mod>
+<mod type="add">
+  <add>T2#souvenut</add>
+</mod>
+<mod type="add">
+  <add>T2#fillette</add>
+</mod>
+<mod type="add">
+  <add>P#-</add>
+</mod>
+<mod type="add">
+  <add>T2#chauses</add>
+</mod>
+<mod type="add">
+  <add>T2#répondut</add>
+</mod>
+<mod type="add">
+  <add>T2#Suis</add>
+</mod>
+<mod type="add">
+  <add>P#Suis-moi</add>
+</mod>
+<mod type="add">
+  <add>T2#quelqu'un</add>
+</mod>
+<mod type="add">
+  <add>T2#peux</add>
+</mod>
+<mod type="add">
+  <add>T2#palais</add>
+</mod>
+<mod type="add">
+  <add>T2#voie</add>
+</mod>
+<mod type="add">
+  <add>P#grave</add>
+</mod>
+<mod type="add">
+  <add>T2#Qui</add>
+</mod>
+<mod type="add">
+  <add>T2#sortie</add>
+</mod>
+<mod type="add">
+  <add>T2#Tu</add>
+</mod>
+<mod type="add">
+  <add>T2#chauses</add>
+</mod>
+<mod type="add">
+  <add>P#-</add>
+</mod>
+<mod type="add">
+  <add>P#Et</add>
+</mod>
+<mod type="add">
+  <add>T2#dans</add>
+</mod>
+<mod type="add">
+  <add>P#souvint</add>
+</mod>
+<mod type="add">
+  <add>P#souvint</add>
+</mod>
+<mod type="add">
+  <add>P#as</add>
+</mod>
+<mod type="add">
+  <add>P#chose</add>
+</mod>
+<mod type="add">
+  <add>P#it</add>
+</mod>
+<mod type="add">
+  <add>P#s-</add>
+</mod>
+<mod type="add">
+  <add>P#voix</add>
+</mod>
+<mod type="add">
+  <add>P#là</add>
+</mod>
+<mod type="add">
+  <add>P#chose</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#salle</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>T2#e</add>
+</mod>
+<mod type="add">
+  <add>T2#t</add>
+</mod>
+<mod type="add">
+  <add>T2#e</add>
+</mod>
+<mod type="add">
+  <add>T2#L</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>T2#M</add>
+</mod>
+<mod type="add">
+  <add>P#c</add>
+</mod>
+<mod type="add">
+  <add>T2#encorts</add>
+</mod>
+<mod type="add">
+  <add>P#avant</add>
+</mod>
+<mod type="add">
+  <add>T2#e</add>
+</mod>
+<mod type="add">
+  <add>P#explique</add>
+</mod>
+<mod type="add">
+  <add>T2#t</add>
+</mod>
+<mod type="add">
+  <add>T2#est</add>
+</mod>
+<mod type="add">
+  <add>T2#rentre</add>
+</mod>
+<mod type="add">
+  <add>P#as</add>
+</mod>
+<mod type="add">
+  <add>P#m</add>
+</mod>
+<mod type="add">
+  <add>P#'</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>P#encore</add>
+</mod>
+<mod type="add">
+  <add>T2#le</add>
+</mod>
+<mod type="add">
+  <add>P#explique</add>
+</mod>
+<mod type="add">
+  <add>T2#l'ècole</add>
+</mod>
+<mod type="add">
+  <add>T2#escalier</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>T2#une</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>P#il partit</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#classe</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#r</add>
+</mod>
+<mod type="add">
+  <add>P#ç</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#Est-ce-que tu as vu ?</add>
+</mod>
+<mod type="add">
+  <add>P#-</add>
+</mod>
+<mod type="add">
+  <add>toupie?</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#le</add>
+</mod>
+<mod type="add">
+  <add>T2#C'était</add>
+</mod>
+<mod type="add">
+  <add>T2#s'appellait</add>
+</mod>
+<mod type="add">
+  <add>T2#toupie</add>
+</mod>
+<mod type="add">
+  <add>T2#perdu<mod type="del">
+      <del>e</del>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>T2#t'amener</add>
+</mod>
+<mod type="add">
+  <add>T2#récupère</add>
+</mod>
+<mod type="add">
+  <add>T2#C'est ici. Je</add>
+</mod>
+<mod type="add">
+  <add>P#t'attends</add>
+</mod>
+<mod type="add">
+  <add>T2#ici. Les</add>
+</mod>
+<mod type="add">
+  <add>P#'</add>
+</mod>
+<mod type="add">
+  <add>P#perdu</add>
+</mod>
+<mod type="add">
+  <add>T2#n'ont</add>
+</mod>
+<mod type="add">
+  <add>T2#Bonjour</add>
+</mod>
+<mod type="add">
+  <add>T2#Je sais tout, viens.</add>
+</mod>
+<mod type="add">
+  <add>T2#Dans</add>
+</mod>
+<mod type="add">
+  <add>T2#trouva</add>
+</mod>
+<mod type="add">
+  <add>T2#chinoise</add>
+</mod>
+<mod type="add">
+  <add>P#au</add>
+</mod>
+<mod type="add">
+  <add>T2#sa</add>
+</mod>
+<mod type="add">
+  <add>P#r</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#r</add>
+</mod>
+<mod type="add">
+  <add>P#-</add>
+</mod>
+<mod type="add">
+  <add>P#-</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>T2#allait</add>
+</mod>
+<mod type="add">
+  <add>P#m</add>
+</mod>
+<mod type="add">
+  <add>T2#emmenait</add>
+</mod>
+<mod type="add">
+  <add>T2#perdit</add>
+</mod>
+<mod type="add">
+  <add>T2#demanda</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>T2#tous</add>
+</mod>
+<mod type="add">
+  <add>T2#grâce</add>
+</mod>
+<mod type="add">
+  <add>T2#détécteur</add>
+</mod>
+<mod type="add">
+  <add>T2#partit</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#immeuble</add>
+</mod>
+<mod type="add">
+  <add>ils vi</add>
+</mod>
+<mod type="add">
+  <add>P#rent</add>
+</mod>
+<mod type="add">
+  <add>T#vêtu</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>T2#accueillir</add>
+</mod>
+<mod type="add">
+  <add>T2#demanda</add>
+</mod>
+<mod type="add">
+  <add>T2#emmena</add>
+</mod>
+<mod type="add">
+  <add>P#è</add>
+</mod>
+<mod type="add">
+  <add>T2#prit</add>
+</mod>
+<mod type="add">
+  <add>P#"</add>
+</mod>
+<mod type="add">
+  <add>P#"</add>
+</mod>
+<mod type="add">
+  <add>T2#m</add>
+</mod>
+<mod type="add">
+  <add>P#é</add>
+</mod>
+<mod type="add">
+  <add>P#b</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#a</add>
+</mod>
+<mod type="add">
+  <add>T2#est</add>
+</mod>
+<mod type="add">
+  <add>T2#lui</add>
+</mod>
+<mod type="add">
+  <add>T2#sait</add>
+</mod>
+<mod type="add">
+  <add>T2#devant un immeuble</add>
+</mod>
+<mod type="add">
+  <add>T2#clés</add>
+</mod>
+<mod type="add">
+  <add>T2#retrouve</add>
+</mod>
+<mod type="add">
+  <add>T2#partait</add>
+</mod>
+<mod type="add">
+  <add>P#C'est l'histoire d'</add>
+</mod>
+<mod type="add">
+  <add>P#Dix</add>
+</mod>
+<mod type="add">
+  <add>P#voit</add>
+</mod>
+<mod type="add">
+  <add>P#n'est</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#suit</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#repart</add>
+</mod>
+<mod type="add">
+  <add>T2#alla</add>
+</mod>
+<mod type="add">
+  <add>T2#t</add>
+</mod>
+<mod type="add">
+  <add>T2#é</add>
+</mod>
+<mod type="add">
+  <add>T2#Viens</add>
+</mod>
+<mod type="add">
+  <add>T2#m</add>
+</mod>
+<mod type="add">
+  <add>P#Vas-y</add>
+</mod>
+<mod type="add">
+  <add>T2#er</add>
+</mod>
+<mod type="add">
+  <add>T2#vit</add>
+</mod>
+<mod type="add">
+  <add>T2#salle</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>T2#vit</add>
+</mod>
+<mod type="add">
+  <add>T2#t</add>
+</mod>
+<mod type="add">
+  <add>T2#chez</add>
+</mod>
+<mod type="add">
+  <add>P#r</add>
+</mod>
+<mod type="add">
+  <add>!</add>
+</mod>
+<mod type="add">
+  <add>P#</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>T2#s'en apperçoive</add>
+</mod>
+<mod type="add">
+  <add>P#r</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>T2#n'avait</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#as l'air</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#r</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#le</add>
+</mod>
+<mod type="add">
+  <add>P#n</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#où</add>
+</mod>
+<mod type="add">
+  <add>P#r</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#!</add>
+</mod>
+<mod type="add">
+  <add>P#ses</add>
+</mod>
+<mod type="add">
+  <add>P#mais</add>
+</mod>
+<mod type="add">
+  <add>P#compte</add>
+</mod>
+<mod type="add">
+  <add>P#r</add>
+</mod>
+<mod type="add">
+  <add>T2#A</add>
+</mod>
+<mod type="add">
+  <add>P#DEUX.S</add>
+</mod>
+<mod type="add">
+  <add>T2#T</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>T2#J</add>
+</mod>
+<mod type="add">
+  <add>P#t'aider</add>
+</mod>
+<mod type="add">
+  <add>P#dit Anne-Lise .</add>
+</mod>
+<mod type="add">
+  <add>T2#gabriele</add>
+</mod>
+<mod type="add">
+  <add>T2#J</add>
+</mod>
+<mod type="add">
+  <add>P#t'aider</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#bien sûr .</add>
+</mod>
+<mod type="add">
+  <add>T2#J</add>
+</mod>
+<mod type="add">
+  <add>P#Suis -</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>T2#S</add>
+</mod>
+<mod type="add">
+  <add>T2#M</add>
+</mod>
+<mod type="add">
+  <add>P#r</add>
+</mod>
+<mod type="add">
+  <add>P#était</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#-</add>
+</mod>
+<mod type="add">
+  <add>P#Lise</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#?</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#?</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#r</add>
+</mod>
+<mod type="add">
+  <add>P#l</add>
+</mod>

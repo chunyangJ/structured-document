@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="exo14_XQuery_q1_1.xsl"?>
+<statECRISCOL type="nombre" critere="niveau d'étude" nombre="717">
+  <niveau nombre="85">LY-2</niveau>
+  <niveau nombre="17">CO-3</niveau>
+  <niveau nombre="69">6EME</niveau>
+  <niveau nombre="74">CE1</niveau>
+  <niveau nombre="126">CE2</niveau>
+  <niveau nombre="43">CM1</niveau>
+  <niveau nombre="303">CM2</niveau>
+</statECRISCOL>

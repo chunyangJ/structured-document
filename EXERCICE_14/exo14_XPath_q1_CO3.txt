@@ -1,0 +1,102 @@
+<mod type="del">
+  <del>P#a</del>
+</mod>
+<mod type="del">
+  <del>l' st</del>
+</mod>
+<mod type="del">
+  <del>ce q</del>
+</mod>
+<mod type="del">
+  <del>dit une</del>
+</mod>
+<mod type="del">
+  <del>Perspnne ne</del>
+</mod>
+<mod type="del">
+  <del>donc</del>
+</mod>
+<mod type="del">
+  <del>#XXX#</del>
+</mod>
+<mod type="del">
+  <del>voit</del>
+</mod>
+<mod type="del">
+  <del>rend</del>
+</mod>
+<mod type="del">
+  <del>pers</del>
+</mod>
+<mod type="del">
+  <del>enfin</del>
+</mod>
+<mod type="del">
+  <del>est</del>
+</mod>
+<mod type="del">
+  <del>il entendait</del>
+</mod>
+<mod type="del">
+  <del>#XXX#</del>
+</mod>
+<mod type="del">
+  <del>Lucien s'endormit encore</del>
+</mod>
+<mod type="del">
+  <del>ajai</del>
+</mod>
+<mod type="del">
+  <del>Il</del>
+</mod>
+<mod type="del">
+  <del>comme si qu'on</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>#XXX#</del>
+</mod>
+<mod type="del">
+  <del>#XXX#</del>
+</mod>
+<mod type="del">
+  <del>#XXX#</del>
+</mod>
+<mod type="del">
+  <del>#XXX#</del>
+</mod>
+<mod type="del">
+  <del>#XXX#</del>
+</mod>
+<mod type="del">
+  <del>Parfum Dior</del>
+</mod>
+<mod type="del">
+  <del>chaude</del>
+</mod>
+<mod type="del">
+  <del>Pub Evian</del>
+</mod>
+<mod type="del">
+  <del>Pub pour une bouteil d'Oasis</del>
+</mod>
+<mod type="del">
+  <del>au</del>
+</mod>
+<mod type="del">
+  <del>sont</del>
+</mod>
+<mod type="del">
+  <del>employés</del>
+</mod>
+<mod type="del">
+  <del>ont</del>
+</mod>
+<mod type="del">
+  <del>#XXX#</del>
+</mod>
+<mod type="del">
+  <del>s</del>
+</mod>

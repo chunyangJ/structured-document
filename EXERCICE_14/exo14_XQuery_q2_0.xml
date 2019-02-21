@@ -1,0 +1,4306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="exo14_XQuery_q2_0.xsl"?>
+<statECRISCOL type="nombre" critere="type d'opération" unit="copie">
+  <copie id="1" nom="LY-2-2014-MLJ-D1-E1-V1">
+    <remplacement>10</remplacement>
+    <insertion>5</insertion>
+    <suppression>36</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="2" nom="LY-2-2014-MLJ-D1-E1-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="3" nom="LY-2-2014-MLJ-D1-E10-V1">
+    <remplacement>7</remplacement>
+    <insertion>7</insertion>
+    <suppression>19</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="4" nom="LY-2-2014-MLJ-D1-E10-V2">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="5" nom="LY-2-2014-MLJ-D1-E11-V1">
+    <remplacement>14</remplacement>
+    <insertion>10</insertion>
+    <suppression>36</suppression>
+    <correction>35</correction>
+  </copie>
+  <copie id="6" nom="LY-2-2014-MLJ-D1-E11-V2">
+    <remplacement>12</remplacement>
+    <insertion>16</insertion>
+    <suppression>25</suppression>
+    <correction>42</correction>
+  </copie>
+  <copie id="7" nom="LY-2-2014-MLJ-D1-E12-V1">
+    <remplacement>16</remplacement>
+    <insertion>2</insertion>
+    <suppression>26</suppression>
+    <correction>38</correction>
+  </copie>
+  <copie id="8" nom="LY-2-2014-MLJ-D1-E12-V2">
+    <remplacement>13</remplacement>
+    <insertion>10</insertion>
+    <suppression>14</suppression>
+    <correction>39</correction>
+  </copie>
+  <copie id="9" nom="LY-2-2014-MLJ-D1-E13-V1">
+    <remplacement>7</remplacement>
+    <insertion>1</insertion>
+    <suppression>27</suppression>
+    <correction>19</correction>
+  </copie>
+  <copie id="10" nom="LY-2-2014-MLJ-D1-E13-V2">
+    <remplacement>9</remplacement>
+    <insertion>5</insertion>
+    <suppression>13</suppression>
+    <correction>23</correction>
+  </copie>
+  <copie id="11" nom="LY-2-2014-MLJ-D1-E14-V1">
+    <remplacement>5</remplacement>
+    <insertion>0</insertion>
+    <suppression>13</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="12" nom="LY-2-2014-MLJ-D1-E14-V2">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="13" nom="LY-2-2014-MLJ-D1-E16-V1">
+    <remplacement>8</remplacement>
+    <insertion>5</insertion>
+    <suppression>12</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="14" nom="LY-2-2014-MLJ-D1-E16-V2">
+    <remplacement>7</remplacement>
+    <insertion>10</insertion>
+    <suppression>11</suppression>
+    <correction>22</correction>
+  </copie>
+  <copie id="15" nom="LY-2-2014-MLJ-D1-E17-V1">
+    <remplacement>1</remplacement>
+    <insertion>2</insertion>
+    <suppression>6</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="16" nom="LY-2-2014-MLJ-D1-E17-V2">
+    <remplacement>24</remplacement>
+    <insertion>6</insertion>
+    <suppression>33</suppression>
+    <correction>35</correction>
+  </copie>
+  <copie id="17" nom="LY-2-2014-MLJ-D1-E18-V1">
+    <remplacement>5</remplacement>
+    <insertion>4</insertion>
+    <suppression>23</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="18" nom="LY-2-2014-MLJ-D1-E18-V2">
+    <remplacement>7</remplacement>
+    <insertion>2</insertion>
+    <suppression>10</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="19" nom="LY-2-2014-MLJ-D1-E19-V1">
+    <remplacement>9</remplacement>
+    <insertion>7</insertion>
+    <suppression>25</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="20" nom="LY-2-2014-MLJ-D1-E19-V2">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>6</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="21" nom="LY-2-2014-MLJ-D1-E2-V1">
+    <remplacement>16</remplacement>
+    <insertion>25</insertion>
+    <suppression>34</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="22" nom="LY-2-2014-MLJ-D1-E2-V2">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>1</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="23" nom="LY-2-2014-MLJ-D1-E20-V1">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>5</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="24" nom="LY-2-2014-MLJ-D1-E20-V2">
+    <remplacement>2</remplacement>
+    <insertion>6</insertion>
+    <suppression>4</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="25" nom="LY-2-2014-MLJ-D1-E21-V1">
+    <remplacement>12</remplacement>
+    <insertion>2</insertion>
+    <suppression>20</suppression>
+    <correction>33</correction>
+  </copie>
+  <copie id="26" nom="LY-2-2014-MLJ-D1-E21-V2">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="27" nom="LY-2-2014-MLJ-D1-E22-V2">
+    <remplacement>14</remplacement>
+    <insertion>3</insertion>
+    <suppression>14</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="28" nom="LY-2-2014-MLJ-D1-E23-V1">
+    <remplacement>25</remplacement>
+    <insertion>15</insertion>
+    <suppression>54</suppression>
+    <correction>27</correction>
+  </copie>
+  <copie id="29" nom="LY-2-2014-MLJ-D1-E23-V2">
+    <remplacement>13</remplacement>
+    <insertion>1</insertion>
+    <suppression>22</suppression>
+    <correction>25</correction>
+  </copie>
+  <copie id="30" nom="LY-2-2014-MLJ-D1-E24-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="31" nom="LY-2-2014-MLJ-D1-E24-V2">
+    <remplacement>2</remplacement>
+    <insertion>3</insertion>
+    <suppression>3</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="32" nom="LY-2-2014-MLJ-D1-E25-V1">
+    <remplacement>2</remplacement>
+    <insertion>2</insertion>
+    <suppression>3</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="33" nom="LY-2-2014-MLJ-D1-E25-V2">
+    <remplacement>7</remplacement>
+    <insertion>1</insertion>
+    <suppression>9</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="34" nom="LY-2-2014-MLJ-D1-E26-V1">
+    <remplacement>15</remplacement>
+    <insertion>3</insertion>
+    <suppression>25</suppression>
+    <correction>24</correction>
+  </copie>
+  <copie id="35" nom="LY-2-2014-MLJ-D1-E26-V2">
+    <remplacement>4</remplacement>
+    <insertion>1</insertion>
+    <suppression>4</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="36" nom="LY-2-2014-MLJ-D1-E27-V1">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>7</suppression>
+    <correction>25</correction>
+  </copie>
+  <copie id="37" nom="LY-2-2014-MLJ-D1-E27-V2">
+    <remplacement>8</remplacement>
+    <insertion>0</insertion>
+    <suppression>8</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="38" nom="LY-2-2014-MLJ-D1-E28-V1">
+    <remplacement>7</remplacement>
+    <insertion>2</insertion>
+    <suppression>25</suppression>
+    <correction>23</correction>
+  </copie>
+  <copie id="39" nom="LY-2-2014-MLJ-D1-E28-V2">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="40" nom="LY-2-2014-MLJ-D1-E29-V1">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>4</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="41" nom="LY-2-2014-MLJ-D1-E29-V2">
+    <remplacement>19</remplacement>
+    <insertion>4</insertion>
+    <suppression>22</suppression>
+    <correction>22</correction>
+  </copie>
+  <copie id="42" nom="LY-2-2014-MLJ-D1-E3-V1">
+    <remplacement>5</remplacement>
+    <insertion>4</insertion>
+    <suppression>24</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="43" nom="LY-2-2014-MLJ-D1-E3-V2">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>3</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="44" nom="LY-2-2014-MLJ-D1-E30-V1">
+    <remplacement>4</remplacement>
+    <insertion>0</insertion>
+    <suppression>19</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="45" nom="LY-2-2014-MLJ-D1-E30-V2">
+    <remplacement>5</remplacement>
+    <insertion>5</insertion>
+    <suppression>8</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="46" nom="LY-2-2014-MLJ-D1-E31-V1">
+    <remplacement>6</remplacement>
+    <insertion>1</insertion>
+    <suppression>21</suppression>
+    <correction>22</correction>
+  </copie>
+  <copie id="47" nom="LY-2-2014-MLJ-D1-E31-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="48" nom="LY-2-2014-MLJ-D1-E32-V1">
+    <remplacement>10</remplacement>
+    <insertion>10</insertion>
+    <suppression>29</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="49" nom="LY-2-2014-MLJ-D1-E32-V2">
+    <remplacement>0</remplacement>
+    <insertion>8</insertion>
+    <suppression>1</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="50" nom="LY-2-2014-MLJ-D1-E33-V1">
+    <remplacement>2</remplacement>
+    <insertion>3</insertion>
+    <suppression>27</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="51" nom="LY-2-2014-MLJ-D1-E33-V2">
+    <remplacement>6</remplacement>
+    <insertion>3</insertion>
+    <suppression>23</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="52" nom="LY-2-2014-MLJ-D1-E33-V3">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="53" nom="LY-2-2014-MLJ-D1-E4-V2">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>0</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="54" nom="LY-2-2014-MLJ-D1-E5-V1">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="55" nom="LY-2-2014-MLJ-D1-E5-V2">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>1</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="56" nom="LY-2-2014-MLJ-D1-E6-V1">
+    <remplacement>6</remplacement>
+    <insertion>2</insertion>
+    <suppression>17</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="57" nom="LY-2-2014-MLJ-D1-E6-V2">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>0</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="58" nom="LY-2-2014-MLJ-D1-E7-V1">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>4</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="59" nom="LY-2-2014-MLJ-D1-E7-V2">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>7</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="60" nom="LY-2-2014-MLJ-D1-E8-V1">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>6</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="61" nom="LY-2-2014-MLJ-D1-E8-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="62" nom="LY-2-2014-MLJ-D1-E9-V1">
+    <remplacement>3</remplacement>
+    <insertion>10</insertion>
+    <suppression>14</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="63" nom="LY-2-2014-MLJ-D1-E9-V2">
+    <remplacement>0</remplacement>
+    <insertion>3</insertion>
+    <suppression>0</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="64" nom="LY-2-2016-MLJ-D1-E1">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>6</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="65" nom="LY-2-2016-MLJ-D1-E10">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>3</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="66" nom="LY-2-2016-MLJ-D1-E11-V1">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>7</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="67" nom="LY-2-2016-MLJ-D1-E11-V2">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="68" nom="LY-2-2016-MLJ-D1-E12-V1">
+    <remplacement>5</remplacement>
+    <insertion>1</insertion>
+    <suppression>10</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="69" nom="LY-2-2016-MLJ-D1-E12-V2">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>25</correction>
+  </copie>
+  <copie id="70" nom="LY-2-2016-MLJ-D1-E13">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="71" nom="LY-2-2016-MLJ-D1-E14">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>28</correction>
+  </copie>
+  <copie id="72" nom="LY-2-2016-MLJ-D1-E15">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>8</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="73" nom="LY-2-2016-MLJ-D1-E16">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>25</correction>
+  </copie>
+  <copie id="74" nom="LY-2-2016-MLJ-D1-E17">
+    <remplacement>3</remplacement>
+    <insertion>1</insertion>
+    <suppression>9</suppression>
+    <correction>23</correction>
+  </copie>
+  <copie id="75" nom="LY-2-2016-MLJ-D1-E18">
+    <remplacement>5</remplacement>
+    <insertion>0</insertion>
+    <suppression>13</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="76" nom="LY-2-2016-MLJ-D1-E19">
+    <remplacement>10</remplacement>
+    <insertion>4</insertion>
+    <suppression>18</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="77" nom="LY-2-2016-MLJ-D1-E2">
+    <remplacement>4</remplacement>
+    <insertion>1</insertion>
+    <suppression>10</suppression>
+    <correction>23</correction>
+  </copie>
+  <copie id="78" nom="LY-2-2016-MLJ-D1-E3">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="79" nom="LY-2-2016-MLJ-D1-E31">
+    <remplacement>1</remplacement>
+    <insertion>4</insertion>
+    <suppression>9</suppression>
+    <correction>33</correction>
+  </copie>
+  <copie id="80" nom="LY-2-2016-MLJ-D1-E4">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>5</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="81" nom="LY-2-2016-MLJ-D1-E5">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="82" nom="LY-2-2016-MLJ-D1-E6">
+    <remplacement>8</remplacement>
+    <insertion>0</insertion>
+    <suppression>11</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="83" nom="LY-2-2016-MLJ-D1-E7">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="84" nom="LY-2-2016-MLJ-D1-E8">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>7</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="85" nom="LY-2-2016-MLJ-D1-E9">
+    <remplacement>16</remplacement>
+    <insertion>2</insertion>
+    <suppression>34</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="86" nom="CO-3-2014-FSB-D1-E1">
+    <remplacement>1</remplacement>
+    <insertion>3</insertion>
+    <suppression>6</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="87" nom="CO-3-2014-FSB-D1-E10">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>36</correction>
+  </copie>
+  <copie id="88" nom="CO-3-2014-FSB-D1-E11">
+    <remplacement>1</remplacement>
+    <insertion>4</insertion>
+    <suppression>5</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="89" nom="CO-3-2014-FSB-D1-E12">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>1</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="90" nom="CO-3-2014-FSB-D1-E13">
+    <remplacement>0</remplacement>
+    <insertion>3</insertion>
+    <suppression>5</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="91" nom="CO-3-2014-FSB-D1-E14">
+    <remplacement>0</remplacement>
+    <insertion>3</insertion>
+    <suppression>1</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="92" nom="CO-3-2014-FSB-D1-E15">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="93" nom="CO-3-2014-FSB-D1-E16">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="94" nom="CO-3-2014-FSB-D1-E17">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>0</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="95" nom="CO-3-2014-FSB-D1-E2">
+    <remplacement>1</remplacement>
+    <insertion>2</insertion>
+    <suppression>5</suppression>
+    <correction>30</correction>
+  </copie>
+  <copie id="96" nom="CO-3-2014-FSB-D1-E3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="97" nom="CO-3-2014-FSB-D1-E4">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>2</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="98" nom="CO-3-2014-FSB-D1-E5">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>1</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="99" nom="CO-3-2014-FSB-D1-E6">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="100" nom="CO-3-2014-FSB-D1-E7">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>1</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="101" nom="CO-3-2014-FSB-D1-E8">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>2</suppression>
+    <correction>22</correction>
+  </copie>
+  <copie id="102" nom="CO-3-2014-FSB-D1-E9">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>0</suppression>
+    <correction>28</correction>
+  </copie>
+  <copie id="103" nom="EC-6EME-2016-PTA1-D1-E1">
+    <remplacement>10</remplacement>
+    <insertion>2</insertion>
+    <suppression>16</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="104" nom="EC-6EME-2016-PTA1-D1-E10">
+    <remplacement>5</remplacement>
+    <insertion>0</insertion>
+    <suppression>8</suppression>
+    <correction>49</correction>
+  </copie>
+  <copie id="105" nom="EC-6EME-2016-PTA1-D1-E11">
+    <remplacement>0</remplacement>
+    <insertion>3</insertion>
+    <suppression>4</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="106" nom="EC-6EME-2016-PTA1-D1-E12">
+    <remplacement>4</remplacement>
+    <insertion>1</insertion>
+    <suppression>10</suppression>
+    <correction>44</correction>
+  </copie>
+  <copie id="107" nom="EC-6EME-2016-PTA1-D1-E13">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>9</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="108" nom="EC-6EME-2016-PTA1-D1-E14">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>33</correction>
+  </copie>
+  <copie id="109" nom="EC-6EME-2016-PTA1-D1-E15">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>23</correction>
+  </copie>
+  <copie id="110" nom="EC-6EME-2016-PTA1-D1-E16">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="111" nom="EC-6EME-2016-PTA1-D1-E17">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>2</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="112" nom="EC-6EME-2016-PTA1-D1-E18">
+    <remplacement>5</remplacement>
+    <insertion>2</insertion>
+    <suppression>7</suppression>
+    <correction>22</correction>
+  </copie>
+  <copie id="113" nom="EC-6EME-2016-PTA1-D1-E19">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>5</suppression>
+    <correction>51</correction>
+  </copie>
+  <copie id="114" nom="EC-6EME-2016-PTA1-D1-E2">
+    <remplacement>4</remplacement>
+    <insertion>5</insertion>
+    <suppression>8</suppression>
+    <correction>22</correction>
+  </copie>
+  <copie id="115" nom="EC-6EME-2016-PTA1-D1-E20">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="116" nom="EC-6EME-2016-PTA1-D1-E21">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>8</suppression>
+    <correction>30</correction>
+  </copie>
+  <copie id="117" nom="EC-6EME-2016-PTA1-D1-E22">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>11</suppression>
+    <correction>25</correction>
+  </copie>
+  <copie id="118" nom="EC-6EME-2016-PTA1-D1-E23">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>46</correction>
+  </copie>
+  <copie id="119" nom="EC-6EME-2016-PTA1-D1-E3">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>1</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="120" nom="EC-6EME-2016-PTA1-D1-E4">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="121" nom="EC-6EME-2016-PTA1-D1-E5">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>4</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="122" nom="EC-6EME-2016-PTA1-D1-E6">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>5</suppression>
+    <correction>42</correction>
+  </copie>
+  <copie id="123" nom="EC-6EME-2016-PTA1-D1-E7">
+    <remplacement>3</remplacement>
+    <insertion>1</insertion>
+    <suppression>6</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="124" nom="EC-6EME-2016-PTA1-D1-E8">
+    <remplacement>1</remplacement>
+    <insertion>3</insertion>
+    <suppression>5</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="125" nom="EC-6EME-2016-PTA1-D1-E9">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>14</suppression>
+    <correction>125</correction>
+  </copie>
+  <copie id="126" nom="EC-6EME-2016-PTA1-D2-E10">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>58</correction>
+  </copie>
+  <copie id="127" nom="EC-6EME-2016-PTA1-D2-E12">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>6</suppression>
+    <correction>35</correction>
+  </copie>
+  <copie id="128" nom="EC-6EME-2016-PTA1-D2-E13">
+    <remplacement>4</remplacement>
+    <insertion>0</insertion>
+    <suppression>6</suppression>
+    <correction>63</correction>
+  </copie>
+  <copie id="129" nom="EC-6EME-2016-PTA1-D2-E14">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>23</correction>
+  </copie>
+  <copie id="130" nom="EC-6EME-2016-PTA1-D2-E15">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>13</suppression>
+    <correction>44</correction>
+  </copie>
+  <copie id="131" nom="EC-6EME-2016-PTA1-D2-E16">
+    <remplacement>7</remplacement>
+    <insertion>0</insertion>
+    <suppression>12</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="132" nom="EC-6EME-2016-PTA1-D2-E17">
+    <remplacement>3</remplacement>
+    <insertion>2</insertion>
+    <suppression>9</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="133" nom="EC-6EME-2016-PTA1-D2-E18">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>101</correction>
+  </copie>
+  <copie id="134" nom="EC-6EME-2016-PTA1-D2-E19">
+    <remplacement>4</remplacement>
+    <insertion>0</insertion>
+    <suppression>12</suppression>
+    <correction>118</correction>
+  </copie>
+  <copie id="135" nom="EC-6EME-2016-PTA1-D2-E2">
+    <remplacement>7</remplacement>
+    <insertion>0</insertion>
+    <suppression>10</suppression>
+    <correction>36</correction>
+  </copie>
+  <copie id="136" nom="EC-6EME-2016-PTA1-D2-E20">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>3</suppression>
+    <correction>101</correction>
+  </copie>
+  <copie id="137" nom="EC-6EME-2016-PTA1-D2-E21">
+    <remplacement>4</remplacement>
+    <insertion>0</insertion>
+    <suppression>15</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="138" nom="EC-6EME-2016-PTA1-D2-E22">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>2</suppression>
+    <correction>24</correction>
+  </copie>
+  <copie id="139" nom="EC-6EME-2016-PTA1-D2-E23">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>38</correction>
+  </copie>
+  <copie id="140" nom="EC-6EME-2016-PTA1-D2-E24">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>7</suppression>
+    <correction>156</correction>
+  </copie>
+  <copie id="141" nom="EC-6EME-2016-PTA1-D2-E3">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>48</correction>
+  </copie>
+  <copie id="142" nom="EC-6EME-2016-PTA1-D2-E4">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>6</suppression>
+    <correction>35</correction>
+  </copie>
+  <copie id="143" nom="EC-6EME-2016-PTA1-D2-E5">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="144" nom="EC-6EME-2016-PTA1-D2-E6">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>91</correction>
+  </copie>
+  <copie id="145" nom="EC-6EME-2016-PTA1-D2-E7">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>23</correction>
+  </copie>
+  <copie id="146" nom="EC-6EME-2016-PTA1-D2-E8">
+    <remplacement>8</remplacement>
+    <insertion>1</insertion>
+    <suppression>12</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="147" nom="EC-6EME-2016-PTA1-D2-E9">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>80</correction>
+  </copie>
+  <copie id="148" nom="EC-6EME-2016-PTA2-D1-E1">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>6</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="149" nom="EC-6EME-2016-PTA2-D1-E10">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>6</suppression>
+    <correction>56</correction>
+  </copie>
+  <copie id="150" nom="EC-6EME-2016-PTA2-D1-E11">
+    <remplacement>3</remplacement>
+    <insertion>1</insertion>
+    <suppression>6</suppression>
+    <correction>48</correction>
+  </copie>
+  <copie id="151" nom="EC-6EME-2016-PTA2-D1-E12">
+    <remplacement>7</remplacement>
+    <insertion>1</insertion>
+    <suppression>9</suppression>
+    <correction>22</correction>
+  </copie>
+  <copie id="152" nom="EC-6EME-2016-PTA2-D1-E13">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="153" nom="EC-6EME-2016-PTA2-D1-E14">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>15</suppression>
+    <correction>35</correction>
+  </copie>
+  <copie id="154" nom="EC-6EME-2016-PTA2-D1-E15">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>5</suppression>
+    <correction>19</correction>
+  </copie>
+  <copie id="155" nom="EC-6EME-2016-PTA2-D1-E16">
+    <remplacement>3</remplacement>
+    <insertion>1</insertion>
+    <suppression>8</suppression>
+    <correction>28</correction>
+  </copie>
+  <copie id="156" nom="EC-6EME-2016-PTA2-D1-E17">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>37</correction>
+  </copie>
+  <copie id="157" nom="EC-6EME-2016-PTA2-D1-E18">
+    <remplacement>7</remplacement>
+    <insertion>0</insertion>
+    <suppression>16</suppression>
+    <correction>53</correction>
+  </copie>
+  <copie id="158" nom="EC-6EME-2016-PTA2-D1-E19">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>15</suppression>
+    <correction>30</correction>
+  </copie>
+  <copie id="159" nom="EC-6EME-2016-PTA2-D1-E2">
+    <remplacement>9</remplacement>
+    <insertion>1</insertion>
+    <suppression>15</suppression>
+    <correction>49</correction>
+  </copie>
+  <copie id="160" nom="EC-6EME-2016-PTA2-D1-E20">
+    <remplacement>3</remplacement>
+    <insertion>2</insertion>
+    <suppression>7</suppression>
+    <correction>50</correction>
+  </copie>
+  <copie id="161" nom="EC-6EME-2016-PTA2-D1-E21">
+    <remplacement>2</remplacement>
+    <insertion>3</insertion>
+    <suppression>7</suppression>
+    <correction>33</correction>
+  </copie>
+  <copie id="162" nom="EC-6EME-2016-PTA2-D1-E22">
+    <remplacement>4</remplacement>
+    <insertion>0</insertion>
+    <suppression>14</suppression>
+    <correction>86</correction>
+  </copie>
+  <copie id="163" nom="EC-6EME-2016-PTA2-D1-E23">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="164" nom="EC-6EME-2016-PTA2-D1-E24">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="165" nom="EC-6EME-2016-PTA2-D1-E3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="166" nom="EC-6EME-2016-PTA2-D1-E4">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="167" nom="EC-6EME-2016-PTA2-D1-E5">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="168" nom="EC-6EME-2016-PTA2-D1-E6">
+    <remplacement>4</remplacement>
+    <insertion>2</insertion>
+    <suppression>8</suppression>
+    <correction>25</correction>
+  </copie>
+  <copie id="169" nom="EC-6EME-2016-PTA2-D1-E7">
+    <remplacement>5</remplacement>
+    <insertion>0</insertion>
+    <suppression>13</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="170" nom="EC-6EME-2016-PTA2-D1-E8">
+    <remplacement>5</remplacement>
+    <insertion>0</insertion>
+    <suppression>14</suppression>
+    <correction>128</correction>
+  </copie>
+  <copie id="171" nom="EC-6EME-2016-PTA2-D1-E9">
+    <remplacement>5</remplacement>
+    <insertion>1</insertion>
+    <suppression>15</suppression>
+    <correction>39</correction>
+  </copie>
+  <copie id="172" nom="EC-CE1-2014-ABZ1-D1-E1-V1">
+    <remplacement>2</remplacement>
+    <insertion>4</insertion>
+    <suppression>4</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="173" nom="EC-CE1-2014-ABZ1-D1-E1-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="174" nom="EC-CE1-2014-ABZ1-D1-E1-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="175" nom="EC-CE1-2014-ABZ1-D1-E10-V1">
+    <remplacement>0</remplacement>
+    <insertion>3</insertion>
+    <suppression>3</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="176" nom="EC-CE1-2014-ABZ1-D1-E10-V2">
+    <remplacement>1</remplacement>
+    <insertion>2</insertion>
+    <suppression>2</suppression>
+    <correction>30</correction>
+  </copie>
+  <copie id="177" nom="EC-CE1-2014-ABZ1-D1-E10-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="178" nom="EC-CE1-2014-ABZ1-D1-E11-V1">
+    <remplacement>0</remplacement>
+    <insertion>5</insertion>
+    <suppression>3</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="179" nom="EC-CE1-2014-ABZ1-D1-E11-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="180" nom="EC-CE1-2014-ABZ1-D1-E11-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="181" nom="EC-CE1-2014-ABZ1-D1-E12-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="182" nom="EC-CE1-2014-ABZ1-D1-E12-V2">
+    <remplacement>0</remplacement>
+    <insertion>3</insertion>
+    <suppression>1</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="183" nom="EC-CE1-2014-ABZ1-D1-E12-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="184" nom="EC-CE1-2014-ABZ1-D1-E13-V1">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>3</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="185" nom="EC-CE1-2014-ABZ1-D1-E13-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="186" nom="EC-CE1-2014-ABZ1-D1-E13-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="187" nom="EC-CE1-2014-ABZ1-D1-E14-V1">
+    <remplacement>1</remplacement>
+    <insertion>3</insertion>
+    <suppression>2</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="188" nom="EC-CE1-2014-ABZ1-D1-E14-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="189" nom="EC-CE1-2014-ABZ1-D1-E14-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="190" nom="EC-CE1-2014-ABZ1-D1-E15-V1">
+    <remplacement>3</remplacement>
+    <insertion>1</insertion>
+    <suppression>3</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="191" nom="EC-CE1-2014-ABZ1-D1-E15-V2">
+    <remplacement>1</remplacement>
+    <insertion>3</insertion>
+    <suppression>4</suppression>
+    <correction>23</correction>
+  </copie>
+  <copie id="192" nom="EC-CE1-2014-ABZ1-D1-E15-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="193" nom="EC-CE1-2014-ABZ1-D1-E16-V1">
+    <remplacement>0</remplacement>
+    <insertion>5</insertion>
+    <suppression>2</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="194" nom="EC-CE1-2014-ABZ1-D1-E16-V2">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>1</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="195" nom="EC-CE1-2014-ABZ1-D1-E16-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="196" nom="EC-CE1-2014-ABZ1-D1-E17-V1">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>3</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="197" nom="EC-CE1-2014-ABZ1-D1-E17-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="198" nom="EC-CE1-2014-ABZ1-D1-E17-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="199" nom="EC-CE1-2014-ABZ1-D1-E18-V1">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>1</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="200" nom="EC-CE1-2014-ABZ1-D1-E18-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="201" nom="EC-CE1-2014-ABZ1-D1-E18-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="202" nom="EC-CE1-2014-ABZ1-D1-E19-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="203" nom="EC-CE1-2014-ABZ1-D1-E19-V2">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>1</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="204" nom="EC-CE1-2014-ABZ1-D1-E19-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="205" nom="EC-CE1-2014-ABZ1-D1-E2-V1">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>0</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="206" nom="EC-CE1-2014-ABZ1-D1-E2-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="207" nom="EC-CE1-2014-ABZ1-D1-E2-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="208" nom="EC-CE1-2014-ABZ1-D1-E20-V1">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>0</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="209" nom="EC-CE1-2014-ABZ1-D1-E20-V2">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>0</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="210" nom="EC-CE1-2014-ABZ1-D1-E20-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="211" nom="EC-CE1-2014-ABZ1-D1-E21-V1">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>0</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="212" nom="EC-CE1-2014-ABZ1-D1-E21-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="213" nom="EC-CE1-2014-ABZ1-D1-E21-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="214" nom="EC-CE1-2014-ABZ1-D1-E22-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="215" nom="EC-CE1-2014-ABZ1-D1-E22-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="216" nom="EC-CE1-2014-ABZ1-D1-E23-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="217" nom="EC-CE1-2014-ABZ1-D1-E23-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="218" nom="EC-CE1-2014-ABZ1-D1-E3-V1">
+    <remplacement>1</remplacement>
+    <insertion>4</insertion>
+    <suppression>2</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="219" nom="EC-CE1-2014-ABZ1-D1-E3-V2">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>1</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="220" nom="EC-CE1-2014-ABZ1-D1-E3-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="221" nom="EC-CE1-2014-ABZ1-D1-E4-V1">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>0</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="222" nom="EC-CE1-2014-ABZ1-D1-E4-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="223" nom="EC-CE1-2014-ABZ1-D1-E4-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="224" nom="EC-CE1-2014-ABZ1-D1-E5-V1">
+    <remplacement>0</remplacement>
+    <insertion>4</insertion>
+    <suppression>1</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="225" nom="EC-CE1-2014-ABZ1-D1-E5-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="226" nom="EC-CE1-2014-ABZ1-D1-E5-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="227" nom="EC-CE1-2014-ABZ1-D1-E6-V1">
+    <remplacement>0</remplacement>
+    <insertion>3</insertion>
+    <suppression>2</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="228" nom="EC-CE1-2014-ABZ1-D1-E6-V2">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>2</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="229" nom="EC-CE1-2014-ABZ1-D1-E6-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="230" nom="EC-CE1-2014-ABZ1-D1-E7-V1">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>0</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="231" nom="EC-CE1-2014-ABZ1-D1-E7-V2">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="232" nom="EC-CE1-2014-ABZ1-D1-E7-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="233" nom="EC-CE1-2014-ABZ1-D1-E8-V1">
+    <remplacement>1</remplacement>
+    <insertion>3</insertion>
+    <suppression>3</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="234" nom="EC-CE1-2014-ABZ1-D1-E8-V2">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="235" nom="EC-CE1-2014-ABZ1-D1-E8-V3">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="236" nom="EC-CE1-2014-ABZ1-D1-E9-V1">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>0</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="237" nom="EC-CE1-2014-ABZ1-D1-E9-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="238" nom="EC-CE1-2014-ABZ1-D1-E9-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="239" nom="EC-CE1-2014-ABZ2-D1-E1">
+    <remplacement>40</remplacement>
+    <insertion>28</insertion>
+    <suppression>45</suppression>
+    <correction>60</correction>
+  </copie>
+  <copie id="240" nom="EC-CE1-2014-ABZ2-D1-E2">
+    <remplacement>15</remplacement>
+    <insertion>10</insertion>
+    <suppression>19</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="241" nom="EC-CE1-2014-ABZ2-D1-E3">
+    <remplacement>9</remplacement>
+    <insertion>12</insertion>
+    <suppression>10</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="242" nom="EC-CE1-2014-ABZ2-D1-E4">
+    <remplacement>11</remplacement>
+    <insertion>13</insertion>
+    <suppression>15</suppression>
+    <correction>30</correction>
+  </copie>
+  <copie id="243" nom="EC-CE1-2014-ABZ2-D1-E5">
+    <remplacement>8</remplacement>
+    <insertion>6</insertion>
+    <suppression>10</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="244" nom="EC-CE1-2014-ABZ2-D1-E6">
+    <remplacement>11</remplacement>
+    <insertion>25</insertion>
+    <suppression>16</suppression>
+    <correction>32</correction>
+  </copie>
+  <copie id="245" nom="EC-CE1-2014-ABZ2-D1-E7">
+    <remplacement>14</remplacement>
+    <insertion>12</insertion>
+    <suppression>15</suppression>
+    <correction>25</correction>
+  </copie>
+  <copie id="246" nom="CE2-2014-JOD-D1-E1-V1">
+    <remplacement>9</remplacement>
+    <insertion>17</insertion>
+    <suppression>10</suppression>
+    <correction>27</correction>
+  </copie>
+  <copie id="247" nom="CE2-2014-JOD-D1-E1-V2">
+    <remplacement>7</remplacement>
+    <insertion>15</insertion>
+    <suppression>10</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="248" nom="CE2-2014-JOD-D1-E10-V1">
+    <remplacement>3</remplacement>
+    <insertion>7</insertion>
+    <suppression>3</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="249" nom="CE2-2014-JOD-D1-E10-V2">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>2</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="250" nom="CE2-2014-JOD-D1-E11-V1">
+    <remplacement>6</remplacement>
+    <insertion>14</insertion>
+    <suppression>6</suppression>
+    <correction>22</correction>
+  </copie>
+  <copie id="251" nom="CE2-2014-JOD-D1-E11-V2">
+    <remplacement>13</remplacement>
+    <insertion>23</insertion>
+    <suppression>17</suppression>
+    <correction>39</correction>
+  </copie>
+  <copie id="252" nom="CE2-2014-JOD-D1-E13-V1">
+    <remplacement>2</remplacement>
+    <insertion>14</insertion>
+    <suppression>2</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="253" nom="CE2-2014-JOD-D1-E13-V2">
+    <remplacement>9</remplacement>
+    <insertion>36</insertion>
+    <suppression>14</suppression>
+    <correction>60</correction>
+  </copie>
+  <copie id="254" nom="CE2-2014-JOD-D1-E15-V1">
+    <remplacement>2</remplacement>
+    <insertion>2</insertion>
+    <suppression>3</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="255" nom="CE2-2014-JOD-D1-E15-V2">
+    <remplacement>3</remplacement>
+    <insertion>6</insertion>
+    <suppression>7</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="256" nom="CE2-2014-JOD-D1-E16-V1">
+    <remplacement>18</remplacement>
+    <insertion>22</insertion>
+    <suppression>21</suppression>
+    <correction>34</correction>
+  </copie>
+  <copie id="257" nom="CE2-2014-JOD-D1-E16-V2">
+    <remplacement>5</remplacement>
+    <insertion>1</insertion>
+    <suppression>7</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="258" nom="CE2-2014-JOD-D1-E17-V1">
+    <remplacement>1</remplacement>
+    <insertion>15</insertion>
+    <suppression>2</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="259" nom="CE2-2014-JOD-D1-E17-V2">
+    <remplacement>4</remplacement>
+    <insertion>8</insertion>
+    <suppression>4</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="260" nom="CE2-2014-JOD-D1-E18-V1">
+    <remplacement>1</remplacement>
+    <insertion>10</insertion>
+    <suppression>2</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="261" nom="CE2-2014-JOD-D1-E19-V1">
+    <remplacement>0</remplacement>
+    <insertion>5</insertion>
+    <suppression>0</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="262" nom="CE2-2014-JOD-D1-E19-V2">
+    <remplacement>1</remplacement>
+    <insertion>3</insertion>
+    <suppression>1</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="263" nom="CE2-2014-JOD-D1-E2-V1">
+    <remplacement>4</remplacement>
+    <insertion>16</insertion>
+    <suppression>6</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="264" nom="CE2-2014-JOD-D1-E2-V2">
+    <remplacement>6</remplacement>
+    <insertion>11</insertion>
+    <suppression>8</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="265" nom="CE2-2014-JOD-D1-E21-V1">
+    <remplacement>3</remplacement>
+    <insertion>17</insertion>
+    <suppression>6</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="266" nom="CE2-2014-JOD-D1-E21-V2">
+    <remplacement>10</remplacement>
+    <insertion>19</insertion>
+    <suppression>16</suppression>
+    <correction>44</correction>
+  </copie>
+  <copie id="267" nom="CE2-2014-JOD-D1-E22-V1">
+    <remplacement>4</remplacement>
+    <insertion>6</insertion>
+    <suppression>5</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="268" nom="CE2-2014-JOD-D1-E22-V2">
+    <remplacement>1</remplacement>
+    <insertion>6</insertion>
+    <suppression>2</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="269" nom="CE2-2014-JOD-D1-E23-V1">
+    <remplacement>14</remplacement>
+    <insertion>21</insertion>
+    <suppression>20</suppression>
+    <correction>27</correction>
+  </copie>
+  <copie id="270" nom="CE2-2014-JOD-D1-E23-V2">
+    <remplacement>4</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="271" nom="CE2-2014-JOD-D1-E24-V1">
+    <remplacement>14</remplacement>
+    <insertion>28</insertion>
+    <suppression>23</suppression>
+    <correction>51</correction>
+  </copie>
+  <copie id="272" nom="CE2-2014-JOD-D1-E24-V2">
+    <remplacement>19</remplacement>
+    <insertion>33</insertion>
+    <suppression>27</suppression>
+    <correction>56</correction>
+  </copie>
+  <copie id="273" nom="CE2-2014-JOD-D1-E25-V1">
+    <remplacement>1</remplacement>
+    <insertion>5</insertion>
+    <suppression>6</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="274" nom="CE2-2014-JOD-D1-E25-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="275" nom="CE2-2014-JOD-D1-E26-V1">
+    <remplacement>1</remplacement>
+    <insertion>13</insertion>
+    <suppression>2</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="276" nom="CE2-2014-JOD-D1-E26-V2">
+    <remplacement>5</remplacement>
+    <insertion>6</insertion>
+    <suppression>7</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="277" nom="CE2-2014-JOD-D1-E27-V1">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>2</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="278" nom="CE2-2014-JOD-D1-E27-V2">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>1</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="279" nom="CE2-2014-JOD-D1-E28-V1">
+    <remplacement>3</remplacement>
+    <insertion>17</insertion>
+    <suppression>7</suppression>
+    <correction>25</correction>
+  </copie>
+  <copie id="280" nom="CE2-2014-JOD-D1-E28-V2">
+    <remplacement>1</remplacement>
+    <insertion>8</insertion>
+    <suppression>2</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="281" nom="CE2-2014-JOD-D1-E3-V1">
+    <remplacement>4</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="282" nom="CE2-2014-JOD-D1-E3-V2">
+    <remplacement>1</remplacement>
+    <insertion>2</insertion>
+    <suppression>4</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="283" nom="CE2-2014-JOD-D1-E4-V1">
+    <remplacement>9</remplacement>
+    <insertion>20</insertion>
+    <suppression>15</suppression>
+    <correction>36</correction>
+  </copie>
+  <copie id="284" nom="CE2-2014-JOD-D1-E4-V2">
+    <remplacement>9</remplacement>
+    <insertion>11</insertion>
+    <suppression>12</suppression>
+    <correction>32</correction>
+  </copie>
+  <copie id="285" nom="CE2-2014-JOD-D1-E5-V1">
+    <remplacement>6</remplacement>
+    <insertion>3</insertion>
+    <suppression>10</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="286" nom="CE2-2014-JOD-D1-E5-V2">
+    <remplacement>4</remplacement>
+    <insertion>5</insertion>
+    <suppression>5</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="287" nom="CE2-2014-JOD-D1-E7-V1">
+    <remplacement>20</remplacement>
+    <insertion>12</insertion>
+    <suppression>23</suppression>
+    <correction>31</correction>
+  </copie>
+  <copie id="288" nom="CE2-2014-JOD-D1-E7-V2">
+    <remplacement>6</remplacement>
+    <insertion>7</insertion>
+    <suppression>6</suppression>
+    <correction>19</correction>
+  </copie>
+  <copie id="289" nom="CE2-2014-JOD-D1-E8-V1">
+    <remplacement>4</remplacement>
+    <insertion>8</insertion>
+    <suppression>6</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="290" nom="CE2-2014-JOD-D1-E8-V2">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="291" nom="CE2-2014-JOD-D1-E9-V1">
+    <remplacement>7</remplacement>
+    <insertion>42</insertion>
+    <suppression>14</suppression>
+    <correction>30</correction>
+  </copie>
+  <copie id="292" nom="CE2-2014-JOD-D1-E9-V2">
+    <remplacement>8</remplacement>
+    <insertion>15</insertion>
+    <suppression>15</suppression>
+    <correction>32</correction>
+  </copie>
+  <copie id="293" nom="CE2-2014-PAS-D1-E11-V1">
+    <remplacement>9</remplacement>
+    <insertion>11</insertion>
+    <suppression>15</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="294" nom="CE2-2014-PAS-D1-E11-V2">
+    <remplacement>4</remplacement>
+    <insertion>5</insertion>
+    <suppression>11</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="295" nom="CE2-2014-PAS-D1-E13-V2">
+    <remplacement>17</remplacement>
+    <insertion>17</insertion>
+    <suppression>23</suppression>
+    <correction>35</correction>
+  </copie>
+  <copie id="296" nom="CE2-2014-PAS-D1-E14-V1">
+    <remplacement>22</remplacement>
+    <insertion>8</insertion>
+    <suppression>27</suppression>
+    <correction>27</correction>
+  </copie>
+  <copie id="297" nom="CE2-2014-PAS-D1-E14-V2">
+    <remplacement>4</remplacement>
+    <insertion>10</insertion>
+    <suppression>10</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="298" nom="CE2-2014-PAS-D1-E15-V1">
+    <remplacement>35</remplacement>
+    <insertion>13</insertion>
+    <suppression>43</suppression>
+    <correction>46</correction>
+  </copie>
+  <copie id="299" nom="CE2-2014-PAS-D1-E15-V2">
+    <remplacement>8</remplacement>
+    <insertion>9</insertion>
+    <suppression>13</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="300" nom="CE2-2014-PAS-D1-E16-V1">
+    <remplacement>13</remplacement>
+    <insertion>8</insertion>
+    <suppression>19</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="301" nom="CE2-2014-PAS-D1-E16-V2">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>3</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="302" nom="CE2-2014-PAS-D1-E17-V1">
+    <remplacement>13</remplacement>
+    <insertion>8</insertion>
+    <suppression>16</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="303" nom="CE2-2014-PAS-D1-E17-V2">
+    <remplacement>5</remplacement>
+    <insertion>1</insertion>
+    <suppression>8</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="304" nom="CE2-2014-PAS-D1-E18-V1">
+    <remplacement>16</remplacement>
+    <insertion>11</insertion>
+    <suppression>27</suppression>
+    <correction>23</correction>
+  </copie>
+  <copie id="305" nom="CE2-2014-PAS-D1-E18-V2">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>6</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="306" nom="CE2-2014-PAS-D1-E2-V1">
+    <remplacement>9</remplacement>
+    <insertion>6</insertion>
+    <suppression>15</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="307" nom="CE2-2014-PAS-D1-E2-V2">
+    <remplacement>7</remplacement>
+    <insertion>9</insertion>
+    <suppression>13</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="308" nom="CE2-2014-PAS-D1-E20-V1">
+    <remplacement>12</remplacement>
+    <insertion>5</insertion>
+    <suppression>19</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="309" nom="CE2-2014-PAS-D1-E20-V2">
+    <remplacement>1</remplacement>
+    <insertion>2</insertion>
+    <suppression>5</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="310" nom="CE2-2014-PAS-D1-E21-V1">
+    <remplacement>38</remplacement>
+    <insertion>13</insertion>
+    <suppression>47</suppression>
+    <correction>45</correction>
+  </copie>
+  <copie id="311" nom="CE2-2014-PAS-D1-E21-V2">
+    <remplacement>7</remplacement>
+    <insertion>9</insertion>
+    <suppression>17</suppression>
+    <correction>19</correction>
+  </copie>
+  <copie id="312" nom="CE2-2014-PAS-D1-E22-V1">
+    <remplacement>13</remplacement>
+    <insertion>32</insertion>
+    <suppression>27</suppression>
+    <correction>24</correction>
+  </copie>
+  <copie id="313" nom="CE2-2014-PAS-D1-E22-V2">
+    <remplacement>4</remplacement>
+    <insertion>4</insertion>
+    <suppression>7</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="314" nom="CE2-2014-PAS-D1-E24-V1">
+    <remplacement>22</remplacement>
+    <insertion>11</insertion>
+    <suppression>29</suppression>
+    <correction>33</correction>
+  </copie>
+  <copie id="315" nom="CE2-2014-PAS-D1-E24-V2">
+    <remplacement>8</remplacement>
+    <insertion>7</insertion>
+    <suppression>13</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="316" nom="CE2-2014-PAS-D1-E25-V2">
+    <remplacement>7</remplacement>
+    <insertion>5</insertion>
+    <suppression>13</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="317" nom="CE2-2014-PAS-D1-E6-V1">
+    <remplacement>16</remplacement>
+    <insertion>10</insertion>
+    <suppression>22</suppression>
+    <correction>28</correction>
+  </copie>
+  <copie id="318" nom="CE2-2014-PAS-D1-E6-V2">
+    <remplacement>3</remplacement>
+    <insertion>1</insertion>
+    <suppression>5</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="319" nom="CE2-2014-PAS-D1-E8-V1">
+    <remplacement>16</remplacement>
+    <insertion>8</insertion>
+    <suppression>22</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="320" nom="CE2-2014-PAS-D1-E8-V2">
+    <remplacement>6</remplacement>
+    <insertion>8</insertion>
+    <suppression>11</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="321" nom="CE2-2014-PAS-D1-E9-V1">
+    <remplacement>25</remplacement>
+    <insertion>6</insertion>
+    <suppression>33</suppression>
+    <correction>24</correction>
+  </copie>
+  <copie id="322" nom="CE2-2014-PAS-D1-E9-V2">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>2</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="323" nom="EC-CE2-2016-BSZ-D1-E1">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>2</suppression>
+    <correction>44</correction>
+  </copie>
+  <copie id="324" nom="EC-CE2-2016-BSZ-D1-E10">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="325" nom="EC-CE2-2016-BSZ-D1-E11">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>28</correction>
+  </copie>
+  <copie id="326" nom="EC-CE2-2016-BSZ-D1-E12">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="327" nom="EC-CE2-2016-BSZ-D1-E13">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>4</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="328" nom="EC-CE2-2016-BSZ-D1-E14">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="329" nom="EC-CE2-2016-BSZ-D1-E15">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>54</correction>
+  </copie>
+  <copie id="330" nom="EC-CE2-2016-BSZ-D1-E16">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="331" nom="EC-CE2-2016-BSZ-D1-E17">
+    <remplacement>6</remplacement>
+    <insertion>0</insertion>
+    <suppression>6</suppression>
+    <correction>62</correction>
+  </copie>
+  <copie id="332" nom="EC-CE2-2016-BSZ-D1-E18">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>9</suppression>
+    <correction>41</correction>
+  </copie>
+  <copie id="333" nom="EC-CE2-2016-BSZ-D1-E19">
+    <remplacement>4</remplacement>
+    <insertion>0</insertion>
+    <suppression>7</suppression>
+    <correction>30</correction>
+  </copie>
+  <copie id="334" nom="EC-CE2-2016-BSZ-D1-E2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="335" nom="EC-CE2-2016-BSZ-D1-E20">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>85</correction>
+  </copie>
+  <copie id="336" nom="EC-CE2-2016-BSZ-D1-E21">
+    <remplacement>7</remplacement>
+    <insertion>0</insertion>
+    <suppression>13</suppression>
+    <correction>43</correction>
+  </copie>
+  <copie id="337" nom="EC-CE2-2016-BSZ-D1-E22">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>5</suppression>
+    <correction>28</correction>
+  </copie>
+  <copie id="338" nom="EC-CE2-2016-BSZ-D1-E23">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>4</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="339" nom="EC-CE2-2016-BSZ-D1-E24">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>9</suppression>
+    <correction>28</correction>
+  </copie>
+  <copie id="340" nom="EC-CE2-2016-BSZ-D1-E25">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>39</correction>
+  </copie>
+  <copie id="341" nom="EC-CE2-2016-BSZ-D1-E26">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>62</correction>
+  </copie>
+  <copie id="342" nom="EC-CE2-2016-BSZ-D1-E27">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>42</correction>
+  </copie>
+  <copie id="343" nom="EC-CE2-2016-BSZ-D1-E28">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="344" nom="EC-CE2-2016-BSZ-D1-E29">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="345" nom="EC-CE2-2016-BSZ-D1-E3">
+    <remplacement>1</remplacement>
+    <insertion>3</insertion>
+    <suppression>3</suppression>
+    <correction>31</correction>
+  </copie>
+  <copie id="346" nom="EC-CE2-2016-BSZ-D1-E4">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="347" nom="EC-CE2-2016-BSZ-D1-E5">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>46</correction>
+  </copie>
+  <copie id="348" nom="EC-CE2-2016-BSZ-D1-E6">
+    <remplacement>7</remplacement>
+    <insertion>0</insertion>
+    <suppression>8</suppression>
+    <correction>29</correction>
+  </copie>
+  <copie id="349" nom="EC-CE2-2016-BSZ-D1-E7">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>6</suppression>
+    <correction>27</correction>
+  </copie>
+  <copie id="350" nom="EC-CE2-2016-BSZ-D1-E8">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>19</suppression>
+    <correction>50</correction>
+  </copie>
+  <copie id="351" nom="EC-CE2-2016-BSZ-D1-E9">
+    <remplacement>4</remplacement>
+    <insertion>1</insertion>
+    <suppression>8</suppression>
+    <correction>48</correction>
+  </copie>
+  <copie id="352" nom="EC-CE2-2016-SSI-D1-E1-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="353" nom="EC-CE2-2016-SSI-D1-E10-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="354" nom="EC-CE2-2016-SSI-D1-E11-V1">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="355" nom="EC-CE2-2016-SSI-D1-E12-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="356" nom="EC-CE2-2016-SSI-D1-E13-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>7</suppression>
+    <correction>32</correction>
+  </copie>
+  <copie id="357" nom="EC-CE2-2016-SSI-D1-E14-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="358" nom="EC-CE2-2016-SSI-D1-E15-V1">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="359" nom="EC-CE2-2016-SSI-D1-E16-V1">
+    <remplacement>3</remplacement>
+    <insertion>1</insertion>
+    <suppression>7</suppression>
+    <correction>19</correction>
+  </copie>
+  <copie id="360" nom="EC-CE2-2016-SSI-D1-E17-V1">
+    <remplacement>4</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>30</correction>
+  </copie>
+  <copie id="361" nom="EC-CE2-2016-SSI-D1-E18-V1">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>6</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="362" nom="EC-CE2-2016-SSI-D1-E19-V1">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="363" nom="EC-CE2-2016-SSI-D1-E2-V1">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="364" nom="EC-CE2-2016-SSI-D1-E20-V1">
+    <remplacement>5</remplacement>
+    <insertion>0</insertion>
+    <suppression>8</suppression>
+    <correction>32</correction>
+  </copie>
+  <copie id="365" nom="EC-CE2-2016-SSI-D1-E3-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="366" nom="EC-CE2-2016-SSI-D1-E4-V1">
+    <remplacement>4</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>22</correction>
+  </copie>
+  <copie id="367" nom="EC-CE2-2016-SSI-D1-E5-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="368" nom="EC-CE2-2016-SSI-D1-E6-V1">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="369" nom="EC-CE2-2016-SSI-D1-E7-V1">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>5</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="370" nom="EC-CE2-2016-SSI-D1-E8-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="371" nom="EC-CE2-2016-SSI-D1-E9-V1">
+    <remplacement>0</remplacement>
+    <insertion>3</insertion>
+    <suppression>3</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="372" nom="CM1-2014-PYR-D1-E1-V1">
+    <remplacement>1</remplacement>
+    <insertion>13</insertion>
+    <suppression>2</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="373" nom="CM1-2014-PYR-D1-E1-V2">
+    <remplacement>4</remplacement>
+    <insertion>6</insertion>
+    <suppression>13</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="374" nom="CM1-2014-PYR-D1-E10-V1">
+    <remplacement>2</remplacement>
+    <insertion>17</insertion>
+    <suppression>4</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="375" nom="CM1-2014-PYR-D1-E10-V2">
+    <remplacement>1</remplacement>
+    <insertion>6</insertion>
+    <suppression>2</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="376" nom="CM1-2014-PYR-D1-E11-V1">
+    <remplacement>1</remplacement>
+    <insertion>16</insertion>
+    <suppression>3</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="377" nom="CM1-2014-PYR-D1-E11-V2">
+    <remplacement>6</remplacement>
+    <insertion>5</insertion>
+    <suppression>9</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="378" nom="CM1-2014-PYR-D1-E12-V1">
+    <remplacement>9</remplacement>
+    <insertion>23</insertion>
+    <suppression>12</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="379" nom="CM1-2014-PYR-D1-E12-V2">
+    <remplacement>2</remplacement>
+    <insertion>5</insertion>
+    <suppression>8</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="380" nom="CM1-2014-PYR-D1-E13-V1">
+    <remplacement>1</remplacement>
+    <insertion>14</insertion>
+    <suppression>4</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="381" nom="CM1-2014-PYR-D1-E13-V2">
+    <remplacement>1</remplacement>
+    <insertion>5</insertion>
+    <suppression>2</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="382" nom="CM1-2014-PYR-D1-E14-V1">
+    <remplacement>5</remplacement>
+    <insertion>6</insertion>
+    <suppression>8</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="383" nom="CM1-2014-PYR-D1-E14-V2">
+    <remplacement>8</remplacement>
+    <insertion>14</insertion>
+    <suppression>12</suppression>
+    <correction>25</correction>
+  </copie>
+  <copie id="384" nom="CM1-2014-PYR-D1-E15-V1">
+    <remplacement>4</remplacement>
+    <insertion>51</insertion>
+    <suppression>6</suppression>
+    <correction>56</correction>
+  </copie>
+  <copie id="385" nom="CM1-2014-PYR-D1-E15-V2">
+    <remplacement>1</remplacement>
+    <insertion>10</insertion>
+    <suppression>13</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="386" nom="CM1-2014-PYR-D1-E16-V1">
+    <remplacement>2</remplacement>
+    <insertion>31</insertion>
+    <suppression>9</suppression>
+    <correction>39</correction>
+  </copie>
+  <copie id="387" nom="CM1-2014-PYR-D1-E16-V2">
+    <remplacement>2</remplacement>
+    <insertion>4</insertion>
+    <suppression>4</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="388" nom="CM1-2014-PYR-D1-E17-V1">
+    <remplacement>5</remplacement>
+    <insertion>32</insertion>
+    <suppression>14</suppression>
+    <correction>38</correction>
+  </copie>
+  <copie id="389" nom="CM1-2014-PYR-D1-E17-V2">
+    <remplacement>4</remplacement>
+    <insertion>5</insertion>
+    <suppression>9</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="390" nom="CM1-2014-PYR-D1-E18-V1">
+    <remplacement>5</remplacement>
+    <insertion>18</insertion>
+    <suppression>11</suppression>
+    <correction>19</correction>
+  </copie>
+  <copie id="391" nom="CM1-2014-PYR-D1-E18-V2">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>2</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="392" nom="CM1-2014-PYR-D1-E19-V1">
+    <remplacement>3</remplacement>
+    <insertion>14</insertion>
+    <suppression>10</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="393" nom="CM1-2014-PYR-D1-E19-V2">
+    <remplacement>3</remplacement>
+    <insertion>6</insertion>
+    <suppression>9</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="394" nom="CM1-2014-PYR-D1-E2-V1">
+    <remplacement>4</remplacement>
+    <insertion>26</insertion>
+    <suppression>8</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="395" nom="CM1-2014-PYR-D1-E2-V2">
+    <remplacement>2</remplacement>
+    <insertion>6</insertion>
+    <suppression>2</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="396" nom="CM1-2014-PYR-D1-E21-V1">
+    <remplacement>3</remplacement>
+    <insertion>29</insertion>
+    <suppression>11</suppression>
+    <correction>43</correction>
+  </copie>
+  <copie id="397" nom="CM1-2014-PYR-D1-E21-V2">
+    <remplacement>8</remplacement>
+    <insertion>12</insertion>
+    <suppression>11</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="398" nom="CM1-2014-PYR-D1-E22-V1">
+    <remplacement>6</remplacement>
+    <insertion>14</insertion>
+    <suppression>9</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="399" nom="CM1-2014-PYR-D1-E22-V2">
+    <remplacement>4</remplacement>
+    <insertion>7</insertion>
+    <suppression>9</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="400" nom="CM1-2014-PYR-D1-E23-V1">
+    <remplacement>2</remplacement>
+    <insertion>5</insertion>
+    <suppression>4</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="401" nom="CM1-2014-PYR-D1-E23-V2">
+    <remplacement>5</remplacement>
+    <insertion>12</insertion>
+    <suppression>14</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="402" nom="CM1-2014-PYR-D1-E24-V1">
+    <remplacement>3</remplacement>
+    <insertion>2</insertion>
+    <suppression>6</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="403" nom="CM1-2014-PYR-D1-E24-V2">
+    <remplacement>1</remplacement>
+    <insertion>4</insertion>
+    <suppression>4</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="404" nom="CM1-2014-PYR-D1-E3-V1">
+    <remplacement>2</remplacement>
+    <insertion>19</insertion>
+    <suppression>10</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="405" nom="CM1-2014-PYR-D1-E3-V2">
+    <remplacement>2</remplacement>
+    <insertion>7</insertion>
+    <suppression>8</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="406" nom="CM1-2014-PYR-D1-E4-V1">
+    <remplacement>0</remplacement>
+    <insertion>28</insertion>
+    <suppression>6</suppression>
+    <correction>22</correction>
+  </copie>
+  <copie id="407" nom="CM1-2014-PYR-D1-E4-V2">
+    <remplacement>8</remplacement>
+    <insertion>5</insertion>
+    <suppression>12</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="408" nom="CM1-2014-PYR-D1-E5-V1">
+    <remplacement>1</remplacement>
+    <insertion>9</insertion>
+    <suppression>4</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="409" nom="CM1-2014-PYR-D1-E5-V2">
+    <remplacement>1</remplacement>
+    <insertion>8</insertion>
+    <suppression>4</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="410" nom="CM1-2014-PYR-D1-E7-V1">
+    <remplacement>0</remplacement>
+    <insertion>13</insertion>
+    <suppression>2</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="411" nom="CM1-2014-PYR-D1-E7-V2">
+    <remplacement>2</remplacement>
+    <insertion>2</insertion>
+    <suppression>2</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="412" nom="CM1-2014-PYR-D1-E8-V2">
+    <remplacement>12</remplacement>
+    <insertion>24</insertion>
+    <suppression>15</suppression>
+    <correction>28</correction>
+  </copie>
+  <copie id="413" nom="CM1-2014-PYR-D1-E9-V1">
+    <remplacement>12</remplacement>
+    <insertion>26</insertion>
+    <suppression>18</suppression>
+    <correction>40</correction>
+  </copie>
+  <copie id="414" nom="CM1-2014-PYR-D1-E9-V2">
+    <remplacement>7</remplacement>
+    <insertion>11</insertion>
+    <suppression>15</suppression>
+    <correction>23</correction>
+  </copie>
+  <copie id="415" nom="EC-CM2-2014-MG1-D1-E1-V1">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>5</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="416" nom="EC-CM2-2014-MG1-D1-E1-V2">
+    <remplacement>12</remplacement>
+    <insertion>45</insertion>
+    <suppression>33</suppression>
+    <correction>50</correction>
+  </copie>
+  <copie id="417" nom="EC-CM2-2014-MG1-D1-E10-V0">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>3</suppression>
+    <correction>22</correction>
+  </copie>
+  <copie id="418" nom="EC-CM2-2014-MG1-D1-E10-V2">
+    <remplacement>14</remplacement>
+    <insertion>5</insertion>
+    <suppression>15</suppression>
+    <correction>23</correction>
+  </copie>
+  <copie id="419" nom="EC-CM2-2014-MG1-D1-E11-V2">
+    <remplacement>12</remplacement>
+    <insertion>17</insertion>
+    <suppression>15</suppression>
+    <correction>52</correction>
+  </copie>
+  <copie id="420" nom="EC-CM2-2014-MG1-D1-E12-V1">
+    <remplacement>2</remplacement>
+    <insertion>31</insertion>
+    <suppression>22</suppression>
+    <correction>36</correction>
+  </copie>
+  <copie id="421" nom="EC-CM2-2014-MG1-D1-E13-V0">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="422" nom="EC-CM2-2014-MG1-D1-E13-V1">
+    <remplacement>1</remplacement>
+    <insertion>3</insertion>
+    <suppression>3</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="423" nom="EC-CM2-2014-MG1-D1-E13-V2">
+    <remplacement>2</remplacement>
+    <insertion>2</insertion>
+    <suppression>8</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="424" nom="EC-CM2-2014-MG1-D1-E14-V0">
+    <remplacement>3</remplacement>
+    <insertion>5</insertion>
+    <suppression>12</suppression>
+    <correction>42</correction>
+  </copie>
+  <copie id="425" nom="EC-CM2-2014-MG1-D1-E14-V2">
+    <remplacement>11</remplacement>
+    <insertion>10</insertion>
+    <suppression>17</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="426" nom="EC-CM2-2014-MG1-D1-E15-V0">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>6</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="427" nom="EC-CM2-2014-MG1-D1-E15-V1">
+    <remplacement>1</remplacement>
+    <insertion>4</insertion>
+    <suppression>2</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="428" nom="EC-CM2-2014-MG1-D1-E15-V2">
+    <remplacement>12</remplacement>
+    <insertion>9</insertion>
+    <suppression>16</suppression>
+    <correction>22</correction>
+  </copie>
+  <copie id="429" nom="EC-CM2-2014-MG1-D1-E16-V0">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>1</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="430" nom="EC-CM2-2014-MG1-D1-E16-V1">
+    <remplacement>3</remplacement>
+    <insertion>13</insertion>
+    <suppression>13</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="431" nom="EC-CM2-2014-MG1-D1-E17-V0">
+    <remplacement>4</remplacement>
+    <insertion>1</insertion>
+    <suppression>4</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="432" nom="EC-CM2-2014-MG1-D1-E17-V1">
+    <remplacement>1</remplacement>
+    <insertion>10</insertion>
+    <suppression>6</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="433" nom="EC-CM2-2014-MG1-D1-E18-V0">
+    <remplacement>1</remplacement>
+    <insertion>2</insertion>
+    <suppression>2</suppression>
+    <correction>37</correction>
+  </copie>
+  <copie id="434" nom="EC-CM2-2014-MG1-D1-E18-V1">
+    <remplacement>12</remplacement>
+    <insertion>38</insertion>
+    <suppression>32</suppression>
+    <correction>36</correction>
+  </copie>
+  <copie id="435" nom="EC-CM2-2014-MG1-D1-E19-V2">
+    <remplacement>16</remplacement>
+    <insertion>6</insertion>
+    <suppression>21</suppression>
+    <correction>42</correction>
+  </copie>
+  <copie id="436" nom="EC-CM2-2014-MG1-D1-E2-V0">
+    <remplacement>6</remplacement>
+    <insertion>0</insertion>
+    <suppression>7</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="437" nom="EC-CM2-2014-MG1-D1-E2-V1">
+    <remplacement>5</remplacement>
+    <insertion>1</insertion>
+    <suppression>9</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="438" nom="EC-CM2-2014-MG1-D1-E2-V2">
+    <remplacement>12</remplacement>
+    <insertion>8</insertion>
+    <suppression>18</suppression>
+    <correction>30</correction>
+  </copie>
+  <copie id="439" nom="EC-CM2-2014-MG1-D1-E20-V0">
+    <remplacement>4</remplacement>
+    <insertion>3</insertion>
+    <suppression>8</suppression>
+    <correction>25</correction>
+  </copie>
+  <copie id="440" nom="EC-CM2-2014-MG1-D1-E20-V1">
+    <remplacement>0</remplacement>
+    <insertion>3</insertion>
+    <suppression>6</suppression>
+    <correction>48</correction>
+  </copie>
+  <copie id="441" nom="EC-CM2-2014-MG1-D1-E21-V0">
+    <remplacement>1</remplacement>
+    <insertion>5</insertion>
+    <suppression>2</suppression>
+    <correction>44</correction>
+  </copie>
+  <copie id="442" nom="EC-CM2-2014-MG1-D1-E21-V1">
+    <remplacement>1</remplacement>
+    <insertion>57</insertion>
+    <suppression>49</suppression>
+    <correction>101</correction>
+  </copie>
+  <copie id="443" nom="EC-CM2-2014-MG1-D1-E3-V0">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>1</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="444" nom="EC-CM2-2014-MG1-D1-E3-V1">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="445" nom="EC-CM2-2014-MG1-D1-E3-V2">
+    <remplacement>2</remplacement>
+    <insertion>5</insertion>
+    <suppression>11</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="446" nom="EC-CM2-2014-MG1-D1-E4-V0">
+    <remplacement>4</remplacement>
+    <insertion>1</insertion>
+    <suppression>4</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="447" nom="EC-CM2-2014-MG1-D1-E4-V1">
+    <remplacement>0</remplacement>
+    <insertion>16</insertion>
+    <suppression>20</suppression>
+    <correction>36</correction>
+  </copie>
+  <copie id="448" nom="EC-CM2-2014-MG1-D1-E4-V2">
+    <remplacement>17</remplacement>
+    <insertion>20</insertion>
+    <suppression>20</suppression>
+    <correction>36</correction>
+  </copie>
+  <copie id="449" nom="EC-CM2-2014-MG1-D1-E5-V1">
+    <remplacement>0</remplacement>
+    <insertion>17</insertion>
+    <suppression>10</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="450" nom="EC-CM2-2014-MG1-D1-E6-V0">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>2</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="451" nom="EC-CM2-2014-MG1-D1-E6-V1">
+    <remplacement>2</remplacement>
+    <insertion>5</insertion>
+    <suppression>6</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="452" nom="EC-CM2-2014-MG1-D1-E7-V0">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>0</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="453" nom="EC-CM2-2014-MG1-D1-E7-V2">
+    <remplacement>0</remplacement>
+    <insertion>4</insertion>
+    <suppression>0</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="454" nom="EC-CM2-2014-MG1-D1-E8-V0">
+    <remplacement>1</remplacement>
+    <insertion>2</insertion>
+    <suppression>2</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="455" nom="EC-CM2-2014-MG1-D1-E8-V1">
+    <remplacement>1</remplacement>
+    <insertion>5</insertion>
+    <suppression>6</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="456" nom="EC-CM2-2014-MG1-D1-E8-V2">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="457" nom="EC-CM2-2014-MG1-D1-E9-V0">
+    <remplacement>3</remplacement>
+    <insertion>2</insertion>
+    <suppression>4</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="458" nom="EC-CM2-2014-MG1-D1-E9-V2">
+    <remplacement>18</remplacement>
+    <insertion>11</insertion>
+    <suppression>27</suppression>
+    <correction>38</correction>
+  </copie>
+  <copie id="459" nom="EC-CM2-2015-MG2-D1-E1-V1">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="460" nom="EC-CM2-2015-MG2-D1-E1-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="461" nom="EC-CM2-2015-MG2-D1-E10-V1">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="462" nom="EC-CM2-2015-MG2-D1-E10-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="463" nom="EC-CM2-2015-MG2-D1-E11-V1">
+    <remplacement>3</remplacement>
+    <insertion>1</insertion>
+    <suppression>4</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="464" nom="EC-CM2-2015-MG2-D1-E11-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="465" nom="EC-CM2-2015-MG2-D1-E12-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="466" nom="EC-CM2-2015-MG2-D1-E13-V1">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>7</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="467" nom="EC-CM2-2015-MG2-D1-E14-V1">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="468" nom="EC-CM2-2015-MG2-D1-E14-V2">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="469" nom="EC-CM2-2015-MG2-D1-E15-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="470" nom="EC-CM2-2015-MG2-D1-E16-V1">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="471" nom="EC-CM2-2015-MG2-D1-E16-V2">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>0</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="472" nom="EC-CM2-2015-MG2-D1-E17-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="473" nom="EC-CM2-2015-MG2-D1-E17-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="474" nom="EC-CM2-2015-MG2-D1-E18-V1">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>0</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="475" nom="EC-CM2-2015-MG2-D1-E18-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="476" nom="EC-CM2-2015-MG2-D1-E19-V1">
+    <remplacement>6</remplacement>
+    <insertion>1</insertion>
+    <suppression>9</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="477" nom="EC-CM2-2015-MG2-D1-E19-V2">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>0</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="478" nom="EC-CM2-2015-MG2-D1-E2-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>23</correction>
+  </copie>
+  <copie id="479" nom="EC-CM2-2015-MG2-D1-E20-V1">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="480" nom="EC-CM2-2015-MG2-D1-E20-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="481" nom="EC-CM2-2015-MG2-D1-E21-V1">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="482" nom="EC-CM2-2015-MG2-D1-E21-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="483" nom="EC-CM2-2015-MG2-D1-E22-V1">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="484" nom="EC-CM2-2015-MG2-D1-E22-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="485" nom="EC-CM2-2015-MG2-D1-E23-V1">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="486" nom="EC-CM2-2015-MG2-D1-E24-V1">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="487" nom="EC-CM2-2015-MG2-D1-E24-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="488" nom="EC-CM2-2015-MG2-D1-E25-V1">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="489" nom="EC-CM2-2015-MG2-D1-E25-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="490" nom="EC-CM2-2015-MG2-D1-E26-V1">
+    <remplacement>7</remplacement>
+    <insertion>0</insertion>
+    <suppression>7</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="491" nom="EC-CM2-2015-MG2-D1-E26-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="492" nom="EC-CM2-2015-MG2-D1-E27-V1">
+    <remplacement>2</remplacement>
+    <insertion>2</insertion>
+    <suppression>3</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="493" nom="EC-CM2-2015-MG2-D1-E27-V2">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="494" nom="EC-CM2-2015-MG2-D1-E28-V1">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="495" nom="EC-CM2-2015-MG2-D1-E28-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="496" nom="EC-CM2-2015-MG2-D1-E29-V1">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="497" nom="EC-CM2-2015-MG2-D1-E29-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="498" nom="EC-CM2-2015-MG2-D1-E3-V1">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>5</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="499" nom="EC-CM2-2015-MG2-D1-E3-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="500" nom="EC-CM2-2015-MG2-D1-E30-V1">
+    <remplacement>14</remplacement>
+    <insertion>2</insertion>
+    <suppression>14</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="501" nom="EC-CM2-2015-MG2-D1-E30-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="502" nom="EC-CM2-2015-MG2-D1-E4-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="503" nom="EC-CM2-2015-MG2-D1-E4-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="504" nom="EC-CM2-2015-MG2-D1-E5-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="505" nom="EC-CM2-2015-MG2-D1-E5-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="506" nom="EC-CM2-2015-MG2-D1-E6-V1">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>3</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="507" nom="EC-CM2-2015-MG2-D1-E6-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="508" nom="EC-CM2-2015-MG2-D1-E7-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="509" nom="EC-CM2-2015-MG2-D1-E7-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="510" nom="EC-CM2-2015-MG2-D1-E8-V1">
+    <remplacement>3</remplacement>
+    <insertion>2</insertion>
+    <suppression>4</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="511" nom="EC-CM2-2015-MG2-D1-E8-V2">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>3</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="512" nom="EC-CM2-2015-MG2-D1-E9-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="513" nom="EC-CM2-2015-MG2-D1-E9-V2">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="514" nom="EC-CM2-2014-SDPA-D1-E1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="515" nom="EC-CM2-2014-SDPA-D1-E10">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>3</suppression>
+    <correction>29</correction>
+  </copie>
+  <copie id="516" nom="EC-CM2-2014-SDPA-D1-E11">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="517" nom="EC-CM2-2014-SDPA-D1-E12">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>5</suppression>
+    <correction>34</correction>
+  </copie>
+  <copie id="518" nom="EC-CM2-2014-SDPA-D1-E13">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>24</correction>
+  </copie>
+  <copie id="519" nom="EC-CM2-2014-SDPA-D1-E14">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>2</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="520" nom="EC-CM2-2014-SDPA-D1-E15">
+    <remplacement>4</remplacement>
+    <insertion>0</insertion>
+    <suppression>11</suppression>
+    <correction>29</correction>
+  </copie>
+  <copie id="521" nom="EC-CM2-2014-SDPA-D1-E16">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>20</suppression>
+    <correction>51</correction>
+  </copie>
+  <copie id="522" nom="EC-CM2-2014-SDPA-D1-E17">
+    <remplacement>1</remplacement>
+    <insertion>3</insertion>
+    <suppression>4</suppression>
+    <correction>44</correction>
+  </copie>
+  <copie id="523" nom="EC-CM2-2014-SDPA-D1-E18">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="524" nom="EC-CM2-2014-SDPA-D1-E19">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>10</suppression>
+    <correction>35</correction>
+  </copie>
+  <copie id="525" nom="EC-CM2-2014-SDPA-D1-E2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>75</correction>
+  </copie>
+  <copie id="526" nom="EC-CM2-2014-SDPA-D1-E20">
+    <remplacement>3</remplacement>
+    <insertion>1</insertion>
+    <suppression>12</suppression>
+    <correction>19</correction>
+  </copie>
+  <copie id="527" nom="EC-CM2-2014-SDPA-D1-E21">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>7</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="528" nom="EC-CM2-2014-SDPA-D1-E22">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>8</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="529" nom="EC-CM2-2014-SDPA-D1-E23">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="530" nom="EC-CM2-2014-SDPA-D1-E24">
+    <remplacement>5</remplacement>
+    <insertion>1</insertion>
+    <suppression>13</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="531" nom="EC-CM2-2014-SDPA-D1-E25">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>7</suppression>
+    <correction>34</correction>
+  </copie>
+  <copie id="532" nom="EC-CM2-2014-SDPA-D1-E26">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>37</correction>
+  </copie>
+  <copie id="533" nom="EC-CM2-2014-SDPA-D1-E27">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="534" nom="EC-CM2-2014-SDPA-D1-E3">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>10</suppression>
+    <correction>19</correction>
+  </copie>
+  <copie id="535" nom="EC-CM2-2014-SDPA-D1-E4">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>10</suppression>
+    <correction>33</correction>
+  </copie>
+  <copie id="536" nom="EC-CM2-2014-SDPA-D1-E5">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>27</suppression>
+    <correction>74</correction>
+  </copie>
+  <copie id="537" nom="EC-CM2-2014-SDPA-D1-E6">
+    <remplacement>8</remplacement>
+    <insertion>0</insertion>
+    <suppression>13</suppression>
+    <correction>22</correction>
+  </copie>
+  <copie id="538" nom="EC-CM2-2014-SDPA-D1-E7">
+    <remplacement>4</remplacement>
+    <insertion>0</insertion>
+    <suppression>10</suppression>
+    <correction>37</correction>
+  </copie>
+  <copie id="539" nom="EC-CM2-2014-SDPA-D1-E8">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>14</suppression>
+    <correction>37</correction>
+  </copie>
+  <copie id="540" nom="EC-CM2-2014-SDPA-D1-E9">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>6</suppression>
+    <correction>37</correction>
+  </copie>
+  <copie id="541" nom="EC-CM2-2015-MAF-D1-E1-V1">
+    <remplacement>0</remplacement>
+    <insertion>8</insertion>
+    <suppression>15</suppression>
+    <correction>65</correction>
+  </copie>
+  <copie id="542" nom="EC-CM2-2015-MAF-D1-E1-V2">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>13</suppression>
+    <correction>68</correction>
+  </copie>
+  <copie id="543" nom="EC-CM2-2015-MAF-D1-E10-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="544" nom="EC-CM2-2015-MAF-D1-E10-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="545" nom="EC-CM2-2015-MAF-D1-E11-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="546" nom="EC-CM2-2015-MAF-D1-E11-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>25</correction>
+  </copie>
+  <copie id="547" nom="EC-CM2-2015-MAF-D1-E12-V1">
+    <remplacement>1</remplacement>
+    <insertion>6</insertion>
+    <suppression>5</suppression>
+    <correction>22</correction>
+  </copie>
+  <copie id="548" nom="EC-CM2-2015-MAF-D1-E12-V2">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>19</correction>
+  </copie>
+  <copie id="549" nom="EC-CM2-2015-MAF-D1-E13-V1">
+    <remplacement>1</remplacement>
+    <insertion>3</insertion>
+    <suppression>6</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="550" nom="EC-CM2-2015-MAF-D1-E13-V2">
+    <remplacement>3</remplacement>
+    <insertion>1</insertion>
+    <suppression>6</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="551" nom="EC-CM2-2015-MAF-D1-E14-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>22</correction>
+  </copie>
+  <copie id="552" nom="EC-CM2-2015-MAF-D1-E14-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>8</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="553" nom="EC-CM2-2015-MAF-D1-E15-V1">
+    <remplacement>5</remplacement>
+    <insertion>3</insertion>
+    <suppression>12</suppression>
+    <correction>22</correction>
+  </copie>
+  <copie id="554" nom="EC-CM2-2015-MAF-D1-E15-V2">
+    <remplacement>9</remplacement>
+    <insertion>0</insertion>
+    <suppression>14</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="555" nom="EC-CM2-2015-MAF-D1-E16-V1">
+    <remplacement>3</remplacement>
+    <insertion>7</insertion>
+    <suppression>6</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="556" nom="EC-CM2-2015-MAF-D1-E16-V2">
+    <remplacement>5</remplacement>
+    <insertion>2</insertion>
+    <suppression>9</suppression>
+    <correction>28</correction>
+  </copie>
+  <copie id="557" nom="EC-CM2-2015-MAF-D1-E17-V1">
+    <remplacement>0</remplacement>
+    <insertion>3</insertion>
+    <suppression>1</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="558" nom="EC-CM2-2015-MAF-D1-E17-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>28</correction>
+  </copie>
+  <copie id="559" nom="EC-CM2-2015-MAF-D1-E18-V1">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>8</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="560" nom="EC-CM2-2015-MAF-D1-E18-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="561" nom="EC-CM2-2015-MAF-D1-E19-V1">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="562" nom="EC-CM2-2015-MAF-D1-E19-V2">
+    <remplacement>3</remplacement>
+    <insertion>2</insertion>
+    <suppression>9</suppression>
+    <correction>23</correction>
+  </copie>
+  <copie id="563" nom="EC-CM2-2015-MAF-D1-E2-V1">
+    <remplacement>0</remplacement>
+    <insertion>5</insertion>
+    <suppression>10</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="564" nom="EC-CM2-2015-MAF-D1-E2-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="565" nom="EC-CM2-2015-MAF-D1-E20-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="566" nom="EC-CM2-2015-MAF-D1-E20-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="567" nom="EC-CM2-2015-MAF-D1-E21-V1">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>6</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="568" nom="EC-CM2-2015-MAF-D1-E21-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="569" nom="EC-CM2-2015-MAF-D1-E22-V1">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>15</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="570" nom="EC-CM2-2015-MAF-D1-E22-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>7</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="571" nom="EC-CM2-2015-MAF-D1-E23-V1">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>1</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="572" nom="EC-CM2-2015-MAF-D1-E23-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="573" nom="EC-CM2-2015-MAF-D1-E24-V1">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>28</correction>
+  </copie>
+  <copie id="574" nom="EC-CM2-2015-MAF-D1-E24-V2">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>4</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="575" nom="EC-CM2-2015-MAF-D1-E25-V1">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>1</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="576" nom="EC-CM2-2015-MAF-D1-E25-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>60</correction>
+  </copie>
+  <copie id="577" nom="EC-CM2-2015-MAF-D1-E26-V1">
+    <remplacement>4</remplacement>
+    <insertion>1</insertion>
+    <suppression>6</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="578" nom="EC-CM2-2015-MAF-D1-E26-V2">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>4</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="579" nom="EC-CM2-2015-MAF-D1-E27-V1">
+    <remplacement>0</remplacement>
+    <insertion>4</insertion>
+    <suppression>2</suppression>
+    <correction>28</correction>
+  </copie>
+  <copie id="580" nom="EC-CM2-2015-MAF-D1-E27-V2">
+    <remplacement>3</remplacement>
+    <insertion>1</insertion>
+    <suppression>5</suppression>
+    <correction>35</correction>
+  </copie>
+  <copie id="581" nom="EC-CM2-2015-MAF-D1-E28-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="582" nom="EC-CM2-2015-MAF-D1-E28-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="583" nom="EC-CM2-2015-MAF-D1-E29-V1">
+    <remplacement>0</remplacement>
+    <insertion>4</insertion>
+    <suppression>0</suppression>
+    <correction>24</correction>
+  </copie>
+  <copie id="584" nom="EC-CM2-2015-MAF-D1-E29-V2">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>23</correction>
+  </copie>
+  <copie id="585" nom="EC-CM2-2015-MAF-D1-E3-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="586" nom="EC-CM2-2015-MAF-D1-E3-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="587" nom="EC-CM2-2015-MAF-D1-E30-V1">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>7</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="588" nom="EC-CM2-2015-MAF-D1-E30-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="589" nom="EC-CM2-2015-MAF-D1-E4-V1">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>7</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="590" nom="EC-CM2-2015-MAF-D1-E4-V2">
+    <remplacement>1</remplacement>
+    <insertion>2</insertion>
+    <suppression>7</suppression>
+    <correction>25</correction>
+  </copie>
+  <copie id="591" nom="EC-CM2-2015-MAF-D1-E5-V1">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>4</suppression>
+    <correction>25</correction>
+  </copie>
+  <copie id="592" nom="EC-CM2-2015-MAF-D1-E5-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>23</correction>
+  </copie>
+  <copie id="593" nom="EC-CM2-2015-MAF-D1-E6-V1">
+    <remplacement>4</remplacement>
+    <insertion>7</insertion>
+    <suppression>20</suppression>
+    <correction>30</correction>
+  </copie>
+  <copie id="594" nom="EC-CM2-2015-MAF-D1-E6-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>30</correction>
+  </copie>
+  <copie id="595" nom="EC-CM2-2015-MAF-D1-E7-V1">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="596" nom="EC-CM2-2015-MAF-D1-E7-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="597" nom="EC-CM2-2015-MAF-D1-E8-V1">
+    <remplacement>3</remplacement>
+    <insertion>1</insertion>
+    <suppression>5</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="598" nom="EC-CM2-2015-MAF-D1-E8-V2">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>4</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="599" nom="EC-CM2-2015-MAF-D1-E9-V1">
+    <remplacement>5</remplacement>
+    <insertion>2</insertion>
+    <suppression>16</suppression>
+    <correction>60</correction>
+  </copie>
+  <copie id="600" nom="EC-CM2-2015-MAF-D1-E9-V2">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>5</suppression>
+    <correction>48</correction>
+  </copie>
+  <copie id="601" nom="EC-CM2-2016-EGL-D2-E10-V1">
+    <remplacement>1</remplacement>
+    <insertion>2</insertion>
+    <suppression>1</suppression>
+    <correction>29</correction>
+  </copie>
+  <copie id="602" nom="EC-CM2-2016-EGL-D2-E10-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="603" nom="EC-CM2-2016-EGL-D2-E11-V2">
+    <remplacement>4</remplacement>
+    <insertion>1</insertion>
+    <suppression>7</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="604" nom="EC-CM2-2016-EGL-D2-E12-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="605" nom="EC-CM2-2016-EGL-D2-E12-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="606" nom="EC-CM2-2016-EGL-D2-E13-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="607" nom="EC-CM2-2016-EGL-D2-E13-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="608" nom="EC-CM2-2016-EGL-D2-E14-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="609" nom="EC-CM2-2016-EGL-D2-E14-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>38</correction>
+  </copie>
+  <copie id="610" nom="EC-CM2-2016-EGL-D2-E15-V1">
+    <remplacement>4</remplacement>
+    <insertion>0</insertion>
+    <suppression>10</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="611" nom="EC-CM2-2016-EGL-D2-E15-V2">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>3</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="612" nom="EC-CM2-2016-EGL-D2-E16-V1">
+    <remplacement>2</remplacement>
+    <insertion>2</insertion>
+    <suppression>6</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="613" nom="EC-CM2-2016-EGL-D2-E16-V2">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>2</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="614" nom="EC-CM2-2016-EGL-D2-E17-V2">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="615" nom="EC-CM2-2016-EGL-D2-E18-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="616" nom="EC-CM2-2016-EGL-D2-E18-V2">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>3</suppression>
+    <correction>45</correction>
+  </copie>
+  <copie id="617" nom="EC-CM2-2016-EGL-D2-E19-V2">
+    <remplacement>1</remplacement>
+    <insertion>3</insertion>
+    <suppression>6</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="618" nom="EC-CM2-2016-EGL-D2-E21-V1">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="619" nom="EC-CM2-2016-EGL-D2-E21-V2">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="620" nom="EC-CM2-2016-EGL-D2-E3-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="621" nom="EC-CM2-2016-EGL-D2-E3-V2">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>3</suppression>
+    <correction>77</correction>
+  </copie>
+  <copie id="622" nom="EC-CM2-2016-EGL-D2-E4-V2">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="623" nom="EC-CM2-2016-EGL-D2-E5-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="624" nom="EC-CM2-2016-EGL-D2-E5-V2">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>2</suppression>
+    <correction>21</correction>
+  </copie>
+  <copie id="625" nom="EC-CM2-2016-EGL-D2-E6-V2">
+    <remplacement>5</remplacement>
+    <insertion>5</insertion>
+    <suppression>11</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="626" nom="EC-CM2-2016-EGL-D2-E7-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="627" nom="EC-CM2-2016-EGL-D2-E7-V2">
+    <remplacement>4</remplacement>
+    <insertion>2</insertion>
+    <suppression>5</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="628" nom="EC-CM2-2016-EGL-D2-E8-V2">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>2</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="629" nom="EC-CM2-2016-EGL-D2-E9-V2">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>2</suppression>
+    <correction>48</correction>
+  </copie>
+  <copie id="630" nom="EC-CM2-2016-EGL-D3-E1-V2">
+    <remplacement>3</remplacement>
+    <insertion>11</insertion>
+    <suppression>6</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="631" nom="EC-CM2-2016-EGL-D3-E1-V3">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>0</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="632" nom="EC-CM2-2016-EGL-D3-E10-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>27</correction>
+  </copie>
+  <copie id="633" nom="EC-CM2-2016-EGL-D3-E10-V2">
+    <remplacement>2</remplacement>
+    <insertion>3</insertion>
+    <suppression>5</suppression>
+    <correction>23</correction>
+  </copie>
+  <copie id="634" nom="EC-CM2-2016-EGL-D3-E10-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="635" nom="EC-CM2-2016-EGL-D3-E11-V1">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="636" nom="EC-CM2-2016-EGL-D3-E11-V2">
+    <remplacement>6</remplacement>
+    <insertion>29</insertion>
+    <suppression>9</suppression>
+    <correction>42</correction>
+  </copie>
+  <copie id="637" nom="EC-CM2-2016-EGL-D3-E11-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="638" nom="EC-CM2-2016-EGL-D3-E13-V2">
+    <remplacement>5</remplacement>
+    <insertion>19</insertion>
+    <suppression>8</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="639" nom="EC-CM2-2016-EGL-D3-E13-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="640" nom="EC-CM2-2016-EGL-D3-E15-V1">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="641" nom="EC-CM2-2016-EGL-D3-E15-V2">
+    <remplacement>4</remplacement>
+    <insertion>26</insertion>
+    <suppression>21</suppression>
+    <correction>24</correction>
+  </copie>
+  <copie id="642" nom="EC-CM2-2016-EGL-D3-E15-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="643" nom="EC-CM2-2016-EGL-D3-E16-V1">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="644" nom="EC-CM2-2016-EGL-D3-E16-V2">
+    <remplacement>3</remplacement>
+    <insertion>27</insertion>
+    <suppression>7</suppression>
+    <correction>31</correction>
+  </copie>
+  <copie id="645" nom="EC-CM2-2016-EGL-D3-E16-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="646" nom="EC-CM2-2016-EGL-D3-E17-V1">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>5</suppression>
+    <correction>8</correction>
+  </copie>
+  <copie id="647" nom="EC-CM2-2016-EGL-D3-E17-V2">
+    <remplacement>3</remplacement>
+    <insertion>15</insertion>
+    <suppression>5</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="648" nom="EC-CM2-2016-EGL-D3-E18-V2">
+    <remplacement>1</remplacement>
+    <insertion>33</insertion>
+    <suppression>2</suppression>
+    <correction>53</correction>
+  </copie>
+  <copie id="649" nom="EC-CM2-2016-EGL-D3-E19-V2">
+    <remplacement>2</remplacement>
+    <insertion>7</insertion>
+    <suppression>10</suppression>
+    <correction>6</correction>
+  </copie>
+  <copie id="650" nom="EC-CM2-2016-EGL-D3-E19-V3">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="651" nom="EC-CM2-2016-EGL-D3-E2-V2">
+    <remplacement>6</remplacement>
+    <insertion>9</insertion>
+    <suppression>11</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="652" nom="EC-CM2-2016-EGL-D3-E2-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="653" nom="EC-CM2-2016-EGL-D3-E20-V2">
+    <remplacement>10</remplacement>
+    <insertion>49</insertion>
+    <suppression>23</suppression>
+    <correction>72</correction>
+  </copie>
+  <copie id="654" nom="EC-CM2-2016-EGL-D3-E20-V3">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>30</correction>
+  </copie>
+  <copie id="655" nom="EC-CM2-2016-EGL-D3-E21-V2">
+    <remplacement>9</remplacement>
+    <insertion>13</insertion>
+    <suppression>22</suppression>
+    <correction>39</correction>
+  </copie>
+  <copie id="656" nom="EC-CM2-2016-EGL-D3-E21-V3">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>19</correction>
+  </copie>
+  <copie id="657" nom="EC-CM2-2016-EGL-D3-E22-V2">
+    <remplacement>1</remplacement>
+    <insertion>5</insertion>
+    <suppression>3</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="658" nom="EC-CM2-2016-EGL-D3-E3-V2">
+    <remplacement>7</remplacement>
+    <insertion>28</insertion>
+    <suppression>13</suppression>
+    <correction>51</correction>
+  </copie>
+  <copie id="659" nom="EC-CM2-2016-EGL-D3-E3-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>18</correction>
+  </copie>
+  <copie id="660" nom="EC-CM2-2016-EGL-D3-E4-V2">
+    <remplacement>4</remplacement>
+    <insertion>31</insertion>
+    <suppression>10</suppression>
+    <correction>47</correction>
+  </copie>
+  <copie id="661" nom="EC-CM2-2016-EGL-D3-E4-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="662" nom="EC-CM2-2016-EGL-D3-E5-V2">
+    <remplacement>1</remplacement>
+    <insertion>11</insertion>
+    <suppression>2</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="663" nom="EC-CM2-2016-EGL-D3-E5-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>0</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="664" nom="EC-CM2-2016-EGL-D3-E6-V2">
+    <remplacement>1</remplacement>
+    <insertion>31</insertion>
+    <suppression>3</suppression>
+    <correction>41</correction>
+  </copie>
+  <copie id="665" nom="EC-CM2-2016-EGL-D3-E6-V3">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="666" nom="EC-CM2-2016-EGL-D3-E7-V2">
+    <remplacement>8</remplacement>
+    <insertion>9</insertion>
+    <suppression>10</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="667" nom="EC-CM2-2016-EGL-D3-E7-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="668" nom="EC-CM2-2016-EGL-D3-E8-V2">
+    <remplacement>5</remplacement>
+    <insertion>29</insertion>
+    <suppression>9</suppression>
+    <correction>38</correction>
+  </copie>
+  <copie id="669" nom="EC-CM2-2016-EGL-D3-E8-V3">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="670" nom="EC-CM2-2016-EGL-D3-E9-V2">
+    <remplacement>6</remplacement>
+    <insertion>34</insertion>
+    <suppression>15</suppression>
+    <correction>45</correction>
+  </copie>
+  <copie id="671" nom="EC-CM2-2016-EGL-D3-E9-V3">
+    <remplacement>1</remplacement>
+    <insertion>0</insertion>
+    <suppression>2</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="672" nom="EC-CM2-2016-PNT-D1-E1">
+    <remplacement>4</remplacement>
+    <insertion>2</insertion>
+    <suppression>8</suppression>
+    <correction>28</correction>
+  </copie>
+  <copie id="673" nom="EC-CM2-2016-PNT-D1-E10">
+    <remplacement>3</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="674" nom="EC-CM2-2016-PNT-D1-E11">
+    <remplacement>7</remplacement>
+    <insertion>0</insertion>
+    <suppression>9</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="675" nom="EC-CM2-2016-PNT-D1-E12">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>5</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="676" nom="EC-CM2-2016-PNT-D1-E13">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>1</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="677" nom="EC-CM2-2016-PNT-D1-E14">
+    <remplacement>5</remplacement>
+    <insertion>0</insertion>
+    <suppression>6</suppression>
+    <correction>13</correction>
+  </copie>
+  <copie id="678" nom="EC-CM2-2016-PNT-D1-E15">
+    <remplacement>18</remplacement>
+    <insertion>2</insertion>
+    <suppression>21</suppression>
+    <correction>34</correction>
+  </copie>
+  <copie id="679" nom="EC-CM2-2016-PNT-D1-E16">
+    <remplacement>13</remplacement>
+    <insertion>1</insertion>
+    <suppression>16</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="680" nom="EC-CM2-2016-PNT-D1-E17">
+    <remplacement>4</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="681" nom="EC-CM2-2016-PNT-D1-E2">
+    <remplacement>5</remplacement>
+    <insertion>1</insertion>
+    <suppression>10</suppression>
+    <correction>14</correction>
+  </copie>
+  <copie id="682" nom="EC-CM2-2016-PNT-D1-E3">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="683" nom="EC-CM2-2016-PNT-D1-E4">
+    <remplacement>3</remplacement>
+    <insertion>1</insertion>
+    <suppression>9</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="684" nom="EC-CM2-2016-PNT-D1-E5">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>10</suppression>
+    <correction>38</correction>
+  </copie>
+  <copie id="685" nom="EC-CM2-2016-PNT-D1-E6">
+    <remplacement>5</remplacement>
+    <insertion>0</insertion>
+    <suppression>7</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="686" nom="EC-CM2-2016-PNT-D1-E7">
+    <remplacement>2</remplacement>
+    <insertion>1</insertion>
+    <suppression>6</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="687" nom="EC-CM2-2016-PNT-D1-E8">
+    <remplacement>9</remplacement>
+    <insertion>4</insertion>
+    <suppression>18</suppression>
+    <correction>26</correction>
+  </copie>
+  <copie id="688" nom="EC-CM2-2016-PNT-D1-E9">
+    <remplacement>3</remplacement>
+    <insertion>2</insertion>
+    <suppression>7</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="689" nom="EC-CM2-2016-PNT-D3-E10-V1">
+    <remplacement>4</remplacement>
+    <insertion>10</insertion>
+    <suppression>7</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="690" nom="EC-CM2-2016-PNT-D3-E10-V2">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>1</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="691" nom="EC-CM2-2016-PNT-D3-E11-V2">
+    <remplacement>3</remplacement>
+    <insertion>16</insertion>
+    <suppression>16</suppression>
+    <correction>12</correction>
+  </copie>
+  <copie id="692" nom="EC-CM2-2016-PNT-D3-E11-V3">
+    <remplacement>6</remplacement>
+    <insertion>4</insertion>
+    <suppression>9</suppression>
+    <correction>9</correction>
+  </copie>
+  <copie id="693" nom="EC-CM2-2016-PNT-D3-E12-V1">
+    <remplacement>3</remplacement>
+    <insertion>10</insertion>
+    <suppression>12</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="694" nom="EC-CM2-2016-PNT-D3-E12-V2">
+    <remplacement>1</remplacement>
+    <insertion>3</insertion>
+    <suppression>3</suppression>
+    <correction>5</correction>
+  </copie>
+  <copie id="695" nom="EC-CM2-2016-PNT-D3-E13-V1">
+    <remplacement>5</remplacement>
+    <insertion>25</insertion>
+    <suppression>13</suppression>
+    <correction>32</correction>
+  </copie>
+  <copie id="696" nom="EC-CM2-2016-PNT-D3-E13-V2">
+    <remplacement>5</remplacement>
+    <insertion>9</insertion>
+    <suppression>10</suppression>
+    <correction>15</correction>
+  </copie>
+  <copie id="697" nom="EC-CM2-2016-PNT-D3-E13-V3">
+    <remplacement>1</remplacement>
+    <insertion>1</insertion>
+    <suppression>4</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="698" nom="EC-CM2-2016-PNT-D3-E14-V1">
+    <remplacement>3</remplacement>
+    <insertion>16</insertion>
+    <suppression>11</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="699" nom="EC-CM2-2016-PNT-D3-E14-V2">
+    <remplacement>4</remplacement>
+    <insertion>5</insertion>
+    <suppression>8</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="700" nom="EC-CM2-2016-PNT-D3-E15-V1">
+    <remplacement>3</remplacement>
+    <insertion>7</insertion>
+    <suppression>7</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="701" nom="EC-CM2-2016-PNT-D3-E15-V2">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>1</suppression>
+    <correction>1</correction>
+  </copie>
+  <copie id="702" nom="EC-CM2-2016-PNT-D3-E16-V2">
+    <remplacement>1</remplacement>
+    <insertion>15</insertion>
+    <suppression>9</suppression>
+    <correction>4</correction>
+  </copie>
+  <copie id="703" nom="EC-CM2-2016-PNT-D3-E16-V3">
+    <remplacement>0</remplacement>
+    <insertion>0</insertion>
+    <suppression>3</suppression>
+    <correction>2</correction>
+  </copie>
+  <copie id="704" nom="EC-CM2-2016-PNT-D3-E17-V1">
+    <remplacement>2</remplacement>
+    <insertion>10</insertion>
+    <suppression>4</suppression>
+    <correction>7</correction>
+  </copie>
+  <copie id="705" nom="EC-CM2-2016-PNT-D3-E17-V2">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>0</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="706" nom="EC-CM2-2016-PNT-D3-E18-V1">
+    <remplacement>9</remplacement>
+    <insertion>31</insertion>
+    <suppression>20</suppression>
+    <correction>23</correction>
+  </copie>
+  <copie id="707" nom="EC-CM2-2016-PNT-D3-E3-V2">
+    <remplacement>3</remplacement>
+    <insertion>2</insertion>
+    <suppression>4</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="708" nom="EC-CM2-2016-PNT-D3-E4-V1">
+    <remplacement>5</remplacement>
+    <insertion>10</insertion>
+    <suppression>9</suppression>
+    <correction>10</correction>
+  </copie>
+  <copie id="709" nom="EC-CM2-2016-PNT-D3-E4-V2">
+    <remplacement>2</remplacement>
+    <insertion>2</insertion>
+    <suppression>2</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="710" nom="EC-CM2-2016-PNT-D3-E5-V1">
+    <remplacement>2</remplacement>
+    <insertion>9</insertion>
+    <suppression>3</suppression>
+    <correction>11</correction>
+  </copie>
+  <copie id="711" nom="EC-CM2-2016-PNT-D3-E5-V2">
+    <remplacement>0</remplacement>
+    <insertion>2</insertion>
+    <suppression>2</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="712" nom="EC-CM2-2016-PNT-D3-E6-V1">
+    <remplacement>8</remplacement>
+    <insertion>18</insertion>
+    <suppression>16</suppression>
+    <correction>16</correction>
+  </copie>
+  <copie id="713" nom="EC-CM2-2016-PNT-D3-E8-V1">
+    <remplacement>2</remplacement>
+    <insertion>14</insertion>
+    <suppression>11</suppression>
+    <correction>17</correction>
+  </copie>
+  <copie id="714" nom="EC-CM2-2016-PNT-D3-E8-V2">
+    <remplacement>0</remplacement>
+    <insertion>1</insertion>
+    <suppression>2</suppression>
+    <correction>0</correction>
+  </copie>
+  <copie id="715" nom="EC-CM2-2016-PNT-D3-E9-V1">
+    <remplacement>9</remplacement>
+    <insertion>22</insertion>
+    <suppression>15</suppression>
+    <correction>20</correction>
+  </copie>
+  <copie id="716" nom="EC-CM2-2016-PNT-D3-E9-V2">
+    <remplacement>2</remplacement>
+    <insertion>0</insertion>
+    <suppression>4</suppression>
+    <correction>3</correction>
+  </copie>
+  <copie id="717" nom="EC-CM2-2016-PNT-D3-E9-V3">
+    <remplacement>2</remplacement>
+    <insertion>5</insertion>
+    <suppression>8</suppression>
+    <correction>6</correction>
+  </copie>
+</statECRISCOL>

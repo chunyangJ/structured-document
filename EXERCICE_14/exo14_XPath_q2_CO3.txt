@@ -1,0 +1,93 @@
+<mod type="add">
+  <add>fiers</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#a</add>
+</mod>
+<mod type="add">
+  <add>P#lui</add>
+</mod>
+<mod type="add">
+  <add>P#que</add>
+</mod>
+<mod type="add">
+  <add>
+    <mod type="corr">
+      <orig>donna</orig>
+      <reg>donnait</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>jour</add>
+</mod>
+<mod type="add">
+  <add>
+    <mod type="corr">
+      <orig>mere</orig>
+      <reg>mère</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>doux</add>
+</mod>
+<mod type="add">
+  <add>éclairait la pièce</add>
+</mod>
+<mod type="add">
+  <add>la chambre</add>
+</mod>
+<mod type="add">
+  <add>le</add>
+</mod>
+<mod type="add">
+  <add>mère</add>
+</mod>
+<mod type="add">
+  <add>on pouvait lire dans ses yeux</add>
+</mod>
+<mod type="add">
+  <add>insignifiant</add>
+</mod>
+<mod type="add">
+  <add>le</add>
+</mod>
+<mod type="add">
+  <add>
+    <mod type="corr">
+      <orig>fait</orig>
+      <reg>faites</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>avait</add>
+</mod>
+<mod type="add">
+  <add>avait</add>
+</mod>
+<mod type="add">
+  <add>Arrière plan</add>
+</mod>
+<mod type="add">
+  <add>identiques</add>
+</mod>
+<mod type="add">
+  <add>P#à laquelle</add>
+</mod>
+<mod type="add">
+  <add>on</add>
+</mod>
+<mod type="add">
+  <add>et</add>
+</mod>
+<mod type="add">
+  <add>P#quant à elle?</add>
+</mod>
+<mod type="add">
+  <add>P#s'</add>
+</mod>
