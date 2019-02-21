@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bouteilles>
+	<bouteille classe="eau">
+		<marque>Cristaline</marque>
+		<source lieu="Loiret">St-Cyr la Source</source>
+		<contenance unite="cl">150</contenance>
+		<codebarre>3274080005003</codebarre>
+		<proprietes>
+			<composition unite="mg/l">
+				<ion type="positif" concentration="71">calcium</ion>
+				<ion type="positif" concentration="5,5">magnésium</ion>
+				<ion type="négatif" concentration="20">chlorure</ion>
+				<ion type="négatif" concentration="1">nitrate</ion>
+				<autre>fer</autre>
+			</composition>
+			<pH>7,45</pH>
+		</proprietes>
+		<description>sale</description>
+	</bouteille>
+	<bouteille classe="eau">
+		<marque>Cristaline</marque>
+		<source lieu="Alpes Maritimes">Aurèle</source>
+		<contenance unite="cl">50</contenance>
+		<codebarre>3268840001008</codebarre>
+		<proprietes>
+			<composition unite="mg/l">
+				<ion type="positif" concentration="98">calcium</ion>
+				<ion type="positif" concentration="4">magnésium</ion>
+				<ion type="négatif" concentration="3,6">chlorure</ion>
+				<ion type="négatif" concentration="2">nitrate</ion>			
+			</composition>
+			<pH>7,4</pH>
+		</proprietes>
+	</bouteille>
+ 	<bouteille classe="eau">
+		<marque>Volvic</marque>
+		<source lieu="Puy-de-Dôme">Volvic</source>
+		<contenance unite="cl">50</contenance>
+		<codebarre>3057640117008</codebarre>
+		<proprietes>
+			<composition unite="mg/l">
+				<ion type="positif" concentration="11,5">calcium</ion>
+				<ion type="positif" concentration="8,0">magnésium</ion>
+				<ion type="négatif" concentration="13,5">chlorure</ion>
+				<ion type="négatif" concentration="6,3">nitrate</ion>			
+				<particule>silice</particule>
+			</composition>
+			<pH>7</pH>
+		</proprietes>
+	</bouteille> 
+</bouteilles>

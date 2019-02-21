@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bibliographie SYSTEM "exo2_DTD_ph1.dtd">
+<!-- exo2_DTD_phase1-->
+<bibliographie>
+    <livre>
+        <titre>La Vie devant soi</titre>
+        <auteur>
+            <nom>
+                <nom_famille>Gary</nom_famille>
+                <prenom>Romain</prenom>
+            </nom>
+            <nom>
+                <nom_famille>Ajar</nom_famille>
+                <prenom>Emile</prenom>
+            </nom>
+        </auteur>
+        <info_edition>
+            <editeur>Gallimard</editeur>
+            <lieu_edition>Paris</lieu_edition>
+            <lieu_impression>Barcelone</lieu_impression>
+            <ISBN>978-2070373628</ISBN>
+        </info_edition>
+    </livre>
+    <article>
+        <titre>A maximum entropy approach to natural language processing</titre>
+        <auteur>
+            <nom>
+                <nom_famille>Berger</nom_famille>
+                <prenom>Adam</prenom>
+                <prenom>L</prenom>
+            </nom>
+        </auteur>
+        <auteur>
+            <nom>
+                <nom_famille> Della Pietra</nom_famille>
+                <prenom>Vincent</prenom>
+                <prenom>J</prenom>
+            </nom>
+        </auteur>
+        <auteur>
+            <nom>
+                <nom_famille> Della Pietra</nom_famille>
+                <prenom>Stephen</prenom>
+                <prenom>A</prenom>
+            </nom>
+        </auteur>
+        <ref_publication>
+            <nom_journal>Computational linguistics</nom_journal>
+            <numero_pages>39-71</numero_pages>
+            <annee>1996</annee>
+            <numero_journal>1</numero_journal>
+        </ref_publication>
+        <avis_perso>A must read paper on applying maxent technique to Natural Language
+            Processing.</avis_perso>
+    </article>
+</bibliographie>
