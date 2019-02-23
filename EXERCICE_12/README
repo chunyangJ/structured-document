@@ -1,0 +1,10 @@
+XSLT (oXygen, Saxon HE 9.5.1.17) 
+	    question 1, 2, 3 : base de travail, le mois du mai de l'arborescence du fils RSS du Monde 2017
+	    q2 écrit des résultats dans des fichiers txt en foction de leur rubirque et motif
+XQUERY-RSS (BASE X): 
+	    question 1, 2, 3 : base de travail, l'ensemble du fils RSS ; 
+		les résultats sont produits en xml, et sont transformés à l'aide de feuilles de style
+XQUERY-TREETAGGER (BASE X): 
+	    question 1, 2 : base de travail, même que celle des questions XSLT, 
+		les résultats sont écrits respectivement dans des fichiers xml nommés par rubrique et motif;
+		ces fichiers xml sont ensuite transformés par feuille de style
