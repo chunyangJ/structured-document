@@ -1,0 +1,23 @@
+exo7-XPath 
+(:----------------------------------------------------------------------------:)
+(:exo7_XPath_q1 Rechercher tous les NOM:)
+(:XPath 1.0:)
+/doc/taggersent/taggertoken[starts-with(@pos,"NOM")]/@wordform
+(:XPath 2.0)
+/doc/taggersent/taggertoken[starts-with(@pos,"NOM")]/@wordform/string()
+
+(:----------------------------------------------------------------------------:)
+(:exo7_XPath_q2 Rechercher tous les VERBE:)
+/doc/taggersent/taggertoken[starts-with(@pos,"VER")]/@wordform
+(:XPath 2.0)
+/doc/taggersent/taggertoken[starts-with(@pos,"VER")]/@wordform/string()
+
+(:----------------------------------------------------------------------------:)
+(:exo7_XPath_q3 Rechercher tous les NOM précédés d’un DET:)
+(:XPath 2.0)
+/doc/taggersent/taggertoken[starts-with(@pos,"NOM")][preceding-sibling::taggertoken[1][matches(@pos,"DET")]]/@wordform/string()
+
+(:----------------------------------------------------------------------------:)
+(:exo7_XPath_q4 Rechercher toutes les séquences NOM ADJ ou ADJ NOM:)
+(: une liste de (NOM ADJ|ADJ NOM):)
+/doc/taggersent/taggertoken[starts-with(@pos,"NOM")][following-sibling::taggertoken[1][starts-with(@pos,"ADJ")]]/@wordform | /doc/taggersent/taggertoken[starts-with(@pos,"ADJ")][preceding-sibling::taggertoken[1][starts-with(@pos,"NOM")]]/@wordform |/doc/taggersent/taggertoken[starts-with(@pos,"ADJ")][following-sibling::taggertoken[1][starts-with(@pos,"NOM")]]/@wordform | /doc/taggersent/taggertoken[starts-with(@pos,"NOM")][preceding-sibling::taggertoken[1][starts-with(@pos,"ADJ")]]/@wordform
