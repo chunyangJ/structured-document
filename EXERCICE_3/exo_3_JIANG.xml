@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei_dict.xsl"?>
+<TEI  xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+	<fileDesc>
+	    <titleStmt>
+		<title>Dictionnaire universel, 2de édition, Tome 2 (Section EFFAÇABLE-EFFAROUCHER) : une version électronique</title>
+		<author>Antoine Furetière(1619-1688)</author>
+		<respStmt>
+		    <resp>encodé en XML/TEI P5 par</resp>
+		    <name>Chunyang JIANG</name>
+		</respStmt>                
+	    </titleStmt>
+	    <publicationStmt>
+		<p>Dans le cadre du cours Document Structuré, Master TAL, chaque étudiant encode un groupe d'entrées du Dictionnaire universel d’Antoine Furetière, dans la version de 1701 revue, augmentée et corrigée par Basnage de Beauval.</p>
+		<availability><p>disponible en ligne, sur le site plurital.org</p></availability>
+		<date>2018</date>
+	    </publicationStmt>
+	    <sourceDesc>
+		<bibl>
+		    <title>Dictionnaire universel, contenant généralement tous les mots françois tant vieux que modernes &amp; les termes des sciences et des arts, Tome 2</title>
+		    <author>Antoine Furetière</author>
+		    <respStmt>
+			<resp>Originalement publié par</resp>
+			<name>A. et R. Leers (La Haye)</name>
+			<date>1701</date>
+		    </respStmt>
+		    <respStmt>
+			<resp>Seconde édition revüe, corrigée &amp; augmentée par</resp>
+			<name>Henri Basnage de Beauval(1657-1710)</name>
+		    </respStmt>
+		    <respStmt>
+			<resp>Digitalisé au format pdf par</resp>
+			<name>Bibliothèque nationale de France</name>
+			<date>2009</date>
+		    </respStmt>
+		    <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k5542578m?rk=64378;0">Gallica - Bibliothèque Nationale de France</ref>
+		</bibl>
+	    </sourceDesc>
+	</fileDesc>
+    </teiHeader>
+    <text>
+	<body>
+	    <div n="tome_E-N">
+		<div n="E">
+		    <div n="EFF">
+			<entry xml:id="effaçable">
+			    <form>
+				<orth>EFFAÇABLE</orth>
+			    </form>
+			    <gramGrp>
+				<pos expand="adjectif">adj.</pos>
+			    </gramGrp> 
+			    <sense>
+				<def>Qui peut être ôté, effacé.</def>
+				<cit type="example">
+				    <quote>Il n'y a point d'écriture qui ne ſoit <hi rend="italic">effaçable</hi> avec de l'eau forte.</quote>
+				</cit>
+				<cit type="example">
+				    <quote>Il ne ſe dit gueres, quoyqu'on dise <hi rend="italic">ineffaçable</hi>.</quote>
+				</cit>
+			    </sense>
+			</entry>
+			<entry xml:id="effacer">
+			    <form>
+				<orth>EFFACER</orth>
+			    </form>
+			    <gramGrp>
+				<pos expand="verbe">v.</pos><subc expand="actif">act.</subc>
+			    </gramGrp>
+			    <sense n="1">
+				<def>Rayer, emporter, ôter les marques, les veſtiges de ce qui étoit écrit, peint ou gravé en quelque endroit ; ou les corrompre ſi bien, qu'on ne les puisse reconnoître. </def>
+				<cit type="example">
+				    <quote>On met de la poudre ſur l'écriture fraîche, de peur qu'elle ne s'<hi rend="italic">efface</hi>.</quote>
+				</cit>
+				<cit type="example">
+				    <quote>L'encre s'<hi rend="italic">efface</hi> avec de l'eau forte, elle disparoît.</quote>
+				</cit>
+				<cit type="example">
+				    <quote>On a <hi rend="italic">effacé</hi> une figure de cette planche gravée.</quote>
+				</cit>
+				<cit type="example">
+				    <quote>Le temps <hi rend="italic">efface</hi> toutes choſes.</quote>
+				</cit>
+				<cit type="example">
+				    <quote>Le temps avoit <hi rend="italic">effacé</hi> plusieurs monumens que les Poëtes ont celebrez.</quote>
+				    <bibl>VAUG.</bibl>
+				</cit>
+			    </sense>
+			    <etym>
+				Ce mot eſt derivé de <hi rend="italic">facies</hi>, ſelon <bibl>Nicod.</bibl>
+			    </etym>
+			    <sense n="2">
+				<form>
+				    <orth>EFFACER</orth>
+				</form>, 
+				<def>ſe dit figurément en choſes ſpirituelles &amp; morales.</def>
+				<cit type="example">
+				    <quote>Les bienfaits ſont bientôt <hi rend="italic">effacez</hi> de la memoire des ingrats.</quote>
+				</cit>
+				<cit type="example">
+				    <quote>Il faut <hi rend="italic">effacer</hi> ſes pechez par ſes larmes, par ſes aumônes.</quote>
+				</cit>
+				<cit type="example">
+				    <quote>Tous les pechez ſont <hi rend="italic">effacez</hi> par une vraye penitence. </quote>
+				</cit>
+				<cit type="example">
+				    <quote><hi rend="italic">Effacer</hi> un affront.</quote>
+				</cit>
+				<cit type="example">
+				    <quote>L'abſence affoiblit peu-à-peu l'idée de l'objet aimé, &amp; l'<hi rend="italic">efface</hi> enfin abſolument.</quote>
+				    <bibl>M. Sc.</bibl>
+				</cit>
+				<cit type="example">
+				    <quote>L'image de ſa grandeur n'étoît pas encore <hi rend="italic">effacée</hi> de leurs cœurs.</quote>
+				    <bibl>VAUG.</bibl>
+				</cit>
+				<cit type="example">
+				    <quote>Les Athées ne ſçauroient obſcurcir, ni <hi rend="italic">effacer</hi> entierement l'impreſſion d'une Divinité que la vuë de ce grand monde forme en eux.</quote>
+				    <bibl>NIC.</bibl>
+				</cit>
+				<cit type="example">
+				    <quote>
+					<l><hi rend="italic">L'âge qui toutes choſes efface,</hi></l>
+					<l><hi rend="italic">Confond les titres, &amp; les noms.</hi></l>
+				    </quote>
+				    <bibl>VOI.</bibl>
+				</cit>
+			    </sense>
+			    <sense n="3">
+				<form>
+				    <orth>EFFACER</orth>
+				</form>, 
+				<def>ſignifie auſſi, Obſcurcir, faire perdre l'éclat de quelque choſe par un plus grand brillant.</def>
+				<cit type="example">
+				    <quote>Le ſoleil qui monte ſur l'horiſon <hi rend="italic">efface</hi> tous les aſtres, tous les feux de la nuit.</quote>
+				</cit>
+				<cit type="example">
+				    <quote>Cette beauté a <hi rend="italic">effacé</hi> toutes les autres, dès qu'elle a paru dans le bal. Je la faiſois ſi brillante &amp; ſi belle, qu'elle <hi rend="italic">effaçoit</hi> toutes choſes.</quote>
+				    <bibl>VOIT.</bibl>
+				</cit>
+				<cit type="example">
+				    <quote>Les Philoſophes modernes ont <hi rend="italic">effacé</hi> pluſieurs anciens. Il <hi rend="italic">efface</hi> tous ceux qui l'ont precedé.</quote>
+				    <bibl>ABLAN.</bibl>
+				</cit>
+				<cit type="example">
+				    <quote>Naturellement nous avons un ſecret depit contre les perſonnes qui nous <hi rend="italic">effacent</hi></quote>
+				    <bibl>BELL.</bibl>
+				</cit>
+				<cit type="example">
+				    <quote>Si vous avez quelques qualitez éminentes qui <hi rend="italic">effacent</hi> celles des autres, if faut les en dedommager par beaucoup de modeſtie.</quote>
+				    <bibl>ID.</bibl>
+				</cit>
+			    </sense>
+			    <sense n="4">
+				<dictScrap>
+				    <form>
+					<orth>EFFACER</orth>
+				    </form>.
+				    <usg type="dom">Terme de Maître d'Armes.</usg>
+				    <def>C'eſt, Se tourner deſorte qu'on ne voye pas la partie du corps qu'on veut mettre à couvert.</def>
+				    <cit type="example">
+					<quote><hi rend="italic">Effacer</hi> l'épaule.</quote>
+				    </cit>
+				    <note>
+					<hi rend="italic">Effacer</hi> ſon corps, c'eſt, Regarder de demi-face celui contre qui on a à faire, mettant la main ſur la garde de l'épée pour être prêt à la tirer. <bibl>LIANCOURT.</bibl>
+				    </note>
+				</dictScrap>
+			    </sense>
+			    <sense n="5">
+				<re>
+				    <form type="dérivé">
+					<orth>EFFACÉ,ÉE</orth>
+				    </form>
+				    <gramGrp>
+					<pos expand="participe passé">part. pass.</pos>&amp;
+					<pos expand="adjectif">adj.</pos>
+				    </gramGrp>
+				</re>
+			    </sense>
+			</entry>
+			<entry xml:id="effaçure">
+			    <form>
+				<orth>EFFAÇURE</orth>
+			    </form>
+			    <gramGrp>
+				<pos expand="substantif">ſ.</pos>
+				<gen expand="féminin">f.</gen>
+			    </gramGrp>
+			    <sense>
+				<def>Rature.</def>
+				<cit type="example">
+				    <quote>Il y a bien des <hi rend="italic">effaçures</hi> dans ce manuſcrit.</quote>
+				</cit>
+			    </sense>
+			</entry>
+			<entry xml:id="effarer">
+			    <form>
+				<orth>EFFARER</orth>
+			    </form>
+			    <gramGrp>
+				<pos expand="verbe">v.</pos><subc expand="neutre">n.</subc>
+			    </gramGrp>
+			    <sense n="1">
+				<dictScrap>
+				    <def>Avoir quelque choſe de hagard, de farouche dans l'air, dans la mine; paroître troublé, &amp; comme hors de ſoi-même.</def>
+				    <note>On connoît que la rage ſaiſit un furieux, quand ſes yeux commencent à s'<hi rend="italic">effarer</hi>.</note>
+				    <etym><bibl>Menage </bibl>dérive ce mot de <hi rend="italic">efferare</hi>.</etym>
+				    <usg>Il eſt plus en uſage au participe.</usg>
+				    <cit type="example">
+					<quote>Il eſt venu tout <hi rend="italic">effaré</hi> nous annoncer la perte de la bataille.</quote>
+				    </cit>
+				    <cit type="example">
+					<quote>On a arrêté ce meurtrier, ſur ce qu'il s'enfuyoit tout interdit &amp; <hi rend="italic">effaré</hi>.</quote>
+				    </cit>
+				    <cit type="example">
+					<quote>Il avoit l'air ſi <hi rend="italic">effaré</hi>, &amp; ſi conſterné, qu'il étoit aiſé de reconnoître qu'une crainte exceſſive le troubloit.</quote>
+					<bibl>M. Sc.</bibl>
+				    </cit>
+				</dictScrap>
+			    </sense>
+			    <sense n="2">
+				<re>
+				    <form type="dérivé">
+					<orth>EFFARÉ</orth>
+				    </form>,
+				    <sense>
+					<dictScrap>
+					    <usg type="terme">en termes de Blaſon</usg>,
+					    <def>ſe dit d'un cheval levé ſur ſes pieds.</def>
+					</dictScrap>
+				    </sense>
+				</re>
+			    </sense>
+			</entry>
+			<entry xml:id="effaroucher">
+			<form>
+			    <orth>EFFAROUCHER</orth>
+			</form>
+			<gramGrp>
+			    <pos expand="verbe">v.</pos><subc expand="actif">act.</subc>
+			</gramGrp>
+			<sense n="1">
+			    <def>Epouvanter, effrayer;rendre farouche, &amp; ſauvage.</def>
+			    <cit type="example">
+				<quote>Les animaux timides s'<hi rend="italic">effarouchent</hi> aiſément, comme les chats, les oiſeaux.</quote>
+			    </cit>
+			    <cit type="example">
+				<quote>Vos menaces ont <hi rend="italic">effarouché</hi> vôtre partie, elle a pris la fuite.</quote>
+			    </cit>
+			</sense>
+			<sense n="2">
+			    <dictScrap>
+				<form>
+				    <orth>EFFAROUCHER</orth>
+				</form>, 
+				<usg type="style">ſe dit auſſi figurément</usg> à l'égard de l'eſprit.
+				<cit type="example">
+				    <quote>Les paradoxes <hi rend="italic">effarouchent</hi> l'eſprit du peuple preoccupé de ſes erreurs.</quote>
+				</cit>
+				<cit type="example">
+				    <quote>If faut, ſi vous m'en croyez, n'<hi rend="italic">effaroucher</hi> perſonne.</quote>
+				    <bibl>MOL.</bibl>
+				</cit>
+				<cit type="example">
+				    <quote>Ne prônez point trop vos proüeſſes amoureuſes, pour ne point <hi rend="italic">effaroucher</hi> les maris ſoupçonneux.</quote>
+				    <bibl>VILL.</bibl>
+				</cit>
+				<cit type="example">
+				    <quote>La ſublimité des myſteres de la Religion, <hi rend="italic">effarouche</hi>, &amp; ſouleve la raiſon</quote>
+				    <bibl>JU.</bibl>
+				</cit>
+				<cit type="example">
+				    <quote>Le ſeul nom de la pauvreté <hi rend="italic">effarouche</hi> ces Dames mondaines accoutumées au luxe, &amp; aux vanitez.</quote>
+				    <bibl>FL.</bibl>
+				</cit>
+				<etym>
+				    Ce mot eſt derivé du <lang>Latin</lang> <hi rend="italic">efferocare</hi>, ſelon <bibl>Menage</bibl>.
+				</etym>
+			    </dictScrap>
+			</sense>
+			<sense n="3">
+			    <re>
+				<form type="dérivé">
+				    <orth>EFFAROUCHÉ,ÉE</orth>
+				</form>
+				<gramGrp>
+				    <pos expand="participe passé">part. pass.</pos>&amp;
+				    <pos expand="adjectif">adj.</pos>
+				</gramGrp>
+				<sense>
+				    <cit type="example">
+					<quote>Ce qui augmentoit ſa doubleur, c'étoit de voir ſes amis <hi rend="italic">effarouchez</hi>, &amp; que perſonne n'oſoit plus l'aborder.</quote>
+					<bibl>VAU.</bibl>
+				    </cit>
+				</sense>
+			    </re>
+			</sense>
+			<sense n="4">
+			    <re>
+				<dictScrap>
+				    <form type="dérivé">
+					<orth>EFFAROUCHÉ</orth>
+				    </form>
+				    <sense>
+					<usg type="terme">en termes de Blaſon,</usg>
+					<def>ſe dit d'un chat, lorſqu'il eſt en action rampante.</def>
+					<note>On l'appelle auſſi <hi rend="italic">effaré</hi>.</note>
+				    </sense>
+				</dictScrap>
+			    </re>
+			</sense>
+		    </entry>
+		</div>
+	    </div>
+	</div>
+	</body>
+    </text>
+</TEI>

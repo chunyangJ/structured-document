@@ -1,0 +1,870 @@
+<mod type="add">
+  <add>faisant route sur une charette</add>
+</mod>
+<mod type="add">
+  <add>assez</add>
+</mod>
+<mod type="add">
+  <add>petite</add>
+</mod>
+<mod type="add">
+  <add>le</add>
+</mod>
+<mod type="add">
+  <add>lui</add>
+</mod>
+<mod type="add">
+  <add>le</add>
+</mod>
+<mod type="add">
+  <add>,</add>
+</mod>
+<mod type="add">
+  <add>et de son jean</add>
+</mod>
+<mod type="add">
+  <add>sa légère barbe qui poussait et</add>
+</mod>
+<mod type="add">
+  <add>lisse,<mod type="del">
+      <del>et</del>
+    </mod>sans imperfections</add>
+</mod>
+<mod type="add">
+  <add>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>très protecteur envers</add>
+</mod>
+<mod type="add">
+  <add>#XXX#</add>
+</mod>
+<mod type="add">
+  <add>était<mod type="corr">
+      <orig>a</orig>
+      <reg>à</reg>
+    </mod>plus de 500<mod type="del">
+      <del>m</del>
+    </mod>mais il</add>
+</mod>
+<mod type="add">
+  <add>,</add>
+</mod>
+<mod type="add">
+  <add>car</add>
+</mod>
+<mod type="add">
+  <add>maintenant</add>
+</mod>
+<mod type="add">
+  <add>e</add>
+</mod>
+<mod type="add">
+  <add>avec sa femme</add>
+</mod>
+<mod type="add">
+  <add>le<mod type="corr">
+      <orig>desespoir</orig>
+      <reg>déséspoir</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>28</add>
+</mod>
+<mod type="add">
+  <add>T2#Il était<mod type="corr">
+      <orig>vêtue</orig>
+      <reg>vêtu</reg>
+    </mod>d'un<mod type="corr">
+      <orig>teeshirt</orig>
+      <reg>t-shirt</reg>
+    </mod>à carreaux qui ne servait strictement car il<mod type="corr">
+      <orig>ét<mod type="subst">
+          <del>
+            <mod type="del">
+              <del>ait</del>
+            </mod>
+          </del>
+          <add>é</add>
+        </mod>
+      </orig>
+      <reg>était</reg>
+    </mod>déchiré<mod type="del">
+      <del>#XXX#</del>
+    </mod>par sa femme pendant la dispute, au dessus avait celui-ci il portait un gilet.....</add>
+</mod>
+<mod type="add">
+  <add>il</add>
+</mod>
+<mod type="add">
+  <add>T2#e</add>
+</mod>
+<mod type="add">
+  <add>T2#.</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>T2#s.</add>
+</mod>
+<mod type="add">
+  <add>T2#ent</add>
+</mod>
+<mod type="add">
+  <add>T2#en</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>T2#reverbère,</add>
+</mod>
+<mod type="add">
+  <add>de #XXX#</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#sser</add>
+</mod>
+<mod type="add">
+  <add>T2#é</add>
+</mod>
+<mod type="add">
+  <add>T2#était</add>
+</mod>
+<mod type="add">
+  <add>T2#é</add>
+</mod>
+<mod type="add">
+  <add>T2#é</add>
+</mod>
+<mod type="add">
+  <add>de</add>
+</mod>
+<mod type="add">
+  <add>On ne pouvait s'<mod type="corr">
+      <orig>intérrésé</orig>
+      <reg>intéresser</reg>
+    </mod>que<mod type="corr">
+      <orig>a</orig>
+      <reg>à</reg>
+    </mod>la géologie de toute maniere.</add>
+</mod>
+<mod type="add">
+  <add>T2#e</add>
+</mod>
+<mod type="add">
+  <add>T2#de</add>
+</mod>
+<mod type="add">
+  <add>T2#es</add>
+</mod>
+<mod type="add">
+  <add>T2#es</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2s</add>
+</mod>
+<mod type="add">
+  <add>T2#ent</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#etait: l'homme le plus riche du monde...</add>
+</mod>
+<mod type="add">
+  <add>une grosse écharpe en laine et des gants noirs</add>
+</mod>
+<mod type="add">
+  <add>T2#a</add>
+</mod>
+<mod type="add">
+  <add>T2#é</add>
+</mod>
+<mod type="add">
+  <add>T2#-même</add>
+</mod>
+<mod type="add">
+  <add>T2#il avait entendu un grand bruit</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>T2#é</add>
+</mod>
+<mod type="add">
+  <add>s'approche</add>
+</mod>
+<mod type="add">
+  <add>T2#r</add>
+</mod>
+<mod type="add">
+  <add>T2#s'avère être un homme d'une vingtaine d'années environ. Ils furent<mod type="corr">
+      <orig>tout</orig>
+      <reg>tous</reg>
+    </mod>deux<mod type="corr">
+      <orig>surprit</orig>
+      <reg>surpris</reg>
+    </mod>de l'étrange ressemblance qu'ils partageaient. L'inconnu était...</add>
+</mod>
+<mod type="add">
+  <add>T2#Les deux hommes s'échangent quelques banalités. Le mystérieux bouclé s'appelle Edward, il a 22 ans.<mod type="del">
+      <del>Au fur et à mesure qu'ils se parlait</del>
+    </mod>,<mod type="subst">
+      <del>
+        <mod type="del">
+          <del>Har</del>
+        </mod>
+      </del>
+      <add>Edward</add>
+    </mod>parlait distinctement et avec aisance.</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#.</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#ent</add>
+</mod>
+<mod type="add">
+  <add>T2#e</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>(#XXX# #XXX# #XXX#)</add>
+</mod>
+<mod type="add">
+  <add>presager</add>
+</mod>
+<mod type="add">
+  <add>bleu</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>T2#d'ailleur</add>
+</mod>
+<mod type="add">
+  <add>T2#pour mendier<mod type="del">
+      <del>un peu #XXX#</del>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>ans</add>
+</mod>
+<mod type="add">
+  <add>un regard charmeur avec un soleil<mod type="del">
+      <del>soin</del>
+    </mod>à l'intérieur des yeux</add>
+</mod>
+<mod type="add">
+  <add>avait sombri dans l'alcoolismme</add>
+</mod>
+<mod type="add">
+  <add>
+    <mod type="del">
+      <del>une</del>
+    </mod>il voulait se<mod type="corr">
+      <orig>redraiser</orig>
+      <reg>redresser</reg>
+    </mod>alors il</add>
+</mod>
+<mod type="add">
+  <add>T2#marchait</add>
+</mod>
+<mod type="add">
+  <add>T2#l'envie de se resaisir</add>
+</mod>
+<mod type="add">
+  <add>ou semaine</add>
+</mod>
+<mod type="add">
+  <add>cependant</add>
+</mod>
+<mod type="add">
+  <add>et froide</add>
+</mod>
+<mod type="add">
+  <add>Il s'approcha premièrement d'une première demeure</add>
+</mod>
+<mod type="add">
+  <add>contre quelques imposantes<mod type="corr">
+      <orig>pieces</orig>
+      <reg>pièces</reg>
+    </mod>de monnaie</add>
+</mod>
+<mod type="add">
+  <add>qui était si piteuse</add>
+</mod>
+<mod type="add">
+  <add>et de<mod type="corr">
+      <orig>préfèrer</orig>
+      <reg>préférer</reg>
+    </mod>des meilleurs soins</add>
+</mod>
+<mod type="add">
+  <add>maintenant</add>
+</mod>
+<mod type="add">
+  <add>recroquvill#XXX#</add>
+</mod>
+<mod type="add">
+  <add>donnait l'impression</add>
+</mod>
+<mod type="add">
+  <add>,</add>
+</mod>
+<mod type="add">
+  <add>celle-ci</add>
+</mod>
+<mod type="add">
+  <add>une couleur que</add>
+</mod>
+<mod type="add">
+  <add>bege</add>
+</mod>
+<mod type="add">
+  <add>particulièrement menues</add>
+</mod>
+<mod type="add">
+  <add>dépaçait</add>
+</mod>
+<mod type="add">
+  <add>quelque</add>
+</mod>
+<mod type="add">
+  <add>doit</add>
+</mod>
+<mod type="add">
+  <add>pied</add>
+</mod>
+<mod type="add">
+  <add>,</add>
+</mod>
+<mod type="add">
+  <add>à peine travaillé</add>
+</mod>
+<mod type="add">
+  <add>puis que</add>
+</mod>
+<mod type="add">
+  <add>les</add>
+</mod>
+<mod type="add">
+  <add>de la jeune femme</add>
+</mod>
+<mod type="add">
+  <add>très</add>
+</mod>
+<mod type="add">
+  <add>#XXX#</add>
+</mod>
+<mod type="add">
+  <add>très précipitament</add>
+</mod>
+<mod type="add">
+  <add>on se marier sans avoir été consultter, ni avoir donner son consentement</add>
+</mod>
+<mod type="add">
+  <add>assez imposant mais c'est ce qui faisait tout son charme</add>
+</mod>
+<mod type="add">
+  <add>son</add>
+</mod>
+<mod type="add">
+  <add>quelques fruits</add>
+</mod>
+<mod type="add">
+  <add>tous deux</add>
+</mod>
+<mod type="add">
+  <add>ce</add>
+</mod>
+<mod type="add">
+  <add>il voit</add>
+</mod>
+<mod type="add">
+  <add>petit de taille</add>
+</mod>
+<mod type="add">
+  <add>et troué<mod type="del">
+      <del>e</del>
+    </mod>s</add>
+</mod>
+<mod type="add">
+  <add>noir</add>
+</mod>
+<mod type="add">
+  <add>marrin</add>
+</mod>
+<mod type="add">
+  <add>et attachés</add>
+</mod>
+<mod type="add">
+  <add>et sales</add>
+</mod>
+<mod type="add">
+  <add>en place, probablement<mod type="corr">
+      <orig>du</orig>
+      <reg>dû</reg>
+    </mod>au<mod type="corr">
+      <orig>faite</orig>
+      <reg>fait</reg>
+    </mod>qui l'<mod type="subst">
+      <del>
+        <mod type="del">
+          <del>avanceait</del>
+        </mod>
+      </del>
+      <add>avancait</add>
+    </mod>à une vitesse incroyable, s'il avait comme nous nomiont #XXX# #XXX# #XXX# #XXX# #XXX# différence.</add>
+</mod>
+<mod type="add">
+  <add>au niveau du poigné droit</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>en colère</add>
+</mod>
+<mod type="add">
+  <add>qui dérive sur le<mod type="corr">
+      <orig>poteau</orig>
+      <reg>poto</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>à peine voyant</add>
+</mod>
+<mod type="add">
+  <add>et ses cousins</add>
+</mod>
+<mod type="add">
+  <add>au loin</add>
+</mod>
+<mod type="add">
+  <add>au<mod type="del">
+      <del>fure et à mesure</del>
+    </mod>fil des pas</add>
+</mod>
+<mod type="add">
+  <add>Elle parait petite et possède quelques<mod type="del">
+      <del>fines</del>
+    </mod>formes misent en valeur<mod type="corr">
+      <orig>ds</orig>
+      <reg>dans</reg>
+    </mod>sa robe<mod type="del">
+      <del>#XXX#</del>
+    </mod>assez moulante et son<mod type="corr">
+      <orig>légés</orig>
+      <reg>léger</reg>
+    </mod>
+    <mod type="corr">
+      <orig>décol<mod type="del">
+          <del>l</del>
+        </mod>té</orig>
+      <reg>décolleté</reg>
+    </mod>qui laisse entrevoir une partie de<mod type="del">
+      <del>#XXX#</del>
+    </mod>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>son cou.</add>
+</mod>
+<mod type="add">
+  <add>et</add>
+</mod>
+<mod type="add">
+  <add>
+    <mod type="corr">
+      <orig>relevée</orig>
+      <reg>relevées</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>longs et lisses</add>
+</mod>
+<mod type="add">
+  <add>du maquillage noir étalé partout<mod type="subst">
+      <del>
+        <mod type="del">
+          <del>son</del>
+        </mod>
+      </del>
+      <add>son</add>
+    </mod>
+    <mod type="subst">
+      <del>
+        <mod type="del">
+          <del>#XXX#</del>
+        </mod>
+      </del>
+      <add>ses</add>
+    </mod>yeux rougis et gonflés</add>
+</mod>
+<mod type="add">
+  <add>'</add>
+</mod>
+<mod type="add">
+  <add>pas</add>
+</mod>
+<mod type="add">
+  <add>les voit</add>
+</mod>
+<mod type="add">
+  <add>lui aussi</add>
+</mod>
+<mod type="add">
+  <add>s</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>comment quarante ans de vie pouvaient être</add>
+</mod>
+<mod type="add">
+  <add>Cela</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>il reste<mod type="corr">
+      <orig>a</orig>
+      <reg>à</reg>
+    </mod>pied #XXX# #XXX# #XXX# #XXX#</add>
+</mod>
+<mod type="add">
+  <add>vraiment</add>
+</mod>
+<mod type="add">
+  <add>lorsqu'il</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>et est en plein divorse</add>
+</mod>
+<mod type="add">
+  <add>sur le</add>
+</mod>
+<mod type="add">
+  <add>d'avoir<mod type="corr">
+      <orig>bcp</orig>
+      <reg>beaucoup</reg>
+    </mod>de<mod type="corr">
+      <orig>pb</orig>
+      <reg>problèmes</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>Barbe de<mod type="corr">
+      <orig>3</orig>
+      <reg>trois</reg>
+    </mod>jours§ Vêtements sales§ perdu§ Yeux fatigués§ Quand il aperçoit le réverbère sourire</add>
+</mod>
+<mod type="add">
+  <add>T2#,</add>
+</mod>
+<mod type="add">
+  <add>T2#qui</add>
+</mod>
+<mod type="add">
+  <add>e</add>
+</mod>
+<mod type="add">
+  <add>T2# au martini</add>
+</mod>
+<mod type="add">
+  <add>e</add>
+</mod>
+<mod type="add">
+  <add>en chouchotant</add>
+</mod>
+<mod type="add">
+  <add>un vocabulaire inconnu</add>
+</mod>
+<mod type="add">
+  <add>leva</add>
+</mod>
+<mod type="add">
+  <add>et</add>
+</mod>
+<mod type="add">
+  <add>ent</add>
+</mod>
+<mod type="add">
+  <add>avec sa femme et sa fille</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#e</add>
+</mod>
+<mod type="add">
+  <add>T2#e</add>
+</mod>
+<mod type="add">
+  <add>T2#plus précisemment</add>
+</mod>
+<mod type="add">
+  <add>Sous ce même réverbère où se diriger l'homme</add>
+</mod>
+<mod type="add">
+  <add>Dans cette nuit noire</add>
+</mod>
+<mod type="add">
+  <add>on vit</add>
+</mod>
+<mod type="add">
+  <add>L'homme était maintenant sous le réverbère</add>
+</mod>
+<mod type="add">
+  <add>nous faisait<mod type="corr">
+      <orig>eprouve</orig>
+      <reg>éprouver</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>#XXX#</add>
+</mod>
+<mod type="add">
+  <add>#XXX#</add>
+</mod>
+<mod type="add">
+  <add>#XXX#</add>
+</mod>
+<mod type="add">
+  <add>à ne plus<mod type="corr">
+      <orig>marché</orig>
+      <reg>marcher</reg>
+    </mod>droit</add>
+</mod>
+<mod type="add">
+  <add>que</add>
+</mod>
+<mod type="add">
+  <add>#XXX#</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#e</add>
+</mod>
+<mod type="add">
+  <add>T2#e</add>
+</mod>
+<mod type="add">
+  <add>T2#XXX#</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>T2#s</add>
+</mod>
+<mod type="add">
+  <add>encore</add>
+</mod>
+<mod type="add">
+  <add>sous<mod type="del">
+      <del>la lumière</del>
+    </mod>le<mod type="corr">
+      <orig>lampadert</orig>
+      <reg>lampadaire</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>le p#XXX#ne homme</add>
+</mod>
+<mod type="add">
+  <add>Celui-ci</add>
+</mod>
+<mod type="add">
+  <add>cétait</add>
+</mod>
+<mod type="add">
+  <add>tomba de fatigue</add>
+</mod>
+<mod type="add">
+  <add>encore moins</add>
+</mod>
+<mod type="add">
+  <add>t</add>
+</mod>
+<mod type="add">
+  <add>T2#er</add>
+</mod>
+<mod type="add">
+  <add>de l'homme</add>
+</mod>
+<mod type="add">
+  <add>malsain</add>
+</mod>
+<mod type="add">
+  <add>maigre</add>
+</mod>
+<mod type="add">
+  <add>de son</add>
+</mod>
+<mod type="add">
+  <add>dans</add>
+</mod>
+<mod type="add">
+  <add>ou</add>
+</mod>
+<mod type="add">
+  <add>quand il</add>
+</mod>
+<mod type="add">
+  <add>si inténsement qu'on pouvait croire qu'il cherchait une lueur d'espoir</add>
+</mod>
+<mod type="add">
+  <add>car ses yeux exprimaient un profond</add>
+</mod>
+<mod type="add">
+  <add>Peut-être avait-il</add>
+</mod>
+<mod type="add">
+  <add>on pouvait</add>
+</mod>
+<mod type="add">
+  <add>confirmer cette question</add>
+</mod>
+<mod type="add">
+  <add>qui faisait ressortir ses muscles</add>
+</mod>
+<mod type="add">
+  <add>faisait un</add>
+</mod>
+<mod type="add">
+  <add>contraste avec</add>
+</mod>
+<mod type="add">
+  <add>la même</add>
+</mod>
+<mod type="add">
+  <add>un profond</add>
+</mod>
+<mod type="add">
+  <add>y</add>
+</mod>
+<mod type="add">
+  <add>r</add>
+</mod>
+<mod type="add">
+  <add>e</add>
+</mod>
+<mod type="add">
+  <add>voix</add>
+</mod>
+<mod type="add">
+  <add>heure</add>
+</mod>
+<mod type="add">
+  <add>ne cesse de</add>
+</mod>
+<mod type="add">
+  <add>un<mod type="corr">
+      <orig>éleves</orig>
+      <reg>élève</reg>
+    </mod>de 1ere.</add>
+</mod>
+<mod type="add">
+  <add>arrivé</add>
+</mod>
+<mod type="add">
+  <add>seule</add>
+</mod>
+<mod type="add">
+  <add>que</add>
+</mod>
+<mod type="add">
+  <add>nt</add>
+</mod>
+<mod type="add">
+  <add>nt</add>
+</mod>
+<mod type="add">
+  <add>s</add>
+</mod>
+<mod type="add">
+  <add>m</add>
+</mod>
+<mod type="add">
+  <add>n'</add>
+</mod>
+<mod type="add">
+  <add>debout</add>
+</mod>
+<mod type="add">
+  <add>.</add>
+</mod>

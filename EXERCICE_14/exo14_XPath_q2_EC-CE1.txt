@@ -1,0 +1,587 @@
+<mod type="add">
+  <add>P#une autre porcherie.</add>
+</mod>
+<mod type="add">
+  <add>P#Celle de son cousin.</add>
+</mod>
+<mod type="add">
+  <add>P#son cousin</add>
+</mod>
+<mod type="add">
+  <add>P#Il n’y a pas assez de place.</add>
+</mod>
+<mod type="add">
+  <add>P#<mod type="del">
+      <del>il</del>
+    </mod>va dans une autre ferme.</add>
+</mod>
+<mod type="add">
+  <add>P#la fille des fermiers de la nouvelle ferme.</add>
+</mod>
+<mod type="add">
+  <add>P#il retourne à la ferme parce qu’il n’y a pas de boue dans la nouvelle ferme.</add>
+</mod>
+<mod type="add">
+  <add>P#Alors Porculus décida d’aller dans<mod type="del">
+      <del>dan</del>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#autre</add>
+</mod>
+<mod type="add">
+  <add>dans</add>
+</mod>
+<mod type="add">
+  <add>P#dans une autre ferme. le fermier est gentil avec lui.</add>
+</mod>
+<mod type="add">
+  <add>P#gentil</add>
+</mod>
+<mod type="add">
+  <add>P#nettoyer</add>
+</mod>
+<mod type="add">
+  <add>P#Alors, Porculus décida d’aller</add>
+</mod>
+<mod type="add">
+  <add>P#Il rencontra un renard. Il pleut. Il y a de la boue.</add>
+</mod>
+<mod type="add">
+  <add>P#Il va dormir dans une porcherie. Il reste toute la vie.</add>
+</mod>
+<mod type="add">
+  <add>P#forêt</add>
+</mod>
+<mod type="add">
+  <add>P#Il a aller dans une autre porcherie</add>
+</mod>
+<mod type="add">
+  <add>P#Il va rencontrer</add>
+</mod>
+<mod type="add">
+  <add>P#Il va revenir dans la vielle ferme.</add>
+</mod>
+<mod type="add">
+  <add>P#Dans la forêt.</add>
+</mod>
+<mod type="add">
+  <add>sa<mod type="corr">
+      <orig>bout</orig>
+      <reg>boue</reg>
+    </mod>
+    <mod type="corr">
+      <orig>á</orig>
+      <reg>à</reg>
+    </mod>
+    <mod type="corr">
+      <orig>proculus</orig>
+      <reg>Porculus</reg>
+    </mod>
+    <mod type="corr">
+      <orig>é</orig>
+      <reg>est</reg>
+    </mod>glacée<mod type="corr">
+      <orig>é</orig>
+      <reg>et</reg>
+    </mod>
+    <mod type="corr">
+      <orig>refiin</orig>
+      <reg>revint</reg>
+    </mod>
+    <mod type="corr">
+      <orig>á</orig>
+      <reg>à</reg>
+    </mod>la<mod type="corr">
+      <orig>faime</orig>
+      <reg>ferme</reg>
+    </mod>
+    <mod type="corr">
+      <orig>e</orig>
+      <reg>et</reg>
+    </mod>
+    <mod type="corr">
+      <orig>
+        <mod type="del">
+          <del>l</del>
+        </mod>il</orig>
+      <reg>il</reg>
+    </mod>
+    <mod type="corr">
+      <orig>remé</orig>
+      <reg>remet</reg>
+    </mod>de la<mod type="del">
+      <del>#XXX#</del>
+    </mod>
+    <mod type="corr">
+      <orig>bout</orig>
+      <reg>boue</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>P#glacée</add>
+</mod>
+<mod type="add">
+  <add>me</add>
+</mod>
+<mod type="add">
+  <add>P#va dans une autre ferme</add>
+</mod>
+<mod type="add">
+  <add>P#un garçon</add>
+</mod>
+<mod type="add">
+  <add>P#rester</add>
+</mod>
+<mod type="add">
+  <add>dans la<mod type="corr">
+      <orig>nouvele</orig>
+      <reg>nouvelle</reg>
+    </mod>
+    <mod type="corr">
+      <orig>fèreme</orig>
+      <reg>ferme</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>P#dans la nouvelle</add>
+</mod>
+<mod type="add">
+  <add>P#chercher</add>
+</mod>
+<mod type="add">
+  <add>P#copain</add>
+</mod>
+<mod type="add">
+  <add>P#un copain des bois.</add>
+</mod>
+<mod type="add">
+  <add>P#il va retourner à la ferme</add>
+</mod>
+<mod type="add">
+  <add>aller dans une Porcherie</add>
+</mod>
+<mod type="add">
+  <add>autre</add>
+</mod>
+<mod type="add">
+  <add>P#dans une autre ferme</add>
+</mod>
+<mod type="add">
+  <add>P#Dehors, il va trouver de la boue. Dans un parc</add>
+</mod>
+<mod type="add">
+  <add>P#parc</add>
+</mod>
+<mod type="add">
+  <add>P#dans une autre ferme</add>
+</mod>
+<mod type="add">
+  <add>P#un copain cochon</add>
+</mod>
+<mod type="add">
+  <add>P#il va chercher une autre ferme où il y<mod type="del">
+      <del>a</del>
+    </mod>a de la boue.</add>
+</mod>
+<mod type="add">
+  <add>P#le fermier<mod type="subst">
+      <del>
+        <mod type="del">
+          <del>de la nouvelle</del>
+        </mod>
+      </del>
+      <add>d’une autre</add>
+    </mod>ferme.</add>
+</mod>
+<mod type="add">
+  <add>P#il</add>
+</mod>
+<mod type="add">
+  <add>P#il décide de rester dans sa nouvelle ferme parce qu’il y a beaucoup de boue.</add>
+</mod>
+<mod type="add">
+  <add>P#Alors Porculus décida d’aller</add>
+</mod>
+<mod type="add">
+  <add>P#Là où il a plu dans la ville.</add>
+</mod>
+<mod type="add">
+  <add>P#La porcherie lui manque.</add>
+</mod>
+<mod type="add">
+  <add>P#part chercher une nouvelle flaque de boue.</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>P#un petit garçon.</add>
+</mod>
+<mod type="add">
+  <add>P#le garçon va<mod type="del">
+      <del>l’accompagn</del>
+    </mod>l’accompagner dans une</add>
+</mod>
+<mod type="add">
+  <add>P#<mod type="del">
+      <del>il</del>
+    </mod>est parti dans la forêt à la recherche de sa boue</add>
+</mod>
+<mod type="add">
+  <add>P#qu’un qui se promène.</add>
+</mod>
+<mod type="add">
+  <add>P#il revient à la ferme parce qu’il n’apas trouvé de boue.</add>
+</mod>
+<mod type="add">
+  <add>P#Alors, Porculus décida d’aller</add>
+</mod>
+<mod type="add">
+  <add>P#dans la forêt à la recherche de la boue.Un monsieur qui se promenait dans la forêt l’emmène chez lui et lui met de la boue dehors avec une cabane. Porculus reste chez lui.</add>
+</mod>
+<mod type="add">
+  <add>P#va dans une autre ferme</add>
+</mod>
+<mod type="add">
+  <add>P#un autre cochon</add>
+</mod>
+<mod type="add">
+  <add>P#forêt</add>
+</mod>
+<mod type="add">
+  <add>P#autre</add>
+</mod>
+<mod type="add">
+  <add>P#trouvé</add>
+</mod>
+<mod type="add">
+  <add>P#vieille</add>
+</mod>
+<mod type="add">
+  <add>P#chèvre</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#r</add>
+</mod>
+<mod type="add">
+  <add>P#!</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#e.</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#en train</add>
+</mod>
+<mod type="add">
+  <add>P#r</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#r</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#n</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#e.</add>
+</mod>
+<mod type="add">
+  <add>P#essaya</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#qu'il n'</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>P#r</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#re</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>P#loin</add>
+</mod>
+<mod type="add">
+  <add>P#l'</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>P#déjà</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#y a</add>
+</mod>
+<mod type="add">
+  <add>P#qu'</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#pensait</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#y</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#n'y</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P.</add>
+</mod>
+<mod type="add">
+  <add>P#ne.</add>
+</mod>
+<mod type="add">
+  <add>P#la</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#renard</add>
+</mod>
+<mod type="add">
+  <add>P#lui</add>
+</mod>
+<mod type="add">
+  <add>P#boue.</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>P#r</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#Elle</add>
+</mod>
+<mod type="add">
+  <add>P#lle</add>
+</mod>
+<mod type="add">
+  <add>P#ne</add>
+</mod>
+<mod type="add">
+  <add>P#bonne</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#y</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>P#maintenant</add>
+</mod>
+<mod type="add">
+  <add>P#st</add>
+</mod>
+<mod type="add">
+  <add>P#ux</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>P#bien</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#t</add>
+</mod>
+<mod type="add">
+  <add>P#y</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#t:</add>
+</mod>
+<mod type="add">
+  <add>P#C'est</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#ux</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#r</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#connais</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#s</add>
+</mod>
+<mod type="add">
+  <add>P#?</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#de</add>
+</mod>
+<mod type="add">
+  <add>P#merci</add>
+</mod>
+<mod type="add">
+  <add>P#même</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#n</add>
+</mod>
+<mod type="add">
+  <add>P#,</add>
+</mod>
+<mod type="add">
+  <add>P#sens</add>
+</mod>
+<mod type="add">
+  <add>P#seule</add>
+</mod>
+<mod type="add">
+  <add>P#j'étais</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#toute</add>
+</mod>
+<mod type="add">
+  <add>P#.</add>
+</mod>
+<mod type="add">
+  <add>P#n</add>
+</mod>
+<mod type="add">
+  <add>P#d:</add>
+</mod>
+<mod type="add">
+  <add>P#e</add>
+</mod>
+<mod type="add">
+  <add>P#n</add>
+</mod>

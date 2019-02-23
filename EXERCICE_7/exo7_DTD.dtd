@@ -1,0 +1,17 @@
+<!ELEMENT doc (entete?, taggersent+)>
+<!ELEMENT entete (auteur)+>
+<!ELEMENT auteur (nom, prenom, etablissement, contact*)>
+<!ATTLIST auteur
+          id ID #REQUIRED>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT etablissement (#PCDATA)>
+<!ELEMENT contact (#PCDATA)>
+<!ATTLIST contact
+          moyen (email|telephone|mobile|postal) "email">
+<!ELEMENT taggersent (taggertoken+)>
+<!ELEMENT taggertoken EMPTY>
+<!ATTLIST taggertoken
+          wordform CDATA #REQUIRED
+          lemma CDATA #REQUIRED
+          pos CDATA #REQUIRED>

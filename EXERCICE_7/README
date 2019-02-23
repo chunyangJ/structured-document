@@ -1,0 +1,4 @@
+XSLT q3 : exo7_XSLT_q3 Définir une feuille de styles de telle sorte :nom des éléments = catégorie grammaticale; valeur des éléments = forme des tokens
+ne fonctionne pas avec un processeur de navigateur (à cause de certaines fonctions de XSLT 2.0), son résultat a été transformé par oXygen (Saxon HE 9.1.5.7)
+
+XPath : des requêtes XPath sont réalisées notamment avec des fonctions de XPath 2.0, telle que string() sur un ensemble de valeurs

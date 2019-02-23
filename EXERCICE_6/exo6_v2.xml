@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="exo6_v2.xsl"?>
+<table>
+  <ligne>
+    <infirmiere>2</infirmiere>
+    <age>29</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>2.50</anciennete_neonatalite>
+    <classe_anciennete>entre 1 et 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>9</infirmiere>
+    <age>27</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>3.00</anciennete_neonatalite>
+    <classe_anciennete>entre 1 et 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>13</infirmiere>
+    <age>34</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>3.00</anciennete_neonatalite>
+    <classe_anciennete>entre 1 et 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>18</infirmiere>
+    <age>27</age>
+    <annees_etudes>4</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>2.50</anciennete_neonatalite>
+    <classe_anciennete>entre 1 et 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>36</infirmiere>
+    <age>26</age>
+    <annees_etudes>4</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>2.00</anciennete_neonatalite>
+    <classe_anciennete>entre 1 et 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>39</infirmiere>
+    <age>33</age>
+    <annees_etudes>4</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>3.00</anciennete_neonatalite>
+    <classe_anciennete>entre 1 et 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>43</infirmiere>
+    <age>26</age>
+    <annees_etudes>4</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>2.00</anciennete_neonatalite>
+    <classe_anciennete>entre 1 et 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>61</infirmiere>
+    <age>26</age>
+    <annees_etudes>4</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>3.00</anciennete_neonatalite>
+    <classe_anciennete>entre 1 et 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>62</infirmiere>
+    <age>33</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>1.00</anciennete_neonatalite>
+    <classe_anciennete>entre 1 et 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>44</infirmiere>
+    <age>29</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>2.00</anciennete_neonatalite>
+    <classe_anciennete>entre 1 et 5 ans</classe_anciennete>
+    <service>Nuit</service>
+  </ligne>
+  <ligne>
+    <infirmiere>47</infirmiere>
+    <age>30</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>3.00</anciennete_neonatalite>
+    <classe_anciennete>entre 1 et 5 ans</classe_anciennete>
+    <service>Nuit</service>
+  </ligne>
+  <ligne>
+    <infirmiere>73</infirmiere>
+    <age>29</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BAC</diplome>
+    <anciennete_neonatalite>1.50</anciennete_neonatalite>
+    <classe_anciennete>entre 1 et 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>41</infirmiere>
+    <age>26</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>0.00</anciennete_neonatalite>
+    <classe_anciennete>moins de 1 an</classe_anciennete>
+    <service>Non connu</service>
+  </ligne>
+  <ligne>
+    <infirmiere>24</infirmiere>
+    <age>26</age>
+    <annees_etudes>4</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>0.00</anciennete_neonatalite>
+    <classe_anciennete>moins de 1 an</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>32</infirmiere>
+    <age>26</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>0.00</anciennete_neonatalite>
+    <classe_anciennete>moins de 1 an</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>34</infirmiere>
+    <age>31</age>
+    <annees_etudes>4</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>0.00</anciennete_neonatalite>
+    <classe_anciennete>moins de 1 an</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>46</infirmiere>
+    <age>21</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>0.00</anciennete_neonatalite>
+    <classe_anciennete>moins de 1 an</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>65</infirmiere>
+    <age>21</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>0.50</anciennete_neonatalite>
+    <classe_anciennete>moins de 1 an</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>67</infirmiere>
+    <age>25</age>
+    <annees_etudes>4</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>0.00</anciennete_neonatalite>
+    <classe_anciennete>moins de 1 an</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>68</infirmiere>
+    <age>24</age>
+    <annees_etudes>4</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>0.00</anciennete_neonatalite>
+    <classe_anciennete>moins de 1 an</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>70</infirmiere>
+    <age>29</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>0.00</anciennete_neonatalite>
+    <classe_anciennete>moins de 1 an</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>81</infirmiere>
+    <age>25</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>0.00</anciennete_neonatalite>
+    <classe_anciennete>moins de 1 an</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>97</infirmiere>
+    <age>25</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>0.00</anciennete_neonatalite>
+    <classe_anciennete>moins de 1 an</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>1</infirmiere>
+    <age>23</age>
+    <annees_etudes>4</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>0.00</anciennete_neonatalite>
+    <classe_anciennete>moins de 1 an</classe_anciennete>
+    <service>Nuit</service>
+  </ligne>
+  <ligne>
+    <infirmiere>33</infirmiere>
+    <age>34</age>
+    <annees_etudes>4</annees_etudes>
+    <diplome>BAC</diplome>
+    <anciennete_neonatalite>0.00</anciennete_neonatalite>
+    <classe_anciennete>moins de 1 an</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>4</infirmiere>
+    <age>31</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>7.00</anciennete_neonatalite>
+    <classe_anciennete>plus de 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>6</infirmiere>
+    <age>30</age>
+    <annees_etudes>4</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>7.00</anciennete_neonatalite>
+    <classe_anciennete>plus de 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>19</infirmiere>
+    <age>28</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>5.00</anciennete_neonatalite>
+    <classe_anciennete>plus de 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>21</infirmiere>
+    <age>31</age>
+    <annees_etudes>4</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>8.00</anciennete_neonatalite>
+    <classe_anciennete>plus de 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>99</infirmiere>
+    <age>31</age>
+    <annees_etudes>4</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>8.50</anciennete_neonatalite>
+    <classe_anciennete>plus de 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>8</infirmiere>
+    <age>44</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>19.00</anciennete_neonatalite>
+    <classe_anciennete>plus de 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>3</infirmiere>
+    <age>34</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>5.00</anciennete_neonatalite>
+    <classe_anciennete>plus de 5 ans</classe_anciennete>
+    <service>Nuit</service>
+  </ligne>
+  <ligne>
+    <infirmiere>7</infirmiere>
+    <age>39</age>
+    <annees_etudes>4</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>19.00</anciennete_neonatalite>
+    <classe_anciennete>plus de 5 ans</classe_anciennete>
+    <service>Nuit</service>
+  </ligne>
+  <ligne>
+    <infirmiere>10</infirmiere>
+    <age>35</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>11.00</anciennete_neonatalite>
+    <classe_anciennete>plus de 5 ans</classe_anciennete>
+    <service>Nuit</service>
+  </ligne>
+  <ligne>
+    <infirmiere>12</infirmiere>
+    <age>40</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>20.00</anciennete_neonatalite>
+    <classe_anciennete>plus de 5 ans</classe_anciennete>
+    <service>Nuit</service>
+  </ligne>
+  <ligne>
+    <infirmiere>14</infirmiere>
+    <age>40</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>14.00</anciennete_neonatalite>
+    <classe_anciennete>plus de 5 ans</classe_anciennete>
+    <service>Nuit</service>
+  </ligne>
+  <ligne>
+    <infirmiere>16</infirmiere>
+    <age>30</age>
+    <annees_etudes>4</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>6.50</anciennete_neonatalite>
+    <classe_anciennete>plus de 5 ans</classe_anciennete>
+    <service>Nuit</service>
+  </ligne>
+  <ligne>
+    <infirmiere>20</infirmiere>
+    <age>28</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>6.00</anciennete_neonatalite>
+    <classe_anciennete>plus de 5 ans</classe_anciennete>
+    <service>Nuit</service>
+  </ligne>
+  <ligne>
+    <infirmiere>28</infirmiere>
+    <age>38</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>17.00</anciennete_neonatalite>
+    <classe_anciennete>plus de 5 ans</classe_anciennete>
+    <service>Nuit</service>
+  </ligne>
+  <ligne>
+    <infirmiere>58</infirmiere>
+    <age>31</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BEPC</diplome>
+    <anciennete_neonatalite>8.00</anciennete_neonatalite>
+    <classe_anciennete>plus de 5 ans</classe_anciennete>
+    <service>Nuit</service>
+  </ligne>
+  <ligne>
+    <infirmiere>17</infirmiere>
+    <age>38</age>
+    <annees_etudes>4</annees_etudes>
+    <diplome>BAC</diplome>
+    <anciennete_neonatalite>14.00</anciennete_neonatalite>
+    <classe_anciennete>plus de 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+  <ligne>
+    <infirmiere>22</infirmiere>
+    <age>31</age>
+    <annees_etudes>3</annees_etudes>
+    <diplome>BAC</diplome>
+    <anciennete_neonatalite>9.00</anciennete_neonatalite>
+    <classe_anciennete>plus de 5 ans</classe_anciennete>
+    <service>Jour</service>
+  </ligne>
+</table>

@@ -1,0 +1,177 @@
+<mod type="add">
+  <add>zoo</add>
+</mod>
+<mod type="add">
+  <add>mange</add>
+</mod>
+<mod type="add">
+  <add>et pour moi</add>
+</mod>
+<mod type="add">
+  <add>Et je<mod type="corr">
+      <orig>coupere</orig>
+      <reg>couperai</reg>
+    </mod>du bois avec mon<mod type="corr">
+      <orig>pere</orig>
+      <reg>père</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>et</add>
+</mod>
+<mod type="add">
+  <add>prendre</add>
+</mod>
+<mod type="add">
+  <add>rêve</add>
+</mod>
+<mod type="add">
+  <add>aller</add>
+</mod>
+<mod type="add">
+  <add>ma journée</add>
+</mod>
+<mod type="add">
+  <add>me<mod type="corr">
+      <orig>ramène</orig>
+      <reg>ramènent</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>et à 7H20<mod type="corr">
+      <orig>min</orig>
+      <reg>minutes</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>aux</add>
+</mod>
+<mod type="add">
+  <add>.</add>
+</mod>
+<mod type="add">
+  <add>,</add>
+</mod>
+<mod type="add">
+  <add>jourai</add>
+</mod>
+<mod type="add">
+  <add>m'<mod type="corr">
+      <orig>attends</orig>
+      <reg>attend</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>je</add>
+</mod>
+<mod type="add">
+  <add>comme<mod type="corr">
+      <orig>sa</orig>
+      <reg>ça</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>je ne travaille pas</add>
+</mod>
+<mod type="add">
+  <add>
+    <mod type="corr">
+      <orig>repondit</orig>
+      <reg>répondis</reg>
+    </mod>"<mod type="corr">
+      <orig>Sa</orig>
+      <reg>ça</reg>
+    </mod>
+    <mod type="corr">
+      <orig>coute</orig>
+      <reg>coûte</reg>
+    </mod>4,50"</add>
+</mod>
+<mod type="add">
+  <add>que</add>
+</mod>
+<mod type="add">
+  <add>gagnerai</add>
+</mod>
+<mod type="add">
+  <add>e</add>
+</mod>
+<mod type="add">
+  <add>à</add>
+</mod>
+<mod type="add">
+  <add>en</add>
+</mod>
+<mod type="add">
+  <add>comme</add>
+</mod>
+<mod type="add">
+  <add>n</add>
+</mod>
+<mod type="add">
+  <add>mes</add>
+</mod>
+<mod type="add">
+  <add>qui lui est inconnue</add>
+</mod>
+<mod type="add">
+  <add>attend</add>
+</mod>
+<mod type="add">
+  <add>pour préparer mes cours</add>
+</mod>
+<mod type="add">
+  <add>la salle d'eau,<mod type="corr">
+      <orig>prend</orig>
+      <reg>prends</reg>
+    </mod>ma douche et je vais dans</add>
+</mod>
+<mod type="add">
+  <add>père</add>
+</mod>
+<mod type="add">
+  <add>ou</add>
+</mod>
+<mod type="add">
+  <add>plusieurs jours</add>
+</mod>
+<mod type="add">
+  <add>était</add>
+</mod>
+<mod type="add">
+  <add>que</add>
+</mod>
+<mod type="add">
+  <add>moualleux</add>
+</mod>
+<mod type="add">
+  <add>des<mod type="corr">
+      <orig>bonbon</orig>
+      <reg>bonbons</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>des<mod type="corr">
+      <orig>gourmandise</orig>
+      <reg>gourmandises</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="add">
+  <add>à</add>
+</mod>
+<mod type="add">
+  <add>ventant</add>
+</mod>
+<mod type="add">
+  <add>que je dois</add>
+</mod>
+<mod type="add">
+  <add>libre</add>
+</mod>

@@ -1,0 +1,1025 @@
+<mod type="del">
+  <del>T2#a</del>
+</mod>
+<mod type="del">
+  <del>P#r</del>
+</mod>
+<mod type="del">
+  <del>P#er</del>
+</mod>
+<mod type="del">
+  <del>P#"</del>
+</mod>
+<mod type="del">
+  <del>a</del>
+</mod>
+<mod type="del">
+  <del>e</del>
+</mod>
+<mod type="del">
+  <del>truc</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#û</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>#XXX#</del>
+</mod>
+<mod type="del">
+  <del>P#ts</del>
+</mod>
+<mod type="del">
+  <del>P#n</del>
+</mod>
+<mod type="del">
+  <del>P#-</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#l</del>
+</mod>
+<mod type="del">
+  <del>T2#.</del>
+</mod>
+<mod type="del">
+  <del>en</del>
+</mod>
+<mod type="del">
+  <del>ien</del>
+</mod>
+<mod type="del">
+  <del>P#à</del>
+</mod>
+<mod type="del">
+  <del>P#p</del>
+</mod>
+<mod type="del">
+  <del>P#elle</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#auquel</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#;</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#a</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#nt</del>
+</mod>
+<mod type="del">
+  <del>P#p</del>
+</mod>
+<mod type="del">
+  <del>y</del>
+</mod>
+<mod type="del">
+  <del>T2#a</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#S</del>
+</mod>
+<mod type="del">
+  <del>P#n</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#l</del>
+</mod>
+<mod type="del">
+  <del>P#t</del>
+</mod>
+<mod type="del">
+  <del>P#est</del>
+</mod>
+<mod type="del">
+  <del>P#ba</del>
+</mod>
+<mod type="del">
+  <del>P#c</del>
+</mod>
+<mod type="del">
+  <del>P#i</del>
+</mod>
+<mod type="del">
+  <del>P#c</del>
+</mod>
+<mod type="del">
+  <del>P#chez</del>
+</mod>
+<mod type="del">
+  <del>c</del>
+</mod>
+<mod type="del">
+  <del>P#it</del>
+</mod>
+<mod type="del">
+  <del>P#!!</del>
+</mod>
+<mod type="del">
+  <del>P#!!</del>
+</mod>
+<mod type="del">
+  <del>P#c</del>
+</mod>
+<mod type="del">
+  <del>P#!!</del>
+</mod>
+<mod type="del">
+  <del>P#,</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#qu '</del>
+</mod>
+<mod type="del">
+  <del>P#,</del>
+</mod>
+<mod type="del">
+  <del>P#ai</del>
+</mod>
+<mod type="del">
+  <del>T2#e</del>
+</mod>
+<mod type="del">
+  <del>i</del>
+</mod>
+<mod type="del">
+  <del>P#a</del>
+</mod>
+<mod type="del">
+  <del>P#ù</del>
+</mod>
+<mod type="del">
+  <del>P#ò</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#5</del>
+</mod>
+<mod type="del">
+  <del>reng</del>
+</mod>
+<mod type="del">
+  <del>P#amenant</del>
+</mod>
+<mod type="del">
+  <del>P#,</del>
+</mod>
+<mod type="del">
+  <del>P#é</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>s</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#a</del>
+</mod>
+<mod type="del">
+  <del>P#é</del>
+</mod>
+<mod type="del">
+  <del>P#é</del>
+</mod>
+<mod type="del">
+  <del>ue</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#é</del>
+</mod>
+<mod type="del">
+  <del>e</del>
+</mod>
+<mod type="del">
+  <del>P#lui demanda anne-Lise,</del>
+</mod>
+<mod type="del">
+  <del>P#Il</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#"</del>
+</mod>
+<mod type="del">
+  <del>P#"</del>
+</mod>
+<mod type="del">
+  <del>P#"</del>
+</mod>
+<mod type="del">
+  <del>P#"</del>
+</mod>
+<mod type="del">
+  <del>P#"</del>
+</mod>
+<mod type="del">
+  <del>P#"</del>
+</mod>
+<mod type="del">
+  <del>P#chez lui</del>
+</mod>
+<mod type="del">
+  <del>P#"</del>
+</mod>
+<mod type="del">
+  <del>P#"</del>
+</mod>
+<mod type="del">
+  <del>P#"</del>
+</mod>
+<mod type="del">
+  <del>P#"</del>
+</mod>
+<mod type="del">
+  <del>e</del>
+</mod>
+<mod type="del">
+  <del>P#<mod type="corr">
+      <orig>j'ai vou</orig>
+      <reg>j'avoue</reg>
+    </mod>.<mod type="add">
+      <add>P#vu</add>
+    </mod>C'est moi</del>
+</mod>
+<mod type="del">
+  <del>Suis</del>
+</mod>
+<mod type="del">
+  <del>bonjour</del>
+</mod>
+<mod type="del">
+  <del>T2#s</del>
+</mod>
+<mod type="del">
+  <del>T2#s</del>
+</mod>
+<mod type="del">
+  <del>P#er</del>
+</mod>
+<mod type="del">
+  <del>T2#beauc</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#r</del>
+</mod>
+<mod type="del">
+  <del>P#L</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#l</del>
+</mod>
+<mod type="del">
+  <del>es</del>
+</mod>
+<mod type="del">
+  <del>top</del>
+</mod>
+<mod type="del">
+  <del>be</del>
+</mod>
+<mod type="del">
+  <del>a</del>
+</mod>
+<mod type="del">
+  <del>#XXX#</del>
+</mod>
+<mod type="del">
+  <del>P#Au</del>
+</mod>
+<mod type="del">
+  <del>magisi</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>esc</del>
+</mod>
+<mod type="del">
+  <del>P#a</del>
+</mod>
+<mod type="del">
+  <del>P#er</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#er</del>
+</mod>
+<mod type="del">
+  <del>l'h</del>
+</mod>
+<mod type="del">
+  <del>P#n</del>
+</mod>
+<mod type="del">
+  <del>T2#a</del>
+</mod>
+<mod type="del">
+  <del>dit</del>
+</mod>
+<mod type="del">
+  <del>Pσ#te ramener</del>
+</mod>
+<mod type="del">
+  <del>T2#r</del>
+</mod>
+<mod type="del">
+  <del>P#è</del>
+</mod>
+<mod type="del">
+  <del>P#quand</del>
+</mod>
+<mod type="del">
+  <del>P#a</del>
+</mod>
+<mod type="del">
+  <del>#XXX#</del>
+</mod>
+<mod type="del">
+  <del>T2#e</del>
+</mod>
+<mod type="del">
+  <del>t</del>
+</mod>
+<mod type="del">
+  <del>P#-</del>
+</mod>
+<mod type="del">
+  <del>Puis</del>
+</mod>
+<mod type="del">
+  <del>T2#a</del>
+</mod>
+<mod type="del">
+  <del>t</del>
+</mod>
+<mod type="del">
+  <del>très</del>
+</mod>
+<mod type="del">
+  <del>T2#e</del>
+</mod>
+<mod type="del">
+  <del>mr</del>
+</mod>
+<mod type="del">
+  <del>T2#i</del>
+</mod>
+<mod type="del">
+  <del>une</del>
+</mod>
+<mod type="del">
+  <del>P#à</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>m</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>l</del>
+</mod>
+<mod type="del">
+  <del>#XXX#</del>
+</mod>
+<mod type="del">
+  <del>permanence</del>
+</mod>
+<mod type="del">
+  <del>#XXX#</del>
+</mod>
+<mod type="del">
+  <del>P#er</del>
+</mod>
+<mod type="del">
+  <del>P#f</del>
+</mod>
+<mod type="del">
+  <del>m</del>
+</mod>
+<mod type="del">
+  <del>S</del>
+</mod>
+<mod type="del">
+  <del>P#î</del>
+</mod>
+<mod type="del">
+  <del>P#,</del>
+</mod>
+<mod type="del">
+  <del>P#qui était</del>
+</mod>
+<mod type="del">
+  <del>P#attachées</del>
+</mod>
+<mod type="del">
+  <del>monsier</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>Cherche ta to</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>G</del>
+</mod>
+<mod type="del">
+  <del>T2#aimé</del>
+</mod>
+<mod type="del">
+  <del>Aprés l'école ,</del>
+</mod>
+<mod type="del">
+  <del>P#.</del>
+</mod>
+<mod type="del">
+  <del>t</del>
+</mod>
+<mod type="del">
+  <del>m</del>
+</mod>
+<mod type="del">
+  <del>rs</del>
+</mod>
+<mod type="del">
+  <del>T2#e</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#a</del>
+</mod>
+<mod type="del">
+  <del>P#,</del>
+</mod>
+<mod type="del">
+  <del>P#,</del>
+</mod>
+<mod type="del">
+  <del>P#et</del>
+</mod>
+<mod type="del">
+  <del>P#est</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#est</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#d'une vois grave</del>
+</mod>
+<mod type="del">
+  <del>P#ç</del>
+</mod>
+<mod type="del">
+  <del>P#G</del>
+</mod>
+<mod type="del">
+  <del>DESSIN</del>
+</mod>
+<mod type="del">
+  <del>P#alla à son</del>
+</mod>
+<mod type="del">
+  <del>P#,</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#,</del>
+</mod>
+<mod type="del">
+  <del>P#u</del>
+</mod>
+<mod type="del">
+  <del>P#x</del>
+</mod>
+<mod type="del">
+  <del>P#air</del>
+</mod>
+<mod type="del">
+  <del>P#a</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#à</del>
+</mod>
+<mod type="del">
+  <del>P#u</del>
+</mod>
+<mod type="del">
+  <del>T2#e</del>
+</mod>
+<mod type="del">
+  <del>P#Sa maiyeure amie dit</del>
+</mod>
+<mod type="del">
+  <del>T2#a</del>
+</mod>
+<mod type="del">
+  <del>P#m</del>
+</mod>
+<mod type="del">
+  <del>T2#a</del>
+</mod>
+<mod type="del">
+  <del>P#a</del>
+</mod>
+<mod type="del">
+  <del>P#et</del>
+</mod>
+<mod type="del">
+  <del>T2#a</del>
+</mod>
+<mod type="del">
+  <del>P#a</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#à</del>
+</mod>
+<mod type="del">
+  <del>P#n</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#é</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#a</del>
+</mod>
+<mod type="del">
+  <del>T2#a</del>
+</mod>
+<mod type="del">
+  <del>T2#s</del>
+</mod>
+<mod type="del">
+  <del>T2#c</del>
+</mod>
+<mod type="del">
+  <del>P#un</del>
+</mod>
+<mod type="del">
+  <del>P#n</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#m</del>
+</mod>
+<mod type="del">
+  <del>quand quand il</del>
+</mod>
+<mod type="del">
+  <del>arive</del>
+</mod>
+<mod type="del">
+  <del>r</del>
+</mod>
+<mod type="del">
+  <del>P#c</del>
+</mod>
+<mod type="del">
+  <del>qil</del>
+</mod>
+<mod type="del">
+  <del>P#t</del>
+</mod>
+<mod type="del">
+  <del>a</del>
+</mod>
+<mod type="del">
+  <del>l</del>
+</mod>
+<mod type="del">
+  <del>"tu a à p</del>
+</mod>
+<mod type="del">
+  <del>t</del>
+</mod>
+<mod type="del">
+  <del>l</del>
+</mod>
+<mod type="del">
+  <del>Le</del>
+</mod>
+<mod type="del">
+  <del>#XXX#</del>
+</mod>
+<mod type="del">
+  <del>P#prend</del>
+</mod>
+<mod type="del">
+  <del>P#Il la</del>
+</mod>
+<mod type="del">
+  <del>la</del>
+</mod>
+<mod type="del">
+  <del>oi</del>
+</mod>
+<mod type="del">
+  <del>di</del>
+</mod>
+<mod type="del">
+  <del>P#dans ma</del>
+</mod>
+<mod type="del">
+  <del>P#m</del>
+</mod>
+<mod type="del">
+  <del>P#p</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>e</del>
+</mod>
+<mod type="del">
+  <del>T2#e</del>
+</mod>
+<mod type="del">
+  <del>que</del>
+</mod>
+<mod type="del">
+  <del>de</del>
+</mod>
+<mod type="del">
+  <del>va a</del>
+</mod>
+<mod type="del">
+  <del>#XXX</del>
+</mod>
+<mod type="del">
+  <del>d</del>
+</mod>
+<mod type="del">
+  <del>j</del>
+</mod>
+<mod type="del">
+  <del>P#l</del>
+</mod>
+<mod type="del">
+  <del>s</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#t</del>
+</mod>
+<mod type="del">
+  <del>,</del>
+</mod>
+<mod type="del">
+  <del>Je sais</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#le</del>
+</mod>
+<mod type="del">
+  <del>P#,</del>
+</mod>
+<mod type="del">
+  <del>P#n</del>
+</mod>
+<mod type="del">
+  <del>P#les acceuillrent.</del>
+</mod>
+<mod type="del">
+  <del>P#l '</del>
+</mod>
+<mod type="del">
+  <del>P#é</del>
+</mod>
+<mod type="del">
+  <del>P#er</del>
+</mod>
+<mod type="del">
+  <del>P#b</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#,</del>
+</mod>
+<mod type="del">
+  <del>P#i</del>
+</mod>
+<mod type="del">
+  <del>P#t</del>
+</mod>
+<mod type="del">
+  <del>P#é</del>
+</mod>
+<mod type="del">
+  <del>P#il</del>
+</mod>
+<mod type="del">
+  <del>P#ai</del>
+</mod>
+<mod type="del">
+  <del>un</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#,</del>
+</mod>
+<mod type="del">
+  <del>P#é</del>
+</mod>
+<mod type="del">
+  <del>es</del>
+</mod>
+<mod type="del">
+  <del>P#n'ai</del>
+</mod>
+<mod type="del">
+  <del>perdu quelque</del>
+</mod>
+<mod type="del">
+  <del>P#u</del>
+</mod>
+<mod type="del">
+  <del>P#Il était une fois</del>
+</mod>
+<mod type="del">
+  <del>P#avait vu</del>
+</mod>
+<mod type="del">
+  <del>P#d</del>
+</mod>
+<mod type="del">
+  <del>A</del>
+</mod>
+<mod type="del">
+  <del>P#lui demanda Anne-Lise.</del>
+</mod>
+<mod type="del">
+  <del>P#t</del>
+</mod>
+<mod type="del">
+  <del>P#,</del>
+</mod>
+<mod type="del">
+  <del>P#er</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#a</del>
+</mod>
+<mod type="del">
+  <del>P#er</del>
+</mod>
+<mod type="del">
+  <del>P#a</del>
+</mod>
+<mod type="del">
+  <del>P#c</del>
+</mod>
+<mod type="del">
+  <del>P#ca</del>
+</mod>
+<mod type="del">
+  <del>P#sa</del>
+</mod>
+<mod type="del">
+  <del>P#t</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#.</del>
+</mod>
+<mod type="del">
+  <del>P#I</del>
+</mod>
+<mod type="del">
+  <del>P#l</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>foit</del>
+</mod>
+<mod type="del">
+  <del>P#un</del>
+</mod>
+<mod type="del">
+  <del>P#ca</del>
+</mod>
+<mod type="del">
+  <del>P#se</del>
+</mod>
+<mod type="del">
+  <del>P#i</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#a</del>
+</mod>
+<mod type="del">
+  <del>P#é</del>
+</mod>
+<mod type="del">
+  <del>P#dit</del>
+</mod>
+<mod type="del">
+  <del>P#gabrile</del>
+</mod>
+<mod type="del">
+  <del>P#t</del>
+</mod>
+<mod type="del">
+  <del>P#é</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#dabore</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#é</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#a</del>
+</mod>
+<mod type="del">
+  <del>P#t</del>
+</mod>
+<mod type="del">
+  <del>P#er</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#lisse</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>dit</del>
+</mod>
+<mod type="del">
+  <del>P#le</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>re</del>
+</mod>
+<mod type="del">
+  <del>tu</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#s</del>
+</mod>
+<mod type="del">
+  <del>P#e</del>
+</mod>
+<mod type="del">
+  <del>P#a</del>
+</mod>

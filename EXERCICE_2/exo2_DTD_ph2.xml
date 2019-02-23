@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bibliographie SYSTEM "exo2_DTD_ph2.dtd">
+<!--exo2_DTD_phase2-->
+<bibliographie>
+    <livre>
+        <titre>Mémoires d’outre-tombe</titre>
+        <auteur>
+            <nom>
+                <nom_famille>de Chateaubriand</nom_famille>
+                <prenom>François-René</prenom>
+            </nom>
+
+        </auteur>
+        <tome nb_pages="800" soustitre="Tome I"/>
+        <info_edition>
+            <editeur>Le Livre de Poche</editeur>
+            <lieu_edition>Paris</lieu_edition>
+            <lieu_impression>Sant Andreu de la Barca</lieu_impression>
+            <ISBN>978-2253160793</ISBN>
+        </info_edition>
+    </livre>
+    <article>
+        <titre>Automatic labeling of semantic roles</titre>
+        <auteur>
+            <nom>
+                <nom_famille>Gildea</nom_famille>
+                <prenom>Daniel</prenom>
+            </nom>
+        </auteur>
+        <auteur>
+            <nom>
+                <nom_famille>Jurafsky</nom_famille>
+                <prenom>Daniel</prenom>
+            </nom>
+        </auteur>
+        <ref_publication>
+            <journal nom_journal="Computational linguistics" annee="2002"/>
+            <numero_pages>245-288</numero_pages>
+            <numero_journal>3</numero_journal>
+        </ref_publication>
+    </article>
+</bibliographie>

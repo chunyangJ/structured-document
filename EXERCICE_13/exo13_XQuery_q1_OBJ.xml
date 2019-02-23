@@ -1,0 +1,10499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="exo13_XQuery_q1_OBJ.xsl"?>
+<base nom="TrameurFromRhapsodie" cat="OBJ">
+  <item pos="9">
+    <f>du</f>
+    <c>Pre+D</c>
+    <l>de+le</l>
+  </item>
+  <item pos="54">
+    <f>avenue</f>
+    <c>N</c>
+    <l>avenue</l>
+  </item>
+  <item pos="137">
+    <f>Chambre</f>
+    <c>N</c>
+    <l>chambre</l>
+  </item>
+  <item pos="171">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="202">
+    <f>est</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="267">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="325">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="344">
+    <f>boulevard</f>
+    <c>N</c>
+    <l>boulevard</l>
+  </item>
+  <item pos="391">
+    <f>crois</f>
+    <c>V</c>
+    <l>croire</l>
+  </item>
+  <item pos="393">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="413">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="436">
+    <f>cours</f>
+    <c>N</c>
+    <l>cours</l>
+  </item>
+  <item pos="481">
+    <f>avenue</f>
+    <c>N</c>
+    <l>avenue</l>
+  </item>
+  <item pos="539">
+    <f>trams</f>
+    <c>N</c>
+    <l>tram</l>
+  </item>
+  <item pos="652">
+    <f>tout</f>
+    <c>Adv</c>
+    <l>tout</l>
+  </item>
+  <item pos="745">
+    <f>rond</f>
+    <c>N</c>
+    <l>rond-point</l>
+  </item>
+  <item pos="782">
+    <f>ligne</f>
+    <c>N</c>
+    <l>ligne</l>
+  </item>
+  <item pos="822">
+    <f>stade</f>
+    <c>N</c>
+    <l>stade</l>
+  </item>
+  <item pos="929">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="939">
+    <f>gare</f>
+    <c>N</c>
+    <l>gare</l>
+  </item>
+  <item pos="963">
+    <f>champ</f>
+    <c>N</c>
+    <l>champ</l>
+  </item>
+  <item pos="1215">
+    <f>cabine</f>
+    <c>N</c>
+    <l>cabine</l>
+  </item>
+  <item pos="1270">
+    <f>nombre</f>
+    <c>N</c>
+    <l>nombre</l>
+  </item>
+  <item pos="1297">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="1450">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="1467">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="1517">
+    <f>amour</f>
+    <c>N</c>
+    <l>amour</l>
+  </item>
+  <item pos="1537">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="1586">
+    <f>démocratie</f>
+    <c>N</c>
+    <l>démocratie</l>
+  </item>
+  <item pos="1638">
+    <f>histoire</f>
+    <c>N</c>
+    <l>histoire</l>
+  </item>
+  <item pos="1683">
+    <f>suffrage</f>
+    <c>N</c>
+    <l>suffrage</l>
+  </item>
+  <item pos="1711">
+    <f>liberté</f>
+    <c>N</c>
+    <l>liberté</l>
+  </item>
+  <item pos="1733">
+    <f>liberté</f>
+    <c>N</c>
+    <l>liberté</l>
+  </item>
+  <item pos="1815">
+    <f>continuer</f>
+    <c>V</c>
+    <l>continuer</l>
+  </item>
+  <item pos="1914">
+    <f>rue</f>
+    <c>N</c>
+    <l>rue</l>
+  </item>
+  <item pos="1992">
+    <f>rue</f>
+    <c>N</c>
+    <l>rue</l>
+  </item>
+  <item pos="2006">
+    <f>rue</f>
+    <c>N</c>
+    <l>rue</l>
+  </item>
+  <item pos="2098">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="2205">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="2264">
+    <f>région</f>
+    <c>N</c>
+    <l>région</l>
+  </item>
+  <item pos="2321">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="2378">
+    <f>circonscription</f>
+    <c>N</c>
+    <l>circonscription</l>
+  </item>
+  <item pos="2438">
+    <f>travailler</f>
+    <c>V</c>
+    <l>travailler</l>
+  </item>
+  <item pos="2461">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="2594">
+    <f>femme</f>
+    <c>N</c>
+    <l>femme</l>
+  </item>
+  <item pos="2619">
+    <f>corromp~</f>
+    <c>V</c>
+    <l>corromp~</l>
+  </item>
+  <item pos="2633">
+    <f>officiers</f>
+    <c>N</c>
+    <l>officier</l>
+  </item>
+  <item pos="2651">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="2705">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="2733">
+    <f>endroit</f>
+    <c>N</c>
+    <l>endroit</l>
+  </item>
+  <item pos="2743">
+    <f>besoin</f>
+    <c>N</c>
+    <l>besoin</l>
+  </item>
+  <item pos="2791">
+    <f>retour</f>
+    <c>N</c>
+    <l>retour</l>
+  </item>
+  <item pos="2825">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="2910">
+    <f>semaines</f>
+    <c>N</c>
+    <l>semaine</l>
+  </item>
+  <item pos="2926">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="2949">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="3288">
+    <f>études</f>
+    <c>N</c>
+    <l>étude</l>
+  </item>
+  <item pos="3371">
+    <f>anglais</f>
+    <c>N</c>
+    <l>anglais</l>
+  </item>
+  <item pos="3385">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="3415">
+    <f>études</f>
+    <c>N</c>
+    <l>étude</l>
+  </item>
+  <item pos="3440">
+    <f>PCB</f>
+    <c>N</c>
+    <l>PCB</l>
+  </item>
+  <item pos="3458">
+    <f>retourner</f>
+    <c>V</c>
+    <l>retourner</l>
+  </item>
+  <item pos="3479">
+    <f>ça</f>
+    <c>Pro</c>
+    <l>ça</l>
+  </item>
+  <item pos="3516">
+    <f>Paris</f>
+    <c>N</c>
+    <l>Paris</l>
+  </item>
+  <item pos="3524">
+    <f>aller</f>
+    <c>V</c>
+    <l>aller</l>
+  </item>
+  <item pos="3600">
+    <f>études</f>
+    <c>N</c>
+    <l>étude</l>
+  </item>
+  <item pos="3626">
+    <f>études</f>
+    <c>N</c>
+    <l>étude</l>
+  </item>
+  <item pos="3679">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="3701">
+    <f>Monfreid</f>
+    <c>N</c>
+    <l>Monfreid</l>
+  </item>
+  <item pos="3717">
+    <f>conférences</f>
+    <c>N</c>
+    <l>conférence</l>
+  </item>
+  <item pos="3773">
+    <f>livres</f>
+    <c>N</c>
+    <l>livre</l>
+  </item>
+  <item pos="3788">
+    <f>envie</f>
+    <c>N</c>
+    <l>envie</l>
+  </item>
+  <item pos="3855">
+    <f>aller</f>
+    <c>V</c>
+    <l>aller</l>
+  </item>
+  <item pos="3894">
+    <f>famille</f>
+    <c>N</c>
+    <l>famille</l>
+  </item>
+  <item pos="3925">
+    <f>empire</f>
+    <c>N</c>
+    <l>empire</l>
+  </item>
+  <item pos="3961">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="4039">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="4171">
+    <f>remplaçante</f>
+    <c>N</c>
+    <l>remplaçant</l>
+  </item>
+  <item pos="4222">
+    <f>place</f>
+    <c>N</c>
+    <l>place</l>
+  </item>
+  <item pos="4268">
+    <f>sont</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="4292">
+    <f>besoin</f>
+    <c>N</c>
+    <l>besoin</l>
+  </item>
+  <item pos="4309">
+    <f>combien</f>
+    <c>Qu</c>
+    <l>combien</l>
+  </item>
+  <item pos="4311">
+    <f>avez</f>
+    <c>V</c>
+    <l>avoir</l>
+  </item>
+  <item pos="4345">
+    <f>vingt</f>
+    <c>N</c>
+    <l>vingt-neuf</l>
+  </item>
+  <item pos="4365">
+    <f>compte</f>
+    <c>N</c>
+    <l>compte</l>
+  </item>
+  <item pos="4380">
+    <f>millions</f>
+    <c>N</c>
+    <l>million</l>
+  </item>
+  <item pos="4401">
+    <f>docteurs</f>
+    <c>N</c>
+    <l>docteur</l>
+  </item>
+  <item pos="4419">
+    <f>venez</f>
+    <c>V</c>
+    <l>venir</l>
+  </item>
+  <item pos="4423">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="4453">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="4455">
+    <f>installer</f>
+    <c>V</c>
+    <l>installer</l>
+  </item>
+  <item pos="4486">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="4495">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="4519">
+    <f>peur</f>
+    <c>N</c>
+    <l>peur</l>
+  </item>
+  <item pos="4523">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="4554">
+    <f>aller</f>
+    <c>V</c>
+    <l>aller</l>
+  </item>
+  <item pos="4594">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="4598">
+    <f>rien</f>
+    <c>Pro</c>
+    <l>rien</l>
+  </item>
+  <item pos="4631">
+    <f>vais</f>
+    <c>V</c>
+    <l>aller</l>
+  </item>
+  <item pos="4676">
+    <f>tour</f>
+    <c>N</c>
+    <l>tour</l>
+  </item>
+  <item pos="4708">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="4803">
+    <f>arrête</f>
+    <c>V</c>
+    <l>arrêter</l>
+  </item>
+  <item pos="4807">
+    <f>vague</f>
+    <c>N</c>
+    <l>vague</l>
+  </item>
+  <item pos="4893">
+    <f>est</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="5062">
+    <f>faut</f>
+    <c>V</c>
+    <l>falloir</l>
+  </item>
+  <item pos="5066">
+    <f>appeler</f>
+    <c>V</c>
+    <l>appeler</l>
+  </item>
+  <item pos="5092">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="5199">
+    <f>plaisir</f>
+    <c>N</c>
+    <l>plaisir</l>
+  </item>
+  <item pos="5264">
+    <f>si</f>
+    <c>CS</c>
+    <l>si</l>
+  </item>
+  <item pos="5296">
+    <f>évidence</f>
+    <c>N</c>
+    <l>évidence</l>
+  </item>
+  <item pos="5342">
+    <f>croire</f>
+    <c>V</c>
+    <l>croire</l>
+  </item>
+  <item pos="5389">
+    <f>essai</f>
+    <c>N</c>
+    <l>essai</l>
+  </item>
+  <item pos="5409">
+    <f>victoire</f>
+    <c>N</c>
+    <l>victoire</l>
+  </item>
+  <item pos="5492">
+    <f>dispose</f>
+    <c>V</c>
+    <l>disposer</l>
+  </item>
+  <item pos="5520">
+    <f>leçon</f>
+    <c>N</c>
+    <l>leçon</l>
+  </item>
+  <item pos="5541">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="5551">
+    <f>compte</f>
+    <c>N</c>
+    <l>compte</l>
+  </item>
+  <item pos="5565">
+    <f>politique</f>
+    <c>N</c>
+    <l>politique</l>
+  </item>
+  <item pos="5583">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="5625">
+    <f>faut</f>
+    <c>V</c>
+    <l>falloir</l>
+  </item>
+  <item pos="5627">
+    <f>accélérer</f>
+    <c>V</c>
+    <l>accélérer</l>
+  </item>
+  <item pos="5631">
+    <f>rythme</f>
+    <c>N</c>
+    <l>rythme</l>
+  </item>
+  <item pos="5706">
+    <f>pensée</f>
+    <c>N</c>
+    <l>pensée</l>
+  </item>
+  <item pos="5725">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="5771">
+    <f>aller</f>
+    <c>V</c>
+    <l>aller</l>
+  </item>
+  <item pos="5793">
+    <f>enjeu</f>
+    <c>N</c>
+    <l>enjeu</l>
+  </item>
+  <item pos="5861">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="5891">
+    <f>voir</f>
+    <c>V</c>
+    <l>voir</l>
+  </item>
+  <item pos="5914">
+    <f>message</f>
+    <c>N</c>
+    <l>message</l>
+  </item>
+  <item pos="6000">
+    <f>faiblesse</f>
+    <c>N</c>
+    <l>faiblesse</l>
+  </item>
+  <item pos="6024">
+    <f>est</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="6054">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="6150">
+    <f>fut</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="6213">
+    <f>sauvetage</f>
+    <c>N</c>
+    <l>sauvetage</l>
+  </item>
+  <item pos="6248">
+    <f>place</f>
+    <c>N</c>
+    <l>place</l>
+  </item>
+  <item pos="6279">
+    <f>merci</f>
+    <c>I</c>
+    <l>merci</l>
+  </item>
+  <item pos="6290">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="6292">
+    <f>va</f>
+    <c>V</c>
+    <l>aller</l>
+  </item>
+  <item pos="6327">
+    <f>va</f>
+    <c>V</c>
+    <l>aller</l>
+  </item>
+  <item pos="6339">
+    <f>chose</f>
+    <c>N</c>
+    <l>chose</l>
+  </item>
+  <item pos="6487">
+    <f>corner</f>
+    <c>N</c>
+    <l>corner</l>
+  </item>
+  <item pos="6499">
+    <f>corner</f>
+    <c>N</c>
+    <l>corner</l>
+  </item>
+  <item pos="6622">
+    <f>ballon</f>
+    <c>N</c>
+    <l>ballon</l>
+  </item>
+  <item pos="6835">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="6845">
+    <f>ballon</f>
+    <c>N</c>
+    <l>ballon</l>
+  </item>
+  <item pos="6873">
+    <f>penalty</f>
+    <c>N</c>
+    <l>penalty</l>
+  </item>
+  <item pos="6893">
+    <f>carton</f>
+    <c>N</c>
+    <l>carton</l>
+  </item>
+  <item pos="6897">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="7182">
+    <f>ballon</f>
+    <c>N</c>
+    <l>ballon</l>
+  </item>
+  <item pos="7261">
+    <f>ballon</f>
+    <c>N</c>
+    <l>ballon</l>
+  </item>
+  <item pos="7331">
+    <f>corner</f>
+    <c>N</c>
+    <l>corner</l>
+  </item>
+  <item pos="7342">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="7456">
+    <f>ballon</f>
+    <c>N</c>
+    <l>ballon</l>
+  </item>
+  <item pos="7605">
+    <f>ballon</f>
+    <c>N</c>
+    <l>ballon</l>
+  </item>
+  <item pos="7697">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="7772">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="7788">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="7935">
+    <f>but</f>
+    <c>N</c>
+    <l>but</l>
+  </item>
+  <item pos="8003">
+    <f>tir</f>
+    <c>N</c>
+    <l>tir</l>
+  </item>
+  <item pos="8031">
+    <f>grand</f>
+    <c>Pro</c>
+    <l>grand-chose</l>
+  </item>
+  <item pos="8068">
+    <f>but</f>
+    <c>N</c>
+    <l>but</l>
+  </item>
+  <item pos="8137">
+    <f>relâchement</f>
+    <c>N</c>
+    <l>relâchement</l>
+  </item>
+  <item pos="8175">
+    <f>d</f>
+    <c>Pre</c>
+    <l>de</l>
+  </item>
+  <item pos="8186">
+    <f>parce</f>
+    <c>CS</c>
+    <l>parce que</l>
+  </item>
+  <item pos="8236">
+    <f>emprise</f>
+    <c>N</c>
+    <l>emprise</l>
+  </item>
+  <item pos="8299">
+    <f>Maradona</f>
+    <c>N</c>
+    <l>Maradona</l>
+  </item>
+  <item pos="8307">
+    <f>signes</f>
+    <c>N</c>
+    <l>signe</l>
+  </item>
+  <item pos="8367">
+    <f>change</f>
+    <c>V</c>
+    <l>changer</l>
+  </item>
+  <item pos="8371">
+    <f>données</f>
+    <c>N</c>
+    <l>donnée</l>
+  </item>
+  <item pos="8457">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="8527">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="8543">
+    <f>pied</f>
+    <c>N</c>
+    <l>pied</l>
+  </item>
+  <item pos="8625">
+    <f>erreur</f>
+    <c>N</c>
+    <l>erreur</l>
+  </item>
+  <item pos="8691">
+    <f>peu</f>
+    <c>N</c>
+    <l>peu</l>
+  </item>
+  <item pos="8764">
+    <f>ouverture</f>
+    <c>N</c>
+    <l>ouverture</l>
+  </item>
+  <item pos="8920">
+    <f>donner</f>
+    <c>V</c>
+    <l>donner</l>
+  </item>
+  <item pos="9079">
+    <f>ballon</f>
+    <c>N</c>
+    <l>ballon</l>
+  </item>
+  <item pos="9098">
+    <f>fautes</f>
+    <c>N</c>
+    <l>faute</l>
+  </item>
+  <item pos="9262">
+    <f>prise</f>
+    <c>N</c>
+    <l>prise</l>
+  </item>
+  <item pos="9350">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="9465">
+    <f>touche</f>
+    <c>N</c>
+    <l>touche</l>
+  </item>
+  <item pos="9646">
+    <f>de</f>
+    <c>Pre</c>
+    <l>de</l>
+  </item>
+  <item pos="9667">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="9864">
+    <f>ligne</f>
+    <c>N</c>
+    <l>ligne</l>
+  </item>
+  <item pos="9880">
+    <f>Agüero</f>
+    <c>N</c>
+    <l>Agüero</l>
+  </item>
+  <item pos="10048">
+    <f>derrière</f>
+    <c>Pre</c>
+    <l>derrière</l>
+  </item>
+  <item pos="10065">
+    <f>ballon</f>
+    <c>N</c>
+    <l>ballon</l>
+  </item>
+  <item pos="10069">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="10156">
+    <f>rôle</f>
+    <c>N</c>
+    <l>rôle</l>
+  </item>
+  <item pos="10188">
+    <f>séquence</f>
+    <c>N</c>
+    <l>séquence</l>
+  </item>
+  <item pos="10211">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="10338">
+    <f>assauts</f>
+    <c>N</c>
+    <l>assaut</l>
+  </item>
+  <item pos="10372">
+    <f>exprimer</f>
+    <c>V</c>
+    <l>exprimer</l>
+  </item>
+  <item pos="10376">
+    <f>sympathie</f>
+    <c>N</c>
+    <l>sympathie</l>
+  </item>
+  <item pos="10403">
+    <f>jours</f>
+    <c>N</c>
+    <l>jour</l>
+  </item>
+  <item pos="10477">
+    <f>peine</f>
+    <c>N</c>
+    <l>peine</l>
+  </item>
+  <item pos="10577">
+    <f>patrimoine</f>
+    <c>N</c>
+    <l>patrimoine</l>
+  </item>
+  <item pos="10615">
+    <f>émotion</f>
+    <c>N</c>
+    <l>émotion</l>
+  </item>
+  <item pos="10647">
+    <f>tant</f>
+    <c>Adv</c>
+    <l>tant</l>
+  </item>
+  <item pos="10716">
+    <f>fragilité</f>
+    <c>N</c>
+    <l>fragilité</l>
+  </item>
+  <item pos="10753">
+    <f>combien</f>
+    <c>Qu</c>
+    <l>combien</l>
+  </item>
+  <item pos="10820">
+    <f>importance</f>
+    <c>N</c>
+    <l>importance</l>
+  </item>
+  <item pos="10904">
+    <f>face</f>
+    <c>N</c>
+    <l>face</l>
+  </item>
+  <item pos="10915">
+    <f>coordination</f>
+    <c>N</c>
+    <l>coordination</l>
+  </item>
+  <item pos="10941">
+    <f>prix</f>
+    <c>N</c>
+    <l>prix</l>
+  </item>
+  <item pos="11111">
+    <f>retrouver</f>
+    <c>V</c>
+    <l>retrouver</l>
+  </item>
+  <item pos="11162">
+    <f>coeur</f>
+    <c>N</c>
+    <l>coeur</l>
+  </item>
+  <item pos="11171">
+    <f>dire</f>
+    <c>V</c>
+    <l>dire</l>
+  </item>
+  <item pos="11176">
+    <f>merci</f>
+    <c>I</c>
+    <l>merci</l>
+  </item>
+  <item pos="11209">
+    <f>moment</f>
+    <c>N</c>
+    <l>moment</l>
+  </item>
+  <item pos="11250">
+    <f>futur</f>
+    <c>N</c>
+    <l>futur</l>
+  </item>
+  <item pos="11307">
+    <f>instants</f>
+    <c>N</c>
+    <l>instant</l>
+  </item>
+  <item pos="11349">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="11365">
+    <f>clés</f>
+    <c>N</c>
+    <l>clé</l>
+  </item>
+  <item pos="11378">
+    <f>règles</f>
+    <c>N</c>
+    <l>règle</l>
+  </item>
+  <item pos="11400">
+    <f>mouvements</f>
+    <c>N</c>
+    <l>mouvement</l>
+  </item>
+  <item pos="11422">
+    <f>confiance</f>
+    <c>N</c>
+    <l>confiance</l>
+  </item>
+  <item pos="11443">
+    <f>obstacles</f>
+    <c>N</c>
+    <l>obstacle</l>
+  </item>
+  <item pos="11452">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="11549">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="11652">
+    <f>guerres</f>
+    <c>N</c>
+    <l>guerre</l>
+  </item>
+  <item pos="11744">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="11766">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="11787">
+    <f>nous</f>
+    <c>Cl</c>
+    <l>nous</l>
+  </item>
+  <item pos="11872">
+    <f>an</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="11903">
+    <f>sens</f>
+    <c>N</c>
+    <l>sens</l>
+  </item>
+  <item pos="11980">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="12024">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="12041">
+    <f>droits</f>
+    <c>N</c>
+    <l>droit</l>
+  </item>
+  <item pos="12058">
+    <f>liberté</f>
+    <c>N</c>
+    <l>liberté</l>
+  </item>
+  <item pos="12087">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="12121">
+    <f>repos</f>
+    <c>N</c>
+    <l>repos</l>
+  </item>
+  <item pos="12180">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="12281">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="12366">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="12385">
+    <f>planète</f>
+    <c>N</c>
+    <l>planète</l>
+  </item>
+  <item pos="12420">
+    <f>patrimoine</f>
+    <c>N</c>
+    <l>patrimoine</l>
+  </item>
+  <item pos="12457">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="12515">
+    <f>nous</f>
+    <c>Cl</c>
+    <l>nous</l>
+  </item>
+  <item pos="12579">
+    <f>décisions</f>
+    <c>N</c>
+    <l>décision</l>
+  </item>
+  <item pos="12596">
+    <f>avenir</f>
+    <c>N</c>
+    <l>avenir</l>
+  </item>
+  <item pos="12622">
+    <f>France</f>
+    <c>N</c>
+    <l>France</l>
+  </item>
+  <item pos="12645">
+    <f>paix</f>
+    <c>N</c>
+    <l>paix</l>
+  </item>
+  <item pos="12692">
+    <f>part</f>
+    <c>N</c>
+    <l>part</l>
+  </item>
+  <item pos="12713">
+    <f>part</f>
+    <c>N</c>
+    <l>part</l>
+  </item>
+  <item pos="12754">
+    <f>aspirations</f>
+    <c>N</c>
+    <l>aspiration</l>
+  </item>
+  <item pos="12775">
+    <f>pauvreté</f>
+    <c>N</c>
+    <l>pauvreté</l>
+  </item>
+  <item pos="12847">
+    <f>valeurs</f>
+    <c>N</c>
+    <l>valeur</l>
+  </item>
+  <item pos="12866">
+    <f>chance</f>
+    <c>N</c>
+    <l>chance</l>
+  </item>
+  <item pos="12932">
+    <f>part</f>
+    <c>N</c>
+    <l>part</l>
+  </item>
+  <item pos="12984">
+    <f>place</f>
+    <c>N</c>
+    <l>place</l>
+  </item>
+  <item pos="13010">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="13088">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="13100">
+    <f>place</f>
+    <c>N</c>
+    <l>place</l>
+  </item>
+  <item pos="13111">
+    <f>droit</f>
+    <c>N</c>
+    <l>droit</l>
+  </item>
+  <item pos="13116">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="13148">
+    <f>exigences</f>
+    <c>N</c>
+    <l>exigence</l>
+  </item>
+  <item pos="13162">
+    <f>valeurs</f>
+    <c>N</c>
+    <l>valeur</l>
+  </item>
+  <item pos="13174">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="13197">
+    <f>temps</f>
+    <c>N</c>
+    <l>temps</l>
+  </item>
+  <item pos="13229">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="13274">
+    <f>changement</f>
+    <c>N</c>
+    <l>changement</l>
+  </item>
+  <item pos="13344">
+    <f>honneur</f>
+    <c>N</c>
+    <l>honneur</l>
+  </item>
+  <item pos="13357">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="13393">
+    <f>cap</f>
+    <c>N</c>
+    <l>cap</l>
+  </item>
+  <item pos="13413">
+    <f>plus</f>
+    <c>Adv</c>
+    <l>plus</l>
+  </item>
+  <item pos="13475">
+    <f>chemins</f>
+    <c>N</c>
+    <l>chemin</l>
+  </item>
+  <item pos="13529">
+    <f>couleurs</f>
+    <c>N</c>
+    <l>couleur</l>
+  </item>
+  <item pos="13534">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="13558">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="13564">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="13599">
+    <f>fatalité</f>
+    <c>N</c>
+    <l>fatalité</l>
+  </item>
+  <item pos="13685">
+    <f>voies</f>
+    <c>N</c>
+    <l>voie</l>
+  </item>
+  <item pos="13771">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="13809">
+    <f>quoi</f>
+    <c>Qu</c>
+    <l>quoi</l>
+  </item>
+  <item pos="13830">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="13891">
+    <f>mé~</f>
+    <c>N</c>
+    <l>mé~</l>
+  </item>
+  <item pos="14248">
+    <f>é~</f>
+    <c>N</c>
+    <l>é~</l>
+  </item>
+  <item pos="14277">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="14317">
+    <f>informatique</f>
+    <c>N</c>
+    <l>informatique</l>
+  </item>
+  <item pos="14342">
+    <f>automatismes</f>
+    <c>N</c>
+    <l>automatisme</l>
+  </item>
+  <item pos="14404">
+    <f>de</f>
+    <c>Adv</c>
+    <l>de plus en plus</l>
+  </item>
+  <item pos="14492">
+    <f>parc</f>
+    <c>N</c>
+    <l>parc</l>
+  </item>
+  <item pos="14548">
+    <f>problèmes</f>
+    <c>N</c>
+    <l>problème</l>
+  </item>
+  <item pos="14635">
+    <f>travail</f>
+    <c>N</c>
+    <l>travail</l>
+  </item>
+  <item pos="14649">
+    <f>programmes</f>
+    <c>N</c>
+    <l>programme</l>
+  </item>
+  <item pos="14797">
+    <f>former</f>
+    <c>V</c>
+    <l>former</l>
+  </item>
+  <item pos="14801">
+    <f>gens</f>
+    <c>N</c>
+    <l>gens</l>
+  </item>
+  <item pos="14862">
+    <f>rien</f>
+    <c>Pro</c>
+    <l>rien</l>
+  </item>
+  <item pos="14905">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="14935">
+    <f>ordinateur</f>
+    <c>N</c>
+    <l>ordinateur</l>
+  </item>
+  <item pos="15108">
+    <f>grand</f>
+    <c>Pro</c>
+    <l>grand-chose</l>
+  </item>
+  <item pos="15135">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="15204">
+    <f>XXX</f>
+    <c>X</c>
+    <l>XXX</l>
+  </item>
+  <item pos="15300">
+    <f>ordinateur</f>
+    <c>N</c>
+    <l>ordinateur</l>
+  </item>
+  <item pos="15322">
+    <f>ce</f>
+    <c>Pro</c>
+    <l>ce</l>
+  </item>
+  <item pos="15339">
+    <f>peur</f>
+    <c>N</c>
+    <l>peur</l>
+  </item>
+  <item pos="15353">
+    <f>peur</f>
+    <c>N</c>
+    <l>peur</l>
+  </item>
+  <item pos="15361">
+    <f>clavier</f>
+    <c>N</c>
+    <l>clavier</l>
+  </item>
+  <item pos="15400">
+    <f>peur</f>
+    <c>N</c>
+    <l>peur</l>
+  </item>
+  <item pos="15431">
+    <f>impression</f>
+    <c>N</c>
+    <l>impression</l>
+  </item>
+  <item pos="15443">
+    <f>machine</f>
+    <c>N</c>
+    <l>machine</l>
+  </item>
+  <item pos="15559">
+    <f>&amp;</f>
+    <c>X</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="15674">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="15686">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="15740">
+    <f>problèmes</f>
+    <c>N</c>
+    <l>problème</l>
+  </item>
+  <item pos="15807">
+    <f>manoeuvre</f>
+    <c>N</c>
+    <l>manoeuvre</l>
+  </item>
+  <item pos="15849">
+    <f>erreurs</f>
+    <c>N</c>
+    <l>erreur</l>
+  </item>
+  <item pos="15877">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="15917">
+    <f>mettre</f>
+    <c>V</c>
+    <l>mettre</l>
+  </item>
+  <item pos="15923">
+    <f>gens</f>
+    <c>N</c>
+    <l>gens</l>
+  </item>
+  <item pos="16063">
+    <f>changer</f>
+    <c>V</c>
+    <l>changer</l>
+  </item>
+  <item pos="16080">
+    <f>changer</f>
+    <c>V</c>
+    <l>changer</l>
+  </item>
+  <item pos="16098">
+    <f>mises</f>
+    <c>N</c>
+    <l>mise</l>
+  </item>
+  <item pos="16272">
+    <f>p~</f>
+    <c>N</c>
+    <l>p~</l>
+  </item>
+  <item pos="16320">
+    <f>ordinateur</f>
+    <c>N</c>
+    <l>ordinateur</l>
+  </item>
+  <item pos="16403">
+    <f>génération</f>
+    <c>N</c>
+    <l>génération</l>
+  </item>
+  <item pos="16494">
+    <f>de</f>
+    <c>Pre</c>
+    <l>de</l>
+  </item>
+  <item pos="16512">
+    <f>jardins</f>
+    <c>N</c>
+    <l>jardin</l>
+  </item>
+  <item pos="16640">
+    <f>lignes</f>
+    <c>N</c>
+    <l>ligne</l>
+  </item>
+  <item pos="16829">
+    <f>ça</f>
+    <c>Pro</c>
+    <l>ça</l>
+  </item>
+  <item pos="16888">
+    <f>envie</f>
+    <c>N</c>
+    <l>envie</l>
+  </item>
+  <item pos="16905">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="16919">
+    <f>définition</f>
+    <c>N</c>
+    <l>définition</l>
+  </item>
+  <item pos="16963">
+    <f>partie</f>
+    <c>N</c>
+    <l>partie</l>
+  </item>
+  <item pos="17001">
+    <f>approche</f>
+    <c>N</c>
+    <l>approche</l>
+  </item>
+  <item pos="17009">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="17032">
+    <f>ce</f>
+    <c>Cl</c>
+    <l>ce</l>
+  </item>
+  <item pos="17034">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="17107">
+    <f>philosophe</f>
+    <c>N</c>
+    <l>philosophe</l>
+  </item>
+  <item pos="17127">
+    <f>éloge</f>
+    <c>N</c>
+    <l>éloge</l>
+  </item>
+  <item pos="17153">
+    <f>doit</f>
+    <c>V</c>
+    <l>devoir</l>
+  </item>
+  <item pos="17180">
+    <f>quelque</f>
+    <c>Pro</c>
+    <l>quelque chose</l>
+  </item>
+  <item pos="17218">
+    <f>définition</f>
+    <c>N</c>
+    <l>définition</l>
+  </item>
+  <item pos="17283">
+    <f>ch~</f>
+    <c>N</c>
+    <l>ch~</l>
+  </item>
+  <item pos="17307">
+    <f>quoi</f>
+    <c>Qu</c>
+    <l>quoi</l>
+  </item>
+  <item pos="17326">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="17375">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="17497">
+    <f>est</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="17554">
+    <f>art</f>
+    <c>N</c>
+    <l>art</l>
+  </item>
+  <item pos="17616">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="17635">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="17655">
+    <f>rien</f>
+    <c>Pro</c>
+    <l>rien</l>
+  </item>
+  <item pos="17695">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="17701">
+    <f>dire</f>
+    <c>V</c>
+    <l>dire</l>
+  </item>
+  <item pos="17733">
+    <f>oui</f>
+    <c>I</c>
+    <l>oui</l>
+  </item>
+  <item pos="17793">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="17952">
+    <f>Nietzche</f>
+    <c>N</c>
+    <l>Nietzche</l>
+  </item>
+  <item pos="18031">
+    <f>avenue</f>
+    <c>N</c>
+    <l>avenue</l>
+  </item>
+  <item pos="18063">
+    <f>avenue</f>
+    <c>N</c>
+    <l>avenue</l>
+  </item>
+  <item pos="18119">
+    <f>boulevard</f>
+    <c>N</c>
+    <l>boulevard</l>
+  </item>
+  <item pos="18242">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="18276">
+    <f>vitrines</f>
+    <c>N</c>
+    <l>vitrine</l>
+  </item>
+  <item pos="18318">
+    <f>air</f>
+    <c>N</c>
+    <l>air</l>
+  </item>
+  <item pos="18348">
+    <f>voiture</f>
+    <c>N</c>
+    <l>voiture</l>
+  </item>
+  <item pos="18390">
+    <f>air</f>
+    <c>N</c>
+    <l>air</l>
+  </item>
+  <item pos="18413">
+    <f>aliments</f>
+    <c>N</c>
+    <l>aliment</l>
+  </item>
+  <item pos="18435">
+    <f>baguette</f>
+    <c>N</c>
+    <l>baguette</l>
+  </item>
+  <item pos="18494">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="18569">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="18591">
+    <f>ce</f>
+    <c>Cl</c>
+    <l>ce</l>
+  </item>
+  <item pos="18628">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="18640">
+    <f>dame</f>
+    <c>N</c>
+    <l>dame</l>
+  </item>
+  <item pos="18644">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="18654">
+    <f>baguette</f>
+    <c>N</c>
+    <l>baguette</l>
+  </item>
+  <item pos="18671">
+    <f>explication</f>
+    <c>N</c>
+    <l>explication</l>
+  </item>
+  <item pos="18725">
+    <f>déplacements</f>
+    <c>N</c>
+    <l>déplacement</l>
+  </item>
+  <item pos="18797">
+    <f>mét~</f>
+    <c>N</c>
+    <l>mét~</l>
+  </item>
+  <item pos="18805">
+    <f>métro</f>
+    <c>N</c>
+    <l>métro</l>
+  </item>
+  <item pos="18834">
+    <f>-</f>
+    <c>Cl</c>
+    <l>moi</l>
+  </item>
+  <item pos="18855">
+    <f>métro</f>
+    <c>N</c>
+    <l>métro</l>
+  </item>
+  <item pos="18913">
+    <f>Seine</f>
+    <c>N</c>
+    <l>Seine</l>
+  </item>
+  <item pos="18941">
+    <f>passerelle</f>
+    <c>N</c>
+    <l>passerelle</l>
+  </item>
+  <item pos="19029">
+    <f>courses</f>
+    <c>N</c>
+    <l>course</l>
+  </item>
+  <item pos="19177">
+    <f>manifestations</f>
+    <c>N</c>
+    <l>manifestation</l>
+  </item>
+  <item pos="19314">
+    <f>quar~</f>
+    <c>N</c>
+    <l>quar~</l>
+  </item>
+  <item pos="19355">
+    <f>Seine</f>
+    <c>N</c>
+    <l>Seine</l>
+  </item>
+  <item pos="19447">
+    <f>affectation</f>
+    <c>N</c>
+    <l>affectation</l>
+  </item>
+  <item pos="19499">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="19511">
+    <f>ça</f>
+    <c>Pro</c>
+    <l>ça</l>
+  </item>
+  <item pos="19558">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="19573">
+    <f>discours</f>
+    <c>N</c>
+    <l>discours</l>
+  </item>
+  <item pos="19748">
+    <f>moments</f>
+    <c>N</c>
+    <l>moment</l>
+  </item>
+  <item pos="19813">
+    <f>transports</f>
+    <c>N</c>
+    <l>transport</l>
+  </item>
+  <item pos="19830">
+    <f>boulevard</f>
+    <c>N</c>
+    <l>boulevard</l>
+  </item>
+  <item pos="19926">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="19997">
+    <f>courses</f>
+    <c>N</c>
+    <l>course</l>
+  </item>
+  <item pos="20155">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="20190">
+    <f>boulanger</f>
+    <c>N</c>
+    <l>boulanger</l>
+  </item>
+  <item pos="20289">
+    <f>courses</f>
+    <c>N</c>
+    <l>course</l>
+  </item>
+  <item pos="20344">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="20387">
+    <f>souvenirs</f>
+    <c>N</c>
+    <l>souvenir</l>
+  </item>
+  <item pos="20550">
+    <f>annexe</f>
+    <c>N</c>
+    <l>annexe</l>
+  </item>
+  <item pos="20701">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="21009">
+    <f>rien</f>
+    <c>Pro</c>
+    <l>rien</l>
+  </item>
+  <item pos="21178">
+    <f>conditions</f>
+    <c>N</c>
+    <l>condition</l>
+  </item>
+  <item pos="21192">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="21218">
+    <f>baraquements</f>
+    <c>N</c>
+    <l>baraquement</l>
+  </item>
+  <item pos="21302">
+    <f>ce</f>
+    <c>Cl</c>
+    <l>ce</l>
+  </item>
+  <item pos="21304">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="21447">
+    <f>souvenir</f>
+    <c>N</c>
+    <l>souvenir</l>
+  </item>
+  <item pos="21540">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="21548">
+    <f>mal</f>
+    <c>N</c>
+    <l>mal</l>
+  </item>
+  <item pos="21556">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="21592">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="21663">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="21769">
+    <f>amenait</f>
+    <c>V</c>
+    <l>amener</l>
+  </item>
+  <item pos="21773">
+    <f>étudiant</f>
+    <c>N</c>
+    <l>étudiant</l>
+  </item>
+  <item pos="21800">
+    <f>ce</f>
+    <c>Cl</c>
+    <l>ce</l>
+  </item>
+  <item pos="21802">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="21879">
+    <f>enseignants</f>
+    <c>N</c>
+    <l>enseignant</l>
+  </item>
+  <item pos="21898">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="21974">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="22025">
+    <f>place</f>
+    <c>N</c>
+    <l>place</l>
+  </item>
+  <item pos="22107">
+    <f>lequel</f>
+    <c>Qu</c>
+    <l>lequel</l>
+  </item>
+  <item pos="22142">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="22180">
+    <f>place</f>
+    <c>N</c>
+    <l>place</l>
+  </item>
+  <item pos="22206">
+    <f>itinéraires</f>
+    <c>N</c>
+    <l>itinéraire</l>
+  </item>
+  <item pos="22230">
+    <f>rue</f>
+    <c>N</c>
+    <l>rue</l>
+  </item>
+  <item pos="22362">
+    <f>nom</f>
+    <c>N</c>
+    <l>nom</l>
+  </item>
+  <item pos="22465">
+    <f>millions</f>
+    <c>N</c>
+    <l>million</l>
+  </item>
+  <item pos="22491">
+    <f>sites</f>
+    <c>N</c>
+    <l>site</l>
+  </item>
+  <item pos="22553">
+    <f>rencontres</f>
+    <c>N</c>
+    <l>rencontre</l>
+  </item>
+  <item pos="22588">
+    <f>site</f>
+    <c>N</c>
+    <l>site</l>
+  </item>
+  <item pos="22656">
+    <f>gens</f>
+    <c>N</c>
+    <l>gens</l>
+  </item>
+  <item pos="22743">
+    <f>photos</f>
+    <c>N</c>
+    <l>photo</l>
+  </item>
+  <item pos="22777">
+    <f>monde</f>
+    <c>N</c>
+    <l>monde</l>
+  </item>
+  <item pos="22809">
+    <f>connaître</f>
+    <c>V</c>
+    <l>connaître</l>
+  </item>
+  <item pos="22813">
+    <f>people</f>
+    <c>N</c>
+    <l>people</l>
+  </item>
+  <item pos="22821">
+    <f>droit</f>
+    <c>N</c>
+    <l>droit</l>
+  </item>
+  <item pos="22829">
+    <f>peoples</f>
+    <c>N</c>
+    <l>people</l>
+  </item>
+  <item pos="22867">
+    <f>ziki</f>
+    <c>N</c>
+    <l>ziki</l>
+  </item>
+  <item pos="22900">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="22910">
+    <f>identité</f>
+    <c>N</c>
+    <l>identité</l>
+  </item>
+  <item pos="22930">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="22936">
+    <f>n</f>
+    <c>Pro</c>
+    <l>n'importe quoi</l>
+  </item>
+  <item pos="22965">
+    <f>devants</f>
+    <c>N</c>
+    <l>devant</l>
+  </item>
+  <item pos="22977">
+    <f>infos</f>
+    <c>N</c>
+    <l>info</l>
+  </item>
+  <item pos="22981">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="23003">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="23060">
+    <f>photos</f>
+    <c>N</c>
+    <l>photo</l>
+  </item>
+  <item pos="23142">
+    <f>anniversaire</f>
+    <c>N</c>
+    <l>anniversaire</l>
+  </item>
+  <item pos="23164">
+    <f>code</f>
+    <c>N</c>
+    <l>code</l>
+  </item>
+  <item pos="23191">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="23231">
+    <f>jour</f>
+    <c>N</c>
+    <l>jour</l>
+  </item>
+  <item pos="23295">
+    <f>fille</f>
+    <c>N</c>
+    <l>fille</l>
+  </item>
+  <item pos="23337">
+    <f>voiture</f>
+    <c>N</c>
+    <l>voiture</l>
+  </item>
+  <item pos="23420">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="23430">
+    <f>pain</f>
+    <c>N</c>
+    <l>pain</l>
+  </item>
+  <item pos="23472">
+    <f>fille</f>
+    <c>N</c>
+    <l>fille</l>
+  </item>
+  <item pos="23489">
+    <f>fille</f>
+    <c>N</c>
+    <l>fille</l>
+  </item>
+  <item pos="23501">
+    <f>air</f>
+    <c>N</c>
+    <l>air</l>
+  </item>
+  <item pos="23517">
+    <f>mor~</f>
+    <c>N</c>
+    <l>mor~</l>
+  </item>
+  <item pos="23554">
+    <f>ça</f>
+    <c>Pro</c>
+    <l>ça</l>
+  </item>
+  <item pos="23582">
+    <f>peut</f>
+    <c>V</c>
+    <l>pouvoir</l>
+  </item>
+  <item pos="23592">
+    <f>quelque</f>
+    <c>Pro</c>
+    <l>quelque chose</l>
+  </item>
+  <item pos="23617">
+    <f>baguette</f>
+    <c>N</c>
+    <l>baguette</l>
+  </item>
+  <item pos="23672">
+    <f>Ch~</f>
+    <c>N</c>
+    <l>Ch~</l>
+  </item>
+  <item pos="23680">
+    <f>Charlot</f>
+    <c>N</c>
+    <l>Charlot</l>
+  </item>
+  <item pos="23708">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="23714">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="23758">
+    <f>accident</f>
+    <c>N</c>
+    <l>accident</l>
+  </item>
+  <item pos="23817">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="23843">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="23857">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="23877">
+    <f>fille</f>
+    <c>N</c>
+    <l>fille</l>
+  </item>
+  <item pos="23897">
+    <f>police</f>
+    <c>N</c>
+    <l>police</l>
+  </item>
+  <item pos="24005">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="24045">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="24055">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="24063">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="24076">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="24104">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="24151">
+    <f>droit</f>
+    <c>N</c>
+    <l>droit</l>
+  </item>
+  <item pos="24270">
+    <f>arrêt</f>
+    <c>N</c>
+    <l>arrêt</l>
+  </item>
+  <item pos="24321">
+    <f>ligne</f>
+    <c>N</c>
+    <l>ligne</l>
+  </item>
+  <item pos="24483">
+    <f>approche</f>
+    <c>N</c>
+    <l>approche</l>
+  </item>
+  <item pos="24523">
+    <f>points</f>
+    <c>N</c>
+    <l>point</l>
+  </item>
+  <item pos="24597">
+    <f>sujet</f>
+    <c>N</c>
+    <l>sujet</l>
+  </item>
+  <item pos="24638">
+    <f>sujet</f>
+    <c>N</c>
+    <l>sujet</l>
+  </item>
+  <item pos="24682">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="24837">
+    <f>XXX</f>
+    <c>X</c>
+    <l>XXX</l>
+  </item>
+  <item pos="24845">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="24855">
+    <f>formes</f>
+    <c>N</c>
+    <l>forme</l>
+  </item>
+  <item pos="24980">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="24988">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="25011">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="25048">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="25068">
+    <f>n</f>
+    <c>Pro</c>
+    <l>n'importe quoi</l>
+  </item>
+  <item pos="25098">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="25158">
+    <f>idée</f>
+    <c>N</c>
+    <l>idée</l>
+  </item>
+  <item pos="25295">
+    <f>apprendre</f>
+    <c>V</c>
+    <l>apprendre</l>
+  </item>
+  <item pos="25353">
+    <f>formes</f>
+    <c>N</c>
+    <l>forme</l>
+  </item>
+  <item pos="25441">
+    <f>choses</f>
+    <c>N</c>
+    <l>chose</l>
+  </item>
+  <item pos="25483">
+    <f>formes</f>
+    <c>N</c>
+    <l>forme</l>
+  </item>
+  <item pos="25560">
+    <f>faire</f>
+    <c>V</c>
+    <l>faire</l>
+  </item>
+  <item pos="25566">
+    <f>nombre</f>
+    <c>N</c>
+    <l>nombre</l>
+  </item>
+  <item pos="25613">
+    <f>distinction</f>
+    <c>N</c>
+    <l>distinction</l>
+  </item>
+  <item pos="25617">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="25637">
+    <f>la</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="25661">
+    <f>agit</f>
+    <c>V</c>
+    <l>agir</l>
+  </item>
+  <item pos="25686">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="25694">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="25702">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="25727">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="25735">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="25753">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="25821">
+    <f>art</f>
+    <c>N</c>
+    <l>art</l>
+  </item>
+  <item pos="25909">
+    <f>aspect</f>
+    <c>N</c>
+    <l>aspect</l>
+  </item>
+  <item pos="25923">
+    <f>art</f>
+    <c>N</c>
+    <l>art</l>
+  </item>
+  <item pos="25928">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="25943">
+    <f>expérience</f>
+    <c>N</c>
+    <l>expérience</l>
+  </item>
+  <item pos="25952">
+    <f>sorte</f>
+    <c>N</c>
+    <l>sorte</l>
+  </item>
+  <item pos="25984">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="26015">
+    <f>sensation</f>
+    <c>N</c>
+    <l>sensation</l>
+  </item>
+  <item pos="26087">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="26101">
+    <f>mot</f>
+    <c>N</c>
+    <l>mot</l>
+  </item>
+  <item pos="26115">
+    <f>terme</f>
+    <c>N</c>
+    <l>terme</l>
+  </item>
+  <item pos="26154">
+    <f>études</f>
+    <c>N</c>
+    <l>étude</l>
+  </item>
+  <item pos="26172">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="26339">
+    <f>oeuvres</f>
+    <c>N</c>
+    <l>oeuvre</l>
+  </item>
+  <item pos="26349">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="26382">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="26611">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="26621">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="26633">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="26659">
+    <f>différence</f>
+    <c>N</c>
+    <l>différence</l>
+  </item>
+  <item pos="26679">
+    <f>musique</f>
+    <c>N</c>
+    <l>musique</l>
+  </item>
+  <item pos="26698">
+    <f>musique</f>
+    <c>N</c>
+    <l>musique</l>
+  </item>
+  <item pos="26730">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="26738">
+    <f>baladeur</f>
+    <c>N</c>
+    <l>baladeur</l>
+  </item>
+  <item pos="26752">
+    <f>expérience</f>
+    <c>N</c>
+    <l>expérience</l>
+  </item>
+  <item pos="26792">
+    <f>musique</f>
+    <c>N</c>
+    <l>musique</l>
+  </item>
+  <item pos="26807">
+    <f>expérience</f>
+    <c>N</c>
+    <l>expérience</l>
+  </item>
+  <item pos="26870">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="26922">
+    <f>voir</f>
+    <c>V</c>
+    <l>voir</l>
+  </item>
+  <item pos="26957">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="26967">
+    <f>fonctions</f>
+    <c>N</c>
+    <l>fonction</l>
+  </item>
+  <item pos="27010">
+    <f>fonctions</f>
+    <c>N</c>
+    <l>fonction</l>
+  </item>
+  <item pos="27243">
+    <f>fonctions</f>
+    <c>N</c>
+    <l>fonction</l>
+  </item>
+  <item pos="27264">
+    <f>fonctions</f>
+    <c>N</c>
+    <l>fonction</l>
+  </item>
+  <item pos="27281">
+    <f>fonctions</f>
+    <c>N</c>
+    <l>fonction</l>
+  </item>
+  <item pos="27394">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="27408">
+    <f>fonctions</f>
+    <c>N</c>
+    <l>fonction</l>
+  </item>
+  <item pos="27457">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="27531">
+    <f>sociétés</f>
+    <c>N</c>
+    <l>société</l>
+  </item>
+  <item pos="27543">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="27577">
+    <f>sociétés</f>
+    <c>N</c>
+    <l>société</l>
+  </item>
+  <item pos="27593">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="27804">
+    <f>ça</f>
+    <c>Pro</c>
+    <l>ça</l>
+  </item>
+  <item pos="27827">
+    <f>livre</f>
+    <c>N</c>
+    <l>livre</l>
+  </item>
+  <item pos="27977">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="28000">
+    <f>en</f>
+    <c>Cl</c>
+    <l>en</l>
+  </item>
+  <item pos="28084">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="28107">
+    <f>livre</f>
+    <c>N</c>
+    <l>livre</l>
+  </item>
+  <item pos="28109">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="28155">
+    <f>un</f>
+    <c>Pro</c>
+    <l>un</l>
+  </item>
+  <item pos="28187">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="28227">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="28231">
+    <f>Au</f>
+    <c>Pre+D</c>
+    <l>à+le</l>
+  </item>
+  <item pos="28285">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="28350">
+    <f>ceux</f>
+    <c>Pro</c>
+    <l>celui</l>
+  </item>
+  <item pos="28370">
+    <f>tout</f>
+    <c>Pro</c>
+    <l>tout</l>
+  </item>
+  <item pos="28400">
+    <f>tout</f>
+    <c>Pro</c>
+    <l>tout</l>
+  </item>
+  <item pos="28482">
+    <f>Chroniques</f>
+    <c>N</c>
+    <l>Chronique</l>
+  </item>
+  <item pos="28572">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="28580">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="28602">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="28610">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="28680">
+    <f>espèce</f>
+    <c>N</c>
+    <l>espèce</l>
+  </item>
+  <item pos="28758">
+    <f>soucis</f>
+    <c>N</c>
+    <l>souci</l>
+  </item>
+  <item pos="28770">
+    <f>pouvoir</f>
+    <c>N</c>
+    <l>pouvoir</l>
+  </item>
+  <item pos="28868">
+    <f>humour</f>
+    <c>N</c>
+    <l>humour</l>
+  </item>
+  <item pos="28913">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="28983">
+    <f>choses</f>
+    <c>N</c>
+    <l>chose</l>
+  </item>
+  <item pos="29050">
+    <f>pourquoi</f>
+    <c>Qu</c>
+    <l>pourquoi</l>
+  </item>
+  <item pos="29055">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="29072">
+    <f>ça</f>
+    <c>Pro</c>
+    <l>ça</l>
+  </item>
+  <item pos="29122">
+    <f>grêle</f>
+    <c>N</c>
+    <l>grêle</l>
+  </item>
+  <item pos="29146">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="29176">
+    <f>aperçu</f>
+    <c>N</c>
+    <l>aperçu</l>
+  </item>
+  <item pos="29237">
+    <f>entendre</f>
+    <c>V</c>
+    <l>entendre</l>
+  </item>
+  <item pos="29239">
+    <f>ce</f>
+    <c>Cl</c>
+    <l>ce</l>
+  </item>
+  <item pos="29241">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="29371">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="29399">
+    <f>lire</f>
+    <c>V</c>
+    <l>lire</l>
+  </item>
+  <item pos="29403">
+    <f>truc</f>
+    <c>N</c>
+    <l>truc</l>
+  </item>
+  <item pos="29429">
+    <f>air</f>
+    <c>N</c>
+    <l>air</l>
+  </item>
+  <item pos="29490">
+    <f>pudeur</f>
+    <c>N</c>
+    <l>pudeur</l>
+  </item>
+  <item pos="29574">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="29591">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="29857">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="29879">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="29898">
+    <f>vie</f>
+    <c>N</c>
+    <l>vie</l>
+  </item>
+  <item pos="29998">
+    <f>amour</f>
+    <c>N</c>
+    <l>amour</l>
+  </item>
+  <item pos="30078">
+    <f>avenue</f>
+    <c>N</c>
+    <l>avenue</l>
+  </item>
+  <item pos="30134">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="30148">
+    <f>avenue</f>
+    <c>N</c>
+    <l>avenue</l>
+  </item>
+  <item pos="30344">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="30370">
+    <f>suivre</f>
+    <c>V</c>
+    <l>suivre</l>
+  </item>
+  <item pos="30378">
+    <f>ligne</f>
+    <c>N</c>
+    <l>ligne</l>
+  </item>
+  <item pos="30399">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="30444">
+    <f>savoir</f>
+    <c>V</c>
+    <l>savoir</l>
+  </item>
+  <item pos="30450">
+    <f>pouvais</f>
+    <c>V</c>
+    <l>pouvoir</l>
+  </item>
+  <item pos="30653">
+    <f>est</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="30713">
+    <f>boulevard</f>
+    <c>N</c>
+    <l>boulevard</l>
+  </item>
+  <item pos="30735">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="30737">
+    <f>appelle</f>
+    <c>V</c>
+    <l>appeler</l>
+  </item>
+  <item pos="30774">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="30955">
+    <f>tram</f>
+    <c>N</c>
+    <l>tram</l>
+  </item>
+  <item pos="31035">
+    <f>quais</f>
+    <c>N</c>
+    <l>quai</l>
+  </item>
+  <item pos="31071">
+    <f>banque</f>
+    <c>N</c>
+    <l>banque</l>
+  </item>
+  <item pos="31141">
+    <f>rails</f>
+    <c>N</c>
+    <l>rail</l>
+  </item>
+  <item pos="31173">
+    <f>MacDo</f>
+    <c>N</c>
+    <l>MacDo</l>
+  </item>
+  <item pos="31207">
+    <f>rails</f>
+    <c>N</c>
+    <l>rail</l>
+  </item>
+  <item pos="31309">
+    <f>galeries</f>
+    <c>N</c>
+    <l>galerie</l>
+  </item>
+  <item pos="31349">
+    <f>plein</f>
+    <c>Adv</c>
+    <l>plein</l>
+  </item>
+  <item pos="31376">
+    <f>terrasses</f>
+    <c>N</c>
+    <l>terrasse</l>
+  </item>
+  <item pos="31412">
+    <f>boutique</f>
+    <c>N</c>
+    <l>boutique</l>
+  </item>
+  <item pos="31478">
+    <f>fontaine</f>
+    <c>N</c>
+    <l>fontaine</l>
+  </item>
+  <item pos="31489">
+    <f>la</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="31536">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="31568">
+    <f>rue</f>
+    <c>N</c>
+    <l>rue</l>
+  </item>
+  <item pos="31582">
+    <f>la</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="31619">
+    <f>rue</f>
+    <c>N</c>
+    <l>rue</l>
+  </item>
+  <item pos="31639">
+    <f>rue</f>
+    <c>N</c>
+    <l>rue</l>
+  </item>
+  <item pos="31663">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="31707">
+    <f>kiosque</f>
+    <c>N</c>
+    <l>kiosque</l>
+  </item>
+  <item pos="31743">
+    <f>porche</f>
+    <c>N</c>
+    <l>porche</l>
+  </item>
+  <item pos="31853">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="31928">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="31938">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="31984">
+    <f>appelle</f>
+    <c>V</c>
+    <l>appeler</l>
+  </item>
+  <item pos="31986">
+    <f>ça</f>
+    <c>Pro</c>
+    <l>ça</l>
+  </item>
+  <item pos="31993">
+    <f>kiosque</f>
+    <c>N</c>
+    <l>kiosque</l>
+  </item>
+  <item pos="32092">
+    <f>sortie</f>
+    <c>N</c>
+    <l>sortie</l>
+  </item>
+  <item pos="32162">
+    <f>bulles</f>
+    <c>N</c>
+    <l>bulle</l>
+  </item>
+  <item pos="32174">
+    <f>bâtiment</f>
+    <c>N</c>
+    <l>bâtiment</l>
+  </item>
+  <item pos="32210">
+    <f>bulles</f>
+    <c>N</c>
+    <l>bulle</l>
+  </item>
+  <item pos="32297">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="32385">
+    <f>vitrine</f>
+    <c>N</c>
+    <l>vitrine</l>
+  </item>
+  <item pos="32407">
+    <f>garçon</f>
+    <c>N</c>
+    <l>garçon</l>
+  </item>
+  <item pos="32419">
+    <f>plateaux</f>
+    <c>N</c>
+    <l>plateau</l>
+  </item>
+  <item pos="32474">
+    <f>sandwich</f>
+    <c>N</c>
+    <l>sandwich</l>
+  </item>
+  <item pos="32515">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="32585">
+    <f>larcin</f>
+    <c>N</c>
+    <l>larcin</l>
+  </item>
+  <item pos="32638">
+    <f>ordre</f>
+    <c>N</c>
+    <l>ordre</l>
+  </item>
+  <item pos="32684">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="32697">
+    <f>faute</f>
+    <c>N</c>
+    <l>faute</l>
+  </item>
+  <item pos="32743">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="32771">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="32809">
+    <f>puissance</f>
+    <c>N</c>
+    <l>puissance</l>
+  </item>
+  <item pos="32848">
+    <f>masques</f>
+    <c>N</c>
+    <l>masque</l>
+  </item>
+  <item pos="32870">
+    <f>moments</f>
+    <c>N</c>
+    <l>moment</l>
+  </item>
+  <item pos="33014">
+    <f>cela</f>
+    <c>Pro</c>
+    <l>cela</l>
+  </item>
+  <item pos="33026">
+    <f>plaisir</f>
+    <c>N</c>
+    <l>plaisir</l>
+  </item>
+  <item pos="33080">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="33107">
+    <f>motivations</f>
+    <c>N</c>
+    <l>motivation</l>
+  </item>
+  <item pos="33133">
+    <f>débats</f>
+    <c>N</c>
+    <l>débat</l>
+  </item>
+  <item pos="33153">
+    <f>autres</f>
+    <c>Pro</c>
+    <l>autre</l>
+  </item>
+  <item pos="33256">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="33306">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="33364">
+    <f>pensée</f>
+    <c>N</c>
+    <l>pensée</l>
+  </item>
+  <item pos="33440">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="33502">
+    <f>tendance</f>
+    <c>N</c>
+    <l>tendance</l>
+  </item>
+  <item pos="33529">
+    <f>tendance</f>
+    <c>N</c>
+    <l>tendance</l>
+  </item>
+  <item pos="33670">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="33682">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="33772">
+    <f>réhabiliter</f>
+    <c>V</c>
+    <l>réhabiliter</l>
+  </item>
+  <item pos="33776">
+    <f>lecteur</f>
+    <c>N</c>
+    <l>lecteur</l>
+  </item>
+  <item pos="33818">
+    <f>tâche</f>
+    <c>N</c>
+    <l>tâche</l>
+  </item>
+  <item pos="33838">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="33908">
+    <f>écrivain</f>
+    <c>N</c>
+    <l>écrivain</l>
+  </item>
+  <item pos="34004">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="34016">
+    <f>théorie</f>
+    <c>N</c>
+    <l>théorie</l>
+  </item>
+  <item pos="34050">
+    <f>lecteur</f>
+    <c>N</c>
+    <l>lecteur</l>
+  </item>
+  <item pos="34082">
+    <f>jouissance</f>
+    <c>N</c>
+    <l>jouissance</l>
+  </item>
+  <item pos="34108">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="34145">
+    <f>sorte</f>
+    <c>N</c>
+    <l>sorte</l>
+  </item>
+  <item pos="34161">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="34171">
+    <f>compte</f>
+    <c>N</c>
+    <l>compte</l>
+  </item>
+  <item pos="34205">
+    <f>mot</f>
+    <c>N</c>
+    <l>mot</l>
+  </item>
+  <item pos="34241">
+    <f>question</f>
+    <c>N</c>
+    <l>question</l>
+  </item>
+  <item pos="34296">
+    <f>l~</f>
+    <c>Cl</c>
+    <l>l~</l>
+  </item>
+  <item pos="34304">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="34319">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="34356">
+    <f>sens</f>
+    <c>N</c>
+    <l>sens</l>
+  </item>
+  <item pos="34408">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="34449">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="34478">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="34585">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="34628">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="34665">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="34697">
+    <f>ce</f>
+    <c>Cl</c>
+    <l>ce</l>
+  </item>
+  <item pos="34699">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="34713">
+    <f>écrivains</f>
+    <c>N</c>
+    <l>écrivain</l>
+  </item>
+  <item pos="34743">
+    <f>écrivains</f>
+    <c>N</c>
+    <l>écrivain</l>
+  </item>
+  <item pos="34784">
+    <f>leaders</f>
+    <c>N</c>
+    <l>leader</l>
+  </item>
+  <item pos="34810">
+    <f>Proust</f>
+    <c>N</c>
+    <l>Proust</l>
+  </item>
+  <item pos="34830">
+    <f>Proust</f>
+    <c>N</c>
+    <l>Proust</l>
+  </item>
+  <item pos="34878">
+    <f>gens</f>
+    <c>N</c>
+    <l>gens</l>
+  </item>
+  <item pos="34921">
+    <f>activité</f>
+    <c>N</c>
+    <l>activité</l>
+  </item>
+  <item pos="34949">
+    <f>reconnaître</f>
+    <c>V</c>
+    <l>reconnaître</l>
+  </item>
+  <item pos="34951">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="34977">
+    <f>intellectuels</f>
+    <c>N</c>
+    <l>intellectuel</l>
+  </item>
+  <item pos="34995">
+    <f>professeurs</f>
+    <c>N</c>
+    <l>professeur</l>
+  </item>
+  <item pos="35013">
+    <f>gens</f>
+    <c>N</c>
+    <l>gens</l>
+  </item>
+  <item pos="35056">
+    <f>espèce</f>
+    <c>N</c>
+    <l>espèce</l>
+  </item>
+  <item pos="35070">
+    <f>institution</f>
+    <c>N</c>
+    <l>institution</l>
+  </item>
+  <item pos="35108">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="35192">
+    <f>homme</f>
+    <c>N</c>
+    <l>homme</l>
+  </item>
+  <item pos="35200">
+    <f>charnière</f>
+    <c>N</c>
+    <l>charnière</l>
+  </item>
+  <item pos="35286">
+    <f>sorte</f>
+    <c>N</c>
+    <l>sorte</l>
+  </item>
+  <item pos="35334">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="35421">
+    <f>ceux</f>
+    <c>Pro</c>
+    <l>celui</l>
+  </item>
+  <item pos="35446">
+    <f>autres</f>
+    <c>Adj</c>
+    <l>autre</l>
+  </item>
+  <item pos="35518">
+    <f>reconnaître</f>
+    <c>V</c>
+    <l>reconnaître</l>
+  </item>
+  <item pos="35520">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="35572">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="35596">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="35669">
+    <f>moment</f>
+    <c>N</c>
+    <l>moment</l>
+  </item>
+  <item pos="35677">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="35691">
+    <f>chiffres</f>
+    <c>N</c>
+    <l>chiffre</l>
+  </item>
+  <item pos="35700">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="35716">
+    <f>années</f>
+    <c>N</c>
+    <l>année</l>
+  </item>
+  <item pos="35724">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="35791">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="35843">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="35905">
+    <f>clientèles</f>
+    <c>N</c>
+    <l>clientèle</l>
+  </item>
+  <item pos="35965">
+    <f>déménagements</f>
+    <c>N</c>
+    <l>déménagement</l>
+  </item>
+  <item pos="36020">
+    <f>appartements</f>
+    <c>N</c>
+    <l>appartement</l>
+  </item>
+  <item pos="36050">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="36066">
+    <f>enfant</f>
+    <c>N</c>
+    <l>enfant</l>
+  </item>
+  <item pos="36097">
+    <f>enfant</f>
+    <c>N</c>
+    <l>enfant</l>
+  </item>
+  <item pos="36274">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="36294">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="36334">
+    <f>passage</f>
+    <c>N</c>
+    <l>passage</l>
+  </item>
+  <item pos="36385">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="36399">
+    <f>clientèle</f>
+    <c>N</c>
+    <l>clientèle</l>
+  </item>
+  <item pos="36460">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="36480">
+    <f>problème</f>
+    <c>N</c>
+    <l>problème</l>
+  </item>
+  <item pos="36520">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="36574">
+    <f>en</f>
+    <c>Cl</c>
+    <l>en</l>
+  </item>
+  <item pos="36662">
+    <f>lycée</f>
+    <c>N</c>
+    <l>lycée</l>
+  </item>
+  <item pos="36679">
+    <f>collèges</f>
+    <c>N</c>
+    <l>collège</l>
+  </item>
+  <item pos="36740">
+    <f>lycée</f>
+    <c>N</c>
+    <l>lycée</l>
+  </item>
+  <item pos="36762">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="36827">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="36880">
+    <f>maternelles</f>
+    <c>N</c>
+    <l>maternelle</l>
+  </item>
+  <item pos="36935">
+    <f>maternelles</f>
+    <c>N</c>
+    <l>maternelle</l>
+  </item>
+  <item pos="36999">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="37009">
+    <f>besoin</f>
+    <c>N</c>
+    <l>besoin</l>
+  </item>
+  <item pos="37030">
+    <f>XXX</f>
+    <c>X</c>
+    <l>XXX</l>
+  </item>
+  <item pos="37288">
+    <f>enfants</f>
+    <c>N</c>
+    <l>enfant</l>
+  </item>
+  <item pos="37337">
+    <f>livres</f>
+    <c>N</c>
+    <l>livre</l>
+  </item>
+  <item pos="37564">
+    <f>enfants</f>
+    <c>N</c>
+    <l>enfant</l>
+  </item>
+  <item pos="37662">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="37664">
+    <f>dire</f>
+    <c>V</c>
+    <l>dire</l>
+  </item>
+  <item pos="37805">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="37906">
+    <f>heures</f>
+    <c>N</c>
+    <l>heure</l>
+  </item>
+  <item pos="37924">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="37936">
+    <f>livre</f>
+    <c>N</c>
+    <l>livre</l>
+  </item>
+  <item pos="38012">
+    <f>problème</f>
+    <c>N</c>
+    <l>problème</l>
+  </item>
+  <item pos="38035">
+    <f>&amp;</f>
+    <c>X</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="38045">
+    <f>impression</f>
+    <c>N</c>
+    <l>impression</l>
+  </item>
+  <item pos="38097">
+    <f>impression</f>
+    <c>N</c>
+    <l>impression</l>
+  </item>
+  <item pos="38113">
+    <f>quartier</f>
+    <c>N</c>
+    <l>quartier</l>
+  </item>
+  <item pos="38206">
+    <f>de</f>
+    <c>Adv</c>
+    <l>de plus en plus</l>
+  </item>
+  <item pos="38275">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="38336">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="38356">
+    <f>partie</f>
+    <c>N</c>
+    <l>partie</l>
+  </item>
+  <item pos="38364">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="38392">
+    <f>voisins</f>
+    <c>N</c>
+    <l>voisin</l>
+  </item>
+  <item pos="38444">
+    <f>enfants</f>
+    <c>N</c>
+    <l>enfant</l>
+  </item>
+  <item pos="38484">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="38543">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="38559">
+    <f>aurais</f>
+    <c>V</c>
+    <l>avoir</l>
+  </item>
+  <item pos="38588">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="38598">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="38646">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="38656">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="38710">
+    <f>Chaplin</f>
+    <c>N</c>
+    <l>Chaplin</l>
+  </item>
+  <item pos="38714">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="38748">
+    <f>fille</f>
+    <c>N</c>
+    <l>fille</l>
+  </item>
+  <item pos="38762">
+    <f>devanture</f>
+    <c>N</c>
+    <l>devanture</l>
+  </item>
+  <item pos="38799">
+    <f>baguette</f>
+    <c>N</c>
+    <l>baguette</l>
+  </item>
+  <item pos="38827">
+    <f>vol</f>
+    <c>N</c>
+    <l>vol</l>
+  </item>
+  <item pos="38833">
+    <f>boulanger</f>
+    <c>N</c>
+    <l>boulanger</l>
+  </item>
+  <item pos="38851">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="38888">
+    <f>la</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="38920">
+    <f>explications</f>
+    <c>N</c>
+    <l>explication</l>
+  </item>
+  <item pos="38975">
+    <f>vol</f>
+    <c>N</c>
+    <l>vol</l>
+  </item>
+  <item pos="38990">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="39006">
+    <f>baguette</f>
+    <c>N</c>
+    <l>baguette</l>
+  </item>
+  <item pos="39024">
+    <f>vol</f>
+    <c>N</c>
+    <l>vol</l>
+  </item>
+  <item pos="39075">
+    <f>Chaplin</f>
+    <c>N</c>
+    <l>Chaplin</l>
+  </item>
+  <item pos="39090">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="39145">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="39194">
+    <f>non</f>
+    <c>I</c>
+    <l>non</l>
+  </item>
+  <item pos="39282">
+    <f>femme</f>
+    <c>N</c>
+    <l>femme</l>
+  </item>
+  <item pos="39346">
+    <f>pain</f>
+    <c>N</c>
+    <l>pain</l>
+  </item>
+  <item pos="39399">
+    <f>manque</f>
+    <c>N</c>
+    <l>manque</l>
+  </item>
+  <item pos="39418">
+    <f>bout</f>
+    <c>N</c>
+    <l>bout</l>
+  </item>
+  <item pos="39546">
+    <f>vol</f>
+    <c>N</c>
+    <l>vol</l>
+  </item>
+  <item pos="39643">
+    <f>fille</f>
+    <c>N</c>
+    <l>fille</l>
+  </item>
+  <item pos="39690">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="39777">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="39817">
+    <f>boulanger</f>
+    <c>N</c>
+    <l>boulanger</l>
+  </item>
+  <item pos="39922">
+    <f>fille</f>
+    <c>N</c>
+    <l>fille</l>
+  </item>
+  <item pos="39946">
+    <f>faim</f>
+    <c>N</c>
+    <l>faim</l>
+  </item>
+  <item pos="39967">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="39981">
+    <f>baguette</f>
+    <c>N</c>
+    <l>baguette</l>
+  </item>
+  <item pos="39994">
+    <f>Charlot</f>
+    <c>N</c>
+    <l>Charlot</l>
+  </item>
+  <item pos="40046">
+    <f>fille</f>
+    <c>N</c>
+    <l>fille</l>
+  </item>
+  <item pos="40122">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="40140">
+    <f>fille</f>
+    <c>N</c>
+    <l>fille</l>
+  </item>
+  <item pos="40142">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="40160">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="40178">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="40200">
+    <f>pain</f>
+    <c>N</c>
+    <l>pain</l>
+  </item>
+  <item pos="40244">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="40254">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="40262">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="40286">
+    <f>rendez</f>
+    <c>N</c>
+    <l>rendez-vous</l>
+  </item>
+  <item pos="40290">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="40316">
+    <f>biens</f>
+    <c>N</c>
+    <l>bien</l>
+  </item>
+  <item pos="40342">
+    <f>oui</f>
+    <c>I</c>
+    <l>oui</l>
+  </item>
+  <item pos="40350">
+    <f>parler</f>
+    <c>V</c>
+    <l>parler</l>
+  </item>
+  <item pos="40400">
+    <f>impression</f>
+    <c>N</c>
+    <l>impression</l>
+  </item>
+  <item pos="40471">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="40487">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="40520">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="40528">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="40568">
+    <f>gens</f>
+    <c>N</c>
+    <l>gens</l>
+  </item>
+  <item pos="40594">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="40604">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="40614">
+    <f>amie</f>
+    <c>N</c>
+    <l>ami</l>
+  </item>
+  <item pos="40663">
+    <f>moyens</f>
+    <c>N</c>
+    <l>moyen</l>
+  </item>
+  <item pos="40737">
+    <f>prépa</f>
+    <c>N</c>
+    <l>prépa</l>
+  </item>
+  <item pos="40749">
+    <f>concours</f>
+    <c>N</c>
+    <l>concours</l>
+  </item>
+  <item pos="40808">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="40822">
+    <f>ce</f>
+    <c>Cl</c>
+    <l>ce</l>
+  </item>
+  <item pos="40856">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="40968">
+    <f>tout</f>
+    <c>Pro</c>
+    <l>tout</l>
+  </item>
+  <item pos="41049">
+    <f>vaccins</f>
+    <c>N</c>
+    <l>vaccin</l>
+  </item>
+  <item pos="41070">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="41203">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="41226">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="41368">
+    <f>bien</f>
+    <c>N</c>
+    <l>bien</l>
+  </item>
+  <item pos="41394">
+    <f>idées</f>
+    <c>N</c>
+    <l>idée</l>
+  </item>
+  <item pos="41410">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="41454">
+    <f>travailler</f>
+    <c>V</c>
+    <l>travailler</l>
+  </item>
+  <item pos="41499">
+    <f>si</f>
+    <c>CS</c>
+    <l>si</l>
+  </item>
+  <item pos="41505">
+    <f>savoir</f>
+    <c>V</c>
+    <l>savoir</l>
+  </item>
+  <item pos="41507">
+    <f>pourquoi</f>
+    <c>Qu</c>
+    <l>pourquoi</l>
+  </item>
+  <item pos="41562">
+    <f>boulots</f>
+    <c>N</c>
+    <l>boulot</l>
+  </item>
+  <item pos="41588">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="41632">
+    <f>dimension</f>
+    <c>N</c>
+    <l>dimension</l>
+  </item>
+  <item pos="41722">
+    <f>être</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="41756">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="41812">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="41849">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="41855">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="41861">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="41937">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="42027">
+    <f>&amp;</f>
+    <c>V</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="42095">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="42184">
+    <f>gens</f>
+    <c>N</c>
+    <l>gens</l>
+  </item>
+  <item pos="42259">
+    <f>&amp;</f>
+    <c>V</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="42269">
+    <f>médecine</f>
+    <c>N</c>
+    <l>médecine</l>
+  </item>
+  <item pos="42303">
+    <f>argent</f>
+    <c>N</c>
+    <l>argent</l>
+  </item>
+  <item pos="42337">
+    <f>envie</f>
+    <c>N</c>
+    <l>envie</l>
+  </item>
+  <item pos="42345">
+    <f>spécialité</f>
+    <c>N</c>
+    <l>spécialité</l>
+  </item>
+  <item pos="42417">
+    <f>autres</f>
+    <c>Adj</c>
+    <l>autre</l>
+  </item>
+  <item pos="42441">
+    <f>contact</f>
+    <c>N</c>
+    <l>contact</l>
+  </item>
+  <item pos="42469">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="42484">
+    <f>spécialités</f>
+    <c>N</c>
+    <l>spécialité</l>
+  </item>
+  <item pos="42500">
+    <f>assez</f>
+    <c>Adv</c>
+    <l>assez</l>
+  </item>
+  <item pos="42567">
+    <f>ê~</f>
+    <c>V</c>
+    <l>ê~</l>
+  </item>
+  <item pos="42573">
+    <f>être</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="42617">
+    <f>métiers</f>
+    <c>N</c>
+    <l>métier</l>
+  </item>
+  <item pos="42629">
+    <f>être</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="42644">
+    <f>ce</f>
+    <c>Cl</c>
+    <l>ce</l>
+  </item>
+  <item pos="42646">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="42663">
+    <f>être</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="42704">
+    <f>avoir</f>
+    <c>V</c>
+    <l>avoir</l>
+  </item>
+  <item pos="42708">
+    <f>don</f>
+    <c>N</c>
+    <l>don</l>
+  </item>
+  <item pos="42746">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="42819">
+    <f>spécialités</f>
+    <c>N</c>
+    <l>spécialité</l>
+  </item>
+  <item pos="42850">
+    <f>spécialité</f>
+    <c>N</c>
+    <l>spécialité</l>
+  </item>
+  <item pos="42854">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="43090">
+    <f>énormément</f>
+    <c>Adv</c>
+    <l>énormément</l>
+  </item>
+  <item pos="43138">
+    <f>ce</f>
+    <c>Cl</c>
+    <l>ce</l>
+  </item>
+  <item pos="43140">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="43210">
+    <f>si</f>
+    <c>CS</c>
+    <l>si</l>
+  </item>
+  <item pos="43326">
+    <f>avoir</f>
+    <c>V</c>
+    <l>avoir</l>
+  </item>
+  <item pos="43332">
+    <f>avocat</f>
+    <c>N</c>
+    <l>avocat</l>
+  </item>
+  <item pos="43437">
+    <f>idéaux</f>
+    <c>N</c>
+    <l>idéal</l>
+  </item>
+  <item pos="43453">
+    <f>être</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="43486">
+    <f>question</f>
+    <c>N</c>
+    <l>question</l>
+  </item>
+  <item pos="43512">
+    <f>questions</f>
+    <c>N</c>
+    <l>question</l>
+  </item>
+  <item pos="43535">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="43557">
+    <f>suffisamment</f>
+    <c>Adv</c>
+    <l>suffisamment</l>
+  </item>
+  <item pos="43613">
+    <f>quoi</f>
+    <c>Qu</c>
+    <l>quoi</l>
+  </item>
+  <item pos="43684">
+    <f>si</f>
+    <c>CS</c>
+    <l>si</l>
+  </item>
+  <item pos="43694">
+    <f>loi</f>
+    <c>N</c>
+    <l>loi</l>
+  </item>
+  <item pos="43732">
+    <f>gens</f>
+    <c>N</c>
+    <l>gens</l>
+  </item>
+  <item pos="43771">
+    <f>chien</f>
+    <c>N</c>
+    <l>chien</l>
+  </item>
+  <item pos="43775">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="43783">
+    <f>besoin</f>
+    <c>N</c>
+    <l>besoin</l>
+  </item>
+  <item pos="43845">
+    <f>animaux</f>
+    <c>N</c>
+    <l>animal</l>
+  </item>
+  <item pos="43858">
+    <f>rien</f>
+    <c>Pro</c>
+    <l>rien</l>
+  </item>
+  <item pos="43883">
+    <f>ça</f>
+    <c>Pro</c>
+    <l>ça</l>
+  </item>
+  <item pos="43887">
+    <f>d</f>
+    <c>Pre</c>
+    <l>de</l>
+  </item>
+  <item pos="43982">
+    <f>appel</f>
+    <c>N</c>
+    <l>appel</l>
+  </item>
+  <item pos="44010">
+    <f>cri</f>
+    <c>N</c>
+    <l>cri</l>
+  </item>
+  <item pos="44030">
+    <f>point</f>
+    <c>N</c>
+    <l>point</l>
+  </item>
+  <item pos="44183">
+    <f>emplois</f>
+    <c>N</c>
+    <l>emploi</l>
+  </item>
+  <item pos="44290">
+    <f>celle</f>
+    <c>Pro</c>
+    <l>celui</l>
+  </item>
+  <item pos="44339">
+    <f>procès</f>
+    <c>N</c>
+    <l>procès</l>
+  </item>
+  <item pos="44360">
+    <f>pratiques</f>
+    <c>N</c>
+    <l>pratique</l>
+  </item>
+  <item pos="44467">
+    <f>syndicats</f>
+    <c>N</c>
+    <l>syndicat</l>
+  </item>
+  <item pos="44488">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="44543">
+    <f>ce</f>
+    <c>Cl</c>
+    <l>ce</l>
+  </item>
+  <item pos="44573">
+    <f>va</f>
+    <c>V</c>
+    <l>aller</l>
+  </item>
+  <item pos="44654">
+    <f>mesures</f>
+    <c>N</c>
+    <l>mesure</l>
+  </item>
+  <item pos="44708">
+    <f>monde</f>
+    <c>N</c>
+    <l>monde</l>
+  </item>
+  <item pos="44775">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="44803">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="44917">
+    <f>magasins</f>
+    <c>N</c>
+    <l>magasin</l>
+  </item>
+  <item pos="44923">
+    <f>pneus</f>
+    <c>N</c>
+    <l>pneu</l>
+  </item>
+  <item pos="44993">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="45031">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="45086">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="45285">
+    <f>abandon</f>
+    <c>N</c>
+    <l>abandon</l>
+  </item>
+  <item pos="45350">
+    <f>plan</f>
+    <c>N</c>
+    <l>plan</l>
+  </item>
+  <item pos="45401">
+    <f>plus</f>
+    <c>Adv</c>
+    <l>plus</l>
+  </item>
+  <item pos="45443">
+    <f>saisies</f>
+    <c>N</c>
+    <l>saisi</l>
+  </item>
+  <item pos="45476">
+    <f>millions</f>
+    <c>N</c>
+    <l>million</l>
+  </item>
+  <item pos="45498">
+    <f>crédit</f>
+    <c>N</c>
+    <l>crédit</l>
+  </item>
+  <item pos="45547">
+    <f>plan</f>
+    <c>N</c>
+    <l>plan</l>
+  </item>
+  <item pos="45577">
+    <f>milliards</f>
+    <c>N</c>
+    <l>milliard</l>
+  </item>
+  <item pos="45614">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="45658">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="45725">
+    <f>si</f>
+    <c>CS</c>
+    <l>si</l>
+  </item>
+  <item pos="45751">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="45787">
+    <f>belle</f>
+    <c>N</c>
+    <l>belle</l>
+  </item>
+  <item pos="45863">
+    <f>procès</f>
+    <c>N</c>
+    <l>procès</l>
+  </item>
+  <item pos="45872">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="45918">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="45926">
+    <f>décision</f>
+    <c>N</c>
+    <l>décision</l>
+  </item>
+  <item pos="45948">
+    <f>préfet</f>
+    <c>N</c>
+    <l>préfet</l>
+  </item>
+  <item pos="45974">
+    <f>forcing</f>
+    <c>N</c>
+    <l>forcing</l>
+  </item>
+  <item pos="45982">
+    <f>contrôle</f>
+    <c>N</c>
+    <l>contrôle</l>
+  </item>
+  <item pos="46000">
+    <f>maître</f>
+    <c>N</c>
+    <l>maître</l>
+  </item>
+  <item pos="46091">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="46247">
+    <f>matchs</f>
+    <c>N</c>
+    <l>match</l>
+  </item>
+  <item pos="46333">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="46369">
+    <f>faire</f>
+    <c>V</c>
+    <l>faire</l>
+  </item>
+  <item pos="46371">
+    <f>L</f>
+    <c>N</c>
+    <l>L</l>
+  </item>
+  <item pos="46385">
+    <f>faire</f>
+    <c>V</c>
+    <l>faire</l>
+  </item>
+  <item pos="46387">
+    <f>S</f>
+    <c>N</c>
+    <l>S</l>
+  </item>
+  <item pos="46413">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="46439">
+    <f>moyenne</f>
+    <c>N</c>
+    <l>moyenne</l>
+  </item>
+  <item pos="46466">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="46482">
+    <f>énormément</f>
+    <c>Adv</c>
+    <l>énormément</l>
+  </item>
+  <item pos="46522">
+    <f>L</f>
+    <c>N</c>
+    <l>L</l>
+  </item>
+  <item pos="46556">
+    <f>compte</f>
+    <c>N</c>
+    <l>compte</l>
+  </item>
+  <item pos="46605">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="46676">
+    <f>fait</f>
+    <c>N</c>
+    <l>fait</l>
+  </item>
+  <item pos="46796">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="46823">
+    <f>ça</f>
+    <c>Pro</c>
+    <l>ça</l>
+  </item>
+  <item pos="46853">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="47020">
+    <f>français</f>
+    <c>N</c>
+    <l>français</l>
+  </item>
+  <item pos="47093">
+    <f>chose</f>
+    <c>N</c>
+    <l>chose</l>
+  </item>
+  <item pos="47111">
+    <f>mot</f>
+    <c>N</c>
+    <l>mot</l>
+  </item>
+  <item pos="47141">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="47153">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="47173">
+    <f>&amp;</f>
+    <c>X</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="47218">
+    <f>personne</f>
+    <c>Pro</c>
+    <l>personne</l>
+  </item>
+  <item pos="47281">
+    <f>portugais</f>
+    <c>N</c>
+    <l>portugais</l>
+  </item>
+  <item pos="47333">
+    <f>diplôme</f>
+    <c>N</c>
+    <l>diplôme</l>
+  </item>
+  <item pos="47372">
+    <f>chose</f>
+    <c>N</c>
+    <l>chose</l>
+  </item>
+  <item pos="47391">
+    <f>souhait</f>
+    <c>N</c>
+    <l>souhait</l>
+  </item>
+  <item pos="47479">
+    <f>iras</f>
+    <c>V</c>
+    <l>aller</l>
+  </item>
+  <item pos="47525">
+    <f>souvenir</f>
+    <c>N</c>
+    <l>souvenir</l>
+  </item>
+  <item pos="47571">
+    <f>compte</f>
+    <c>N</c>
+    <l>compte</l>
+  </item>
+  <item pos="47613">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="47619">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="47649">
+    <f>origines</f>
+    <c>N</c>
+    <l>origine</l>
+  </item>
+  <item pos="47675">
+    <f>langue</f>
+    <c>N</c>
+    <l>langue</l>
+  </item>
+  <item pos="47694">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="47714">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="47787">
+    <f>escaliers</f>
+    <c>N</c>
+    <l>escalier</l>
+  </item>
+  <item pos="47826">
+    <f>continuer</f>
+    <c>V</c>
+    <l>continuer</l>
+  </item>
+  <item pos="47873">
+    <f>tourner</f>
+    <c>V</c>
+    <l>tourner</l>
+  </item>
+  <item pos="47953">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="47973">
+    <f>cinéma</f>
+    <c>N</c>
+    <l>cinéma</l>
+  </item>
+  <item pos="47997">
+    <f>avenue</f>
+    <c>N</c>
+    <l>avenue</l>
+  </item>
+  <item pos="48020">
+    <f>coude</f>
+    <c>N</c>
+    <l>coude</l>
+  </item>
+  <item pos="48157">
+    <f>tram</f>
+    <c>N</c>
+    <l>tram</l>
+  </item>
+  <item pos="48162">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="48170">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="48207">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="48221">
+    <f>rails</f>
+    <c>N</c>
+    <l>rail</l>
+  </item>
+  <item pos="48254">
+    <f>&amp;</f>
+    <c>V</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="48332">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="48385">
+    <f>chaises</f>
+    <c>N</c>
+    <l>chaise</l>
+  </item>
+  <item pos="48391">
+    <f>besoin</f>
+    <c>N</c>
+    <l>besoin</l>
+  </item>
+  <item pos="48419">
+    <f>endroit</f>
+    <c>N</c>
+    <l>endroit</l>
+  </item>
+  <item pos="48427">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="48457">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="48459">
+    <f>donner</f>
+    <c>V</c>
+    <l>donner</l>
+  </item>
+  <item pos="48499">
+    <f>quelqu</f>
+    <c>Pro</c>
+    <l>quelqu'un</l>
+  </item>
+  <item pos="48533">
+    <f>quelqu</f>
+    <c>Pro</c>
+    <l>quelqu'un</l>
+  </item>
+  <item pos="48566">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="48572">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="48600">
+    <f>compter</f>
+    <c>V</c>
+    <l>compter</l>
+  </item>
+  <item pos="48608">
+    <f>combien</f>
+    <c>Qu</c>
+    <l>combien</l>
+  </item>
+  <item pos="48705">
+    <f>compter</f>
+    <c>V</c>
+    <l>compter</l>
+  </item>
+  <item pos="48713">
+    <f>équivalent</f>
+    <c>N</c>
+    <l>équivalent</l>
+  </item>
+  <item pos="48745">
+    <f>plus</f>
+    <c>Adv</c>
+    <l>plus</l>
+  </item>
+  <item pos="48789">
+    <f>cannage</f>
+    <c>N</c>
+    <l>cannage</l>
+  </item>
+  <item pos="48845">
+    <f>compter</f>
+    <c>V</c>
+    <l>compter</l>
+  </item>
+  <item pos="48887">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="48895">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="48913">
+    <f>compter</f>
+    <c>V</c>
+    <l>compter</l>
+  </item>
+  <item pos="48915">
+    <f>combien</f>
+    <c>Qu</c>
+    <l>combien</l>
+  </item>
+  <item pos="48975">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="49047">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="49081">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="49177">
+    <f>impacts</f>
+    <c>N</c>
+    <l>impact</l>
+  </item>
+  <item pos="49219">
+    <f>si</f>
+    <c>CS</c>
+    <l>si</l>
+  </item>
+  <item pos="49235">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="49332">
+    <f>tout</f>
+    <c>Pro</c>
+    <l>tout</l>
+  </item>
+  <item pos="49358">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="49377">
+    <f>problème</f>
+    <c>N</c>
+    <l>problème</l>
+  </item>
+  <item pos="49404">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="49494">
+    <f>problème</f>
+    <c>N</c>
+    <l>problème</l>
+  </item>
+  <item pos="49581">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="49596">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="49602">
+    <f>rhabiller</f>
+    <c>V</c>
+    <l>rhabiller</l>
+  </item>
+  <item pos="49624">
+    <f>fauteuil</f>
+    <c>N</c>
+    <l>fauteuil</l>
+  </item>
+  <item pos="49849">
+    <f>expression</f>
+    <c>N</c>
+    <l>expression</l>
+  </item>
+  <item pos="49979">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="50138">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="50148">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="50154">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="50270">
+    <f>assise</f>
+    <c>N</c>
+    <l>assise</l>
+  </item>
+  <item pos="50296">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="50308">
+    <f>accoudoirs</f>
+    <c>N</c>
+    <l>accoudoir</l>
+  </item>
+  <item pos="50325">
+    <f>sont</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="50358">
+    <f>tout</f>
+    <c>Pro</c>
+    <l>tout</l>
+  </item>
+  <item pos="50360">
+    <f>reprendre</f>
+    <c>V</c>
+    <l>reprendre</l>
+  </item>
+  <item pos="50380">
+    <f>travail</f>
+    <c>N</c>
+    <l>travail</l>
+  </item>
+  <item pos="50386">
+    <f>faire</f>
+    <c>V</c>
+    <l>faire</l>
+  </item>
+  <item pos="50390">
+    <f>assise</f>
+    <c>N</c>
+    <l>assise</l>
+  </item>
+  <item pos="50409">
+    <f>grand</f>
+    <c>Pro</c>
+    <l>grand-chose</l>
+  </item>
+  <item pos="50439">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="50483">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="50487">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="50491">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="50640">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="50721">
+    <f>tissu</f>
+    <c>N</c>
+    <l>tissu</l>
+  </item>
+  <item pos="50757">
+    <f>rouleau</f>
+    <c>N</c>
+    <l>rouleau</l>
+  </item>
+  <item pos="50788">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="50800">
+    <f>teintes</f>
+    <c>N</c>
+    <l>teinte</l>
+  </item>
+  <item pos="50802">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="50826">
+    <f>&amp;</f>
+    <c>V</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="50840">
+    <f>savoir</f>
+    <c>V</c>
+    <l>savoir</l>
+  </item>
+  <item pos="50842">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="50850">
+    <f>base</f>
+    <c>N</c>
+    <l>base</l>
+  </item>
+  <item pos="50902">
+    <f>pièce</f>
+    <c>N</c>
+    <l>pièce</l>
+  </item>
+  <item pos="50922">
+    <f>garder</f>
+    <c>V</c>
+    <l>garder</l>
+  </item>
+  <item pos="50926">
+    <f>teintes</f>
+    <c>N</c>
+    <l>teinte</l>
+  </item>
+  <item pos="50998">
+    <f>beige</f>
+    <c>N</c>
+    <l>beige</l>
+  </item>
+  <item pos="51035">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="51080">
+    <f>coussins</f>
+    <c>N</c>
+    <l>coussin</l>
+  </item>
+  <item pos="51154">
+    <f>quelque</f>
+    <c>Pro</c>
+    <l>quelque chose</l>
+  </item>
+  <item pos="51181">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="51211">
+    <f>de</f>
+    <c>Pre</c>
+    <l>un</l>
+  </item>
+  <item pos="51303">
+    <f>contraste</f>
+    <c>N</c>
+    <l>contraste</l>
+  </item>
+  <item pos="51341">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="51367">
+    <f>frange</f>
+    <c>N</c>
+    <l>frange</l>
+  </item>
+  <item pos="51450">
+    <f>t</f>
+    <c>Cl</c>
+    <l>te</l>
+  </item>
+  <item pos="51458">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="51499">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="51557">
+    <f>frange</f>
+    <c>N</c>
+    <l>frange</l>
+  </item>
+  <item pos="51616">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="51716">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="51742">
+    <f>époque</f>
+    <c>N</c>
+    <l>époque</l>
+  </item>
+  <item pos="51783">
+    <f>deux</f>
+    <c>Adj</c>
+    <l>deux</l>
+  </item>
+  <item pos="51803">
+    <f>aspect</f>
+    <c>N</c>
+    <l>aspect</l>
+  </item>
+  <item pos="51824">
+    <f>tissu</f>
+    <c>N</c>
+    <l>tissu</l>
+  </item>
+  <item pos="51918">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="51966">
+    <f>poussière</f>
+    <c>N</c>
+    <l>poussière</l>
+  </item>
+  <item pos="52006">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="52139">
+    <f>problème</f>
+    <c>N</c>
+    <l>problème</l>
+  </item>
+  <item pos="52182">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="52382">
+    <f>problème</f>
+    <c>N</c>
+    <l>problème</l>
+  </item>
+  <item pos="52400">
+    <f>route</f>
+    <c>N</c>
+    <l>route</l>
+  </item>
+  <item pos="52452">
+    <f>échangeur</f>
+    <c>N</c>
+    <l>échangeur</l>
+  </item>
+  <item pos="52483">
+    <f>rond</f>
+    <c>N</c>
+    <l>rond-point</l>
+  </item>
+  <item pos="52505">
+    <f>pont</f>
+    <c>N</c>
+    <l>pont</l>
+  </item>
+  <item pos="52592">
+    <f>route</f>
+    <c>N</c>
+    <l>route</l>
+  </item>
+  <item pos="52612">
+    <f>tournant</f>
+    <c>N</c>
+    <l>tournant</l>
+  </item>
+  <item pos="52680">
+    <f>rond</f>
+    <c>N</c>
+    <l>rond-point</l>
+  </item>
+  <item pos="52702">
+    <f>Géant</f>
+    <c>N</c>
+    <l>Géant</l>
+  </item>
+  <item pos="52765">
+    <f>route</f>
+    <c>N</c>
+    <l>route</l>
+  </item>
+  <item pos="52935">
+    <f>escaliers</f>
+    <c>N</c>
+    <l>escalier</l>
+  </item>
+  <item pos="53016">
+    <f>pente</f>
+    <c>N</c>
+    <l>pente</l>
+  </item>
+  <item pos="53034">
+    <f>rond</f>
+    <c>N</c>
+    <l>rond-point</l>
+  </item>
+  <item pos="53077">
+    <f>gare</f>
+    <c>N</c>
+    <l>gare</l>
+  </item>
+  <item pos="53156">
+    <f>Nef</f>
+    <c>N</c>
+    <l>Nef</l>
+  </item>
+  <item pos="53229">
+    <f>intersions</f>
+    <c>N</c>
+    <l>intersion</l>
+  </item>
+  <item pos="53355">
+    <f>intersection</f>
+    <c>N</c>
+    <l>intersection</l>
+  </item>
+  <item pos="53389">
+    <f>cathédrale</f>
+    <c>N</c>
+    <l>cathédrale</l>
+  </item>
+  <item pos="53414">
+    <f>plein</f>
+    <c>N</c>
+    <l>plein</l>
+  </item>
+  <item pos="53463">
+    <f>place</f>
+    <c>N</c>
+    <l>place</l>
+  </item>
+  <item pos="53514">
+    <f>rues</f>
+    <c>N</c>
+    <l>rue</l>
+  </item>
+  <item pos="53579">
+    <f>angle</f>
+    <c>N</c>
+    <l>angle</l>
+  </item>
+  <item pos="53628">
+    <f>quoi</f>
+    <c>Qu</c>
+    <l>quoi</l>
+  </item>
+  <item pos="53745">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="53851">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="53903">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="53924">
+    <f>personne</f>
+    <c>Pro</c>
+    <l>personne</l>
+  </item>
+  <item pos="53948">
+    <f>as</f>
+    <c>V</c>
+    <l>avoir</l>
+  </item>
+  <item pos="53952">
+    <f>antenne</f>
+    <c>N</c>
+    <l>antenne</l>
+  </item>
+  <item pos="53971">
+    <f>mois</f>
+    <c>N</c>
+    <l>mois</l>
+  </item>
+  <item pos="53984">
+    <f>antenne</f>
+    <c>N</c>
+    <l>antenne</l>
+  </item>
+  <item pos="54069">
+    <f>spectacles</f>
+    <c>N</c>
+    <l>spectacle</l>
+  </item>
+  <item pos="54180">
+    <f>spectacle</f>
+    <c>N</c>
+    <l>spectacle</l>
+  </item>
+  <item pos="54212">
+    <f>Landru</f>
+    <c>N</c>
+    <l>Landru</l>
+  </item>
+  <item pos="54222">
+    <f>barbe</f>
+    <c>N</c>
+    <l>barbe</l>
+  </item>
+  <item pos="54316">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="54337">
+    <f>ce</f>
+    <c>Cl</c>
+    <l>ce</l>
+  </item>
+  <item pos="54339">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="54490">
+    <f>Orson</f>
+    <c>N</c>
+    <l>Orson</l>
+  </item>
+  <item pos="54552">
+    <f>question</f>
+    <c>N</c>
+    <l>question</l>
+  </item>
+  <item pos="54572">
+    <f>interview</f>
+    <c>N</c>
+    <l>interview</l>
+  </item>
+  <item pos="54675">
+    <f>ami</f>
+    <c>N</c>
+    <l>ami</l>
+  </item>
+  <item pos="54701">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="54738">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="54856">
+    <f>amant</f>
+    <c>N</c>
+    <l>amant</l>
+  </item>
+  <item pos="54989">
+    <f>principe</f>
+    <c>N</c>
+    <l>principe</l>
+  </item>
+  <item pos="55001">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="55032">
+    <f>fidélités</f>
+    <c>N</c>
+    <l>fidélité</l>
+  </item>
+  <item pos="55122">
+    <f>ça</f>
+    <c>Pro</c>
+    <l>ça</l>
+  </item>
+  <item pos="55137">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="55152">
+    <f>fidélités</f>
+    <c>N</c>
+    <l>fidélité</l>
+  </item>
+  <item pos="55236">
+    <f>amant</f>
+    <c>N</c>
+    <l>amant</l>
+  </item>
+  <item pos="55282">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="55298">
+    <f>problème</f>
+    <c>N</c>
+    <l>problème</l>
+  </item>
+  <item pos="55329">
+    <f>endroit</f>
+    <c>N</c>
+    <l>endroit</l>
+  </item>
+  <item pos="55341">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="55395">
+    <f>endroit</f>
+    <c>N</c>
+    <l>endroit</l>
+  </item>
+  <item pos="55429">
+    <f>gens</f>
+    <c>N</c>
+    <l>gens</l>
+  </item>
+  <item pos="55437">
+    <f>emmerdes</f>
+    <c>N</c>
+    <l>emmerde</l>
+  </item>
+  <item pos="55445">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="55472">
+    <f>peine</f>
+    <c>N</c>
+    <l>peine</l>
+  </item>
+  <item pos="55489">
+    <f>mais</f>
+    <c>J</c>
+    <l>mais</l>
+  </item>
+  <item pos="55515">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="55534">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="55544">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="55564">
+    <f>XXX</f>
+    <c>X</c>
+    <l>XXX</l>
+  </item>
+  <item pos="55628">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="55636">
+    <f>t</f>
+    <c>Cl</c>
+    <l>te</l>
+  </item>
+  <item pos="55644">
+    <f>te</f>
+    <c>Cl</c>
+    <l>te</l>
+  </item>
+  <item pos="55834">
+    <f>ciel</f>
+    <c>N</c>
+    <l>ciel</l>
+  </item>
+  <item pos="55852">
+    <f>porte</f>
+    <c>N</c>
+    <l>porte</l>
+  </item>
+  <item pos="55858">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="55878">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="55890">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="55920">
+    <f>ciel</f>
+    <c>I</c>
+    <l>ciel</l>
+  </item>
+  <item pos="55937">
+    <f>porte</f>
+    <c>N</c>
+    <l>porte</l>
+  </item>
+  <item pos="55939">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="55954">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="55962">
+    <f>ma~</f>
+    <c>N</c>
+    <l>ma~</l>
+  </item>
+  <item pos="56019">
+    <f>mari</f>
+    <c>N</c>
+    <l>mari</l>
+  </item>
+  <item pos="56051">
+    <f>mais</f>
+    <c>J</c>
+    <l>mais</l>
+  </item>
+  <item pos="56066">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="56158">
+    <f>César</f>
+    <c>N</c>
+    <l>César</l>
+  </item>
+  <item pos="56207">
+    <f>ami</f>
+    <c>N</c>
+    <l>ami</l>
+  </item>
+  <item pos="56289">
+    <f>ce</f>
+    <c>Cl</c>
+    <l>ce</l>
+  </item>
+  <item pos="56291">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="56374">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="56459">
+    <f>mère</f>
+    <c>N</c>
+    <l>mère</l>
+  </item>
+  <item pos="56465">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="56533">
+    <f>pote</f>
+    <c>N</c>
+    <l>pote</l>
+  </item>
+  <item pos="56623">
+    <f>mère</f>
+    <c>N</c>
+    <l>mère</l>
+  </item>
+  <item pos="56635">
+    <f>déclaration</f>
+    <c>N</c>
+    <l>déclaration</l>
+  </item>
+  <item pos="56667">
+    <f>oui</f>
+    <c>I</c>
+    <l>oui</l>
+  </item>
+  <item pos="56693">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="56715">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="56756">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="56926">
+    <f>public</f>
+    <c>N</c>
+    <l>public</l>
+  </item>
+  <item pos="57031">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="57132">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="57216">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="57224">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="57242">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="57264">
+    <f>activité</f>
+    <c>N</c>
+    <l>activité</l>
+  </item>
+  <item pos="57275">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="57302">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="57359">
+    <f>Algérie</f>
+    <c>N</c>
+    <l>Algérie</l>
+  </item>
+  <item pos="57475">
+    <f>étude</f>
+    <c>N</c>
+    <l>étude</l>
+  </item>
+  <item pos="57483">
+    <f>passion</f>
+    <c>N</c>
+    <l>passion</l>
+  </item>
+  <item pos="57507">
+    <f>savoir</f>
+    <c>N</c>
+    <l>savoir</l>
+  </item>
+  <item pos="57625">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="57651">
+    <f>études</f>
+    <c>N</c>
+    <l>étude</l>
+  </item>
+  <item pos="57691">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="57726">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="57806">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="57832">
+    <f>savoir</f>
+    <c>N</c>
+    <l>savoir</l>
+  </item>
+  <item pos="57842">
+    <f>littérature</f>
+    <c>N</c>
+    <l>littérature</l>
+  </item>
+  <item pos="57852">
+    <f>choses</f>
+    <c>N</c>
+    <l>chose</l>
+  </item>
+  <item pos="57898">
+    <f>conviction</f>
+    <c>N</c>
+    <l>conviction</l>
+  </item>
+  <item pos="57932">
+    <f>envie</f>
+    <c>N</c>
+    <l>envie</l>
+  </item>
+  <item pos="57948">
+    <f>temps</f>
+    <c>N</c>
+    <l>temps</l>
+  </item>
+  <item pos="58008">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="58036">
+    <f>ça</f>
+    <c>Pro</c>
+    <l>ça</l>
+  </item>
+  <item pos="58158">
+    <f>français</f>
+    <c>N</c>
+    <l>français</l>
+  </item>
+  <item pos="58200">
+    <f>environnement</f>
+    <c>N</c>
+    <l>environnement</l>
+  </item>
+  <item pos="58228">
+    <f>arabe</f>
+    <c>N</c>
+    <l>arabe</l>
+  </item>
+  <item pos="58264">
+    <f>tout</f>
+    <c>Pro</c>
+    <l>tout</l>
+  </item>
+  <item pos="58353">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="58389">
+    <f>littérature</f>
+    <c>N</c>
+    <l>littérature</l>
+  </item>
+  <item pos="58428">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="58445">
+    <f>énormément</f>
+    <c>Adv</c>
+    <l>énormément</l>
+  </item>
+  <item pos="58481">
+    <f>études</f>
+    <c>N</c>
+    <l>étude</l>
+  </item>
+  <item pos="58503">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="58579">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="58621">
+    <f>réputation</f>
+    <c>N</c>
+    <l>réputation</l>
+  </item>
+  <item pos="58670">
+    <f>réputation</f>
+    <c>N</c>
+    <l>réputation</l>
+  </item>
+  <item pos="58693">
+    <f>grand</f>
+    <c>Pro</c>
+    <l>grand-chose</l>
+  </item>
+  <item pos="58758">
+    <f>écoles</f>
+    <c>N</c>
+    <l>école</l>
+  </item>
+  <item pos="58789">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="58837">
+    <f>sociologie</f>
+    <c>N</c>
+    <l>sociologie</l>
+  </item>
+  <item pos="58903">
+    <f>talent</f>
+    <c>N</c>
+    <l>talent</l>
+  </item>
+  <item pos="58950">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="58988">
+    <f>talent</f>
+    <c>N</c>
+    <l>talent</l>
+  </item>
+  <item pos="59016">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="59026">
+    <f>métier</f>
+    <c>N</c>
+    <l>métier</l>
+  </item>
+  <item pos="59059">
+    <f>aller</f>
+    <c>V</c>
+    <l>aller</l>
+  </item>
+  <item pos="59101">
+    <f>Lewis</f>
+    <c>N</c>
+    <l>Lewis</l>
+  </item>
+  <item pos="59131">
+    <f>mathématiques</f>
+    <c>N</c>
+    <l>mathématique</l>
+  </item>
+  <item pos="59165">
+    <f>univers</f>
+    <c>N</c>
+    <l>univers</l>
+  </item>
+  <item pos="59182">
+    <f>l~</f>
+    <c>Cl</c>
+    <l>l~</l>
+  </item>
+  <item pos="59188">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="59238">
+    <f>projet</f>
+    <c>N</c>
+    <l>projet</l>
+  </item>
+  <item pos="59248">
+    <f>quelque</f>
+    <c>Pro</c>
+    <l>quelque chose</l>
+  </item>
+  <item pos="59268">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="59315">
+    <f>envie</f>
+    <c>N</c>
+    <l>envie</l>
+  </item>
+  <item pos="59325">
+    <f>carrière</f>
+    <c>N</c>
+    <l>carrière</l>
+  </item>
+  <item pos="59343">
+    <f>envie</f>
+    <c>N</c>
+    <l>envie</l>
+  </item>
+  <item pos="59355">
+    <f>monde</f>
+    <c>N</c>
+    <l>monde</l>
+  </item>
+  <item pos="59370">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="59507">
+    <f>quelque</f>
+    <c>Pro</c>
+    <l>quelque chose</l>
+  </item>
+  <item pos="59537">
+    <f>amis</f>
+    <c>N</c>
+    <l>ami</l>
+  </item>
+  <item pos="59570">
+    <f>envie</f>
+    <c>N</c>
+    <l>envie</l>
+  </item>
+  <item pos="59580">
+    <f>musique</f>
+    <c>N</c>
+    <l>musique</l>
+  </item>
+  <item pos="59603">
+    <f>ça</f>
+    <c>Pro</c>
+    <l>ça</l>
+  </item>
+  <item pos="59619">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="59677">
+    <f>endroit</f>
+    <c>N</c>
+    <l>endroit</l>
+  </item>
+  <item pos="59704">
+    <f>pièces</f>
+    <c>N</c>
+    <l>pièce</l>
+  </item>
+  <item pos="59804">
+    <f>f~</f>
+    <c>V</c>
+    <l>f~</l>
+  </item>
+  <item pos="59810">
+    <f>partir</f>
+    <c>V</c>
+    <l>partir</l>
+  </item>
+  <item pos="59816">
+    <f>&amp;</f>
+    <c>V</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="59845">
+    <f>nuits</f>
+    <c>N</c>
+    <l>nuit</l>
+  </item>
+  <item pos="59891">
+    <f>gens</f>
+    <c>N</c>
+    <l>gens</l>
+  </item>
+  <item pos="60039">
+    <f>eau</f>
+    <c>N</c>
+    <l>eau</l>
+  </item>
+  <item pos="60129">
+    <f>gens</f>
+    <c>N</c>
+    <l>gens</l>
+  </item>
+  <item pos="60178">
+    <f>nuits</f>
+    <c>N</c>
+    <l>nuit</l>
+  </item>
+  <item pos="60184">
+    <f>ça</f>
+    <c>Pro</c>
+    <l>ça</l>
+  </item>
+  <item pos="60208">
+    <f>bombardement</f>
+    <c>N</c>
+    <l>bombardement</l>
+  </item>
+  <item pos="60238">
+    <f>sont</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="60314">
+    <f>sont</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="60331">
+    <f>ce</f>
+    <c>Cl</c>
+    <l>ce</l>
+  </item>
+  <item pos="60333">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="60339">
+    <f>démolir</f>
+    <c>V</c>
+    <l>démolir</l>
+  </item>
+  <item pos="60411">
+    <f>heures</f>
+    <c>N</c>
+    <l>heure</l>
+  </item>
+  <item pos="60504">
+    <f>quelque</f>
+    <c>N</c>
+    <l>quelque chose</l>
+  </item>
+  <item pos="60753">
+    <f>boulevard</f>
+    <c>N</c>
+    <l>boulevard</l>
+  </item>
+  <item pos="60772">
+    <f>cours</f>
+    <c>N</c>
+    <l>cours</l>
+  </item>
+  <item pos="60814">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="60826">
+    <f>chance</f>
+    <c>N</c>
+    <l>chance</l>
+  </item>
+  <item pos="60834">
+    <f>enfants</f>
+    <c>N</c>
+    <l>enfant</l>
+  </item>
+  <item pos="60865">
+    <f>rigoler</f>
+    <c>V</c>
+    <l>rigoler</l>
+  </item>
+  <item pos="61002">
+    <f>problème</f>
+    <c>N</c>
+    <l>problème</l>
+  </item>
+  <item pos="61019">
+    <f>problème</f>
+    <c>N</c>
+    <l>problème</l>
+  </item>
+  <item pos="61057">
+    <f>gens</f>
+    <c>N</c>
+    <l>gens</l>
+  </item>
+  <item pos="61076">
+    <f>gens</f>
+    <c>N</c>
+    <l>gens</l>
+  </item>
+  <item pos="61093">
+    <f>enfants</f>
+    <c>N</c>
+    <l>enfant</l>
+  </item>
+  <item pos="61174">
+    <f>entrer</f>
+    <c>V</c>
+    <l>entrer</l>
+  </item>
+  <item pos="61182">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="61262">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="61320">
+    <f>&amp;</f>
+    <c>X</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="61347">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="61357">
+    <f>enfants</f>
+    <c>N</c>
+    <l>enfant</l>
+  </item>
+  <item pos="61422">
+    <f>établissements</f>
+    <c>N</c>
+    <l>établissement</l>
+  </item>
+  <item pos="61441">
+    <f>bons</f>
+    <c>Adj</c>
+    <l>bon</l>
+  </item>
+  <item pos="61465">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="61477">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="61529">
+    <f>nombre</f>
+    <c>N</c>
+    <l>nombre</l>
+  </item>
+  <item pos="61610">
+    <f>mamans</f>
+    <c>N</c>
+    <l>maman</l>
+  </item>
+  <item pos="61612">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="61636">
+    <f>&amp;</f>
+    <c>V</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="61665">
+    <f>plus</f>
+    <c>Adv</c>
+    <l>plus</l>
+  </item>
+  <item pos="61703">
+    <f>français</f>
+    <c>Adj</c>
+    <l>français</l>
+  </item>
+  <item pos="61794">
+    <f>français</f>
+    <c>Adj</c>
+    <l>français</l>
+  </item>
+  <item pos="61820">
+    <f>français</f>
+    <c>Adj</c>
+    <l>français</l>
+  </item>
+  <item pos="61859">
+    <f>français</f>
+    <c>N</c>
+    <l>français</l>
+  </item>
+  <item pos="61883">
+    <f>français</f>
+    <c>N</c>
+    <l>français</l>
+  </item>
+  <item pos="61897">
+    <f>mélanges</f>
+    <c>N</c>
+    <l>mélange</l>
+  </item>
+  <item pos="61915">
+    <f>busing</f>
+    <c>N</c>
+    <l>busing</l>
+  </item>
+  <item pos="61960">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="61968">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="62051">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="62075">
+    <f>suffisamment</f>
+    <c>Adv</c>
+    <l>suffisamment</l>
+  </item>
+  <item pos="62098">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="62123">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="62131">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="62139">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="62153">
+    <f>cours</f>
+    <c>N</c>
+    <l>cours</l>
+  </item>
+  <item pos="62173">
+    <f>français</f>
+    <c>Adj</c>
+    <l>français</l>
+  </item>
+  <item pos="62206">
+    <f>français</f>
+    <c>N</c>
+    <l>français</l>
+  </item>
+  <item pos="62256">
+    <f>français</f>
+    <c>Adj</c>
+    <l>français</l>
+  </item>
+  <item pos="62280">
+    <f>papa</f>
+    <c>N</c>
+    <l>papa</l>
+  </item>
+  <item pos="62306">
+    <f>français</f>
+    <c>Adj</c>
+    <l>français</l>
+  </item>
+  <item pos="62324">
+    <f>français</f>
+    <c>Adj</c>
+    <l>français</l>
+  </item>
+  <item pos="62340">
+    <f>français</f>
+    <c>N</c>
+    <l>français</l>
+  </item>
+  <item pos="62370">
+    <f>français</f>
+    <c>N</c>
+    <l>français</l>
+  </item>
+  <item pos="62386">
+    <f>français</f>
+    <c>N</c>
+    <l>français</l>
+  </item>
+  <item pos="62404">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="62550">
+    <f>dire</f>
+    <c>V</c>
+    <l>dire</l>
+  </item>
+  <item pos="62552">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="62590">
+    <f>crayon</f>
+    <c>N</c>
+    <l>crayon</l>
+  </item>
+  <item pos="62599">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="62673">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="62689">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="62736">
+    <f>apprendre</f>
+    <c>V</c>
+    <l>apprendre</l>
+  </item>
+  <item pos="62754">
+    <f>français</f>
+    <c>Adj</c>
+    <l>français</l>
+  </item>
+  <item pos="62782">
+    <f>pied</f>
+    <c>N</c>
+    <l>pied</l>
+  </item>
+  <item pos="62830">
+    <f>en</f>
+    <c>Cl</c>
+    <l>en</l>
+  </item>
+  <item pos="62860">
+    <f>gens</f>
+    <c>N</c>
+    <l>gens</l>
+  </item>
+  <item pos="62973">
+    <f>enfants</f>
+    <c>N</c>
+    <l>enfant</l>
+  </item>
+  <item pos="62985">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="63018">
+    <f>français</f>
+    <c>Adj</c>
+    <l>français</l>
+  </item>
+  <item pos="63022">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="63187">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="63193">
+    <f>raison</f>
+    <c>N</c>
+    <l>raison</l>
+  </item>
+  <item pos="63215">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="63230">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="63236">
+    <f>raison</f>
+    <c>N</c>
+    <l>raison</l>
+  </item>
+  <item pos="63311">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="63313">
+    <f>emmener</f>
+    <c>V</c>
+    <l>emmener</l>
+  </item>
+  <item pos="63350">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="63377">
+    <f>enfant</f>
+    <c>N</c>
+    <l>enfant</l>
+  </item>
+  <item pos="63479">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="63485">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="63508">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="63516">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="63538">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="63570">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="63580">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="63665">
+    <f>fille</f>
+    <c>N</c>
+    <l>fille</l>
+  </item>
+  <item pos="63686">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="63704">
+    <f>vitrine</f>
+    <c>N</c>
+    <l>vitrine</l>
+  </item>
+  <item pos="63734">
+    <f>vitrine</f>
+    <c>N</c>
+    <l>vitrine</l>
+  </item>
+  <item pos="63749">
+    <f>quelqu</f>
+    <c>Pro</c>
+    <l>quelqu'un</l>
+  </item>
+  <item pos="63765">
+    <f>pain</f>
+    <c>N</c>
+    <l>pain</l>
+  </item>
+  <item pos="63811">
+    <f>camion</f>
+    <c>N</c>
+    <l>camion</l>
+  </item>
+  <item pos="63841">
+    <f>baguette</f>
+    <c>N</c>
+    <l>baguette</l>
+  </item>
+  <item pos="63879">
+    <f>dame</f>
+    <c>N</c>
+    <l>dame</l>
+  </item>
+  <item pos="63897">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="63913">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="63964">
+    <f>deux</f>
+    <c>Adj</c>
+    <l>deux</l>
+  </item>
+  <item pos="63988">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="64024">
+    <f>deux</f>
+    <c>Adj</c>
+    <l>deux</l>
+  </item>
+  <item pos="64084">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="64092">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="64193">
+    <f>boulevard</f>
+    <c>N</c>
+    <l>boulevard</l>
+  </item>
+  <item pos="64243">
+    <f>cinéma</f>
+    <c>N</c>
+    <l>cinéma</l>
+  </item>
+  <item pos="64373">
+    <f>ligne</f>
+    <c>N</c>
+    <l>ligne</l>
+  </item>
+  <item pos="64454">
+    <f>Préfecture</f>
+    <c>N</c>
+    <l>Préfecture</l>
+  </item>
+  <item pos="64480">
+    <f>Préfecture</f>
+    <c>N</c>
+    <l>Préfecture</l>
+  </item>
+  <item pos="64599">
+    <f>ligne</f>
+    <c>N</c>
+    <l>ligne</l>
+  </item>
+  <item pos="64619">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="64657">
+    <f>ligne</f>
+    <c>N</c>
+    <l>ligne</l>
+  </item>
+  <item pos="64858">
+    <f>ligne</f>
+    <c>N</c>
+    <l>ligne</l>
+  </item>
+  <item pos="64950">
+    <f>de</f>
+    <c>Pre</c>
+    <l>de</l>
+  </item>
+  <item pos="64983">
+    <f>ligne</f>
+    <c>N</c>
+    <l>ligne</l>
+  </item>
+  <item pos="65026">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="65059">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="65076">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="65095">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="65113">
+    <f>bac</f>
+    <c>N</c>
+    <l>bac</l>
+  </item>
+  <item pos="65148">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="65178">
+    <f>certifié</f>
+    <c>V</c>
+    <l>certifier</l>
+  </item>
+  <item pos="65235">
+    <f>compétences</f>
+    <c>N</c>
+    <l>compétence</l>
+  </item>
+  <item pos="65247">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="65298">
+    <f>clés</f>
+    <c>N</c>
+    <l>clé</l>
+  </item>
+  <item pos="65350">
+    <f>d</f>
+    <c>Pre</c>
+    <l>de</l>
+  </item>
+  <item pos="65399">
+    <f>proposer</f>
+    <c>V</c>
+    <l>proposer</l>
+  </item>
+  <item pos="65403">
+    <f>méthodes</f>
+    <c>N</c>
+    <l>méthode</l>
+  </item>
+  <item pos="65426">
+    <f>auditoire</f>
+    <c>N</c>
+    <l>auditoire</l>
+  </item>
+  <item pos="65493">
+    <f>devoirs</f>
+    <c>N</c>
+    <l>devoir</l>
+  </item>
+  <item pos="65519">
+    <f>nous</f>
+    <c>Cl</c>
+    <l>nous</l>
+  </item>
+  <item pos="65525">
+    <f>nous</f>
+    <c>Cl</c>
+    <l>nous</l>
+  </item>
+  <item pos="65533">
+    <f>nous</f>
+    <c>Cl</c>
+    <l>nous</l>
+  </item>
+  <item pos="65578">
+    <f>dans</f>
+    <c>Pre</c>
+    <l>dans</l>
+  </item>
+  <item pos="65611">
+    <f>langue</f>
+    <c>N</c>
+    <l>langue</l>
+  </item>
+  <item pos="65629">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="65660">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="65727">
+    <f>heures</f>
+    <c>N</c>
+    <l>heure</l>
+  </item>
+  <item pos="65757">
+    <f>enquête</f>
+    <c>N</c>
+    <l>enquête</l>
+  </item>
+  <item pos="65777">
+    <f>fait</f>
+    <c>N</c>
+    <l>fait</l>
+  </item>
+  <item pos="65810">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="65865">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="65925">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="65965">
+    <f>tests</f>
+    <c>N</c>
+    <l>test</l>
+  </item>
+  <item pos="66024">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="66046">
+    <f>atouts</f>
+    <c>N</c>
+    <l>atout</l>
+  </item>
+  <item pos="66108">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="66110">
+    <f>adresser</f>
+    <c>V</c>
+    <l>adresser</l>
+  </item>
+  <item pos="66144">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="66158">
+    <f>sentiment</f>
+    <c>N</c>
+    <l>sentiment</l>
+  </item>
+  <item pos="66162">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="66181">
+    <f>autres</f>
+    <c>Adj</c>
+    <l>autre</l>
+  </item>
+  <item pos="66210">
+    <f>souci</f>
+    <c>N</c>
+    <l>souci</l>
+  </item>
+  <item pos="66248">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="66258">
+    <f>côté</f>
+    <c>N</c>
+    <l>côté</l>
+  </item>
+  <item pos="66377">
+    <f>concours</f>
+    <c>N</c>
+    <l>concours</l>
+  </item>
+  <item pos="66424">
+    <f>mentir</f>
+    <c>V</c>
+    <l>mentir</l>
+  </item>
+  <item pos="66459">
+    <f>vie</f>
+    <c>N</c>
+    <l>vie</l>
+  </item>
+  <item pos="66475">
+    <f>famille</f>
+    <c>N</c>
+    <l>famille</l>
+  </item>
+  <item pos="66558">
+    <f>programme</f>
+    <c>N</c>
+    <l>programme</l>
+  </item>
+  <item pos="66736">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="66807">
+    <f>années</f>
+    <c>N</c>
+    <l>année</l>
+  </item>
+  <item pos="67003">
+    <f>heure</f>
+    <c>N</c>
+    <l>heure</l>
+  </item>
+  <item pos="67090">
+    <f>boulevard</f>
+    <c>N</c>
+    <l>boulevard</l>
+  </item>
+  <item pos="67191">
+    <f>angle</f>
+    <c>N</c>
+    <l>angle</l>
+  </item>
+  <item pos="67217">
+    <f>rails</f>
+    <c>N</c>
+    <l>rail</l>
+  </item>
+  <item pos="67266">
+    <f>rue</f>
+    <c>N</c>
+    <l>rue</l>
+  </item>
+  <item pos="67303">
+    <f>bifurcation</f>
+    <c>N</c>
+    <l>bifurcation</l>
+  </item>
+  <item pos="67402">
+    <f>rue</f>
+    <c>N</c>
+    <l>rue</l>
+  </item>
+  <item pos="67468">
+    <f>produits</f>
+    <c>N</c>
+    <l>produit</l>
+  </item>
+  <item pos="67480">
+    <f>vie</f>
+    <c>N</c>
+    <l>vie</l>
+  </item>
+  <item pos="67490">
+    <f>mais</f>
+    <c>J</c>
+    <l>mais</l>
+  </item>
+  <item pos="67498">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="67648">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="67685">
+    <f>machine</f>
+    <c>N</c>
+    <l>machine</l>
+  </item>
+  <item pos="67705">
+    <f>résultat</f>
+    <c>N</c>
+    <l>résultat</l>
+  </item>
+  <item pos="67742">
+    <f>produits</f>
+    <c>N</c>
+    <l>produit</l>
+  </item>
+  <item pos="67768">
+    <f>boule</f>
+    <c>N</c>
+    <l>boule</l>
+  </item>
+  <item pos="67804">
+    <f>résultat</f>
+    <c>N</c>
+    <l>résultat</l>
+  </item>
+  <item pos="67856">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="67892">
+    <f>ce</f>
+    <c>Cl</c>
+    <l>ce</l>
+  </item>
+  <item pos="67894">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="67926">
+    <f>efficacité</f>
+    <c>N</c>
+    <l>efficacité</l>
+  </item>
+  <item pos="68000">
+    <f>vérifier</f>
+    <c>V</c>
+    <l>vérifier</l>
+  </item>
+  <item pos="68002">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="68016">
+    <f>lessive</f>
+    <c>N</c>
+    <l>lessive</l>
+  </item>
+  <item pos="68101">
+    <f>chemise</f>
+    <c>N</c>
+    <l>chemise</l>
+  </item>
+  <item pos="68188">
+    <f>pantalon</f>
+    <c>N</c>
+    <l>pantalon</l>
+  </item>
+  <item pos="68215">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="68245">
+    <f>paire</f>
+    <c>N</c>
+    <l>paire</l>
+  </item>
+  <item pos="68290">
+    <f>boule</f>
+    <c>N</c>
+    <l>boule</l>
+  </item>
+  <item pos="68302">
+    <f>lessive</f>
+    <c>N</c>
+    <l>lessive</l>
+  </item>
+  <item pos="68328">
+    <f>tiroir</f>
+    <c>N</c>
+    <l>tiroir</l>
+  </item>
+  <item pos="68349">
+    <f>hublot</f>
+    <c>N</c>
+    <l>hublot</l>
+  </item>
+  <item pos="68365">
+    <f>scellés</f>
+    <c>N</c>
+    <l>scellé</l>
+  </item>
+  <item pos="68470">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="68517">
+    <f>de</f>
+    <c>Pre</c>
+    <l>de</l>
+  </item>
+  <item pos="68523">
+    <f>scellé</f>
+    <c>N</c>
+    <l>scellé</l>
+  </item>
+  <item pos="68580">
+    <f>résultat</f>
+    <c>N</c>
+    <l>résultat</l>
+  </item>
+  <item pos="68597">
+    <f>pantalon</f>
+    <c>N</c>
+    <l>pantalon</l>
+  </item>
+  <item pos="68634">
+    <f>rien</f>
+    <c>Pro</c>
+    <l>rien</l>
+  </item>
+  <item pos="68676">
+    <f>taches</f>
+    <c>N</c>
+    <l>tache</l>
+  </item>
+  <item pos="68714">
+    <f>chemisier</f>
+    <c>N</c>
+    <l>chemisier</l>
+  </item>
+  <item pos="68758">
+    <f>rien</f>
+    <c>Pro</c>
+    <l>rien</l>
+  </item>
+  <item pos="68913">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="69009">
+    <f>lessive</f>
+    <c>N</c>
+    <l>lessive</l>
+  </item>
+  <item pos="69067">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="69138">
+    <f>billes</f>
+    <c>N</c>
+    <l>bille</l>
+  </item>
+  <item pos="69152">
+    <f>efficacité</f>
+    <c>N</c>
+    <l>efficacité</l>
+  </item>
+  <item pos="69177">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="69199">
+    <f>spécialiste</f>
+    <c>N</c>
+    <l>spécialiste</l>
+  </item>
+  <item pos="69212">
+    <f>marche</f>
+    <c>V</c>
+    <l>marcher</l>
+  </item>
+  <item pos="69253">
+    <f>mouvement</f>
+    <c>N</c>
+    <l>mouvement</l>
+  </item>
+  <item pos="69274">
+    <f>pouvoir</f>
+    <c>N</c>
+    <l>pouvoir</l>
+  </item>
+  <item pos="69292">
+    <f>tension</f>
+    <c>N</c>
+    <l>tension</l>
+  </item>
+  <item pos="69320">
+    <f>pénétration</f>
+    <c>N</c>
+    <l>pénétration</l>
+  </item>
+  <item pos="69352">
+    <f>ions</f>
+    <c>N</c>
+    <l>ion</l>
+  </item>
+  <item pos="69365">
+    <f>adhésion</f>
+    <c>N</c>
+    <l>adhésion</l>
+  </item>
+  <item pos="69388">
+    <f>élimination</f>
+    <c>N</c>
+    <l>élimination</l>
+  </item>
+  <item pos="69412">
+    <f>chlore</f>
+    <c>N</c>
+    <l>chlore</l>
+  </item>
+  <item pos="69435">
+    <f>élasticité</f>
+    <c>N</c>
+    <l>élasticité</l>
+  </item>
+  <item pos="69461">
+    <f>détergent</f>
+    <c>N</c>
+    <l>détergent</l>
+  </item>
+  <item pos="69474">
+    <f>résidu</f>
+    <c>N</c>
+    <l>résidu</l>
+  </item>
+  <item pos="69504">
+    <f>risque</f>
+    <c>N</c>
+    <l>risque</l>
+  </item>
+  <item pos="69540">
+    <f>économies</f>
+    <c>N</c>
+    <l>économie</l>
+  </item>
+  <item pos="69555">
+    <f>boule</f>
+    <c>N</c>
+    <l>boule</l>
+  </item>
+  <item pos="69644">
+    <f>boule</f>
+    <c>N</c>
+    <l>boule</l>
+  </item>
+  <item pos="69673">
+    <f>est</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="69690">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="69833">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="69841">
+    <f>garçon</f>
+    <c>N</c>
+    <l>garçon</l>
+  </item>
+  <item pos="69874">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="69886">
+    <f>allergies</f>
+    <c>N</c>
+    <l>allergie</l>
+  </item>
+  <item pos="69980">
+    <f>odeurs</f>
+    <c>N</c>
+    <l>odeur</l>
+  </item>
+  <item pos="69990">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="70026">
+    <f>odeur</f>
+    <c>N</c>
+    <l>odeur</l>
+  </item>
+  <item pos="70161">
+    <f>linge</f>
+    <c>N</c>
+    <l>linge</l>
+  </item>
+  <item pos="70228">
+    <f>planète</f>
+    <c>N</c>
+    <l>planète</l>
+  </item>
+  <item pos="70262">
+    <f>quantité</f>
+    <c>N</c>
+    <l>quantité</l>
+  </item>
+  <item pos="70332">
+    <f>geste</f>
+    <c>N</c>
+    <l>geste</l>
+  </item>
+  <item pos="70444">
+    <f>cela</f>
+    <c>Pro</c>
+    <l>cela</l>
+  </item>
+  <item pos="70466">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="70486">
+    <f>succès</f>
+    <c>N</c>
+    <l>succès</l>
+  </item>
+  <item pos="70495">
+    <f>en</f>
+    <c>Cl</c>
+    <l>en</l>
+  </item>
+  <item pos="70589">
+    <f>succès</f>
+    <c>N</c>
+    <l>succès</l>
+  </item>
+  <item pos="70658">
+    <f>peur</f>
+    <c>N</c>
+    <l>peur</l>
+  </item>
+  <item pos="70693">
+    <f>peur</f>
+    <c>N</c>
+    <l>peur</l>
+  </item>
+  <item pos="70707">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="70783">
+    <f>mal</f>
+    <c>N</c>
+    <l>mal</l>
+  </item>
+  <item pos="70855">
+    <f>un</f>
+    <c>Pro</c>
+    <l>un</l>
+  </item>
+  <item pos="70881">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="70923">
+    <f>&amp;</f>
+    <c>V</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="70933">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="70945">
+    <f>fautes</f>
+    <c>N</c>
+    <l>faute</l>
+  </item>
+  <item pos="71015">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="71056">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="71069">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="71087">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="71117">
+    <f>plaisir</f>
+    <c>N</c>
+    <l>plaisir</l>
+  </item>
+  <item pos="71205">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="71261">
+    <f>journal</f>
+    <c>N</c>
+    <l>journal</l>
+  </item>
+  <item pos="71291">
+    <f>réflexe</f>
+    <c>N</c>
+    <l>réflexe</l>
+  </item>
+  <item pos="71308">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="71429">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="71542">
+    <f>rumeur</f>
+    <c>N</c>
+    <l>rumeur</l>
+  </item>
+  <item pos="71548">
+    <f>Paris</f>
+    <c>N</c>
+    <l>Paris</l>
+  </item>
+  <item pos="71576">
+    <f>mais</f>
+    <c>J</c>
+    <l>mais</l>
+  </item>
+  <item pos="71590">
+    <f>prix</f>
+    <c>N</c>
+    <l>prix</l>
+  </item>
+  <item pos="71654">
+    <f>chef</f>
+    <c>N</c>
+    <l>chef</l>
+  </item>
+  <item pos="71687">
+    <f>Barrage</f>
+    <c>N</c>
+    <l>barrage</l>
+  </item>
+  <item pos="71703">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="71729">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="71737">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="71811">
+    <f>aucun</f>
+    <c>Pro</c>
+    <l>aucun</l>
+  </item>
+  <item pos="71852">
+    <f>jeux</f>
+    <c>N</c>
+    <l>jeu</l>
+  </item>
+  <item pos="71883">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="71911">
+    <f>regret</f>
+    <c>N</c>
+    <l>regret</l>
+  </item>
+  <item pos="71963">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="71965">
+    <f>donner</f>
+    <c>V</c>
+    <l>donner</l>
+  </item>
+  <item pos="72044">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="72120">
+    <f>en</f>
+    <c>Cl</c>
+    <l>en</l>
+  </item>
+  <item pos="72216">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="72248">
+    <f>fleuve</f>
+    <c>N</c>
+    <l>fleuve</l>
+  </item>
+  <item pos="72295">
+    <f>&amp;</f>
+    <c>V</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="72333">
+    <f>chapeau</f>
+    <c>N</c>
+    <l>chapeau</l>
+  </item>
+  <item pos="72416">
+    <f>chapeau</f>
+    <c>N</c>
+    <l>chapeau</l>
+  </item>
+  <item pos="72430">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="72454">
+    <f>lamés</f>
+    <c>N</c>
+    <l>lamé</l>
+  </item>
+  <item pos="72507">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="72513">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="72528">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="72550">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="72613">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="72637">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="72656">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="72696">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="72725">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="72741">
+    <f>vie</f>
+    <c>N</c>
+    <l>vie</l>
+  </item>
+  <item pos="72759">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="72875">
+    <f>rien</f>
+    <c>Pro</c>
+    <l>rien</l>
+  </item>
+  <item pos="72955">
+    <f>qui</f>
+    <c>Qu</c>
+    <l>qui</l>
+  </item>
+  <item pos="72965">
+    <f>qui</f>
+    <c>Qu</c>
+    <l>qui</l>
+  </item>
+  <item pos="72995">
+    <f>en</f>
+    <c>Cl</c>
+    <l>en</l>
+  </item>
+  <item pos="73037">
+    <f>en</f>
+    <c>Cl</c>
+    <l>en</l>
+  </item>
+  <item pos="73079">
+    <f>longtemps</f>
+    <c>Adv</c>
+    <l>longtemps</l>
+  </item>
+  <item pos="73113">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="73119">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="73212">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="73254">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="73290">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="73338">
+    <f>choses</f>
+    <c>N</c>
+    <l>chose</l>
+  </item>
+  <item pos="73358">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="73382">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="73397">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="73441">
+    <f>impression</f>
+    <c>N</c>
+    <l>impression</l>
+  </item>
+  <item pos="73449">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="73502">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="73552">
+    <f>avis</f>
+    <c>N</c>
+    <l>avis</l>
+  </item>
+  <item pos="73710">
+    <f>Yudina</f>
+    <c>N</c>
+    <l>Yudina</l>
+  </item>
+  <item pos="73741">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="73811">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="73842">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="73862">
+    <f>préludes</f>
+    <c>N</c>
+    <l>prélude</l>
+  </item>
+  <item pos="73884">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="73965">
+    <f>ça</f>
+    <c>Pro</c>
+    <l>ça</l>
+  </item>
+  <item pos="73982">
+    <f>ça</f>
+    <c>Pro</c>
+    <l>ça</l>
+  </item>
+  <item pos="74008">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="74047">
+    <f>motif</f>
+    <c>N</c>
+    <l>motif</l>
+  </item>
+  <item pos="74097">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="74124">
+    <f>vocation</f>
+    <c>N</c>
+    <l>vocation</l>
+  </item>
+  <item pos="74139">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="74169">
+    <f>Lohengrin</f>
+    <c>N</c>
+    <l>Lohengrin</l>
+  </item>
+  <item pos="74183">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="74242">
+    <f>si</f>
+    <c>CS</c>
+    <l>si</l>
+  </item>
+  <item pos="74279">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="74331">
+    <f>arrivée</f>
+    <c>N</c>
+    <l>arrivée</l>
+  </item>
+  <item pos="74355">
+    <f>faire</f>
+    <c>V</c>
+    <l>faire</l>
+  </item>
+  <item pos="74361">
+    <f>psychanalyse</f>
+    <c>N</c>
+    <l>psychanalyse</l>
+  </item>
+  <item pos="74477">
+    <f>portrait</f>
+    <c>N</c>
+    <l>portrait</l>
+  </item>
+  <item pos="74523">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="74599">
+    <f>raidissement</f>
+    <c>N</c>
+    <l>raidissement</l>
+  </item>
+  <item pos="74649">
+    <f>place</f>
+    <c>N</c>
+    <l>place</l>
+  </item>
+  <item pos="74852">
+    <f>côté</f>
+    <c>N</c>
+    <l>côté</l>
+  </item>
+  <item pos="74868">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="74932">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="75029">
+    <f>tuberculose</f>
+    <c>N</c>
+    <l>tuberculose</l>
+  </item>
+  <item pos="75107">
+    <f>vaut</f>
+    <c>V</c>
+    <l>valoir</l>
+  </item>
+  <item pos="75113">
+    <f>peine</f>
+    <c>N</c>
+    <l>peine</l>
+  </item>
+  <item pos="75127">
+    <f>dire</f>
+    <c>V</c>
+    <l>dire</l>
+  </item>
+  <item pos="75129">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="75352">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="75370">
+    <f>Szymanoski</f>
+    <c>N</c>
+    <l>Szymanoski</l>
+  </item>
+  <item pos="75383">
+    <f>Rozycki</f>
+    <c>N</c>
+    <l>Rozycki</l>
+  </item>
+  <item pos="75396">
+    <f>Fitelberg</f>
+    <c>N</c>
+    <l>Fitelberg</l>
+  </item>
+  <item pos="75410">
+    <f>composition</f>
+    <c>N</c>
+    <l>composition</l>
+  </item>
+  <item pos="75461">
+    <f>Szeluto</f>
+    <c>N</c>
+    <l>Szeluto</l>
+  </item>
+  <item pos="75507">
+    <f>jalousies</f>
+    <c>N</c>
+    <l>jalousie</l>
+  </item>
+  <item pos="75517">
+    <f>inimitiés</f>
+    <c>N</c>
+    <l>inimitié</l>
+  </item>
+  <item pos="75535">
+    <f>plus</f>
+    <c>Adv</c>
+    <l>plus</l>
+  </item>
+  <item pos="75570">
+    <f>groupe</f>
+    <c>N</c>
+    <l>groupe</l>
+  </item>
+  <item pos="75607">
+    <f>mousquetaires</f>
+    <c>N</c>
+    <l>mousquetaire</l>
+  </item>
+  <item pos="75627">
+    <f>découdre</f>
+    <c>V</c>
+    <l>découdre</l>
+  </item>
+  <item pos="75652">
+    <f>société</f>
+    <c>N</c>
+    <l>société</l>
+  </item>
+  <item pos="75692">
+    <f>rayonnement</f>
+    <c>N</c>
+    <l>rayonnement</l>
+  </item>
+  <item pos="75820">
+    <f>marque</f>
+    <c>N</c>
+    <l>marque</l>
+  </item>
+  <item pos="75826">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="75933">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="75947">
+    <f>Strauss</f>
+    <c>N</c>
+    <l>Strauss</l>
+  </item>
+  <item pos="75954">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="76011">
+    <f>pouvait</f>
+    <c>V</c>
+    <l>pouvoir</l>
+  </item>
+  <item pos="76015">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="76051">
+    <f>accords</f>
+    <c>N</c>
+    <l>accord</l>
+  </item>
+  <item pos="76055">
+    <f>nous</f>
+    <c>Cl</c>
+    <l>nous</l>
+  </item>
+  <item pos="76071">
+    <f>extrait</f>
+    <c>N</c>
+    <l>extrait</l>
+  </item>
+  <item pos="76134">
+    <f>partie</f>
+    <c>N</c>
+    <l>partie</l>
+  </item>
+  <item pos="76208">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="76255">
+    <f>de</f>
+    <c>Pre</c>
+    <l>de</l>
+  </item>
+  <item pos="76298">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="76339">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="76375">
+    <f>émission</f>
+    <c>N</c>
+    <l>émission</l>
+  </item>
+  <item pos="76398">
+    <f>invités</f>
+    <c>N</c>
+    <l>invité</l>
+  </item>
+  <item pos="76512">
+    <f>morts</f>
+    <c>N</c>
+    <l>mort</l>
+  </item>
+  <item pos="76561">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="76803">
+    <f>commission</f>
+    <c>N</c>
+    <l>commission</l>
+  </item>
+  <item pos="76970">
+    <f>prévisions</f>
+    <c>N</c>
+    <l>prévision</l>
+  </item>
+  <item pos="77072">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="77159">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="77232">
+    <f>arrêter</f>
+    <c>V</c>
+    <l>arrêter</l>
+  </item>
+  <item pos="77236">
+    <f>épidémies</f>
+    <c>N</c>
+    <l>épidémie</l>
+  </item>
+  <item pos="77264">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="77289">
+    <f>expérience</f>
+    <c>N</c>
+    <l>expérience</l>
+  </item>
+  <item pos="77331">
+    <f>vague</f>
+    <c>N</c>
+    <l>vague</l>
+  </item>
+  <item pos="77402">
+    <f>vague</f>
+    <c>N</c>
+    <l>vague</l>
+  </item>
+  <item pos="77455">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="77503">
+    <f>choses</f>
+    <c>N</c>
+    <l>chose</l>
+  </item>
+  <item pos="77539">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="77578">
+    <f>compte</f>
+    <c>N</c>
+    <l>compte</l>
+  </item>
+  <item pos="77584">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="77602">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="77623">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="77712">
+    <f>prédire</f>
+    <c>V</c>
+    <l>prédire</l>
+  </item>
+  <item pos="77716">
+    <f>cyclone</f>
+    <c>N</c>
+    <l>cyclone</l>
+  </item>
+  <item pos="77733">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="77769">
+    <f>cyclone</f>
+    <c>N</c>
+    <l>cyclone</l>
+  </item>
+  <item pos="77785">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="77827">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="77835">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="77904">
+    <f>prédiction</f>
+    <c>N</c>
+    <l>prédiction</l>
+  </item>
+  <item pos="77930">
+    <f>scénarios</f>
+    <c>N</c>
+    <l>scénario</l>
+  </item>
+  <item pos="77947">
+    <f>scénarios</f>
+    <c>N</c>
+    <l>scénario</l>
+  </item>
+  <item pos="78183">
+    <f>plus</f>
+    <c>Adv</c>
+    <l>plus</l>
+  </item>
+  <item pos="78198">
+    <f>raison</f>
+    <c>N</c>
+    <l>raison</l>
+  </item>
+  <item pos="78224">
+    <f>plus</f>
+    <c>Adv</c>
+    <l>plus</l>
+  </item>
+  <item pos="78263">
+    <f>chance</f>
+    <c>N</c>
+    <l>chance</l>
+  </item>
+  <item pos="78281">
+    <f>plus</f>
+    <c>Adv</c>
+    <l>plus</l>
+  </item>
+  <item pos="78417">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="78540">
+    <f>millions</f>
+    <c>N</c>
+    <l>million</l>
+  </item>
+  <item pos="78638">
+    <f>baignoires</f>
+    <c>N</c>
+    <l>baignoire</l>
+  </item>
+  <item pos="78674">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="78706">
+    <f>raccord</f>
+    <c>N</c>
+    <l>raccord</l>
+  </item>
+  <item pos="78736">
+    <f>antibiotiques</f>
+    <c>N</c>
+    <l>antibiotique</l>
+  </item>
+  <item pos="78755">
+    <f>ce</f>
+    <c>Cl</c>
+    <l>ce</l>
+  </item>
+  <item pos="78828">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="78851">
+    <f>vaccins</f>
+    <c>N</c>
+    <l>vaccin</l>
+  </item>
+  <item pos="78865">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="78911">
+    <f>mortalité</f>
+    <c>N</c>
+    <l>mortalité</l>
+  </item>
+  <item pos="78934">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="79033">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="79061">
+    <f>limite</f>
+    <c>N</c>
+    <l>limite</l>
+  </item>
+  <item pos="79100">
+    <f>voilà</f>
+    <c>V</c>
+    <l>voilà</l>
+  </item>
+  <item pos="79159">
+    <f>cadre</f>
+    <c>N</c>
+    <l>cadre</l>
+  </item>
+  <item pos="79253">
+    <f>a</f>
+    <c>V</c>
+    <l>avoir</l>
+  </item>
+  <item pos="79301">
+    <f>crise</f>
+    <c>N</c>
+    <l>crise</l>
+  </item>
+  <item pos="79357">
+    <f>est</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="79381">
+    <f>est</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="79413">
+    <f>ai</f>
+    <c>V</c>
+    <l>avoir</l>
+  </item>
+  <item pos="79421">
+    <f>Tamiflu</f>
+    <c>N</c>
+    <l>Tamiflu</l>
+  </item>
+  <item pos="79453">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="79463">
+    <f>chose</f>
+    <c>N</c>
+    <l>chose</l>
+  </item>
+  <item pos="79501">
+    <f>gradations</f>
+    <c>N</c>
+    <l>gradation</l>
+  </item>
+  <item pos="79535">
+    <f>faut</f>
+    <c>V</c>
+    <l>falloir</l>
+  </item>
+  <item pos="79539">
+    <f>méfier</f>
+    <c>V</c>
+    <l>méfier</l>
+  </item>
+  <item pos="79564">
+    <f>été</f>
+    <c>N</c>
+    <l>été</l>
+  </item>
+  <item pos="79566">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="79572">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="79630">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="79666">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="79696">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="79759">
+    <f>tour</f>
+    <c>N</c>
+    <l>tour</l>
+  </item>
+  <item pos="79883">
+    <f>comment</f>
+    <c>Qu</c>
+    <l>comment</l>
+  </item>
+  <item pos="79985">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="79995">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="80001">
+    <f>mettre</f>
+    <c>V</c>
+    <l>mettre</l>
+  </item>
+  <item pos="80016">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="80100">
+    <f>nombre</f>
+    <c>N</c>
+    <l>nombre</l>
+  </item>
+  <item pos="80152">
+    <f>regards</f>
+    <c>N</c>
+    <l>regard</l>
+  </item>
+  <item pos="80249">
+    <f>chance</f>
+    <c>N</c>
+    <l>chance</l>
+  </item>
+  <item pos="80274">
+    <f>discours</f>
+    <c>N</c>
+    <l>discours</l>
+  </item>
+  <item pos="80290">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="80368">
+    <f>reportage</f>
+    <c>N</c>
+    <l>reportage</l>
+  </item>
+  <item pos="80421">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="80434">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="80451">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="80470">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="80487">
+    <f>ce</f>
+    <c>Cl</c>
+    <l>ce</l>
+  </item>
+  <item pos="80489">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="80537">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="80558">
+    <f>&amp;</f>
+    <c>N</c>
+    <l>&amp;</l>
+  </item>
+  <item pos="80602">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="80766">
+    <f>est</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="80770">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="80804">
+    <f>bulletin</f>
+    <c>N</c>
+    <l>bulletin</l>
+  </item>
+  <item pos="80840">
+    <f>pompes</f>
+    <c>N</c>
+    <l>pompe</l>
+  </item>
+  <item pos="80858">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="80894">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="80942">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="80973">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="81049">
+    <f>chaînes</f>
+    <c>N</c>
+    <l>chaîne</l>
+  </item>
+  <item pos="81084">
+    <f>faire</f>
+    <c>V</c>
+    <l>faire</l>
+  </item>
+  <item pos="81090">
+    <f>besogne</f>
+    <c>N</c>
+    <l>besogne</l>
+  </item>
+  <item pos="81112">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="81145">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="81161">
+    <f>épidémies</f>
+    <c>N</c>
+    <l>épidémie</l>
+  </item>
+  <item pos="81286">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="81384">
+    <f>six</f>
+    <c>Pro</c>
+    <l>six</l>
+  </item>
+  <item pos="81400">
+    <f>niveaux</f>
+    <c>N</c>
+    <l>niveau</l>
+  </item>
+  <item pos="81440">
+    <f>possibilité</f>
+    <c>N</c>
+    <l>possibilité</l>
+  </item>
+  <item pos="81452">
+    <f>tiers</f>
+    <c>N</c>
+    <l>tiers</l>
+  </item>
+  <item pos="81526">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="81559">
+    <f>autorité</f>
+    <c>N</c>
+    <l>autorité</l>
+  </item>
+  <item pos="81600">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="81612">
+    <f>évangile</f>
+    <c>N</c>
+    <l>évangile</l>
+  </item>
+  <item pos="81628">
+    <f>rien</f>
+    <c>Pro</c>
+    <l>rien</l>
+  </item>
+  <item pos="81677">
+    <f>belle</f>
+    <c>N</c>
+    <l>belle-mère</l>
+  </item>
+  <item pos="81699">
+    <f>la</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="81719">
+    <f>sortes</f>
+    <c>N</c>
+    <l>sorte</l>
+  </item>
+  <item pos="81749">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="81770">
+    <f>mains</f>
+    <c>N</c>
+    <l>main</l>
+  </item>
+  <item pos="81784">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="81801">
+    <f>mal</f>
+    <c>N</c>
+    <l>mal</l>
+  </item>
+  <item pos="81927">
+    <f>Jésus</f>
+    <c>N</c>
+    <l>Jésus</l>
+  </item>
+  <item pos="81938">
+    <f>humanité</f>
+    <c>N</c>
+    <l>humanité</l>
+  </item>
+  <item pos="81983">
+    <f>une</f>
+    <c>Pro</c>
+    <l>un</l>
+  </item>
+  <item pos="82013">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="82076">
+    <f>dignité</f>
+    <c>N</c>
+    <l>dignité</l>
+  </item>
+  <item pos="82102">
+    <f>personne</f>
+    <c>N</c>
+    <l>personne</l>
+  </item>
+  <item pos="82132">
+    <f>les</f>
+    <c>Pro</c>
+    <l>l'un</l>
+  </item>
+  <item pos="82185">
+    <f>gestes</f>
+    <c>N</c>
+    <l>geste</l>
+  </item>
+  <item pos="82250">
+    <f>venue</f>
+    <c>N</c>
+    <l>venue</l>
+  </item>
+  <item pos="82284">
+    <f>humanité</f>
+    <c>N</c>
+    <l>humanité</l>
+  </item>
+  <item pos="82359">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="82387">
+    <f>traduction</f>
+    <c>N</c>
+    <l>traduction</l>
+  </item>
+  <item pos="82444">
+    <f>pouvoir</f>
+    <c>N</c>
+    <l>pouvoir</l>
+  </item>
+  <item pos="82461">
+    <f>esprits</f>
+    <c>N</c>
+    <l>esprits</l>
+  </item>
+  <item pos="82487">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="82509">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="82545">
+    <f>malades</f>
+    <c>N</c>
+    <l>malade</l>
+  </item>
+  <item pos="82565">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="82578">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="82602">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="82632">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="82642">
+    <f>sois</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="82680">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="82688">
+    <f>-</f>
+    <c>Cl</c>
+    <l>toi</l>
+  </item>
+  <item pos="82709">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="82749">
+    <f>démons</f>
+    <c>N</c>
+    <l>démon</l>
+  </item>
+  <item pos="82805">
+    <f>vie</f>
+    <c>N</c>
+    <l>vie</l>
+  </item>
+  <item pos="82818">
+    <f>vie</f>
+    <c>N</c>
+    <l>vie</l>
+  </item>
+  <item pos="82882">
+    <f>mal</f>
+    <c>N</c>
+    <l>mal</l>
+  </item>
+  <item pos="82904">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="82918">
+    <f>mal</f>
+    <c>N</c>
+    <l>mal</l>
+  </item>
+  <item pos="82969">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="83004">
+    <f>vraiment</f>
+    <c>Adv</c>
+    <l>vraiment</l>
+  </item>
+  <item pos="83047">
+    <f>journées</f>
+    <c>N</c>
+    <l>journée</l>
+  </item>
+  <item pos="83061">
+    <f>comme</f>
+    <c>Pre</c>
+    <l>comme</l>
+  </item>
+  <item pos="83080">
+    <f>ombre</f>
+    <c>N</c>
+    <l>ombre</l>
+  </item>
+  <item pos="83094">
+    <f>paye</f>
+    <c>N</c>
+    <l>paye</l>
+  </item>
+  <item pos="83117">
+    <f>rien</f>
+    <c>Pro</c>
+    <l>rien</l>
+  </item>
+  <item pos="83150">
+    <f>nuits</f>
+    <c>N</c>
+    <l>nuit</l>
+  </item>
+  <item pos="83197">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="83199">
+    <f>avouer</f>
+    <c>V</c>
+    <l>avouer</l>
+  </item>
+  <item pos="83209">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="83359">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="83376">
+    <f>responsabilité</f>
+    <c>N</c>
+    <l>responsabilité</l>
+  </item>
+  <item pos="83455">
+    <f>vie</f>
+    <c>N</c>
+    <l>vie</l>
+  </item>
+  <item pos="83508">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="83535">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="83554">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="83569">
+    <f>obtention</f>
+    <c>N</c>
+    <l>obtention</l>
+  </item>
+  <item pos="83640">
+    <f>rien</f>
+    <c>Pro</c>
+    <l>rien</l>
+  </item>
+  <item pos="83678">
+    <f>biologie</f>
+    <c>N</c>
+    <l>biologie</l>
+  </item>
+  <item pos="83742">
+    <f>italien</f>
+    <c>N</c>
+    <l>italien</l>
+  </item>
+  <item pos="83809">
+    <f>entretien</f>
+    <c>N</c>
+    <l>entretien</l>
+  </item>
+  <item pos="83822">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="83885">
+    <f>italien</f>
+    <c>N</c>
+    <l>italien</l>
+  </item>
+  <item pos="83907">
+    <f>facilités</f>
+    <c>N</c>
+    <l>facilité</l>
+  </item>
+  <item pos="83935">
+    <f>italien</f>
+    <c>N</c>
+    <l>italien</l>
+  </item>
+  <item pos="83944">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="83978">
+    <f>italien</f>
+    <c>N</c>
+    <l>italien</l>
+  </item>
+  <item pos="83997">
+    <f>ce</f>
+    <c>Cl</c>
+    <l>ce</l>
+  </item>
+  <item pos="83999">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="84022">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="84032">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="84073">
+    <f>année</f>
+    <c>N</c>
+    <l>année</l>
+  </item>
+  <item pos="84113">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="84137">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="84143">
+    <f>faire</f>
+    <c>V</c>
+    <l>faire</l>
+  </item>
+  <item pos="84175">
+    <f>année</f>
+    <c>N</c>
+    <l>année</l>
+  </item>
+  <item pos="84185">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="84195">
+    <f>licence</f>
+    <c>N</c>
+    <l>licence</l>
+  </item>
+  <item pos="84244">
+    <f>licence</f>
+    <c>N</c>
+    <l>licence</l>
+  </item>
+  <item pos="84252">
+    <f>licence</f>
+    <c>N</c>
+    <l>licence</l>
+  </item>
+  <item pos="84268">
+    <f>la</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="84298">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="84332">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="84336">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="84350">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="84382">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="84424">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="84482">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="84496">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="84574">
+    <f>route</f>
+    <c>N</c>
+    <l>route</l>
+  </item>
+  <item pos="84637">
+    <f>poste</f>
+    <c>N</c>
+    <l>poste</l>
+  </item>
+  <item pos="84646">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="84711">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="84719">
+    <f>quelque</f>
+    <c>Pro</c>
+    <l>quelque chose</l>
+  </item>
+  <item pos="84831">
+    <f>hommes</f>
+    <c>N</c>
+    <l>homme</l>
+  </item>
+  <item pos="84875">
+    <f>reprendre</f>
+    <c>V</c>
+    <l>reprendre</l>
+  </item>
+  <item pos="84879">
+    <f>mot</f>
+    <c>N</c>
+    <l>mot</l>
+  </item>
+  <item pos="84888">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="84907">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="84915">
+    <f>carrière</f>
+    <c>N</c>
+    <l>carrière</l>
+  </item>
+  <item pos="84948">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="84990">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="84996">
+    <f>me</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="85016">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="85102">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="85145">
+    <f>reprendre</f>
+    <c>V</c>
+    <l>reprendre</l>
+  </item>
+  <item pos="85151">
+    <f>phrases</f>
+    <c>N</c>
+    <l>phrase</l>
+  </item>
+  <item pos="85172">
+    <f>si</f>
+    <c>CS</c>
+    <l>si</l>
+  </item>
+  <item pos="85205">
+    <f>est</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="85264">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="85280">
+    <f>yeux</f>
+    <c>N</c>
+    <l>oeil</l>
+  </item>
+  <item pos="85344">
+    <f>détail</f>
+    <c>N</c>
+    <l>détail</l>
+  </item>
+  <item pos="85379">
+    <f>impression</f>
+    <c>N</c>
+    <l>impression</l>
+  </item>
+  <item pos="85406">
+    <f>route</f>
+    <c>N</c>
+    <l>route</l>
+  </item>
+  <item pos="85430">
+    <f>si</f>
+    <c>CS</c>
+    <l>si</l>
+  </item>
+  <item pos="85455">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="85461">
+    <f>Marcel</f>
+    <c>N</c>
+    <l>Marcel</l>
+  </item>
+  <item pos="85487">
+    <f>quoi</f>
+    <c>Qu</c>
+    <l>quoi</l>
+  </item>
+  <item pos="85526">
+    <f>aurais</f>
+    <c>V</c>
+    <l>avoir</l>
+  </item>
+  <item pos="85530">
+    <f>exception</f>
+    <c>N</c>
+    <l>exception</l>
+  </item>
+  <item pos="85595">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="85601">
+    <f>regarder</f>
+    <c>V</c>
+    <l>regarder</l>
+  </item>
+  <item pos="85614">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="85636">
+    <f>faculté</f>
+    <c>N</c>
+    <l>faculté</l>
+  </item>
+  <item pos="85739">
+    <f>marche</f>
+    <c>V</c>
+    <l>marcher</l>
+  </item>
+  <item pos="85769">
+    <f>l</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="85817">
+    <f>marchait</f>
+    <c>V</c>
+    <l>marcher</l>
+  </item>
+  <item pos="85867">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="85881">
+    <f>texte</f>
+    <c>N</c>
+    <l>texte</l>
+  </item>
+  <item pos="85897">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="85933">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="85947">
+    <f>choses</f>
+    <c>N</c>
+    <l>chose</l>
+  </item>
+  <item pos="85995">
+    <f>impression</f>
+    <c>N</c>
+    <l>impression</l>
+  </item>
+  <item pos="86049">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="86075">
+    <f>desc~</f>
+    <c>N</c>
+    <l>desc~</l>
+  </item>
+  <item pos="86132">
+    <f>chose</f>
+    <c>N</c>
+    <l>chose</l>
+  </item>
+  <item pos="86160">
+    <f>destin</f>
+    <c>N</c>
+    <l>destin</l>
+  </item>
+  <item pos="86188">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="86198">
+    <f>destin</f>
+    <c>N</c>
+    <l>destin</l>
+  </item>
+  <item pos="86347">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="86371">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="86389">
+    <f>vie</f>
+    <c>N</c>
+    <l>vie</l>
+  </item>
+  <item pos="86395">
+    <f>s</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="86428">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="86478">
+    <f>monsieur</f>
+    <c>N</c>
+    <l>monsieur</l>
+  </item>
+  <item pos="86521">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="86566">
+    <f>circonstances</f>
+    <c>N</c>
+    <l>circonstance</l>
+  </item>
+  <item pos="86590">
+    <f>journalisme</f>
+    <c>N</c>
+    <l>journalisme</l>
+  </item>
+  <item pos="86639">
+    <f>raison</f>
+    <c>N</c>
+    <l>raison</l>
+  </item>
+  <item pos="86649">
+    <f>métier</f>
+    <c>N</c>
+    <l>métier</l>
+  </item>
+  <item pos="86660">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="86689">
+    <f>nom</f>
+    <c>N</c>
+    <l>nom</l>
+  </item>
+  <item pos="86760">
+    <f>guerre</f>
+    <c>N</c>
+    <l>guerre</l>
+  </item>
+  <item pos="86797">
+    <f>journaliste</f>
+    <c>N</c>
+    <l>journaliste</l>
+  </item>
+  <item pos="86841">
+    <f>journal</f>
+    <c>N</c>
+    <l>journal</l>
+  </item>
+  <item pos="86851">
+    <f>d</f>
+    <c>Pre</c>
+    <l>de</l>
+  </item>
+  <item pos="86920">
+    <f>revenir</f>
+    <c>V</c>
+    <l>revenir</l>
+  </item>
+  <item pos="86945">
+    <f>père</f>
+    <c>N</c>
+    <l>père</l>
+  </item>
+  <item pos="86995">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="87019">
+    <f>problèmes</f>
+    <c>N</c>
+    <l>problème</l>
+  </item>
+  <item pos="87041">
+    <f>mots</f>
+    <c>N</c>
+    <l>mot</l>
+  </item>
+  <item pos="87071">
+    <f>travailler</f>
+    <c>V</c>
+    <l>travailler</l>
+  </item>
+  <item pos="87097">
+    <f>ce</f>
+    <c>Pro</c>
+    <l>ce</l>
+  </item>
+  <item pos="87125">
+    <f>ce</f>
+    <c>Pro</c>
+    <l>ce</l>
+  </item>
+  <item pos="87175">
+    <f>ce</f>
+    <c>Pro</c>
+    <l>ce</l>
+  </item>
+  <item pos="87236">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="87368">
+    <f>sortirai</f>
+    <c>V</c>
+    <l>sortir</l>
+  </item>
+  <item pos="87396">
+    <f>cela</f>
+    <c>Pro</c>
+    <l>cela</l>
+  </item>
+  <item pos="87413">
+    <f>cours</f>
+    <c>N</c>
+    <l>cours</l>
+  </item>
+  <item pos="87463">
+    <f>cours</f>
+    <c>N</c>
+    <l>cours</l>
+  </item>
+  <item pos="87501">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="87509">
+    <f>vie</f>
+    <c>N</c>
+    <l>vie</l>
+  </item>
+  <item pos="87520">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="87562">
+    <f>de</f>
+    <c>Pre</c>
+    <l>de</l>
+  </item>
+  <item pos="87574">
+    <f>emploi</f>
+    <c>N</c>
+    <l>emploi</l>
+  </item>
+  <item pos="87601">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="87609">
+    <f>est</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="87615">
+    <f>métier</f>
+    <c>N</c>
+    <l>métier</l>
+  </item>
+  <item pos="87643">
+    <f>importance</f>
+    <c>N</c>
+    <l>importance</l>
+  </item>
+  <item pos="87652">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="87658">
+    <f>faire</f>
+    <c>V</c>
+    <l>faire</l>
+  </item>
+  <item pos="87662">
+    <f>chose</f>
+    <c>N</c>
+    <l>chose</l>
+  </item>
+  <item pos="87681">
+    <f>rien</f>
+    <c>Pro</c>
+    <l>rien</l>
+  </item>
+  <item pos="87683">
+    <f>faire</f>
+    <c>V</c>
+    <l>faire</l>
+  </item>
+  <item pos="87695">
+    <f>ce</f>
+    <c>Pro</c>
+    <l>ce</l>
+  </item>
+  <item pos="87697">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="87750">
+    <f>vais</f>
+    <c>V</c>
+    <l>aller</l>
+  </item>
+  <item pos="87756">
+    <f>sténodactylo</f>
+    <c>N</c>
+    <l>sténodactylo</l>
+  </item>
+  <item pos="87767">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="87779">
+    <f>métier</f>
+    <c>N</c>
+    <l>métier</l>
+  </item>
+  <item pos="87811">
+    <f>sténodactylo</f>
+    <c>N</c>
+    <l>sténodactylo</l>
+  </item>
+  <item pos="87872">
+    <f>vie</f>
+    <c>N</c>
+    <l>vie</l>
+  </item>
+  <item pos="87894">
+    <f>librairie</f>
+    <c>N</c>
+    <l>librairie</l>
+  </item>
+  <item pos="87917">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="87921">
+    <f>vous</f>
+    <c>Cl</c>
+    <l>vous</l>
+  </item>
+  <item pos="87951">
+    <f>Allégret</f>
+    <c>N</c>
+    <l>Allégret</l>
+  </item>
+  <item pos="88050">
+    <f>âge</f>
+    <c>N</c>
+    <l>âge</l>
+  </item>
+  <item pos="88052">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="88075">
+    <f>librairie</f>
+    <c>N</c>
+    <l>librairie</l>
+  </item>
+  <item pos="88112">
+    <f>air</f>
+    <c>N</c>
+    <l>air</l>
+  </item>
+  <item pos="88128">
+    <f>ans</f>
+    <c>N</c>
+    <l>an</l>
+  </item>
+  <item pos="88187">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="88199">
+    <f>quinze</f>
+    <c>Adj</c>
+    <l>quinze</l>
+  </item>
+  <item pos="88219">
+    <f>Marc</f>
+    <c>N</c>
+    <l>Marc</l>
+  </item>
+  <item pos="88240">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="88278">
+    <f>mais</f>
+    <c>J</c>
+    <l>mais</l>
+  </item>
+  <item pos="88286">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="88325">
+    <f>vends</f>
+    <c>V</c>
+    <l>vendre</l>
+  </item>
+  <item pos="88329">
+    <f>livres</f>
+    <c>N</c>
+    <l>livre</l>
+  </item>
+  <item pos="88349">
+    <f>est</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="88353">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="88374">
+    <f>gagne</f>
+    <c>V</c>
+    <l>gagner</l>
+  </item>
+  <item pos="88380">
+    <f>francs</f>
+    <c>N</c>
+    <l>franc</l>
+  </item>
+  <item pos="88401">
+    <f>mais</f>
+    <c>J</c>
+    <l>mais</l>
+  </item>
+  <item pos="88409">
+    <f>temps</f>
+    <c>N</c>
+    <l>temps</l>
+  </item>
+  <item pos="88424">
+    <f>oui</f>
+    <c>I</c>
+    <l>oui</l>
+  </item>
+  <item pos="88441">
+    <f>loyer</f>
+    <c>N</c>
+    <l>loyer</l>
+  </item>
+  <item pos="88514">
+    <f>est</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="88527">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="88578">
+    <f>ça</f>
+    <c>Pro</c>
+    <l>ça</l>
+  </item>
+  <item pos="88602">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="88631">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="88645">
+    <f>métier</f>
+    <c>N</c>
+    <l>métier</l>
+  </item>
+  <item pos="88775">
+    <f>carrière</f>
+    <c>N</c>
+    <l>carrière</l>
+  </item>
+  <item pos="88822">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="88832">
+    <f>carrière</f>
+    <c>N</c>
+    <l>carrière</l>
+  </item>
+  <item pos="88845">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="88879">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="88913">
+    <f>succès</f>
+    <c>N</c>
+    <l>succès</l>
+  </item>
+  <item pos="88983">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="89083">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="89091">
+    <f>aucune</f>
+    <c>Pro</c>
+    <l>aucun</l>
+  </item>
+  <item pos="89113">
+    <f>comédienne</f>
+    <c>N</c>
+    <l>comédien</l>
+  </item>
+  <item pos="89143">
+    <f>enchaînements</f>
+    <c>N</c>
+    <l>enchaînement</l>
+  </item>
+  <item pos="89179">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="89233">
+    <f>Jacques</f>
+    <c>N</c>
+    <l>Jacques</l>
+  </item>
+  <item pos="89353">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="89390">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="89415">
+    <f>m</f>
+    <c>Cl</c>
+    <l>me</l>
+  </item>
+  <item pos="89421">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="89429">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="89455">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="89593">
+    <f>ce</f>
+    <c>Pro</c>
+    <l>ce</l>
+  </item>
+  <item pos="89595">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="89647">
+    <f>ça</f>
+    <c>Pro</c>
+    <l>ça</l>
+  </item>
+  <item pos="89739">
+    <f>passion</f>
+    <c>N</c>
+    <l>passion</l>
+  </item>
+  <item pos="89803">
+    <f>direction</f>
+    <c>N</c>
+    <l>direction</l>
+  </item>
+  <item pos="89830">
+    <f>ligne</f>
+    <c>N</c>
+    <l>ligne</l>
+  </item>
+  <item pos="89885">
+    <f>ligne</f>
+    <c>N</c>
+    <l>ligne</l>
+  </item>
+  <item pos="90025">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="90079">
+    <f>président</f>
+    <c>N</c>
+    <l>président</l>
+  </item>
+  <item pos="90121">
+    <f>mission</f>
+    <c>N</c>
+    <l>mission</l>
+  </item>
+  <item pos="90239">
+    <f>hommage</f>
+    <c>N</c>
+    <l>hommage</l>
+  </item>
+  <item pos="90255">
+    <f>courage</f>
+    <c>N</c>
+    <l>courage</l>
+  </item>
+  <item pos="90266">
+    <f>loyauté</f>
+    <c>N</c>
+    <l>loyauté</l>
+  </item>
+  <item pos="90277">
+    <f>dévouement</f>
+    <c>N</c>
+    <l>dévouement</l>
+  </item>
+  <item pos="90288">
+    <f>esprit</f>
+    <c>N</c>
+    <l>esprit</l>
+  </item>
+  <item pos="90313">
+    <f>défense</f>
+    <c>N</c>
+    <l>défense</l>
+  </item>
+  <item pos="90384">
+    <f>certains</f>
+    <c>Pro</c>
+    <l>certains</l>
+  </item>
+  <item pos="90536">
+    <f>ministres</f>
+    <c>N</c>
+    <l>ministre</l>
+  </item>
+  <item pos="90575">
+    <f>salut</f>
+    <c>N</c>
+    <l>salut</l>
+  </item>
+  <item pos="90666">
+    <f>impératif</f>
+    <c>N</c>
+    <l>impératif</l>
+  </item>
+  <item pos="90706">
+    <f>responsabilités</f>
+    <c>N</c>
+    <l>responsabilité</l>
+  </item>
+  <item pos="90737">
+    <f>intention</f>
+    <c>N</c>
+    <l>intention</l>
+  </item>
+  <item pos="90745">
+    <f>rang</f>
+    <c>N</c>
+    <l>rang</l>
+  </item>
+  <item pos="90781">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="90783">
+    <f>faire</f>
+    <c>V</c>
+    <l>faire</l>
+  </item>
+  <item pos="90796">
+    <f>terrain</f>
+    <c>N</c>
+    <l>terrain</l>
+  </item>
+  <item pos="90809">
+    <f>celui</f>
+    <c>Pro</c>
+    <l>celui</l>
+  </item>
+  <item pos="90842">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="90861">
+    <f>sécurité</f>
+    <c>N</c>
+    <l>sécurité</l>
+  </item>
+  <item pos="90913">
+    <f>outil</f>
+    <c>N</c>
+    <l>outil</l>
+  </item>
+  <item pos="91000">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="91073">
+    <f>influence</f>
+    <c>N</c>
+    <l>influence</l>
+  </item>
+  <item pos="91104">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="91195">
+    <f>somme</f>
+    <c>N</c>
+    <l>somme</l>
+  </item>
+  <item pos="91210">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="91246">
+    <f>ce</f>
+    <c>Pro</c>
+    <l>ce</l>
+  </item>
+  <item pos="91248">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="91263">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="91269">
+    <f>saluer</f>
+    <c>V</c>
+    <l>saluer</l>
+  </item>
+  <item pos="91282">
+    <f>qu</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="91329">
+    <f>tribut</f>
+    <c>N</c>
+    <l>tribut</l>
+  </item>
+  <item pos="91394">
+    <f>comportement</f>
+    <c>N</c>
+    <l>comportement</l>
+  </item>
+  <item pos="91466">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="91476">
+    <f>région</f>
+    <c>N</c>
+    <l>région</l>
+  </item>
+  <item pos="91504">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="91533">
+    <f>beaucoup</f>
+    <c>Adv</c>
+    <l>beaucoup</l>
+  </item>
+  <item pos="91623">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="91671">
+    <f>foi</f>
+    <c>N</c>
+    <l>foi</l>
+  </item>
+  <item pos="91700">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="91737">
+    <f>traditions</f>
+    <c>N</c>
+    <l>tradition</l>
+  </item>
+  <item pos="91748">
+    <f>se</f>
+    <c>Cl</c>
+    <l>se</l>
+  </item>
+  <item pos="91823">
+    <f>tradition</f>
+    <c>N</c>
+    <l>tradition</l>
+  </item>
+  <item pos="91843">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="91895">
+    <f>peur</f>
+    <c>N</c>
+    <l>peur</l>
+  </item>
+  <item pos="91936">
+    <f>attachement</f>
+    <c>N</c>
+    <l>attachement</l>
+  </item>
+  <item pos="91966">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="91978">
+    <f>fidélité</f>
+    <c>N</c>
+    <l>fidélité</l>
+  </item>
+  <item pos="92009">
+    <f>avoir</f>
+    <c>V</c>
+    <l>avoir</l>
+  </item>
+  <item pos="92015">
+    <f>preuves</f>
+    <c>N</c>
+    <l>preuve</l>
+  </item>
+  <item pos="92046">
+    <f>observer</f>
+    <c>V</c>
+    <l>observer</l>
+  </item>
+  <item pos="92110">
+    <f>lien</f>
+    <c>N</c>
+    <l>lien</l>
+  </item>
+  <item pos="92190">
+    <f>région</f>
+    <c>N</c>
+    <l>région</l>
+  </item>
+  <item pos="92282">
+    <f>culture</f>
+    <c>N</c>
+    <l>culture</l>
+  </item>
+  <item pos="92372">
+    <f>profondeur</f>
+    <c>N</c>
+    <l>profondeur</l>
+  </item>
+  <item pos="92431">
+    <f>vie</f>
+    <c>N</c>
+    <l>vie</l>
+  </item>
+  <item pos="92499">
+    <f>que</f>
+    <c>CS</c>
+    <l>que</l>
+  </item>
+  <item pos="92653">
+    <f>caractéristique</f>
+    <c>N</c>
+    <l>caractéristique</l>
+  </item>
+  <item pos="92694">
+    <f>chercher</f>
+    <c>V</c>
+    <l>chercher</l>
+  </item>
+  <item pos="92742">
+    <f>différence</f>
+    <c>N</c>
+    <l>différence</l>
+  </item>
+  <item pos="92780">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="92788">
+    <f>les</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="92830">
+    <f>couches</f>
+    <c>N</c>
+    <l>couche</l>
+  </item>
+  <item pos="92913">
+    <f>point</f>
+    <c>N</c>
+    <l>point</l>
+  </item>
+  <item pos="93029">
+    <f>monde</f>
+    <c>N</c>
+    <l>monde</l>
+  </item>
+  <item pos="93057">
+    <f>moins</f>
+    <c>Adv</c>
+    <l>moins</l>
+  </item>
+  <item pos="93073">
+    <f>que</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="93132">
+    <f>monde</f>
+    <c>N</c>
+    <l>monde</l>
+  </item>
+  <item pos="93233">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="93299">
+    <f>le</f>
+    <c>Cl</c>
+    <l>le</l>
+  </item>
+  <item pos="93319">
+    <f>formation</f>
+    <c>N</c>
+    <l>formation</l>
+  </item>
+  <item pos="93329">
+    <f>partie</f>
+    <c>N</c>
+    <l>partie</l>
+  </item>
+  <item pos="93437">
+    <f>trait</f>
+    <c>N</c>
+    <l>trait</l>
+  </item>
+  <item pos="93617">
+    <f>aspect</f>
+    <c>N</c>
+    <l>aspect</l>
+  </item>
+  <item pos="93742">
+    <f>problèmes</f>
+    <c>N</c>
+    <l>problème</l>
+  </item>
+  <item pos="93764">
+    <f>intention</f>
+    <c>N</c>
+    <l>intention</l>
+  </item>
+  <item pos="93782">
+    <f>sont</f>
+    <c>V</c>
+    <l>être</l>
+  </item>
+  <item pos="93792">
+    <f>qu</f>
+    <c>Qu</c>
+    <l>que</l>
+  </item>
+  <item pos="93889">
+    <f>a</f>
+    <c>V</c>
+    <l>avoir</l>
+  </item>
+</base>

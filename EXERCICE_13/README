@@ -1,0 +1,14 @@
+XQuery 1, 2: base de travail: la base entière, les résultats (fichiers xml) sont également transformés par feuilles de style
+
+XSLT 1-5 et subsidiaire, base de travail: l'echantillon (à cause d'erreur de tas de java pour oXygen, trop volumineux), réalisées avec XSLT 2.0, dont certaines ne peuvent pas être parsées par le processeur d'un navigateur, les résultats sont donc générés par oXygen.
+q1, q2, analysables par navigateur (testé sur Firefox Linux)
+q3, q4, q5, les résultats des questions sont triés par ligne de commandes
+q6 (question subsidiaire) deux solutions
+    solution 1 : moins efficace Θ(n(log(n)^2))..., résultat généré par oXygen 
+    solution 2 : beaucoup plus performante que la première;
+    remarque: Dans un parcours, le noeud courant est traité si et seulement si il corresspond à une des conditions
+	    (Cond1|Condi2|Condi3|autre); mais une fois qu'il correspond à une condition, il va ignorer toutes les autres.
+	    Dans notre cas, chaque element //item est visité une fois, mais en français, certains mots peuvent 
+	    être à la fois gouverner dans une relation et dépendant dans une autre. On ne garde qu'un trait.
+	    ex: OBJ(voudrait----&gt;exprimer)  et  OBJ(exprimer----&gt;sympatie), il s'agit du même item (exprimer), on prend un seul trait 
+	    

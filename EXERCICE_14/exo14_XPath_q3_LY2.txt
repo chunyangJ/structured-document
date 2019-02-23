@@ -1,0 +1,3563 @@
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>était</del>
+    </mod>
+  </del>
+  <add>étaient</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>mouillés</del>
+    </mod>
+  </del>
+  <add>humides</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>était avant</del>
+    </mod>
+  </del>
+  <add>fut</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>est</del>
+    </mod>
+  </del>
+  <add>était</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>se voir #XXX#</del>
+    </mod>
+  </del>
+  <add>voir</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>rire</del>
+    </mod>
+  </del>
+  <add>sourire</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>unpeu</del>
+    </mod>
+  </del>
+  <add>légèrement</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>fatigué</del>
+    </mod>
+  </del>
+  <add>agacé,les sourcils froncés</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Montant</del>
+    </mod>
+  </del>
+  <add>Il monta</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>la chambre</del>
+    </mod>
+  </del>
+  <add>celle-ci</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>continua</del>
+    </mod>
+  </del>
+  <add>s'arrêta</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>deux</del>
+    </mod>
+  </del>
+  <add>trois</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>sa</del>
+    </mod>
+  </del>
+  <add>la</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>par habitude de coiffer</del>
+    </mod>
+  </del>
+  <add>les cheveux</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>parfaitemente</del>
+    </mod>
+  </del>
+  <add>court</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>t</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>1m75</del>
+    </mod>
+  </del>
+  <add>un mètre soixante-quinze</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>coer</del>
+    </mod>
+  </del>
+  <add>coeur</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>é</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>m</del>
+    </mod>
+  </del>
+  <add>M</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>les</del>
+    </mod>
+  </del>
+  <add>Les</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>a</del>
+    </mod>
+  </del>
+  <add>un</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>une</del>
+    </mod>
+  </del>
+  <add>2</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>que</del>
+    </mod>
+  </del>
+  <add>.</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>comptempler</del>
+    </mod>
+  </del>
+  <add>regarder</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>ait</del>
+    </mod>
+  </del>
+  <add>é</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>s</del>
+    </mod>
+  </del>
+  <add>S</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>de</del>
+    </mod>
+  </del>
+  <add>dans</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>t</del>
+    </mod>
+  </del>
+  <add>ent</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>comme si il n'avait pas<mod type="corr">
+      <orig>manger</orig>
+      <reg>mangé</reg>
+    </mod>depuis 1 mois</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>4</del>
+    </mod>
+  </del>
+  <add>4</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>dune</del>
+    </mod>
+  </del>
+  <add>d'une</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#e</del>
+    </mod>
+  </del>
+  <add>T2#é</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#e</del>
+    </mod>
+  </del>
+  <add>T2#è</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#e</del>
+    </mod>
+  </del>
+  <add>T2#é</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#le</del>
+    </mod>
+  </del>
+  <add>T2#du</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#e</del>
+    </mod>
+  </del>
+  <add>T2#é</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#est</del>
+    </mod>
+  </del>
+  <add>T2#était</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#de</del>
+    </mod>
+  </del>
+  <add>T2#Son&gt;</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#t</del>
+    </mod>
+  </del>
+  <add>T2#e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2##XXX#</del>
+    </mod>
+  </del>
+  <add>T2##XXX#</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#i</del>
+    </mod>
+  </del>
+  <add>T2#était</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#ait</del>
+    </mod>
+  </del>
+  <add>T2#ue</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>son</del>
+    </mod>
+  </del>
+  <add>ses</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>toute ses</del>
+    </mod>
+  </del>
+  <add>multiple</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>aussi à ceux</del>
+    </mod>
+  </del>
+  <add>également</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Il #XXX# #XXX# #XXX#</del>
+    </mod>
+  </del>
+  <add>avait la peau d'un blanc</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>l#XXX#avait</del>
+    </mod>
+  </del>
+  <add>l'obscurité permanente</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>avait</del>
+    </mod>
+  </del>
+  <add>portait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>s</del>
+    </mod>
+  </del>
+  <add>g</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>été</del>
+    </mod>
+  </del>
+  <add>était</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX# #XXX# #XXX#</del>
+    </mod>
+  </del>
+  <add>ou par des chutes</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>s'est</del>
+    </mod>
+  </del>
+  <add>ses</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>qu</del>
+    </mod>
+  </del>
+  <add>qu</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>ches</del>
+    </mod>
+  </del>
+  <add>chaussures</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>par le</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>se</del>
+    </mod>
+  </del>
+  <add>ses</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>ongles</del>
+    </mod>
+  </del>
+  <add>mains</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>é</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>De</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>plus que maigre</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#le turais</del>
+    </mod>
+  </del>
+  <add>T2#la brûlerais</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>en réalité</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#sa</del>
+    </mod>
+  </del>
+  <add>T2#vingt</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#40</del>
+    </mod>
+  </del>
+  <add>T2#quarante</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>manque</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>faisait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>ait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>and</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#e</del>
+    </mod>
+  </del>
+  <add>T2#s</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#er</del>
+    </mod>
+  </del>
+  <add>T2#és</add>
+</mod>
+<mod type="subst">
+  <del>usé</del>
+  <add>T2#es</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>chaune</del>
+    </mod>
+  </del>
+  <add>jaune</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>s'apuy s'appuyer</del>
+    </mod>
+  </del>
+  <add>s'appuya</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>trent</del>
+    </mod>
+  </del>
+  <add>quarantaine</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>un pull gris</del>
+    </mod>
+  </del>
+  <add>un jacquant bleu marbre</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>que</del>
+    </mod>
+  </del>
+  <add>qu</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>ns</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Ses jambes</del>
+    </mod>
+  </del>
+  <add>il</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#semblai avoir</del>
+    </mod>
+  </del>
+  <add>T2#avait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>l</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#adore</del>
+    </mod>
+  </del>
+  <add>T2#adorait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#pour</del>
+    </mod>
+  </del>
+  <add>T2#de</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#s'ils</del>
+    </mod>
+  </del>
+  <add>T2#s'il</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>qui</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#,</del>
+    </mod>
+  </del>
+  <add>T2#.</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#en quête d'autres payes et d'un autre réverbère...</del>
+    </mod>
+  </del>
+  <add>T2#Bientôt, il disparut dans la nuit noire...</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>#XXX#</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>vêtu</del>
+    </mod>
+  </del>
+  <add>habillé</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>l'oeiul</del>
+    </mod>
+  </del>
+  <add>l'oeil</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>habiller</del>
+    </mod>
+  </del>
+  <add>vêtu</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>alor</del>
+    </mod>
+  </del>
+  <add>alors</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>.</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>puis</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>appappuye</del>
+    </mod>
+  </del>
+  <add>addossé<mod type="add">
+      <add>T2#é</add>
+    </mod>
+  </add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#,</del>
+    </mod>
+  </del>
+  <add>T2#de ce réverbère</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#,</del>
+    </mod>
+  </del>
+  <add>T2#.</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#,</del>
+    </mod>
+  </del>
+  <add>T2#fut</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Har</del>
+    </mod>
+  </del>
+  <add>Edward</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>. Le</del>
+    </mod>
+  </del>
+  <add>, ces</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#inocent</del>
+    </mod>
+  </del>
+  <add>T2#innocent</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>s</del>
+    </mod>
+  </del>
+  <add>s</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#a</del>
+    </mod>
+  </del>
+  <add>T2#à</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>an</del>
+    </mod>
+  </del>
+  <add>avançait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Ha</del>
+    </mod>
+  </del>
+  <add>Edward</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#échanger sur</del>
+    </mod>
+  </del>
+  <add>T2#parler de</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#.</del>
+    </mod>
+  </del>
+  <add>T2#!</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#,</del>
+    </mod>
+  </del>
+  <add>T2#.</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>Edward</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>chausser de</del>
+    </mod>
+  </del>
+  <add>chaussure</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>is</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>gras</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>allant</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>ses nuits</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>Ses fines lèvres</add>
+</mod>
+<mod type="subst">
+  <del>T2#amplifié<mod type="add">
+      <add>T2#s</add>
+    </mod>
+  </del>
+  <add>T2#amplifiaient</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>demeurait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2l</del>
+    </mod>
+  </del>
+  <add>T2#l</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX# #XXX# #XXX#</del>
+    </mod>
+  </del>
+  <add>de #XXX# #XXX# sa fameuse</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>é</del>
+    </mod>
+  </del>
+  <add>er</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#er</del>
+    </mod>
+  </del>
+  <add>T2#ée</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#e</del>
+    </mod>
+  </del>
+  <add>T2#ê</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#s</del>
+    </mod>
+  </del>
+  <add>T2#c</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>"chuter"</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#arrivés</del>
+    </mod>
+  </del>
+  <add>T2#est arrivé</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#et</del>
+    </mod>
+  </del>
+  <add>T2#et</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2##XXX#</del>
+    </mod>
+  </del>
+  <add>T2#vieilles</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#l</del>
+    </mod>
+  </del>
+  <add>T2#l</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#avait</del>
+    </mod>
+  </del>
+  <add>T2#osait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#effrayer</del>
+    </mod>
+  </del>
+  <add>T2#effrayent</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>souvenir</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>ou</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#â</del>
+    </mod>
+  </del>
+  <add>T2#a</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#sans</del>
+    </mod>
+  </del>
+  <add>T2#manque</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#, un arrêt de</del>
+    </mod>
+  </del>
+  <add>prendre soin de lui, voire un arrêt de #XXX#</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX# #XXX# deux mois</del>
+    </mod>
+  </del>
+  <add>troisans</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>.</del>
+    </mod>
+  </del>
+  <add>,</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>aperçoit</del>
+    </mod>
+  </del>
+  <add>étonna</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>du changement quand depuis</del>
+    </mod>
+  </del>
+  <add>d'un changement de la sorte</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#général</del>
+    </mod>
+  </del>
+  <add>T2#global</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#qui</del>
+    </mod>
+  </del>
+  <add>T2#qu'il</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>le</del>
+    </mod>
+  </del>
+  <add>un</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>même</del>
+    </mod>
+  </del>
+  <add>même</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>partie sombre</del>
+    </mod>
+  </del>
+  <add>partie sombre</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>saissisant</del>
+    </mod>
+  </del>
+  <add>saisissant</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Mais</del>
+    </mod>
+  </del>
+  <add>Néanmoins</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>aperçevais</del>
+    </mod>
+  </del>
+  <add>lui etait donné de #XXX#</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>semblait</del>
+    </mod>
+  </del>
+  <add>paraissait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>aucune pas</del>
+    </mod>
+  </del>
+  <add>ne</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>l'homme</del>
+    </mod>
+  </del>
+  <add>en lui</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>courais</del>
+    </mod>
+  </del>
+  <add>devais courir</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Entièrement</del>
+    </mod>
+  </del>
+  <add>Initialement</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>n'aparait</del>
+    </mod>
+  </del>
+  <add>ne vit</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>a</del>
+    </mod>
+  </del>
+  <add>il</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>,</del>
+    </mod>
+  </del>
+  <add>.</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2##XXX#</del>
+    </mod>
+  </del>
+  <add>T2#r</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>s'</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>devait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>aucun</del>
+    </mod>
+  </del>
+  <add>aucune</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>ce début de ce chemin #XXX# pavés</del>
+    </mod>
+  </del>
+  <add>ce début de chemin de pavés</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>était</del>
+    </mod>
+  </del>
+  <add>avé</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>tournait</del>
+    </mod>
+  </del>
+  <add>se situait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>des</del>
+    </mod>
+  </del>
+  <add>de ses</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Au dessus</del>
+    </mod>
+  </del>
+  <add>Par dessus</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>longs et ondulés cheveux</del>
+    </mod>
+  </del>
+  <add>cheveux longs bruns et ondulés</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>la</del>
+    </mod>
+  </del>
+  <add>cette</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>sous le même réverbère</del>
+    </mod>
+  </del>
+  <add>là</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>maison</del>
+    </mod>
+  </del>
+  <add>demeure</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>quand</del>
+    </mod>
+  </del>
+  <add>lorsqu'</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>son visage</del>
+    </mod>
+  </del>
+  <add>le visage de la jeune femme</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>avait</del>
+    </mod>
+  </del>
+  <add>ouvrit</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>et</del>
+    </mod>
+  </del>
+  <add>puis</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>le</del>
+    </mod>
+  </del>
+  <add>leur</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>mais ils ne savaient pas où aller</del>
+    </mod>
+  </del>
+  <add>mais sans savoir où aller</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>était</del>
+    </mod>
+  </del>
+  <add>étaient</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>H</del>
+    </mod>
+  </del>
+  <add>h</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>elle</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>femme</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>des</del>
+    </mod>
+  </del>
+  <add>du</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>è</del>
+    </mod>
+  </del>
+  <add>ai</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>sa</del>
+    </mod>
+  </del>
+  <add>dont la</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>avanceait</del>
+    </mod>
+  </del>
+  <add>avancait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>è</del>
+    </mod>
+  </del>
+  <add>ai</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>,</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>là la</del>
+    </mod>
+  </del>
+  <add>le</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX# #XXX#</del>
+    </mod>
+  </del>
+  <add>des secrets.</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>l'y</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>il</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>s</del>
+    </mod>
+  </del>
+  <add>c</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>étaient toutes des femmes,</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>personnage</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#millieu</del>
+    </mod>
+  </del>
+  <add>T2#milieu</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#tachée</del>
+    </mod>
+  </del>
+  <add>T2#recouverte</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#â</del>
+    </mod>
+  </del>
+  <add>T2#a</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#diament</del>
+    </mod>
+  </del>
+  <add>T2#diamant</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#agenout</del>
+    </mod>
+  </del>
+  <add>T2#agenouille</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>s</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#brèvement</del>
+    </mod>
+  </del>
+  <add>T2#brièvement</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#est</del>
+    </mod>
+  </del>
+  <add>T2#et</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#Deux</del>
+    </mod>
+  </del>
+  <add>T2#deux</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#e</del>
+    </mod>
+  </del>
+  <add>T2#'</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#Deux</del>
+    </mod>
+  </del>
+  <add>T2#deux</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>l</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#la</del>
+    </mod>
+  </del>
+  <add>T2#le</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>m</del>
+    </mod>
+  </del>
+  <add>v</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>bat</del>
+    </mod>
+  </del>
+  <add>bas</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>durera</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>
+    <mod type="corr">
+      <orig>tjr</orig>
+      <reg>toujours</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>ds</del>
+    </mod>
+  </del>
+  <add>vers</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>avc</del>
+    </mod>
+  </del>
+  <add>avec</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>rigolait rian</del>
+    </mod>
+  </del>
+  <add>riait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>un</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>apercevoire</del>
+    </mod>
+  </del>
+  <add>apercevoir</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>aperçu</del>
+    </mod>
+  </del>
+  <add>observe<mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>aux</del>
+    </mod>
+  </del>
+  <add>
+    <mod type="corr">
+      <orig>surment</orig>
+      <reg>sûrement</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>noires</del>
+    </mod>
+  </del>
+  <add>sombres</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Une décolleté #XXX# #XXX#</del>
+    </mod>
+  </del>
+  <add>une des</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>a une apparence</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>étai</del>
+    </mod>
+  </del>
+  <add>est</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>tes</del>
+    </mod>
+  </del>
+  <add>ses</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>L'homme</del>
+    </mod>
+  </del>
+  <add>Il</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>son</del>
+    </mod>
+  </del>
+  <add>son</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>ses</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>sourr</del>
+    </mod>
+  </del>
+  <add>sourire</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>che chosu</del>
+    </mod>
+  </del>
+  <add>chaussures</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>qu</del>
+    </mod>
+  </del>
+  <add>comme</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>Il</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>ses</del>
+    </mod>
+  </del>
+  <add>ces</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>yeu</del>
+    </mod>
+  </del>
+  <add>yeux</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>à</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>'</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX# #XXX# #XXX#</del>
+    </mod>
+  </del>
+  <add>dérive sur le métal</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e#XXX#</del>
+    </mod>
+  </del>
+  <add>ance</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#XXX#</del>
+    </mod>
+  </del>
+  <add>T2#s</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#a</del>
+    </mod>
+  </del>
+  <add>T2#â</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>é</del>
+    </mod>
+  </del>
+  <add>er</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>y a peu de temps</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>posée</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>tout minces</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>sous</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX# #XXX#</del>
+    </mod>
+  </del>
+  <add>elle a un soit</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>s</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>à</del>
+    </mod>
+  </del>
+  <add>a</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#eodes</del>
+    </mod>
+  </del>
+  <add>T2#eaudes</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#à</del>
+    </mod>
+  </del>
+  <add>T2#a</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>m</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>relevait</del>
+    </mod>
+  </del>
+  <add>relevait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>t</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>n</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX# #XXX# #XXX# #XXX#</del>
+    </mod>
+  </del>
+  <add>cinquante ans et non pas quarante.</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX# #XXX#</del>
+    </mod>
+  </del>
+  <add>si différent</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX# #XXX#</del>
+    </mod>
+  </del>
+  <add>passer sous</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>magie</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>obscuri</del>
+    </mod>
+  </del>
+  <add>nuit</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>revenait des courses</del>
+    </mod>
+  </del>
+  <add>#XXX# travail de nuit.</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Il est 16h30</del>
+    </mod>
+  </del>
+  <add>Il<mod type="corr">
+      <orig>etait</orig>
+      <reg>était</reg>
+    </mod>
+    <mod type="del">
+      <del>1</del>
+    </mod>8h25</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>ù</del>
+    </mod>
+  </del>
+  <add>u</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>qu'il</del>
+    </mod>
+  </del>
+  <add>que</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>venu vetu</del>
+    </mod>
+  </del>
+  <add>
+    <mod type="corr">
+      <orig>vêtut</orig>
+      <reg>vêtu</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>aime</del>
+    </mod>
+  </del>
+  <add>est</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>les solitudes #XXX#</del>
+    </mod>
+  </del>
+  <add>solitaire car</add>
+</mod>
+<mod type="subst">
+  <del>#XXX#</del>
+  <add>trait</add>
+</mod>
+<mod type="subst">
+  <del>sont</del>
+  <add>ai</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>et</del>
+    </mod>
+  </del>
+  <add>ses collegue et</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>aux</del>
+    </mod>
+  </del>
+  <add>
+    <mod type="corr">
+      <orig>a</orig>
+      <reg>à</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>encor</del>
+    </mod>
+  </del>
+  <add>encore</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>ref</del>
+    </mod>
+  </del>
+  <add>renferma</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>lorsqu'il</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>q</del>
+    </mod>
+  </del>
+  <add>
+    <mod type="corr">
+      <orig>a</orig>
+      <reg>à</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX# #XXX# #XXX#</del>
+    </mod>
+  </del>
+  <add>est sportif et aime</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>aime</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>c</del>
+    </mod>
+  </del>
+  <add>s</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>en</del>
+    </mod>
+  </del>
+  <add>a</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>ce</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>ét</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>reverbère</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>un</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>h</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>T M</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>étant</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>av</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>continuait a march</del>
+    </mod>
+  </del>
+  <add>avancait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>à</del>
+    </mod>
+  </del>
+  <add>au</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>s'asseyit</del>
+    </mod>
+  </del>
+  <add>s'assit</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>contre</del>
+    </mod>
+  </del>
+  <add>par</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>passer toute ma vie</del>
+    </mod>
+  </del>
+  <add>vivre</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>partir</del>
+    </mod>
+  </del>
+  <add>rentrer</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX# #XXX#</del>
+    </mod>
+  </del>
+  <add>dans ma chambre</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>J'</del>
+    </mod>
+  </del>
+  <add>Il</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>trois</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>'</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>était</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#s</del>
+    </mod>
+  </del>
+  <add>T2#d</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>il</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#pourrait</del>
+    </mod>
+  </del>
+  <add>T2#pouvait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#pourrait</del>
+    </mod>
+  </del>
+  <add>T2#pouvait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>a</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>observer</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>â</del>
+    </mod>
+  </del>
+  <add>a</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>er</del>
+    </mod>
+  </del>
+  <add>é</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#se</del>
+    </mod>
+  </del>
+  <add>T2#ce</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>re</del>
+    </mod>
+  </del>
+  <add>regard</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>à</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>après</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>t</del>
+    </mod>
+  </del>
+  <add>x</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T2#û</del>
+    </mod>
+  </del>
+  <add>T2#u</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>sous</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>assoit</del>
+    </mod>
+  </del>
+  <add>assoit</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>velours</del>
+    </mod>
+  </del>
+  <add>cuire</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>l'homme</del>
+    </mod>
+  </del>
+  <add>silouhette</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>de</del>
+    </mod>
+  </del>
+  <add>au</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>poignard plantes dans son dos</del>
+    </mod>
+  </del>
+  <add>objet planté dans ses muscles</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>mois</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>empara</del>
+    </mod>
+  </del>
+  <add>s'empara</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>en</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>devait avoir</del>
+    </mod>
+  </del>
+  <add>avait atteint</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>avait</del>
+    </mod>
+  </del>
+  <add>avait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>affair</del>
+    </mod>
+  </del>
+  <add>à faire</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>Noël</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>sin</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>Il</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>avait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>il</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>r</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>venait</del>
+    </mod>
+  </del>
+  <add>De plus</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>u</del>
+    </mod>
+  </del>
+  <add>T2#'après</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>au</del>
+    </mod>
+  </del>
+  <add>T2#les</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>donc avec des</del>
+    </mod>
+  </del>
+  <add>T2#d'après ses</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>une</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Homme</del>
+    </mod>
+  </del>
+  <add>Père</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>des cernes<mod type="corr">
+      <orig>creusés</orig>
+      <reg>creusées</reg>
+    </mod>et nombreuses</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>#XXX#</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>les cicatrices</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>creusé pleins de traits et</del>
+    </mod>
+  </del>
+  <add>plein de<mod type="corr">
+      <orig>caractère</orig>
+      <reg>caractères</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>son</del>
+    </mod>
+  </del>
+  <add>ce</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>i</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>û</del>
+    </mod>
+  </del>
+  <add>u</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>
+    <mod type="corr">
+      <orig>suprenant</orig>
+      <reg>surprenante</reg>
+    </mod>
+  </add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>gens</del>
+    </mod>
+  </del>
+  <add>autres. En dépit de ça,</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>cette rue</del>
+    </mod>
+  </del>
+  <add>la ruelle</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>etait</del>
+    </mod>
+  </del>
+  <add>avait un caractére</add>
+</mod>
+<mod type="subst">
+  <del>#XXX#</del>
+  <add>Il</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>Celui-ci</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>por</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>pénible étant</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>U</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>,</del>
+    </mod>
+  </del>
+  <add>.</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>qu</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>de l'ombre de cette femme, il vit cette femme il ne savait pas que cette femme allait changer sa vie</del>
+    </mod>
+  </del>
+  <add>du reverbere</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>se</del>
+    </mod>
+  </del>
+  <add>se</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>grands</del>
+    </mod>
+  </del>
+  <add>petits</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>maigres</del>
+    </mod>
+  </del>
+  <add>fines</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>frêles</del>
+    </mod>
+  </del>
+  <add>musclés</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>carrure</del>
+    </mod>
+  </del>
+  <add>fine</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>un vra</del>
+    </mod>
+  </del>
+  <add>en vrai</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>appocha</del>
+    </mod>
+  </del>
+  <add>aprocha</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>lui</del>
+    </mod>
+  </del>
+  <add>elle</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>réverbère</del>
+    </mod>
+  </del>
+  <add>banc</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>carnet</del>
+    </mod>
+  </del>
+  <add>carnet</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>lui</del>
+    </mod>
+  </del>
+  <add>elle</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>son accoutrement</del>
+    </mod>
+  </del>
+  <add>sa tenue</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>affirmer</del>
+    </mod>
+  </del>
+  <add>croire</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>quand</del>
+    </mod>
+  </del>
+  <add>lorsqu'</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>à</del>
+    </mod>
+  </del>
+  <add>a</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>t</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>a#XXX#</del>
+    </mod>
+  </del>
+  <add>r</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>E</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>j</del>
+    </mod>
+  </del>
+  <add>J</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>z</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>h</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>r</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>A</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>t</del>
+    </mod>
+  </del>
+  <add>ent</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>a</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>d</del>
+    </mod>
+  </del>
+  <add>D</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>y</del>
+    </mod>
+  </del>
+  <add>u</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>E</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>r</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>l</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>virer</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>fut</del>
+    </mod>
+  </del>
+  <add>est</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>S</del>
+    </mod>
+  </del>
+  <add>C</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>f</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>avec</del>
+    </mod>
+  </del>
+  <add>de</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>patiemment</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>c</del>
+    </mod>
+  </del>
+  <add>s</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>des</del>
+    </mod>
+  </del>
+  <add>de ses</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>3</del>
+    </mod>
+  </del>
+  <add>trois</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>u</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>me</del>
+    </mod>
+  </del>
+  <add>lui</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>je</del>
+    </mod>
+  </del>
+  <add>il</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>j'ai</del>
+    </mod>
+  </del>
+  <add>a</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>me</del>
+    </mod>
+  </del>
+  <add>ne</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX# au co</del>
+    </mod>
+  </del>
+  <add>près</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>es</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>é</del>
+    </mod>
+  </del>
+  <add>er</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>était</del>
+    </mod>
+  </del>
+  <add>est</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>à</del>
+    </mod>
+  </del>
+  <add>à</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>ì</del>
+    </mod>
+  </del>
+  <add>i</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>sa</del>
+    </mod>
+  </del>
+  <add>la</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>dabitude</del>
+    </mod>
+  </del>
+  <add>d'habitude</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>cetter</del>
+    </mod>
+  </del>
+  <add>c'était</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>le</del>
+    </mod>
+  </del>
+  <add>son</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>elle</del>
+    </mod>
+  </del>
+  <add>Julie</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Elle</del>
+    </mod>
+  </del>
+  <add>Julie</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>t</del>
+    </mod>
+  </del>
+  <add>c</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>L</del>
+    </mod>
+  </del>
+  <add>S</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>l</del>
+    </mod>
+  </del>
+  <add>T2#c</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>re</del>
+    </mod>
+  </del>
+  <add>c</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>,</del>
+    </mod>
+  </del>
+  <add>.</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>ce</del>
+    </mod>
+  </del>
+  <add>ca</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>c</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>es</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>fe</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>s</del>
+    </mod>
+  </del>
+  <add>r</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>a</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>ée</del>
+    </mod>
+  </del>
+  <add>es</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>é</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>è</del>
+    </mod>
+  </del>
+  <add>é</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>sa salle</del>
+    </mod>
+  </del>
+  <add>sa classe</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>voit</del>
+    </mod>
+  </del>
+  <add>voit</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>f</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>oeuvre</del>
+    </mod>
+  </del>
+  <add>ouvre</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>sont</del>
+    </mod>
+  </del>
+  <add>étaient</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>retrouver</del>
+    </mod>
+  </del>
+  <add>sortir</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>u</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>l'ettendre</del>
+    </mod>
+  </del>
+  <add>l'ouverture</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Français</del>
+    </mod>
+  </del>
+  <add>Maths</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>é</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>o</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>a</del>
+    </mod>
+  </del>
+  <add>À</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>j'étais je j'me su</del>
+    </mod>
+  </del>
+  <add>je me suis</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>renvoyer</del>
+    </mod>
+  </del>
+  <add>T2#virer</add>
+</mod>

@@ -1,0 +1,1459 @@
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>visites</del>
+    </mod>
+  </del>
+  <add>visiter</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>au xagn</del>
+    </mod>
+  </del>
+  <add>aux gans</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>o</del>
+    </mod>
+  </del>
+  <add>au</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>é</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>j</del>
+    </mod>
+  </del>
+  <add>J'</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>quoi qui</del>
+    </mod>
+  </del>
+  <add>qui</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Atacon</del>
+    </mod>
+  </del>
+  <add>Attention</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>des</del>
+    </mod>
+  </del>
+  <add>avec</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>de des de</del>
+    </mod>
+  </del>
+  <add>deux</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>oisoi oiso</del>
+    </mod>
+  </del>
+  <add>oiseau</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>é</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>du</del>
+    </mod>
+  </del>
+  <add>du</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>veicull</del>
+    </mod>
+  </del>
+  <add>veicule<mod type="del">
+      <del>s</del>
+    </mod>
+  </add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>é</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>était</del>
+    </mod>
+  </del>
+  <add>étain</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>disgne</del>
+    </mod>
+  </del>
+  <add>disigne</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>5</del>
+    </mod>
+  </del>
+  <add>cinq</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>i</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>i</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>de</del>
+    </mod>
+  </del>
+  <add>des</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>m</del>
+    </mod>
+  </del>
+  <add>n</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>m</del>
+    </mod>
+  </del>
+  <add>n</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>soisée</del>
+    </mod>
+  </del>
+  <add>soigné</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#XXX#</del>
+    </mod>
+  </del>
+  <add>Hugues</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>d'ejeuner</del>
+    </mod>
+  </del>
+  <add>déjeuné</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>tombien</del>
+    </mod>
+  </del>
+  <add>tombe bien</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>T3# de mandera</del>
+    </mod>
+  </del>
+  <add>demondera</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>chloe</del>
+    </mod>
+  </del>
+  <add>charlotte</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>organis</del>
+    </mod>
+  </del>
+  <add>organiser</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>l'arme de terre</del>
+    </mod>
+  </del>
+  <add>l'archéologue</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>et</del>
+    </mod>
+  </del>
+  <add>,</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>et</del>
+    </mod>
+  </del>
+  <add>,</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>jou</del>
+    </mod>
+  </del>
+  <add>je</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>sage</del>
+    </mod>
+  </del>
+  <add>sache</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>sage</del>
+    </mod>
+  </del>
+  <add>sache</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>la</del>
+    </mod>
+  </del>
+  <add>la</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>enfant</del>
+    </mod>
+  </del>
+  <add>fils</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>p</del>
+    </mod>
+  </del>
+  <add>P</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>tout</del>
+    </mod>
+  </del>
+  <add>tous</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>mon magnifiqe</del>
+    </mod>
+  </del>
+  <add>ma ma magnifique</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>peuis</del>
+    </mod>
+  </del>
+  <add>puis</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>é</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>oure</del>
+    </mod>
+  </del>
+  <add>ouvre</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>on</del>
+    </mod>
+  </del>
+  <add>n</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>3</del>
+    </mod>
+  </del>
+  <add>3</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>la</del>
+    </mod>
+  </del>
+  <add>l'</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>te</del>
+    </mod>
+  </del>
+  <add>de</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>touslemonte</del>
+    </mod>
+  </del>
+  <add>toulemond</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>tére</del>
+    </mod>
+  </del>
+  <add>tére</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>elle</del>
+    </mod>
+  </del>
+  <add>Laurie</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>é</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Laurie</del>
+    </mod>
+  </del>
+  <add>Clara</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>o</del>
+    </mod>
+  </del>
+  <add>O</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>a</del>
+    </mod>
+  </del>
+  <add>a</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>c</del>
+    </mod>
+  </del>
+  <add>t</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Rogli</del>
+    </mod>
+  </del>
+  <add>Rogild</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>quil</del>
+    </mod>
+  </del>
+  <add>qu'il</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>son</del>
+    </mod>
+  </del>
+  <add>sonnait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>assie</del>
+    </mod>
+  </del>
+  <add>essye</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>voilà</del>
+    </mod>
+  </del>
+  <add>voilà</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>matin</del>
+    </mod>
+  </del>
+  <add>matin</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>s</del>
+    </mod>
+  </del>
+  <add>t</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>lui</del>
+    </mod>
+  </del>
+  <add>lui</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>amis</del>
+    </mod>
+  </del>
+  <add>amies</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>à</del>
+    </mod>
+  </del>
+  <add>a</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>1</del>
+    </mod>
+  </del>
+  <add>une</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>apprendre</del>
+    </mod>
+  </del>
+  <add>comprendre</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>un</del>
+    </mod>
+  </del>
+  <add>ton</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>pour</del>
+    </mod>
+  </del>
+  <add>pour</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>à</del>
+    </mod>
+  </del>
+  <add>a</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>jusqu'a</del>
+    </mod>
+  </del>
+  <add>jusqu'à</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>zéro</del>
+    </mod>
+  </del>
+  <add>0,5</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>du l' de l'heure</del>
+    </mod>
+  </del>
+  <add>de l'heure</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>elle</del>
+    </mod>
+  </del>
+  <add>elle</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>voay</del>
+    </mod>
+  </del>
+  <add>voiai</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>falai</del>
+    </mod>
+  </del>
+  <add>falai</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>demanda</del>
+    </mod>
+  </del>
+  <add>disa</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>o</del>
+    </mod>
+  </del>
+  <add>j</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>l</del>
+    </mod>
+  </del>
+  <add>s</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>7h5</del>
+    </mod>
+  </del>
+  <add>7h05</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>est dans la</del>
+    </mod>
+  </del>
+  <add>elle alla</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>é</del>
+    </mod>
+  </del>
+  <add>è</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>surpiei</del>
+    </mod>
+  </del>
+  <add>surprise</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>!</del>
+    </mod>
+  </del>
+  <add>?</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>et</del>
+    </mod>
+  </del>
+  <add>,</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>d</del>
+    </mod>
+  </del>
+  <add>t</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>restaurant</del>
+    </mod>
+  </del>
+  <add>retaurant</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>é</del>
+    </mod>
+  </del>
+  <add>è</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>.</del>
+    </mod>
+  </del>
+  <add>,</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>elle</del>
+    </mod>
+  </del>
+  <add>Elle</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>phaté</del>
+    </mod>
+  </del>
+  <add>paté</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Ils</del>
+    </mod>
+  </del>
+  <add>Ses grand-parents</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>55</del>
+    </mod>
+  </del>
+  <add>45</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>petit petite</del>
+    </mod>
+  </del>
+  <add>petite</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>s</del>
+    </mod>
+  </del>
+  <add>t</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>#X#</del>
+    </mod>
+  </del>
+  <add>v</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>le vaile</del>
+    </mod>
+  </del>
+  <add>le voila</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>,</del>
+    </mod>
+  </del>
+  <add>.</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>sa chaise</del>
+    </mod>
+  </del>
+  <add>son siege</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>seul</del>
+    </mod>
+  </del>
+  <add>seul</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>doit</del>
+    </mod>
+  </del>
+  <add>doient</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>ont</del>
+    </mod>
+  </del>
+  <add>font</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>mit</del>
+    </mod>
+  </del>
+  <add>met</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>commencé</del>
+    </mod>
+  </del>
+  <add>commençait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>a</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>u</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>a</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>apris</del>
+    </mod>
+  </del>
+  <add>apris</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>et</del>
+    </mod>
+  </del>
+  <add>et</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>h</del>
+    </mod>
+  </del>
+  <add>H</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>fot</del>
+    </mod>
+  </del>
+  <add>football</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>elle</del>
+    </mod>
+  </del>
+  <add>Il</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>Qan</del>
+    </mod>
+  </del>
+  <add>Quand</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>ms</del>
+    </mod>
+  </del>
+  <add>mes</add>
+</mod>
+<mod type="subst">
+  <del>parlait</del>
+  <add>parle</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>j</del>
+    </mod>
+  </del>
+  <add>J</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>bien</del>
+    </mod>
+  </del>
+  <add>beau</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>e</del>
+    </mod>
+  </del>
+  <add>u</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>jusqu</del>
+    </mod>
+  </del>
+  <add>jusqu'à</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>flauriste</del>
+    </mod>
+  </del>
+  <add>fleuriste</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>printen</del>
+    </mod>
+  </del>
+  <add>printemps</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>est</del>
+    </mod>
+  </del>
+  <add>et</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>casie</del>
+    </mod>
+  </del>
+  <add>cazie</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>rentre</del>
+    </mod>
+  </del>
+  <add>rentre</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>mai</del>
+    </mod>
+  </del>
+  <add>mes</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>pygama</del>
+    </mod>
+  </del>
+  <add>pyjama</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>.</del>
+    </mod>
+  </del>
+  <add>,</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>sont</del>
+    </mod>
+  </del>
+  <add>soient</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>aye</del>
+    </mod>
+  </del>
+  <add>aille</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>pleit</del>
+    </mod>
+  </del>
+  <add>plein</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>a</del>
+    </mod>
+  </del>
+  <add>u</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>saq</del>
+    </mod>
+  </del>
+  <add>sac</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>sera</del>
+    </mod>
+  </del>
+  <add>sera</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>m'habilleurait</del>
+    </mod>
+  </del>
+  <add>m'habiellerait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>chevaux</del>
+    </mod>
+  </del>
+  <add>chevaux</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>s</del>
+    </mod>
+  </del>
+  <add>S</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>maintem</del>
+    </mod>
+  </del>
+  <add>maintenant</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>rentre</del>
+    </mod>
+  </del>
+  <add>rentrerent</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>mon</del>
+    </mod>
+  </del>
+  <add>moi</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>regarderait</del>
+    </mod>
+  </del>
+  <add>regarderait</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>je</del>
+    </mod>
+  </del>
+  <add>elle</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>restorau</del>
+    </mod>
+  </del>
+  <add>restaurant</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>o</del>
+    </mod>
+  </del>
+  <add>O</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>comte</del>
+    </mod>
+  </del>
+  <add>compte</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>j'était</del>
+    </mod>
+  </del>
+  <add>je suis</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>s</del>
+    </mod>
+  </del>
+  <add>t</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>dans</del>
+    </mod>
+  </del>
+  <add>de</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>le</del>
+    </mod>
+  </del>
+  <add>un</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>s'urvéqur</del>
+    </mod>
+  </del>
+  <add>survécure</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>combina</del>
+    </mod>
+  </del>
+  <add>combinaison</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>scotché</del>
+    </mod>
+  </del>
+  <add>collé</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>sait</del>
+    </mod>
+  </del>
+  <add>s'est</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>patisserie</del>
+    </mod>
+  </del>
+  <add>boutique</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>offrir</del>
+    </mod>
+  </del>
+  <add>j'offrirais</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>meuilleuir</del>
+    </mod>
+  </del>
+  <add>meilleur</add>
+</mod>
+<mod type="subst">
+  <del>petite</del>
+  <add>petit</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>journée journé</del>
+    </mod>
+  </del>
+  <add>journée</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>mes chat</del>
+    </mod>
+  </del>
+  <add>mon chat</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>,</del>
+    </mod>
+  </del>
+  <add>et</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>on</del>
+    </mod>
+  </del>
+  <add>on</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>.</del>
+    </mod>
+  </del>
+  <add>,</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>lai</del>
+    </mod>
+  </del>
+  <add>les</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>pis</del>
+    </mod>
+  </del>
+  <add>puis</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>rantrer</del>
+    </mod>
+  </del>
+  <add>monter</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>a</del>
+    </mod>
+  </del>
+  <add>c</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>che</del>
+    </mod>
+  </del>
+  <add>je</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>t</del>
+    </mod>
+  </del>
+  <add>s</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>mes</del>
+    </mod>
+  </del>
+  <add>mettre</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>ser</del>
+    </mod>
+  </del>
+  <add>serais</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>la</del>
+    </mod>
+  </del>
+  <add>ma</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>15h30</del>
+    </mod>
+  </del>
+  <add>16h00</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>20h00</del>
+    </mod>
+  </del>
+  <add>19h45</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>me m'endort m'endore</del>
+    </mod>
+  </del>
+  <add>m'endorre</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>masoner</del>
+    </mod>
+  </del>
+  <add>charpentier</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>s</del>
+    </mod>
+  </del>
+  <add>c</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>je</del>
+    </mod>
+  </del>
+  <add>je</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>la</del>
+    </mod>
+  </del>
+  <add>la</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>entrn</del>
+    </mod>
+  </del>
+  <add>entrene</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>jst</del>
+    </mod>
+  </del>
+  <add>je</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>é</del>
+    </mod>
+  </del>
+  <add>e</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>j</del>
+    </mod>
+  </del>
+  <add>J</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>d</del>
+    </mod>
+  </del>
+  <add>D</add>
+</mod>
+<mod type="subst">
+  <del>
+    <mod type="del">
+      <del>video</del>
+    </mod>
+  </del>
+  <add>video</add>
+</mod>
