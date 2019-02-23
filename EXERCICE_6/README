@@ -1,0 +1,3 @@
+description
+exo6_v1.xsl, xslt version 1.0, peut être parsé par processeur de navigateur (testé sur Firefox distribution Linux)
+exo6_v2.xsl, xslt version 2.0, parsé par Saxon-PE 9.5.1.7(oXygen); processeur de navigateur ne fonctionne ; résultat ---> exo6_v2.html 
