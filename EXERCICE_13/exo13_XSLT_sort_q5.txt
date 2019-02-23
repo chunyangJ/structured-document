@@ -1,0 +1,12 @@
+obj(Gouverneur---->Dépendant)
+    138 V N
+     40 V Cl
+     26 V Qu
+     13 V CS
+     11 V V
+      8 V Pro
+      7 V Adv
+      1 X Qu
+      1 V X
+      1 V Pre
+      1 V I
