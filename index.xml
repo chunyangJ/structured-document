@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+<cours>
+    <info>
+        <titre>Documents Structurés</titre>
+        <filiere url="http://pluriTAL.org">pluriTAL</filiere>
+        <promotion>M1 2017-2018</promotion>
+        <etablissement url="http://www.univ-paris3.fr/">Paris 3</etablissement>
+        <enseignant>Serge Fleury</enseignant>
+        <descCours>Dans le cadre du cours Documents Structurés, dirigé par Serge Fleury, nous avons réalisé ce site web regroupant uniquement
+des fichiers au format XML (accompagnés de feuilles de styles XSLT). Ce site contient la résolution d'exercices XML / XPATH / XSLT / XQUERY. </descCours>
+		  <remarque>Dans ce projet, nous avons utilisé de différents outils, méthodes et recommandations de ces langages, nous permettant d'explorer ces nouvelles "bôites à outils", et d'améliorer la performance de résultats. Cependant, le chargement de 
+ certaines pages est lent à cause de taille de documents et de "complexes" algorithmes. Il faudrait donc patienter quelques instants avant de cliquer tout de suite des boutons. 
+ Bonne visite ! </remarque>
+    </info>
+    <auteurs>
+        <auteur id="aut_1">
+            <nom>XU Yizhou</nom>
+            <mel>cyrano.hsu@gmail.com</mel>
+            <github>https://github.com/cyranohsu/</github>
+            <sitePerso>http://xuyizhou.com/</sitePerso>
+            <etablissement url="http://www.inalco.fr/">Inalco</etablissement>
+        </auteur>
+        <auteur id="aut_2">
+            <nom>JIANG Chunyang</nom>
+            <mel>evo.ginger@gmail.com</mel>
+            <github>https://github.com/evoginger/</github>
+            <sitePerso>http://jiangchunyang.net/</sitePerso>
+            <etablissement url="http://www.inalco.fr/">Inalco</etablissement>
+        </auteur>
+    </auteurs>
+    <exercices>
+        <titre>Travaux XML / XPATH / XSLT / XQUERY</titre>
+        <exercice id="exo_1">
+            <document titre="EXERCICE 1" />
+            <descExo>Structurer l'information (grammaire de document)</descExo>
+        </exercice>
+        <exercice id="exo_2">
+            <document titre="EXERCICE 2" />
+            <descExo>DTD</descExo>
+        </exercice>
+        <exercice id="exo_3">
+            <document titre="EXERCICE 3" />
+            <descExo>TEI</descExo>
+        </exercice>
+        <exercice id="exo_5">
+            <document titre="EXERCICE 5" />
+            <descExo>Exploration d'un fichier TEI</descExo>
+        </exercice>
+        <exercice id="exo_6">
+            <document titre="EXERCICE 6" />
+            <descExo>« Regrouper des éléments »</descExo>
+        </exercice>
+        <exercice id="exo_7">
+            <document titre="EXERCICE 7" />
+            <descExo>Exploration d’une recommandation W3C taggée</descExo>
+        </exercice>
+        <exercice id="exo_12">
+            <document titre="EXERCICE 12" />
+            <descExo>Extraction dans les Fils RSS du Monde</descExo>
+        </exercice>
+        <exercice id="exo_13">
+            <document titre="EXERCICE 13" />
+            <descExo>Patrons morphosyntaxiques / Relations de dépendance sur le Base TrameurFromRhapsodie</descExo>
+        </exercice>
+        <exercice id="exo_14">
+            <document titre="EXERCICE 14" />
+            <descExo>le corpus ECRISCOL</descExo>
+        </exercice>
+    </exercices>
+</cours>
