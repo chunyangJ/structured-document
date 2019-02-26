@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="exo.xsl"?>
+<exercice id="exo_1">
+    <titre>Structurer l'information (grammaire de document)</titre>
+    <question>
+        <consignes>
+            <consigne type="simple">XML permet de structurer une information. Il est donc nécessaire, avant d'envisager d'utiliser ce format, de se familiariser avec cette structuration. Le paragraphe suivant contient de l'information "en vrac". Réorganisez-la de manière à mettre en évidence sa structure logique, sans forcément passer par une mise en forme XML.</consigne>
+            <consigne type="texte">
+                <p>Une bouteille d'eau Cristaline de 150 cl contient par litre 71 mg d'ions positifs calcium, et 5,5 mg d'ions positifs magnésium. On y trouve également des ions négatifs comme des chlorures à 20 mg par litre et des nitrates avec 1 mg par litre. Elle est recueillie à <b>St-Cyr la Source</b>, dans le département du Loiret. Son code barre est 3274080005003 et son pH est de 7,45. Comme la bouteille est sale, quelques autres matériaux comme du fer s'y trouvent en suspension.</p>
+                <p>Une seconde bouteille d'eau Cristaline a été, elle, recueillie à la source d'<b>Aurèle</b> dans les Alpes Maritimes. La concentration en ions calcium est de 98 mg/l, et en ions magnésium de 4 mg/l. Il y a 3,6 mg/l d'ions chlorure et 2 mg/l de nitrates, pour un pH de 7,4. Le code barre de cette bouteille de 50 cl est 3268840001008 .</p>
+                <p>Une bouteille de même contenance est de marque Volvic, et a été puisée à... <b>Volvic</b>, bien connu pour ses sources donnant un pH neutre de 7. Elle comprend 11,5 mg/l d'ions calcium, 8,0 mg/l d'ions magnésium, 13,5 mg/l d'ions chlorures et 6,3 mg/l d'ions nitrates. Elle contient également des particules de silice. Son code barre est 3057640117008 .</p>
+                <p>PS : Volvic est dans le Puy-de-Dôme...</p>
+            </consigne>
+        </consignes>
+        <reponse type="image-code">
+            <image src="exo1.svg">bouteille d'eau</image>
+            <code langage="markup">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;bouteilles&gt;
+	&lt;bouteille classe="eau"&gt;
+		&lt;marque&gt;Cristaline&lt;/marque&gt;
+		&lt;source lieu="Loiret"&gt;St-Cyr la Source&lt;/source&gt;
+		&lt;contenance unite="cl"&gt;150&lt;/contenance&gt;
+		&lt;codebarre&gt;3274080005003&lt;/codebarre&gt;
+		&lt;proprietes&gt;
+			&lt;composition unite="mg/l"&gt;
+				&lt;ion type="positif" concentration="71"&gt;calcium&lt;/ion&gt;
+				&lt;ion type="positif" concentration="5,5"&gt;magnésium&lt;/ion&gt;
+				&lt;ion type="négatif" concentration="20"&gt;chlorure&lt;/ion&gt;
+				&lt;ion type="négatif" concentration="1"&gt;nitrate&lt;/ion&gt;
+				&lt;autre&gt;fer&lt;/autre&gt;
+			&lt;/composition&gt;
+			&lt;pH&gt;7,45&lt;/pH&gt;
+		&lt;/proprietes&gt;
+		&lt;description&gt;sale&lt;/description&gt;
+	&lt;/bouteille&gt;
+	&lt;bouteille classe="eau"&gt;
+		&lt;marque&gt;Cristaline&lt;/marque&gt;
+		&lt;source lieu="Alpes Maritimes"&gt;Aurèle&lt;/source&gt;
+		&lt;contenance unite="cl"&gt;50&lt;/contenance&gt;
+		&lt;codebarre&gt;3268840001008&lt;/codebarre&gt;
+		&lt;proprietes&gt;
+			&lt;composition unite="mg/l"&gt;
+				&lt;ion type="positif" concentration="98"&gt;calcium&lt;/ion&gt;
+				&lt;ion type="positif" concentration="4"&gt;magnésium&lt;/ion&gt;
+				&lt;ion type="négatif" concentration="3,6"&gt;chlorure&lt;/ion&gt;
+				&lt;ion type="négatif" concentration="2"&gt;nitrate&lt;/ion&gt;			
+			&lt;/composition&gt;
+			&lt;pH&gt;7,4&lt;/pH&gt;
+		&lt;/proprietes&gt;
+	&lt;/bouteille&gt;
+ 	&lt;bouteille classe="eau"&gt;
+		&lt;marque&gt;Volvic&lt;/marque&gt;
+		&lt;source lieu="Puy-de-Dôme"&gt;Volvic&lt;/source&gt;
+		&lt;contenance unite="cl"&gt;50&lt;/contenance&gt;
+		&lt;codebarre&gt;3057640117008&lt;/codebarre&gt;
+		&lt;proprietes&gt;
+			&lt;composition unite="mg/l"&gt;
+				&lt;ion type="positif" concentration="11,5"&gt;calcium&lt;/ion&gt;
+				&lt;ion type="positif" concentration="8,0"&gt;magnésium&lt;/ion&gt;
+				&lt;ion type="négatif" concentration="13,5"&gt;chlorure&lt;/ion&gt;
+				&lt;ion type="négatif" concentration="6,3"&gt;nitrate&lt;/ion&gt;			
+				&lt;particule&gt;silice&lt;/particule&gt;
+			&lt;/composition&gt;
+			&lt;pH&gt;7&lt;/pH&gt;
+		&lt;/proprietes&gt;
+	&lt;/bouteille&gt; 
+&lt;/bouteilles&gt;</code>
+        </reponse>
+    </question>
+    <appendice>
+        <fichier src="exo1.xml" type="xml" download="" />
+        <fichier src="exo1.svg" type="svg" download="" />
+        <fichier src="exo1.png" type="png" download="" />
+        <fichier src="exo1.pdf" type="pdf" download="" />
+    </appendice>
+</exercice>
