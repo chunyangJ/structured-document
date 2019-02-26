@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="exo.xsl"?>
+<exercice id="exo_7">
+    <titre>Exploration d’une recommandation W3C taggée</titre>
+    <phase id="ph_1" titre="document et grammaire">
+        <question>
+            <consignes>
+                <consigne type="liste">
+                    <item>Modifier l'entête du document en y insérant vos références personnelles (nom, prénom, email, etc.)</item>
+                    <item>Vérifier la bonne formation du document</item>
+                    <item>Créer la DTD et établir le lien à la DTD</item>
+                    <item>érifier que le document est valide</item>
+                </consigne>
+            </consignes>
+            <reponse type="code-valide">
+                <code langage="markup" type="dtd" src="exo7_DTD.dtd">&lt;!ELEMENT doc (entete?, taggersent+)&gt;
+&lt;!ELEMENT entete (auteur)+&gt;
+&lt;!ELEMENT auteur (nom, prenom, etablissement, contact*)&gt;
+&lt;!ATTLIST auteur
+          id ID #REQUIRED&gt;
+&lt;!ELEMENT nom (#PCDATA)&gt;
+&lt;!ELEMENT prenom (#PCDATA)&gt;
+&lt;!ELEMENT etablissement (#PCDATA)&gt;
+&lt;!ELEMENT contact (#PCDATA)&gt;
+&lt;!ATTLIST contact
+          moyen (email|telephone|mobile|postal) "email"&gt;
+&lt;!ELEMENT taggersent (taggertoken+)&gt;
+&lt;!ELEMENT taggertoken EMPTY&gt;
+&lt;!ATTLIST taggertoken
+          wordform CDATA #REQUIRED
+          lemma CDATA #REQUIRED
+          pos CDATA #REQUIRED&gt;</code>
+                <code langage="markup" type="xml"  src="exo7_DTD.xml">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!DOCTYPE doc SYSTEM "exo7_DTD.dtd"&gt;
+&lt;doc&gt;
+	&lt;entete&gt;
+		&lt;auteur id="A1"&gt;&lt;nom&gt;JIANG&lt;/nom&gt;&lt;prenom&gt;Chunyang&lt;/prenom&gt;&lt;etablissement&gt;INALCO&lt;/etablissement&gt;&lt;contact moyen="email"&gt;evo.ginger[at]gmail.com&lt;/contact&gt;&lt;/auteur&gt;
+		&lt;auteur id="A2"&gt;&lt;nom&gt;XU&lt;/nom&gt;&lt;prenom&gt;Yizhou&lt;/prenom&gt;&lt;etablissement&gt;INALCO&lt;/etablissement&gt;&lt;contact moyen="email"&gt;cyrano.hsu[at]gmail.com&lt;/contact&gt;&lt;/auteur&gt;
+	&lt;/entete&gt;
+	&lt;taggersent&gt;
+		&lt;taggertoken wordform="Ce" lemma="ce" pos="DET:DEM:masc:sg"/&gt;
+		&lt;taggertoken wordform="document" lemma="document" pos="NOM:masc:sg"/&gt;
+		&lt;taggertoken wordform="est" lemma="être" pos="VER:sg"/&gt;
+		&lt;taggertoken wordform="une" lemma="un" pos="DET:femi:sg"/&gt;
+		&lt;taggertoken wordform="traduction" lemma="traduction" pos="NOM:femi:sg"/&gt;
+		&lt;taggertoken wordform="de" lemma="de" pos="PRP"/&gt;
+		&lt;taggertoken wordform="la" lemma="le" pos="DET:femi:sg"/&gt;
+		&lt;taggertoken wordform="recommandation" lemma="recommandation" pos="NOM:femi:sg"/&gt;
+		&lt;taggertoken wordform="XSL" lemma="unknown" pos="NOM:masc:sg"/&gt;
+		&lt;taggertoken wordform="Transformations" lemma="transformation" pos="NOM:femi:pl"/&gt;
+		&lt;taggertoken wordform="(" lemma="(" pos="PUN"/&gt;
+		&lt;taggertoken wordform="XSLT" lemma="unknown" pos="NOM:masc:sg"/&gt;
+		&lt;taggertoken wordform=")" lemma=")" pos="PUN"/&gt;
+		&lt;taggertoken wordform="1.0" lemma="@card@" pos="NUM"/&gt;
+		&lt;taggertoken wordform="du" lemma="du" pos="PRP:DET:masc:sg"/&gt;
+		&lt;taggertoken wordform="W3C" lemma="unknown" pos="NOM:masc:sg"/&gt;
+		&lt;taggertoken wordform="," lemma="," pos="PUN"/&gt;
+		&lt;taggertoken wordform="datée" lemma="dater" pos="VER:pper:femi:sg"/&gt;
+		&lt;taggertoken wordform="du" lemma="du" pos="PRP:DET:masc:sg"/&gt;
+		&lt;taggertoken wordform="16" lemma="@card@" pos="NUM"/&gt;
+		&lt;taggertoken wordform="novembre" lemma="novembre" pos="NOM:masc:sg"/&gt;
+		&lt;taggertoken wordform="1999" lemma="@card@" pos="NUM"/&gt;
+		&lt;taggertoken wordform="." lemma="." pos="PUN"/&gt;
+	&lt;/taggersent&gt;
+	&lt;taggersent&gt;
+		&lt;taggertoken wordform="Cette" lemma="ce" pos="DET:DEM:femi:sg"/&gt;
+		&lt;taggertoken wordform="version" lemma="version" pos="NOM:femi:sg"/&gt;
+		&lt;taggertoken wordform="traduite" lemma="traduire" pos="VER:pper:femi:sg"/&gt;
+		&lt;taggertoken wordform="peut" lemma="pouvoir" pos="VER:sg"/&gt;
+		&lt;taggertoken wordform="contenir" lemma="contenir" pos="VER:infi"/&gt;
+		&lt;taggertoken wordform="des" lemma="du" pos="PRP:DET:femi:pl"/&gt;
+		&lt;taggertoken wordform="erreurs" lemma="erreur" pos="NOM:femi:pl"/&gt;
+		&lt;taggertoken wordform="absentes" lemma="absent" pos="ADJ:femi:pl"/&gt;
+		&lt;taggertoken wordform="de" lemma="de" pos="PRP"/&gt;
+		&lt;taggertoken wordform="l'" lemma="le" pos="DET:masc:sg"/&gt;
+		&lt;taggertoken wordform="original" lemma="original" pos="ADJ:masc:sg"/&gt;
+		&lt;taggertoken wordform="," lemma="," pos="PUN"/&gt;
+		&lt;taggertoken wordform="dues" lemma="devoir" pos="VER:pper:femi:pl"/&gt;
+		&lt;taggertoken wordform="à" lemma="à" pos="PRP"/&gt;
+		&lt;taggertoken wordform="la" lemma="le" pos="DET:femi:sg"/&gt;
+		&lt;taggertoken wordform="traduction" lemma="traduction" pos="NOM:femi:sg"/&gt;
+		&lt;taggertoken wordform="elle" lemma="elle" pos="PRO"/&gt;
+		&lt;taggertoken wordform="-même" lemma="même" pos="ADJ:femi:sg"/&gt;
+		&lt;taggertoken wordform="." lemma="." pos="PUN"/&gt;
+	&lt;/taggersent&gt;
+        ...
+        ...
+		&lt;taggertoken wordform="de" lemma="de" pos="PRP"/&gt;
+		&lt;taggertoken wordform="l'" lemma="le" pos="DET:masc:sg"/&gt;
+		&lt;taggertoken wordform="arbre" lemma="arbre" pos="NOM:masc:sg"/&gt;
+		&lt;taggertoken wordform="résultat" lemma="résultat" pos="NOM:masc:sg"/&gt;
+		&lt;taggertoken wordform="toutes" lemma="tout" pos="PRO"/&gt;
+		&lt;taggertoken wordform="les" lemma="le" pos="DET:femi:pl"/&gt;
+		&lt;taggertoken wordform="opérations" lemma="opération" pos="NOM:femi:pl"/&gt;
+		&lt;taggertoken wordform="qui" lemma="qui" pos="PRO:REL"/&gt;
+		&lt;taggertoken wordform="sont" lemma="être" pos="VER:pl"/&gt;
+		&lt;taggertoken wordform="autorisées" lemma="autoriser" pos="VER:pper:femi:pl"/&gt;
+		&lt;taggertoken wordform="sur" lemma="sur" pos="PRP"/&gt;
+		&lt;taggertoken wordform="les" lemma="le" pos="DET:masc:pl"/&gt;
+		&lt;taggertoken wordform="ensembles" lemma="ensemble" pos="NOM:masc:pl"/&gt;
+		&lt;taggertoken wordform="de" lemma="de" pos="PRP"/&gt;
+		&lt;taggertoken wordform="noeuds" lemma="nud" pos="NOM:masc:pl"/&gt;
+		&lt;taggertoken wordform=";" lemma=";" pos="PUN"/&gt;
+		&lt;taggertoken wordform="un" lemma="un" pos="DET:masc:sg"/&gt;
+		&lt;taggertoken wordform="moyen" lemma="moyen" pos="NOM:masc:sg"/&gt;
+		&lt;taggertoken wordform="pour" lemma="pour" pos="PRP"/&gt;
+		&lt;taggertoken wordform="regrouper" lemma="regrouper" pos="VER:infi"/&gt;
+		&lt;taggertoken wordform="ensemble" lemma="ensemble" pos="ADV"/&gt;
+		&lt;taggertoken wordform="les" lemma="le" pos="DET:masc:pl"/&gt;
+		&lt;taggertoken wordform="noeuds" lemma="nud" pos="NOM:masc:pl"/&gt;
+		&lt;taggertoken wordform="consécutifs" lemma="consécutif" pos="ADJ:masc:pl"/&gt;
+		&lt;taggertoken wordform="ayant" lemma="avoir" pos="VER:ppre"/&gt;
+		&lt;taggertoken wordform="des" lemma="du" pos="PRP:DET:masc:pl"/&gt;
+		&lt;taggertoken wordform="sous-éléments" lemma="sous-élément" pos="NOM:masc:pl"/&gt;
+		&lt;taggertoken wordform="ou" lemma="ou" pos="CON"/&gt;
+		&lt;taggertoken wordform="des" lemma="du" pos="PRP:DET:masc:pl"/&gt;
+		&lt;taggertoken wordform="attributs" lemma="attribut" pos="NOM:masc:pl"/&gt;
+		&lt;taggertoken wordform="dupliqués" lemma="dupliquer" pos="VER:pper:masc:pl"/&gt;
+		&lt;taggertoken wordform=";" lemma=";" pos="PUN"/&gt;
+		&lt;taggertoken wordform="des" lemma="du" pos="PRP:DET:femi:pl"/&gt;
+		&lt;taggertoken wordform="fonctions" lemma="fonction" pos="NOM:femi:pl"/&gt;
+		&lt;taggertoken wordform="pour" lemma="pour" pos="PRP"/&gt;
+		&lt;taggertoken wordform="manipuler" lemma="manipuler" pos="VER:infi"/&gt;
+		&lt;taggertoken wordform="l'" lemma="le" pos="DET:masc:sg"/&gt;
+		&lt;taggertoken wordform="attribut" lemma="attribut" pos="NOM:masc:sg"/&gt;
+		&lt;taggertoken wordform="style" lemma="style" pos="NOM:masc:sg"/&gt;
+		&lt;taggertoken wordform="de" lemma="de" pos="PRP"/&gt;
+		&lt;taggertoken wordform="HTML" lemma="unknown" pos="NOM:masc:sg"/&gt;
+		&lt;taggertoken wordform="plus" lemma="plus" pos="ADV"/&gt;
+		&lt;taggertoken wordform="facilement" lemma="facilement" pos="ADV"/&gt;
+		&lt;taggertoken wordform="." lemma="." pos="PUN"/&gt;
+	&lt;/taggersent&gt;
+&lt;/doc&gt;</code>
+            </reponse>
+        </question>
+    </phase>
+    <phase id="ph_2" titre="définir des requêtes xpath">
+        <question id="xpath_1">
+            <consignes>
+                <consigne type="liste">
+                    <item>Rechercher tous les NOM</item>
+                    <item>Rechercher tous les VERBE</item>
+                    <item>Rechercher tous les NOM précédés d'un DET</item>
+                    <item>Rechercher toutes les séquences NOM ADJ ou ADJ NOM</item>
+                </consigne>
+            </consignes>
+            <reponse type="multiple-query">
+                <query>
+                    <requete>Rechercher tous les NOM (XPath 1.0)</requete>
+                    <solution>
+                        <l>/doc/taggersent/taggertoken[starts-with(@pos,"NOM")]/@wordform</l>
+                    </solution>
+                    <resultat src="exo7_XPath_q1_1.txt" />
+                </query>
+                <query>
+                    <requete>Rechercher tous les NOM (XPath 2.0)</requete>
+                    <solution>
+                        <l>/doc/taggersent/taggertoken[starts-with(@pos,"NOM")]/@wordform/string()</l>
+                    </solution>
+                    <resultat src="exo7_XPath_q1.txt" />
+                </query>
+                <query>
+                    <requete>Rechercher tous les VERBE(XPath 1.0)</requete>
+                    <solution>
+                        <l>/doc/taggersent/taggertoken[starts-with(@pos,"VER")]/@wordform</l>
+                    </solution>
+                    <resultat src="exo7_XPath_q2_1.txt" />
+                </query>
+                <query>
+                    <requete>Rechercher tous les VERBE(XPath 2.0)</requete>
+                    <solution>
+                        <l>/doc/taggersent/taggertoken[starts-with(@pos,"VER")]/@wordform/string()</l>
+                    </solution>
+                <resultat src="exo7_XPath_q2.txt" />
+                </query>
+                <query>
+                    <requete>Rechercher tous les NOM précédés d'un DET(XPath 2.0)</requete>
+                    <solution>
+                        <l>/doc/taggersent/taggertoken[starts-with(@pos,"NOM")][preceding-sibling::taggertoken[1][matches(@pos,"DET")]]/@wordform/string()</l>
+                    </solution>
+                    <resultat src="exo7_XPath_q3.txt" />
+                </query>
+                <query>
+                    <requete>Rechercher toutes les séquences NOM ADJ ou ADJ NOM</requete>
+                    <solution>
+                        <l>/doc/taggersent/taggertoken[starts-with(@pos,"NOM")][following-sibling::taggertoken[1][starts-with(@pos,"ADJ")]]/@wordform | /doc/taggersent/taggertoken[starts-with(@pos,"ADJ")][preceding-sibling::taggertoken[1][starts-with(@pos,"NOM")]]/@wordform |/doc/taggersent/taggertoken[starts-with(@pos,"ADJ")][following-sibling::taggertoken[1][starts-with(@pos,"NOM")]]/@wordform | /doc/taggersent/taggertoken[starts-with(@pos,"NOM")][preceding-sibling::taggertoken[1][starts-with(@pos,"ADJ")]]/@wordform</l>
+                    </solution>
+                    <resultat src="exo7_XPath_q4.txt" />
+                </query>
+            </reponse>
+        </question>                   
+    </phase>
+    <phase id="ph_3" titre="transformation xslt">
+        <question id="xslt_1">
+            <consignes>
+                <consigne type="simple">Définir une feuille de styles minimale pour formater le document XML fourni en HTML.</consigne>
+            </consignes>
+            <reponse type="code-resultat">
+                <code langage="markup">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"&gt;
+  &lt;!-- exo7_XSLT_q1 Définir une feuille de styles minimale pour formater le document XML fourni en HTML--&gt;
+  &lt;xsl:output method="html" encoding="utf-8" indent="yes"/&gt;
+  &lt;xsl:template match="/"&gt;
+    &lt;html&gt;
+      &lt;head&gt;
+        &lt;title&gt;EXO7_XSLT_Q1&lt;/title&gt;
+      &lt;/head&gt;
+      &lt;body&gt;
+        &lt;h1&gt;Recommandation XSLT 1.0&lt;/h1&gt;
+        &lt;xsl:apply-templates select="doc/taggersent"/&gt;
+      &lt;/body&gt;
+    &lt;/html&gt;
+  &lt;/xsl:template&gt;
+
+  &lt;xsl:template match="taggersent"&gt;
+    &lt;p&gt;
+      &lt;xsl:for-each select="taggertoken"&gt;
+        &lt;xsl:value-of select="concat(@wordform,' ')"/&gt;
+      &lt;/xsl:for-each&gt;
+    &lt;/p&gt;
+  &lt;/xsl:template&gt;
+
+&lt;/xsl:stylesheet&gt;</code>
+                <resultat fichier="exo7_XSLT_q1.xml" />
+            </reponse>
+        </question>          
+        <question id="xslt_2">
+            <consignes>
+                <consigne type="simple">Définir une feuille de styles de telle sorte que les déterminants au féminin apparaîtront en rouge et les déterminants masculins en bleu</consigne>
+            </consignes>
+            <reponse type="code-resultat">
+                <code langage="markup">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"&gt;
+  &lt;!-- exo7_XSLT_q2 Définir une feuille de styles de telle sorte que les déterminants au féminin apparaîtront en
+rouge et les déterminants masculins en bleu--&gt;
+  &lt;xsl:output method="html" encoding="UTF-8" doctype-system="about:legacy-compat" indent="yes"/&gt;
+  &lt;xsl:template match="/"&gt;
+    &lt;html&gt;
+      &lt;head&gt;
+        &lt;title&gt;EXO7_XSLT_Q2&lt;/title&gt;
+      &lt;/head&gt;
+      &lt;body&gt;
+        &lt;h1&gt;Recommandation XSLT 1.0&lt;/h1&gt;
+        &lt;xsl:apply-templates select="doc/taggersent"/&gt;
+      &lt;/body&gt;
+    &lt;/html&gt;
+  &lt;/xsl:template&gt;
+  &lt;xsl:template match="taggersent"&gt;
+    &lt;p&gt;
+      &lt;xsl:for-each select="taggertoken"&gt;
+        &lt;xsl:choose&gt;
+          &lt;xsl:when test="starts-with(@pos,'DET:femi')"&gt;
+            &lt;span style="color:red"&gt;
+              &lt;xsl:value-of select="@wordform"/&gt;
+            &lt;/span&gt;
+            &lt;xsl:text&gt; &lt;/xsl:text&gt;
+          &lt;/xsl:when&gt;
+          &lt;xsl:when test="starts-with(@pos,'DET:masc')"&gt;
+            &lt;span style="color:blue"&gt;
+              &lt;xsl:value-of select="@wordform"/&gt;
+            &lt;/span&gt;
+            &lt;xsl:text&gt; &lt;/xsl:text&gt;
+          &lt;/xsl:when&gt;
+          &lt;xsl:otherwise&gt;
+            &lt;xsl:value-of select="concat(@wordform,' ')"/&gt;
+          &lt;/xsl:otherwise&gt;
+        &lt;/xsl:choose&gt;
+      &lt;/xsl:for-each&gt;
+    &lt;/p&gt;
+
+  &lt;/xsl:template&gt;
+&lt;/xsl:stylesheet&gt;</code>
+                <resultat fichier="exo7_XSLT_q2.xml" />
+            </reponse>
+        </question>
+        <question id="xslt_3">
+            <consignes>
+                <consigne type="liste">DDéfinir une feuille de styles de telle sorte :
+                    <item>nom des éléments = catégorie grammaticale</item>
+                    <item>valeur des éléments = forme des tokens</item>
+                </consigne>
+            </consignes>
+            <reponse type="code-resultat-2">
+                <code langage="markup">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0"&gt;
+  &lt;!-- exo7_XSLT_q3 Définir une feuille de styles de telle sorte : 
+    nom des éléments = catégorie grammaticale; 
+    valeur des éléments = forme des tokens--&gt;
+  &lt;xsl:output method="xml" encoding="utf-8" indent="yes"/&gt;
+
+  &lt;xsl:template match="node()|@*"&gt;
+    &lt;xsl:copy&gt;
+      &lt;xsl:apply-templates select="node()|@*"/&gt;
+    &lt;/xsl:copy&gt;
+  &lt;/xsl:template&gt;
+
+  &lt;xsl:template match="taggertoken[@*]"&gt;
+    &lt;xsl:variable name="cat"&gt;
+      &lt;xsl:choose&gt;
+        &lt;xsl:when test="string-length(@pos)=0"&gt;
+          &lt;xsl:text&gt;UNKNOWN&lt;/xsl:text&gt;
+        &lt;/xsl:when&gt;
+        &lt;xsl:when test="string-length(@pos) gt 3"&gt;
+          &lt;xsl:value-of select="substring-before(@pos,':')"/&gt;
+        &lt;/xsl:when&gt;
+        &lt;xsl:otherwise&gt;
+          &lt;xsl:value-of select="@pos"/&gt;
+        &lt;/xsl:otherwise&gt;
+      &lt;/xsl:choose&gt;
+    &lt;/xsl:variable&gt;
+
+    &lt;xsl:variable name="gram"&gt;
+      &lt;xsl:choose&gt;
+        &lt;xsl:when test="string-length(@pos) gt 3"&gt;
+          &lt;xsl:value-of select="substring-after(@pos,':')"/&gt;
+        &lt;/xsl:when&gt;
+        &lt;xsl:otherwise&gt;
+          &lt;xsl:text/&gt;
+        &lt;/xsl:otherwise&gt;
+      &lt;/xsl:choose&gt;
+    &lt;/xsl:variable&gt;
+
+    &lt;xsl:element name="{$cat}"&gt;
+      &lt;xsl:attribute name="gram"&gt;
+        &lt;xsl:value-of select="$gram"/&gt;
+      &lt;/xsl:attribute&gt;
+      &lt;xsl:value-of select="@wordform"/&gt;
+    &lt;/xsl:element&gt;
+
+  &lt;/xsl:template&gt;
+&lt;/xsl:stylesheet&gt;</code>
+                <resultat fichier="exo7_XSLT_q3_result.xml" />
+            </reponse>
+        </question>            
+    </phase>
+    <appendice>
+        <fichier src="exo7_DTD.dtd" type="dtd" />
+        <fichier src="exo7.xpath" type="xpath" />
+        <fichier src="EXERCICE_7_XSLT.zip" type="xslt" />
+    </appendice>
+</exercice>
