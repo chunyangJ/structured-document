@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="exo.xsl"?>
+<exercice id="exo_14">
+    <titre>le corpus ECRISCOL</titre>
+    <partie titre="Requête XPath simple">
+        <question id="q_1">
+            <consignes>
+                <consigne type="simple">Afficher toutes les opérations de suppression par niveaux d'étude</consigne>
+            </consignes>
+            <reponse type="multiple-query">
+                <query>
+                    <requete>Afficher tous les niveaux d'étude</requete>
+                    <solution><l>distinct-values(TEI/text/body/div/head/replace(. , '(EC-)?(.+)-\d{4}.+','$2'))</l></solution>
+                    <resultat src="exo14_XPath_q1_Niveaux.txt" />
+                </query>
+                <query>
+                    <requete>CE1</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "EC-CE1")]/../p//mod[@type="del"]</l></solution>
+                    <resultat src="exo14_XPath_q1_EC-CE1.txt" />
+                </query>
+                <query>
+                    <requete>CE2</requete>
+                    <solution><l>/TEI/text/body/div/head[matches(. , "(EC-)?CE2")]/../p//mod[@type="del"]</l></solution>
+                    <resultat src="exo14_XPath_q1_CE2.txt" />
+                </query>
+                <query>
+                    <requete>CM1</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "CM1")]/../p//mod[@type="del"]</l></solution>
+                    <resultat src="exo14_XPath_q1_CM1.txt" />
+                </query>
+                <query>
+                    <requete>CM2</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "EC-CM2")]/../p//mod[@type="del"]</l></solution>
+                    <resultat src="exo14_XPath_q1_EC-CM2.txt" />
+                </query> 
+                <query>
+                    <requete>6EME</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "EC-6EME")]/../p//mod[@type="del"]</l></solution>
+                    <resultat src="exo14_XPath_q1_EC-6EME.txt" />
+                </query>
+                <query>
+                    <requete>3EME</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "CO-3")]/../p//mod[@type="del"]</l></solution>
+                    <resultat src="exo14_XPath_q1_CO3.txt" />
+                </query>
+                <query>
+                    <requete>2ND</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "LY-2")]/../p//mod[@type="del"]</l></solution>
+                    <resultat src="exo14_XPath_q1_LY2.txt" />
+                </query>
+            </reponse>
+        </question>
+        <question id="q_2">
+            <consignes>
+                <consigne type="simple">Afficher toutes les opérations d'insertion par niveaux d'étude</consigne>
+            </consignes>
+            <reponse type="multiple-query">
+                 <query>
+                    <requete>CE1</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "EC-CE1")]/../p//mod[@type="add"]</l></solution>
+                    <resultat src="exo14_XPath_q2_EC-CE1.txt"  />
+                </query>
+                <query>
+                    <requete>CE2</requete>
+                    <solution><l>/TEI/text/body/div/head[matches(. , "(EC-)?CE2")]/../p//mod[@type="add"]</l></solution>
+                    <resultat src="exo14_XPath_q2_CE2.txt" />
+                </query>
+                <query>
+                    <requete>CM1</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "CM1")]/../p//mod[@type="add"]</l></solution>
+                    <resultat src="exo14_XPath_q2_CM1.txt" />
+                </query>
+                <query>
+                    <requete>CM2</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "EC-CM2")]/../p//mod[@type="add"]</l></solution>
+                    <resultat src="exo14_XPath_q2_EC-CM2.txt" />
+                </query> 
+                <query>
+                    <requete>6EME</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "EC-6EME")]/../p//mod[@type="add"]</l></solution>
+                    <resultat src="exo14_XPath_q2_EC-6EME.txt" />
+                </query>
+                <query>
+                    <requete>3EME</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "CO-3")]/../p//mod[@type="add"]</l></solution>
+                    <resultat src="exo14_XPath_q2_CO3.txt" />
+                </query>
+                <query>
+                    <requete>2ND</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "LY-2")]/../p//mod[@type="add"]</l></solution>
+                    <resultat src="exo14_XPath_q2_LY2.txt" />
+                </query>
+            </reponse>
+        </question>
+        <question id="q_3">
+            <consignes>
+                <consigne type="simple">Afficher toutes les opérations de remplacement par niveaux d'étude</consigne>
+            </consignes>
+            <reponse type="multiple-query">
+                 <query>
+                    <requete>CE1</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "EC-CE1")]/../p//mod[@type="subst"]</l></solution>
+                    <resultat src="exo14_XPath_q3_EC-CE1.txt"  />
+                </query>
+                <query>
+                    <requete>CE2</requete>
+                    <solution><l>/TEI/text/body/div/head[matches(. , "(EC-)?CE2")]/../p//mod[@type="subst"]</l></solution>
+                    <resultat src="exo14_XPath_q3_CE2.txt" />
+                </query>
+                <query>
+                    <requete>CM1</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "CM1")]/../p//mod[@type="subst"]</l></solution>
+                    <resultat src="exo14_XPath_q3_CM1.txt" />
+                </query>
+                <query>
+                    <requete>CM2</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "EC-CM2")]/../p//mod[@type="subst"]</l></solution>
+                    <resultat src="exo14_XPath_q3_EC-CM2.txt" />
+                </query> 
+                <query>
+                    <requete>6EME</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "EC-6EME")]/../p//mod[@type="subst"]</l></solution>
+                    <resultat src="exo14_XPath_q3_EC-6EME.txt" />
+                </query>
+                <query>
+                    <requete>3EME</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "CO-3")]/../p//mod[@type="subst"]</l></solution>
+                    <resultat src="exo14_XPath_q3_CO3.txt" />
+                </query>
+                <query>
+                    <requete>2ND</requete>
+                    <solution><l>/TEI/text/body/div/head[starts-with(. , "LY-2")]/../p//mod[@type="subst"]</l></solution>
+                    <resultat src="exo14_XPath_q3_LY2.txt" />
+                </query>
+            </reponse>
+        </question>
+    </partie>
+    <partie titre="Requête XQuery">
+        <question id="q_1">
+            <consignes>
+                <consigne type="liste">
+                    Compter le nombre de copies par niveaux d'étude
+                    <item>On pourra commencer par compter le nombre de copies globalement</item>
+                </consigne>
+            </consignes>
+            <reponse type="multiple-query">
+                <query>
+                    <requete>Nombre de copies globalement</requete>
+                    <solution>
+                        <l>(:exo14_XQuery_q1_0 Compter le nombre de copies globalement:)</l>
+                        <l>let $nb:=count(collection("ECRITSCOL"))</l>
+                        <l>return concat("Le nombre de copies dans la base ECRISCOL : ",$nb)</l>
+                    </solution>
+                    <resultat src="exo14_XQuery_q1_0.txt" />
+                </query>
+                <query>
+                    <requete>Nombre de copies par niveaux d'étude</requete>
+                    <solution>
+                        <l>(:exo14_XQuery_q1_1 Compter le nombre de copies par niveaux d'étude:)</l>
+                        <l>declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";</l>
+                        <l>declare option output:omit-xml-declaration "no";</l>
+                        <l>&lt;statECRISCOL type="nombre" critere="niveau d'étude" nombre="{count(collection("ECRITSCOL"))}"&gt;</l>
+                        <l>{</l> 
+                        <l>let $div :=collection("ECRITSCOL")//TEI/text/body/div</l> 
+                        <l>for $niveau in distinct-values($div/head/replace(. , '(EC-)?(.+)-\d{4}.+','$2'))</l>
+                        <l>return </l>
+                        <l>&lt;niveau nombre="{count($div/head[matches(., $niveau)])}"&gt;{$niveau}&lt;/niveau&gt;</l>
+                        <l>}</l>
+                        <l>&lt;/statECRISCOL&gt;</l>
+                    </solution>
+                    <resultat src="exo14_XQuery_q1_1.xml" />
+                </query>
+            </reponse>
+        </question>
+        <question id="q_2">
+            <consignes>
+                <consigne type="liste">
+                    Compter le nombre d'opérations de réécriture par type et par niveaux d'étude
+                    <item>On pourra commencer par compter le nombre d'opérations de réécriture par copie</item>
+                </consigne>
+            </consignes>
+            <reponse type="multiple-query">
+                <query>
+                    <requete>Nombre d'opérations de réécriture par copie</requete>
+                    <solution>
+                        <l>(:exo14_XQuery_q2_0 Compter le nombre d’opérations de réécriture par copie:)</l>
+                        <l>declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";</l>
+                        <l>declare option output:omit-xml-declaration "no";</l>
+                        <l>&lt;statECRISCOL type="nombre" critere="type d'opération" unit="copie"&gt;</l>
+                        <l>{</l> 
+                        <l>let $div :=collection("ECRITSCOL")//TEI/text/body/div</l> 
+                        <l>for $doc at $pos in $div</l>
+                        <l>return </l>
+                        <l>&lt;copie id="{$pos}" nom="{$doc/head}"&gt;</l>
+                        <l>&lt;remplacement&gt;{count($doc//mod[@type="subst"])}&lt;/remplacement&gt;</l>
+                        <l>&lt;insertion&gt;{count($doc//mod[@type="add"])}&lt;/insertion&gt;</l>
+                        <l>&lt;suppression&gt;{count($doc//mod[@type="del"])}&lt;/suppression&gt;</l>
+                        <l>&lt;correction&gt;{count($doc//mod[@type="corr"])}&lt;/correction&gt;</l>
+                        <l>&lt;/copie&gt;</l>
+                        <l>}</l>
+                        <l>&lt;/statECRISCOL&gt;</l>
+                    </solution>
+                    <resultat src="exo14_XQuery_q2_0.xml" />
+                </query>
+                <query>
+                    <requete>Nombre d'opérations de réécriture par type et par niveaux d'étude</requete>
+                    <solution>
+                        <l>declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";</l>
+                        <l>declare option output:omit-xml-declaration "no";</l>
+                        <l>&lt;statECRISCOL type="nombre" critere="type d'opération" unit="niveau"&gt;</l>
+                        <l>{</l>
+                        <l>let $div := collection("ECRITSCOL")//TEI/text/body/div</l>
+                        <l>for $niveau in distinct-values($div/head/replace(. , '(EC-)?(.+)-\d{4}.+','$2'))</l>
+                        <l>let $doc := $div/head[matches(.,$niveau)]/..</l>
+                        <l>where true()</l>
+                        <l>return</l>
+                        <l>    &lt;niveau nom="{$niveau}"&gt;</l>
+                        <l>       &lt;remplacement&gt;{count($doc/p//mod[@type="subst"])}&lt;/remplacement&gt;</l>
+                        <l>       &lt;insertion&gt;{count($doc/p//mod[@type="add"])}&lt;/insertion&gt;</l>
+                        <l>       &lt;suppression&gt;{count($doc/p//mod[@type="del"])}&lt;/suppression&gt;</l>
+                        <l>       &lt;correction&gt;{count($doc/p//mod[@type="corr"])}&lt;/correction&gt;</l>
+                        <l> &lt;/niveau&gt;</l>
+                        <l>}</l>
+                        <l>&lt;/statECRISCOL&gt;</l>
+                    </solution>
+                    <resultat src="exo14_XQuery_q2_1.xml" />
+                </query>
+            </reponse>
+        </question>
+    </partie>
+    <appendice>
+        <fichier src="EXERCICE_14_XPATH.zip" type="xpath" />
+        <fichier src="EXERCICE_14_XQUERY.zip" type="xquery" />
+    </appendice>
+</exercice>

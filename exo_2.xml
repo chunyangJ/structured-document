@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="exo.xsl"?>
+<exercice id="exo_2">
+    <titre>DTD</titre>
+    <phase id="ph_1">
+        <question>
+            <consignes>
+                <consigne type="liste">
+                    Rédiger une DTD pour une bibliographie. Cette bibliographie :
+                    <item>contient des livres et des articles ;</item>
+                </consigne>
+                <consigne type="liste">
+                    Les informations nécessaires pour un livre sont :
+                    <item>son titre général ;</item>
+                    <item>les noms des auteurs ;</item>
+                    <item>ses tomes et pour chaque tome, leur nombre de pages ;</item>
+                    <item>des informations générales sur son édition comme par exemple le nom de l'éditeur, le lieu d'édition, le lieu d'impression, son numéro ISBN ;</item>
+                </consigne>
+                <consigne type="liste">
+                    Les informations nécessaires pour un article sont :
+                    <item>son titre ;</item>
+                    <item>les noms des auteurs ;</item>
+                    <item>ses références de publication : nom du journal, numéro des pages, année de publication et numéro du journal</item>
+                    <item>on réservera aussi un champ optionnel pour un avis personnel.</item>
+                </consigne>
+                <consigne type="simple">Tester cette DTD avec un fichier XML que l'on écrira ex-nihilo et validera.</consigne>
+            </consignes>
+            <reponse type="code-valide">
+                <code langage="markup" type="dtd"  src="exo2_DTD_ph1.dtd">&lt;!ELEMENT bibliographie (livre|article)+&gt;
+&lt;!ELEMENT livre (titre,auteur+,tome?,info_edition)&gt;
+&lt;!ELEMENT titre (#PCDATA)&gt;
+&lt;!ELEMENT auteur (nom)+&gt;
+&lt;!ELEMENT nom (nom_famille, prenom+) &gt;
+&lt;!ELEMENT nom_famille (#PCDATA)&gt;
+&lt;!ELEMENT prenom (#PCDATA)&gt;
+&lt;!ELEMENT tome (nb_pages)&gt;
+&lt;!ELEMENT nb_pages (#PCDATA)&gt;
+&lt;!ELEMENT info_edition (editeur, lieu_edition, lieu_impression, ISBN)&gt;
+&lt;!ELEMENT editeur (#PCDATA)&gt;
+&lt;!ELEMENT lieu_edition (#PCDATA)&gt;
+&lt;!ELEMENT lieu_impression (#PCDATA)&gt;
+&lt;!ELEMENT ISBN (#PCDATA)&gt;
+&lt;!ELEMENT article (titre, auteur+, ref_publication, avis_perso?)&gt;
+&lt;!ELEMENT ref_publication (nom_journal, numero_pages, annee, numero_journal)&gt;
+&lt;!ELEMENT nom_journal (#PCDATA)&gt;
+&lt;!ELEMENT numero_pages (#PCDATA)&gt;
+&lt;!ELEMENT annee (#PCDATA)&gt;
+&lt;!ELEMENT numero_journal (#PCDATA)&gt;
+&lt;!ELEMENT avis_perso (#PCDATA)&gt;</code>
+                <code langage="markup" type="xml" src="exo2_DTD_ph1.xml">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!DOCTYPE bibliographie SYSTEM "exo2_DTD_ph1.dtd"&gt;
+&lt;!-- exo2_DTD_phase1--&gt;
+&lt;bibliographie&gt;
+    &lt;livre&gt;
+        &lt;titre&gt;La Vie devant soi&lt;/titre&gt;
+        &lt;auteur&gt;
+            &lt;nom&gt;
+                &lt;nom_famille&gt;Gary&lt;/nom_famille&gt;
+                &lt;prenom&gt;Romain&lt;/prenom&gt;
+            &lt;/nom&gt;
+            &lt;nom&gt;
+                &lt;nom_famille&gt;Ajar&lt;/nom_famille&gt;
+                &lt;prenom&gt;Emile&lt;/prenom&gt;
+            &lt;/nom&gt;
+        &lt;/auteur&gt;
+        &lt;info_edition&gt;
+            &lt;editeur&gt;Gallimard&lt;/editeur&gt;
+            &lt;lieu_edition&gt;Paris&lt;/lieu_edition&gt;
+            &lt;lieu_impression&gt;Barcelone&lt;/lieu_impression&gt;
+            &lt;ISBN&gt;978-2070373628&lt;/ISBN&gt;
+        &lt;/info_edition&gt;
+    &lt;/livre&gt;
+    &lt;article&gt;
+        &lt;titre&gt;A maximum entropy approach to natural language processing&lt;/titre&gt;
+        &lt;auteur&gt;
+            &lt;nom&gt;
+                &lt;nom_famille&gt;Berger&lt;/nom_famille&gt;
+                &lt;prenom&gt;Adam&lt;/prenom&gt;
+                &lt;prenom&gt;L&lt;/prenom&gt;
+            &lt;/nom&gt;
+        &lt;/auteur&gt;
+        &lt;auteur&gt;
+            &lt;nom&gt;
+                &lt;nom_famille&gt; Della Pietra&lt;/nom_famille&gt;
+                &lt;prenom&gt;Vincent&lt;/prenom&gt;
+                &lt;prenom&gt;J&lt;/prenom&gt;
+            &lt;/nom&gt;
+        &lt;/auteur&gt;
+        &lt;auteur&gt;
+            &lt;nom&gt;
+                &lt;nom_famille&gt; Della Pietra&lt;/nom_famille&gt;
+                &lt;prenom&gt;Stephen&lt;/prenom&gt;
+                &lt;prenom&gt;A&lt;/prenom&gt;
+            &lt;/nom&gt;
+        &lt;/auteur&gt;
+        &lt;ref_publication&gt;
+            &lt;nom_journal&gt;Computational linguistics&lt;/nom_journal&gt;
+            &lt;numero_pages&gt;39-71&lt;/numero_pages&gt;
+            &lt;annee&gt;1996&lt;/annee&gt;
+            &lt;numero_journal&gt;1&lt;/numero_journal&gt;
+        &lt;/ref_publication&gt;
+        &lt;avis_perso&gt;A must read paper on applying maxent technique to Natural Language
+            Processing.&lt;/avis_perso&gt;
+    &lt;/article&gt;
+&lt;/bibliographie&gt;</code>
+            </reponse>
+        </question>
+    </phase>
+    <phase id="ph_2">
+        <question>
+            <consignes>
+                <consigne type="liste">
+                    Modifier la DTD précédente...
+                    <item>en ajoutant un attribut optionnel soustitre à l'élément titre ;</item>
+                    <item>en faisant de l'élément tome un élément vide et en lui ajoutant un attribut requis nb_pages et un attribut optionnel soustitre ;</item>
+                    <item>en faisant de l'élément nom_journal un attribut de l'élément journal et en lui donnant comme valeur par défaut Feuille de Chou ;</item>
+                    <item>en faisant de l'élément annee un attribut de type énuméré, prenant comme valeurs possibles 2000, 2001, 2002, "avant_2000" et "inconnue" et proposant comme valeur par défaut inconnue.</item>
+                </consigne>
+                <consigne type="simple">Utiliser cette DTD pour créer un fichier XML valide.</consigne>
+            </consignes>
+            <reponse type="code-valide">
+                <code langage="markup" type="dtd" src="exo2_DTD_ph2.dtd">&lt;!ELEMENT bibliographie (livre|article)+&gt;
+&lt;!ELEMENT livre (titre,auteur+,tome?,info_edition)&gt;
+&lt;!ELEMENT titre (#PCDATA)&gt;
+&lt;!ELEMENT auteur (nom)+&gt;
+&lt;!ELEMENT nom (nom_famille, prenom+) &gt;
+&lt;!ELEMENT nom_famille (#PCDATA)&gt;
+&lt;!ELEMENT prenom (#PCDATA)&gt;
+&lt;!ELEMENT tome EMPTY&gt;
+&lt;!ELEMENT info_edition (editeur, lieu_edition, lieu_impression, ISBN)&gt;
+&lt;!ELEMENT editeur (#PCDATA)&gt;
+&lt;!ELEMENT lieu_edition (#PCDATA)&gt;
+&lt;!ELEMENT lieu_impression (#PCDATA)&gt;
+&lt;!ELEMENT ISBN (#PCDATA)&gt;
+
+&lt;!ELEMENT article (titre, auteur+, ref_publication, avis_perso?)&gt;
+&lt;!ELEMENT ref_publication (journal, numero_pages, numero_journal)&gt;
+&lt;!ELEMENT journal (#PCDATA)&gt;
+&lt;!ELEMENT numero_pages (#PCDATA)&gt;
+&lt;!ELEMENT numero_journal (#PCDATA)&gt;
+&lt;!ELEMENT avis_perso (#PCDATA)&gt;
+&lt;!ATTLIST titre soustitre CDATA #IMPLIED&gt;
+&lt;!ATTLIST tome nb_pages CDATA #REQUIRED 
+               soustitre CDATA #IMPLIED&gt;
+&lt;!ATTLIST titre soustitre CDATA #IMPLIED&gt;
+&lt;!ATTLIST journal nom_journal CDATA "Feuille de Chou"
+                  annee (2000|2001|2002|avant_2000|inconnue) "inconnue" &gt;</code>
+                <code langage="markup" type="xml"  src="exo2_DTD_ph2.xml">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!DOCTYPE bibliographie SYSTEM "exo2_DTD_ph2.dtd"&gt;
+&lt;!--exo2_DTD_phase2--&gt;
+&lt;bibliographie&gt;
+    &lt;livre&gt;
+        &lt;titre&gt;Mémoires d’outre-tombe&lt;/titre&gt;
+        &lt;auteur&gt;
+            &lt;nom&gt;
+                &lt;nom_famille&gt;de Chateaubriand&lt;/nom_famille&gt;
+                &lt;prenom&gt;François-René&lt;/prenom&gt;
+            &lt;/nom&gt;
+
+        &lt;/auteur&gt;
+        &lt;tome nb_pages="800" soustitre="Tome I"/&gt;
+        &lt;info_edition&gt;
+            &lt;editeur&gt;Le Livre de Poche&lt;/editeur&gt;
+            &lt;lieu_edition&gt;Paris&lt;/lieu_edition&gt;
+            &lt;lieu_impression&gt;Sant Andreu de la Barca&lt;/lieu_impression&gt;
+            &lt;ISBN&gt;978-2253160793&lt;/ISBN&gt;
+        &lt;/info_edition&gt;
+    &lt;/livre&gt;
+    &lt;article&gt;
+        &lt;titre&gt;Automatic labeling of semantic roles&lt;/titre&gt;
+        &lt;auteur&gt;
+            &lt;nom&gt;
+                &lt;nom_famille&gt;Gildea&lt;/nom_famille&gt;
+                &lt;prenom&gt;Daniel&lt;/prenom&gt;
+            &lt;/nom&gt;
+        &lt;/auteur&gt;
+        &lt;auteur&gt;
+            &lt;nom&gt;
+                &lt;nom_famille&gt;Jurafsky&lt;/nom_famille&gt;
+                &lt;prenom&gt;Daniel&lt;/prenom&gt;
+            &lt;/nom&gt;
+        &lt;/auteur&gt;
+        &lt;ref_publication&gt;
+            &lt;journal nom_journal="Computational linguistics" annee="2002"/&gt;
+            &lt;numero_pages&gt;245-288&lt;/numero_pages&gt;
+            &lt;numero_journal&gt;3&lt;/numero_journal&gt;
+        &lt;/ref_publication&gt;
+    &lt;/article&gt;
+&lt;/bibliographie&gt;</code>
+            </reponse>
+        </question>
+    </phase>
+    <appendice>
+        <fichier src="EXERCICE_2_PHASE_1.zip" type="fichiers de phase 1" />
+        <fichier src="EXERCICE_2_PHASE_2.zip" type="fichiers de phase 2" />
+    </appendice>
+</exercice>

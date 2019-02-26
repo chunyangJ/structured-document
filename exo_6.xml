@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="exo.xsl"?>
+<exercice id="exo_6">
+    <titre>« Regrouper des éléments »</titre>
+    <question>
+        <consignes>
+            <consigne type="simple">Le fichier à traiter provient du corpus <b>Prématurés00</b> : les infirmières (triées par ancienneté).<br />On veut désormais factoriser les informations sur les infirmières relevant d'une même classe d'ancienneté.<br />On utilise alors la possibilité avec XSLT d'examiner les frères aînés d'un nœud donné (de la même manière qu'on peut examiner les ascendants, les descendants).</consigne>
+            <consigne type="code" langage="markup">
+&lt;?xml version="1.0" encoding="iso-8859-1"?&gt;
+&lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+&lt;xsl:output method="html" encoding="iso-8859-1"/&gt;
+&lt;xsl:template match="/table"&gt;
+  &lt;html&gt;
+  &lt;body&gt;
+  &lt;h1 align="center"&gt;Infirmières&lt;/h1&gt;
+  &lt;xsl:for-each select="ligne"&gt;
+    &lt;xsl:if test="not(preceding-sibling::ligne/classe_anciennete=./classe_anciennete)"&gt;
+      &lt;h2&gt;&lt;xsl:value-of select="./classe_anciennete"/&gt;&lt;/h2&gt;
+    &lt;/xsl:if&gt;
+  &lt;/xsl:for-each&gt;
+  &lt;/body&gt;
+  &lt;/html&gt;
+&lt;/xsl:template&gt;
+&lt;/xsl:stylesheet&gt;
+            </consigne>
+            <consigne type="simple">Le résultat est le suivant :</consigne>
+            <consigne type="code" langage="markup">
+&lt;html&gt;&lt;body&gt;
+&lt;h1 align="center"&gt;Infirmières&lt;/h1&gt;
+&lt;h2&gt;entre 1 et 5 ans&lt;/h2&gt;
+&lt;h2&gt;moins de 1 an&lt;/h2&gt;
+&lt;h2&gt;plus de 5 ans&lt;/h2&gt;
+&lt;/body&gt;&lt;/html&gt;
+            </consigne>            
+        </consignes>
+        <reponse type="code-resultat">
+            <note>xslt version 1.0, peut être parsé par processeur de navigateur (testé sur Firefox distribution Linux)</note>
+            <code langage="markup">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+  &lt;!--solution 1 xslt version 1.0--&gt;
+  &lt;xsl:output method="html" encoding="utf-8" indent="yes"/&gt;
+  &lt;xsl:template match="/table"&gt;
+    &lt;html&gt;
+      &lt;head&gt;
+        &lt;meta name="viewport" content="widtd=device-widtd, initial-scale=1"/&gt;
+        &lt;link rel="stylesheet" href="exo.css"/&gt;
+        &lt;title&gt;EXO6_XSLT_SOLUTION_VERSION1.0&lt;/title&gt;
+      &lt;/head&gt;
+      &lt;body&gt;
+        &lt;h1 align="center"&gt;Infirmières&lt;/h1&gt;
+        &lt;div class="table-wrapper" style="margin-left:auto; margin-right:auto;width:70%"&gt;
+          &lt;table class="alt"&gt;
+            &lt;tbody&gt;
+              &lt;tr class="forme" style="text-align:center"&gt;
+                &lt;td&gt;Numéro&lt;/td&gt;
+                &lt;td&gt;Âge&lt;/td&gt;
+                &lt;td&gt;Années d'études&lt;/td&gt;
+                &lt;td&gt;Diplôme&lt;/td&gt;
+                &lt;td&gt;Ancienneté&lt;/td&gt;
+                &lt;td&gt;Service&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;xsl:for-each select="ligne"&gt;
+                &lt;xsl:if test="not(preceding-sibling::ligne/classe_anciennete=./classe_anciennete)"&gt;
+                  &lt;tr style="text-align:center"&gt;
+                    &lt;td colspan="6"&gt;
+                      &lt;h2&gt;
+                        &lt;xsl:value-of select="./classe_anciennete"/&gt;
+                      &lt;/h2&gt;
+                    &lt;/td&gt;
+                  &lt;/tr&gt;
+                &lt;/xsl:if&gt;
+                &lt;tr style="text-align:center"&gt;
+                  &lt;td&gt;
+                    &lt;xsl:value-of select="infirmiere"/&gt;
+                  &lt;/td&gt;
+                  &lt;td&gt;
+                    &lt;xsl:value-of select="age"/&gt;
+                  &lt;/td&gt;
+                  &lt;td&gt;
+                    &lt;xsl:value-of select="annees_etudes"/&gt;
+                  &lt;/td&gt;
+                  &lt;td&gt;
+                    &lt;xsl:value-of select="diplome"/&gt;
+                  &lt;/td&gt;
+                  &lt;td&gt;
+                    &lt;xsl:value-of select="anciennete_neonatalite"/&gt;
+                  &lt;/td&gt;
+                  &lt;td&gt;
+                    &lt;xsl:value-of select="service"/&gt;
+                  &lt;/td&gt;
+                &lt;/tr&gt;
+              &lt;/xsl:for-each&gt;
+            &lt;/tbody&gt;
+          &lt;/table&gt;
+        &lt;/div&gt;
+      &lt;/body&gt;
+    &lt;/html&gt;
+  &lt;/xsl:template&gt;
+&lt;/xsl:stylesheet&gt;</code>
+            <resultat fichier="exo6_v1.xml" />
+        </reponse>
+        <reponse type="code-resultat">
+            <note>xslt version 2.0, parsé par Saxon-PE 9.5.1.7(oXygen); processeur de navigateur ne fonctionne ; résultat ---> exo6_v2.html</note>
+            <code langage="markup">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+  &lt;!--Oxygen Saxon-PE 9.5.1.7 --&gt;
+  &lt;!--solution 2 : xslt version 2.0, fonction for-each-group(), processeur de navigateur ne fonctionne--&gt;
+  &lt;xsl:output method="html" encoding="utf-8" indent="yes"/&gt;
+  &lt;xsl:template match="/"&gt;
+    &lt;html&gt;
+      &lt;head&gt;
+        &lt;meta name="viewport" content="widtd=device-widtd, initial-scale=1"/&gt;
+        &lt;link rel="stylesheet" href="exo.css"/&gt;
+        &lt;title&gt;EXO6_XSLT_SOLUTION_VERSION2.0&lt;/title&gt;
+      &lt;/head&gt;
+      &lt;body&gt;
+        &lt;h1 align="center"&gt;Infirmières&lt;/h1&gt;
+        &lt;div class="table-wrapper" style="margin-left:auto; margin-right:auto;width:70%"&gt;
+          &lt;table class="alt"&gt;
+            &lt;tbody&gt;
+              &lt;tr class="forme" style="text-align:center"&gt;
+                &lt;td&gt;Numéro&lt;/td&gt;
+                &lt;td&gt;Âge&lt;/td&gt;
+                &lt;td&gt;Années d'études&lt;/td&gt;
+                &lt;td&gt;Diplôme&lt;/td&gt;
+                &lt;td&gt;Ancienneté&lt;/td&gt;
+                &lt;td&gt;Service&lt;/td&gt;
+              &lt;/tr&gt;
+              &lt;xsl:apply-templates/&gt;
+            &lt;/tbody&gt;
+          &lt;/table&gt;
+        &lt;/div&gt;
+      &lt;/body&gt;
+    &lt;/html&gt;
+  &lt;/xsl:template&gt;
+
+  &lt;xsl:template match="table"&gt;
+    &lt;xsl:for-each-group select="ligne" group-by="classe_anciennete"&gt;
+      &lt;tr style="text-align:center"&gt;
+        &lt;td colspan="6"&gt;
+          &lt;h2&gt;
+            &lt;xsl:value-of select="current-grouping-key()"/&gt;
+          &lt;/h2&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;xsl:for-each select="current-group()"&gt;
+        &lt;tr style="text-align:center"&gt;
+          &lt;td&gt;
+            &lt;xsl:value-of select="infirmiere"/&gt;
+          &lt;/td&gt;
+          &lt;td&gt;
+            &lt;xsl:value-of select="age"/&gt;
+          &lt;/td&gt;
+          &lt;td&gt;
+            &lt;xsl:value-of select="annees_etudes"/&gt;
+          &lt;/td&gt;
+          &lt;td&gt;
+            &lt;xsl:value-of select="diplome"/&gt;
+          &lt;/td&gt;
+          &lt;td&gt;
+            &lt;xsl:value-of select="anciennete_neonatalite"/&gt;
+          &lt;/td&gt;
+          &lt;td&gt;
+            &lt;xsl:value-of select="service"/&gt;
+          &lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/xsl:for-each&gt;
+    &lt;/xsl:for-each-group&gt;
+  &lt;/xsl:template&gt;
+
+&lt;/xsl:stylesheet&gt;</code>
+            <resultat fichier="exo6_v2.html" />
+        </reponse>
+    </question>
+    <appendice>
+        <fichier src="Prema00.zip" type="fichier de travail" download="" />
+        <fichier src="exo6_v1.xsl" type="version1.0" download="" />
+        <fichier src="exo6_v2.xsl" type="version2.0" download="" />
+    </appendice>
+</exercice>
