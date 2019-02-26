@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="exo.xsl"?>
+<exercice id="exo_13">
+    <titre>Patrons morphosyntaxiques / Relations de dépendance sur le Base TrameurFromRhapsodie</titre>
+    <partie titre="XSLT">
+        <question id="xslt_1">
+            <consignes>
+                <consigne type="simple">Construire une feuille de styles pour afficher uniquement le texte (sortie TXT)</consigne>
+            </consignes>
+            <reponse type="code-resultat">
+            <note><b>base de travail</b> : l'echantillon.<br/>la taille importante de la base originale provoque d'erreurs de tas de java pour oXygen)
+            </note>
+	            <code langage="markup">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!-- Oxygen, Saxon-PE 9.5.1.7--&gt;
+&lt;!--exo13_XSLT_q1.xsl Construire une feuille de styles pour afficher uniquement le texte (sortie TXT)--&gt;
+&lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"&gt;
+  &lt;xsl:output method="text" encoding="utf-8"/&gt;
+  &lt;xsl:template match="/"&gt;
+    &lt;xsl:apply-templates select="baselexicometrique/trame/items/item"/&gt;
+  &lt;/xsl:template&gt;
+  &lt;xsl:template match="item"&gt;
+    &lt;xsl:choose&gt;
+      &lt;xsl:when test="c='RETURN'"&gt;
+        &lt;xsl:text&gt;
+&lt;/xsl:text&gt;
+      &lt;/xsl:when&gt;
+      &lt;xsl:when test="f='£' or f='#'"&gt;
+      &lt;/xsl:when&gt;
+      &lt;xsl:when test="preceding-sibling::f[1]='£' or preceding-sibling::f[1]='#'"&gt;
+      &lt;/xsl:when&gt;
+      &lt;xsl:otherwise&gt;
+        &lt;xsl:value-of select="f"/&gt;
+      &lt;/xsl:otherwise&gt;
+    &lt;/xsl:choose&gt;
+  &lt;/xsl:template&gt;
+&lt;/xsl:stylesheet</code>
+		         <resultat fichier="exo13_XSLT_q1.xml"/>   
+            </reponse>
+        </question>
+        <question id="xslt_2">
+            <consignes>
+                <consigne type="simple">Construire une feuille de styles pour afficher (au format HTML) le texte en insérant sur chaque item sa POS</consigne>
+            </consignes>
+            <reponse type="code-resultat">
+	            <code langage="markup">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+  &lt;!-- Oxygen, Saxon-PE 9.5.1.7--&gt;
+  &lt;!--exo13_XSLT_q2.xsl Construire une feuille de styles pour afficher (au format HTML) le texte en insérant sur
+chaque item sa POS--&gt;
+  &lt;xsl:output method="html" encoding="UTF-8" doctype-system="about:legacy-compat" indent="yes"/&gt;
+  &lt;xsl:template match="/"&gt;
+    &lt;html&gt;
+      &lt;head&gt;
+        &lt;meta name="viewport" content="width=device-width, initial-scale=1"/&gt;
+        &lt;link rel="stylesheet" href="exo.css"/&gt;
+        &lt;title&gt;EXO13-XSLT-Q2&lt;/title&gt;
+      &lt;/head&gt;
+      &lt;body&gt;
+        &lt;div class="header" align="center"&gt;
+          &lt;h1&gt;Le texte de la base &lt;br/&gt;TrameurFromRhapsodie&lt;/h1&gt;
+          &lt;h2&gt;&lt;span class="forme"&gt;Forme&lt;/span&gt; [&lt;span class="pos"&gt;Catégorie&lt;/span&gt;]&lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class="table-wrapper" style="margin-left:auto; margin-right:auto;width:70%"&gt;
+          &lt;table class="alt" style="text-align:justify"&gt;
+            &lt;tbody&gt;
+              &lt;tr&gt;
+                &lt;td&gt;
+                  &lt;xsl:apply-templates select="baselexicometrique/trame/items/item" mode="pos"/&gt;
+                &lt;/td&gt;
+              &lt;/tr&gt;
+            &lt;/tbody&gt;
+          &lt;/table&gt;
+        &lt;/div&gt;
+      &lt;/body&gt;
+    &lt;/html&gt;
+  &lt;/xsl:template&gt;
+
+  &lt;xsl:template match="item" mode="pos"&gt;
+    &lt;xsl:choose&gt;
+      &lt;xsl:when test="c='RETURN'"&gt;
+        &lt;xsl:text&gt;
+&lt;/xsl:text&gt;
+        &lt;br/&gt;
+      &lt;/xsl:when&gt;
+      &lt;xsl:when test="f='£' or f='#'"&gt; &lt;/xsl:when&gt;
+      &lt;xsl:when test="f=' ' or following-sibling::f=' '"&gt; &lt;/xsl:when&gt;
+      &lt;xsl:otherwise&gt;
+        &lt;span class="forme"&gt;&lt;xsl:value-of select="f"/&gt;&lt;/span&gt;[&lt;span class="pos"&gt;&lt;xsl:value-of
+            select="c"/&gt;&lt;/span&gt;] &lt;/xsl:otherwise&gt;
+    &lt;/xsl:choose&gt;
+  &lt;/xsl:template&gt;
+
+&lt;/xsl:stylesheet&gt;
+
+</code>
+		         <resultat fichier="exo13_XSLT_q2.xml"/>   
+            </reponse>
+        </question>
+        <question id="xslt_3">
+            <consignes>
+                <consigne type="simple">Construire une feuille de styles pour extraire (en format TXT) au moins 2 patrons morpho-syntaxiques de longueurs différentes</consigne>
+            </consignes>
+            <reponse type="1-m">
+            	<note><b>Motif:</b><c>NomAdj</c>, <c>CLVDN</c><br/>La feuille de style écrit des résultats dans plusieurs fichiers txt en foction de leur motif<br/>
+					Les résultats <i>infra</i> sont queleques exemples.            	
+            	</note>
+                <code langage="markup">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;!-- Oxygen, Saxon-PE 9.5.1.7--&gt;
+&lt;!--exo13_XSLT_q3.xsl Construire une feuille de styles pour extraire (en format TXT) au moins 2 patrons morpho-
+syntaxiques de longueurs différentes--&gt;
+&lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"&gt;
+  &lt;xsl:output method="text" encoding="utf-8"/&gt;
+  &lt;xsl:template match="/"&gt;
+    &lt;xsl:result-document href="./exo13_XSLT_q3_NomAdj.txt"&gt;
+      &lt;xsl:apply-templates select="baselexicometrique/trame/items/item" mode="NomAdj"/&gt;
+    &lt;/xsl:result-document&gt;
+    &lt;xsl:result-document href="./exo13_XSLT_q3_ClVDN.txt"&gt;
+      &lt;xsl:apply-templates select="baselexicometrique/trame/items/item" mode="ClVDN"/&gt;
+    &lt;/xsl:result-document&gt;
+  &lt;/xsl:template&gt;
+
+  &lt;xsl:template match="item" mode="NomAdj"&gt;
+    &lt;xsl:variable name="item1" select="."/&gt;
+    &lt;xsl:variable name="item2" select="following-sibling::item[2]"/&gt;
+    &lt;xsl:if test="($item1/c='N') and ($item2/c='Adj')"&gt;
+      &lt;xsl:value-of select="concat($item1/f,' ',$item2/f)"/&gt;
+      &lt;xsl:text&gt;
+&lt;/xsl:text&gt;
+    &lt;/xsl:if&gt;
+  &lt;/xsl:template&gt;
+
+  &lt;xsl:template match="item" mode="ClVDN"&gt;
+    &lt;xsl:variable name="item1" select="."/&gt;
+    &lt;xsl:variable name="item2" select="following-sibling::item[1]"/&gt;
+    &lt;xsl:variable name="item3" select="following-sibling::item[2]"/&gt;
+    &lt;xsl:variable name="item4" select="following-sibling::item[3]"/&gt;
+    &lt;xsl:variable name="item5" select="following-sibling::item[4]"/&gt;
+    &lt;xsl:variable name="item6" select="following-sibling::item[5]"/&gt;
+    &lt;xsl:variable name="item7" select="following-sibling::item[6]"/&gt;
+    &lt;xsl:if test="($item1/c='Cl') and ($item3/c='V') and ($item5/c='D') and ($item7/c='N')"&gt;
+      &lt;xsl:value-of
+        select="concat($item1/f, $item2/f, $item3/f, $item4/f, $item5/f, $item6/f, $item7/f)"/&gt;
+      &lt;xsl:text&gt;
+&lt;/xsl:text&gt;
+    &lt;/xsl:if&gt;
+  &lt;/xsl:template&gt;
+&lt;/xsl:stylesheet&gt;
+
+</code>
+                <resultat fichier="exo13_XSLT_q3_NomAdj_sort.txt" id="Nom-Adj" />
+                <resultat fichier="exo13_XSLT_q3_ClVDN_sort.txt" id="Cl-V-D-N" />
+            </reponse>
+        </question>
+        <question id="xslt_4">
+            <consignes>
+                <consigne type="simple">Construire une feuille de styles pour extraire (au format TXT) les items en relation de dépendance syntaxique de type OBJ (les classer et les compter)</consigne>
+            </consignes>
+            <reponse type="code-resultat">
+            <note>Solution réalisée avec XSLT 2.0, le résultat est généré par oXygen.</note>
+	            <code langage="markup">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+    &lt;!-- Oxygen, Saxon-PE 9.5.1.7--&gt;
+    &lt;!--exo13_XSLT_q4.xsl Construire une feuille de styles pour extraire (au format TXT) les items en relation de
+dépendance syntaxique de type OBJ (les classer et les compter)--&gt;
+    &lt;!--(head -n 1 exo13_XSLT_q4.txt; tail -n +2 exo13_XSLT_q4.txt | sort | uniq -ic | sort -gr) &gt; exo13_XSLT_sort_q4.txt--&gt;
+    &lt;xsl:output method="text" encoding="utf-8"/&gt;
+    &lt;xsl:template match="/"&gt;
+        &lt;xsl:result-document href="./exo13_XSLT_q4.txt"&gt;
+            &lt;xsl:text&gt;obj(Gouverneur&lt;----Dépendant)
+&lt;/xsl:text&gt;
+            &lt;xsl:apply-templates select="baselexicometrique/trame/items/item" mode="OBJ"
+            &gt; &lt;/xsl:apply-templates&gt;
+        &lt;/xsl:result-document&gt;
+    &lt;/xsl:template&gt;
+
+    &lt;xsl:template match="item" mode="OBJ"&gt;
+        &lt;xsl:if test="matches(./a[7],'OBJ')"&gt;
+            &lt;xsl:variable name="dep_item" select="."/&gt;
+            &lt;xsl:variable name="dep_pos" select="number(@pos)"/&gt;
+            &lt;xsl:variable name="gov_pos"
+                select="number($dep_item/a[7]/replace($dep_item/a[7],'OBJ\((\d+)\)','$1'))"/&gt;
+            &lt;xsl:variable name="diff" select="number($gov_pos - $dep_pos)"/&gt;
+
+            &lt;xsl:choose&gt;
+                &lt;xsl:when test="number($diff) &gt; 0"&gt;
+                    &lt;xsl:value-of select="following-sibling::item[number($diff)]/l"/&gt;
+                    &lt;xsl:text&gt; &lt;/xsl:text&gt;
+                &lt;/xsl:when&gt;
+                &lt;xsl:otherwise&gt;
+                    &lt;xsl:value-of select="preceding-sibling::item[abs($diff)]/l"/&gt;
+                    &lt;xsl:text&gt; &lt;/xsl:text&gt;
+                &lt;/xsl:otherwise&gt;
+            &lt;/xsl:choose&gt;
+
+            &lt;xsl:value-of select="$dep_item/l"/&gt;
+            &lt;xsl:text&gt;
+&lt;/xsl:text&gt;
+        &lt;/xsl:if&gt;
+    &lt;/xsl:template&gt;
+
+&lt;/xsl:stylesheet&gt;
+
+</code>
+		         <resultat fichier="exo13_XSLT_sort_q4.txt"/>   
+            </reponse>
+        </question>
+        <question id="xslt_5">
+            <consignes>
+                <consigne type="simple">Construire une feuille de styles pour extraire la liste des POS en relation de dépendance syntaxique de type OBJ (les classer et les compter)</consigne>
+            </consignes>
+               <reponse type="code-resultat">
+                  <note>Solution réalisée avec <b>XSLT 2.0</b>, le résultat est généré par oXygen (Saxon-PE 9.5.1.7).</note>
+		            <code langage="markup">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"&gt;
+  &lt;!-- Oxygen, Saxon-PE 9.5.1.7--&gt;
+  &lt;!--exo13_XSLT_q5.xsl Construire une feuille de styles pour extraire la liste des POS en relation de dépendance
+syntaxique de type OBJ (les classer et les compter)--&gt;
+  &lt;!--(head -n 1 exo13_XSLT_q5.txt; tail -n +2 exo13_XSLT_q5.txt | sort |uniq -ic |sort -gr) &gt; exo13_XSLT_sort_q5.txt--&gt;
+  &lt;xsl:output method="text" encoding="utf-8"/&gt;
+  &lt;xsl:template match="/"&gt;
+    &lt;xsl:result-document href="./exo13_XSLT_q5.txt"&gt;
+      &lt;xsl:text&gt;obj(Gouverneur----&gt;Dépendant)
+&lt;/xsl:text&gt;
+      &lt;xsl:apply-templates select="baselexicometrique/trame/items/item" mode="OBJ"
+      &gt; &lt;/xsl:apply-templates&gt;
+    &lt;/xsl:result-document&gt;
+  &lt;/xsl:template&gt;
+
+  &lt;xsl:template match="item" mode="OBJ"&gt;
+    &lt;xsl:if test="matches(./a[7],'OBJ')"&gt;
+      &lt;xsl:variable name="dep_item" select="."/&gt;
+      &lt;xsl:variable name="dep_pos" select="number(@pos)"/&gt;
+      &lt;xsl:variable name="gov_pos"
+        select="number($dep_item/a[7]/replace($dep_item/a[7],'OBJ\((\d+)\)','$1'))"/&gt;
+      &lt;xsl:variable name="diff" select="number($gov_pos - $dep_pos)"/&gt;
+
+      &lt;xsl:choose&gt;
+        &lt;xsl:when test="number($diff) &gt; 0"&gt;
+          &lt;xsl:value-of select="following-sibling::item[number($diff)]/c"/&gt;
+          &lt;xsl:text&gt; &lt;/xsl:text&gt;
+        &lt;/xsl:when&gt;
+        &lt;xsl:otherwise&gt;
+          &lt;xsl:value-of select="preceding-sibling::item[abs($diff)]/c"/&gt;
+          &lt;xsl:text&gt; &lt;/xsl:text&gt;
+        &lt;/xsl:otherwise&gt;
+      &lt;/xsl:choose&gt;
+
+      &lt;xsl:value-of select="$dep_item/c"/&gt;
+      &lt;xsl:text&gt;
+&lt;/xsl:text&gt;
+    &lt;/xsl:if&gt;
+  &lt;/xsl:template&gt;
+
+&lt;/xsl:stylesheet&gt;
+
+</code>
+			         <resultat fichier="exo13_XSLT_sort_q5.txt"/>   
+	            </reponse>
+        </question>
+        <question titre="questions subsidiaires">
+            <consignes>
+                <consigne type="simple">Construire une feuille de styles pour afficher (au format HTML) tout le texte de la base en mettant au jour une relation de dépendance syntaxique choisie (par exemple OBJ) : l'affichage doit mettre au jour le dépendant et le gouverneur</consigne>
+            </consignes>
+            <reponse type="code-resultat">
+            	<note><b>Solution 1</b> : Parcours en scannant dans deux axes <c>sibling</c> d'un noeud.<br/>
+            	moins efficace : <c>Θ(n(log(n)^2))</c>.<br/>
+            	Résultat généré par oXygen (Saxon-PE 9.5.1.7)
+            	</note>
+	            <code langage="markup">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+  &lt;!-- Oxygen, Saxon-PE 9.5.1.7--&gt;
+  &lt;!--exo13_XSLT_q6.xsl Question subsidiaire : Construire une feuille de styles pour afficher (au format HTML) tout le texte de la base en
+mettant au jour une relation de dépendance syntaxique choisie (par exemple OBJ) : l’affichage
+doit mettre au jour le dépendant et le gouverneur--&gt;
+  &lt;xsl:output method="html" encoding="UTF-8" doctype-system="about:legacy-compat" indent="yes"/&gt;
+
+  &lt;xsl:template match="/"&gt;
+    &lt;html&gt;
+      &lt;head&gt;
+        &lt;meta name="viewport" content="width=device-width, initial-scale=1"/&gt;
+        &lt;link rel="stylesheet" href="exo.css"/&gt;
+        &lt;title&gt;EXO13-XSLT-QuestionSubsidiaire&lt;/title&gt;
+      &lt;/head&gt;
+      &lt;body&gt;
+        &lt;div class="header" align="center"&gt;
+          &lt;h1&gt;Le texte de la base &lt;br/&gt;TrameurFromRhapsodie&lt;/h1&gt;
+          &lt;h2&gt;une relation de dépendance syntaxique OBJ mise au jour&lt;/h2&gt;
+          &lt;h2&gt;
+            &lt;span class="governor"&gt;
+              &lt;span class="forme"&gt;Gouverneur&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;span class="dependant"&gt;
+              &lt;span class="forme"&gt;Dépendant&lt;/span&gt;
+            &lt;/span&gt;
+          &lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class="table-wrapper" style="margin-left:auto; margin-right:auto;width:70%"&gt;
+          &lt;table class="alt" style="text-align:justify"&gt;
+            &lt;tbody&gt;
+              &lt;tr&gt;
+                &lt;td&gt;
+                  &lt;xsl:apply-templates select="baselexicometrique/trame/items/item" mode="obj"/&gt;
+                &lt;/td&gt;
+              &lt;/tr&gt;
+            &lt;/tbody&gt;
+          &lt;/table&gt;
+        &lt;/div&gt;
+      &lt;/body&gt;
+    &lt;/html&gt;
+  &lt;/xsl:template&gt;
+  &lt;xsl:template match="item" mode="obj"&gt;
+
+    &lt;xsl:choose&gt;
+      &lt;!--dependant highlight--&gt;
+      &lt;xsl:when test="matches(a[7],'OBJ')"&gt;
+        &lt;span class="dependant"&gt;
+          &lt;span class="forme"&gt;
+            &lt;xsl:value-of select="concat(f,'[',a[7],']')"/&gt;
+          &lt;/span&gt;
+        &lt;/span&gt;
+        &lt;!--governer hightlight--&gt;
+      &lt;/xsl:when&gt;
+      &lt;xsl:when test="@pos=preceding-sibling::item/a[7]/replace(.,'OBJ\((\d+)\)','$1')[1]"&gt;
+        &lt;span class="governor"&gt;
+          &lt;span class="forme"&gt;
+            &lt;xsl:value-of select="concat(f,'[',@pos,']')"/&gt;
+          &lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/xsl:when&gt;
+      &lt;xsl:when test="@pos=following-sibling::item/a[7]/replace(.,'OBJ\((\d+)\)','$1')[1]"&gt;
+        &lt;span class="governor"&gt;
+          &lt;span class="forme"&gt;
+            &lt;xsl:value-of select="concat(f,'[',@pos,']')"/&gt;
+          &lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/xsl:when&gt;
+      &lt;!--normal output--&gt;
+      &lt;xsl:otherwise&gt;
+        &lt;xsl:choose&gt;
+          &lt;xsl:when test="c='RETURN'"&gt;
+            &lt;br/&gt;
+          &lt;/xsl:when&gt;
+          &lt;xsl:when test="f='£' or f='#'"&gt; &lt;/xsl:when&gt;
+          &lt;xsl:otherwise&gt;
+            &lt;span class="forme"&gt;
+              &lt;xsl:value-of select="f"/&gt;
+            &lt;/span&gt;
+          &lt;/xsl:otherwise&gt;
+        &lt;/xsl:choose&gt;
+      &lt;/xsl:otherwise&gt;
+    &lt;/xsl:choose&gt;
+
+  &lt;/xsl:template&gt;
+
+&lt;/xsl:stylesheet&gt;
+</code>
+		         <resultat fichier="exo13_XSLT_q6.html"/>   
+            </reponse>
+            <reponse type="code-resultat">
+            	<note><b>Solution 2</b> : Réalisée à l'aide de <c>clé</c> sur des items de type OBJ 
+            	en utilisant la <c>pos</c> entourée dans <c>obj(pos)</c>;<br/>beaucoup plus performante que la première.<br/>
+					<b>Remarque</b> : Dans un parcours, le noeud courant est traité si et seulement si il correspond à une des conditions:<br/>
+	    <c>(Condi1|Condi2|Condi3|autre)</c>;<br/> mais une fois qu'il correspond à une condition, il va ignorer toutes les autres.<br/>
+	    Dans notre cas, chaque element <c>//item</c> est visité une fois, mais en français, certains mots peuvent 
+	    être à la fois <em>gouverneur</em> dans une relation et <em>dépendant</em> dans une autre. On ne garde qu'un trait.<br/>
+	    <b>ex</b> : <b>OBJ</b>(voudrait----&gt;exprimer)  et  <b>OBJ</b>(exprimer----&gt;sympatie), il s'agit du <em>même</em> item (exprimer), on prend un seul trait.             	
+            	</note>
+	            <code langage="markup">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+  &lt;!-- Oxygen, Saxon-PE 9.5.1.7--&gt;
+  &lt;!--exo13_XSLT_q6_solution2.xsl Question subsidiaire : Construire une feuille de styles pour afficher (au format HTML) tout le texte de la base en
+mettant au jour une relation de dépendance syntaxique choisie (par exemple OBJ) : l’affichage
+doit mettre au jour le dépendant et le gouverneur--&gt;
+  &lt;xsl:output method="html" encoding="UTF-8" doctype-system="about:legacy-compat" indent="yes"/&gt;
+
+  &lt;!-- la clé améliore significativement la performance par rapport à notre première solution--&gt;
+  &lt;!-- Une clé sur des items de type OBJ en utilisant la pos entourée dans obj(pos)--&gt;
+  &lt;xsl:key name="objPosCle" match="baselexicometrique/trame/items/item[starts-with(a[7],'OBJ')]"
+    use="a[7]/replace(.,'OBJ\((\d+)\)','$1')"/&gt;
+
+  &lt;xsl:template match="/"&gt;
+    &lt;html&gt;
+      &lt;head&gt;
+        &lt;meta name="viewport" content="width=device-width, initial-scale=1"/&gt;
+        &lt;link rel="stylesheet" href="exo.css"/&gt;
+        &lt;title&gt;EXO13-XSLT-QuestionSubsidiaire&lt;/title&gt;
+      &lt;/head&gt;
+      &lt;body&gt;
+        &lt;div class="header" align="center"&gt;
+          &lt;h1&gt;Le texte de la base &lt;br/&gt;TrameurFromRhapsodie&lt;/h1&gt;
+          &lt;h2&gt;une relation de dépendance syntaxique OBJ mise au jour&lt;/h2&gt;
+          &lt;h2&gt;
+            &lt;span class="governor"&gt;
+              &lt;span class="forme"&gt;Gouverneur&lt;/span&gt;
+            &lt;/span&gt;
+            &lt;span class="dependant"&gt;
+              &lt;span class="forme"&gt;Dépendant&lt;/span&gt;
+            &lt;/span&gt;
+          &lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class="table-wrapper" style="margin-left:auto; margin-right:auto;width:70%"&gt;
+          &lt;table class="alt" style="text-align:justify"&gt;
+            &lt;tbody&gt;
+              &lt;tr&gt;
+                &lt;td&gt;
+                  &lt;xsl:apply-templates select="baselexicometrique/trame/items/item" mode="obj"/&gt;
+                &lt;/td&gt;
+              &lt;/tr&gt;
+            &lt;/tbody&gt;
+          &lt;/table&gt;
+        &lt;/div&gt;
+      &lt;/body&gt;
+    &lt;/html&gt;
+  &lt;/xsl:template&gt;
+
+  &lt;xsl:template match="item" mode="obj"&gt;
+    &lt;xsl:choose&gt;
+      &lt;!--dependant highlight--&gt;
+      &lt;xsl:when test="starts-with(a[7],'OBJ')"&gt;
+        &lt;span class="dependant"&gt;
+          &lt;span class="forme"&gt;
+            &lt;xsl:value-of select="concat(f,'[',a[7],']')"/&gt;
+          &lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/xsl:when&gt;
+      &lt;!--governer hightlight--&gt;
+      &lt;xsl:when test="key('objPosCle',@pos)"&gt;
+        &lt;span class="governor"&gt;
+          &lt;span class="forme"&gt;
+            &lt;xsl:value-of select="concat(f,'[',@pos,']')"/&gt;
+          &lt;/span&gt;
+        &lt;/span&gt;
+      &lt;/xsl:when&gt;
+      &lt;!--normal output--&gt;
+      &lt;xsl:otherwise&gt;
+        &lt;xsl:choose&gt;
+          &lt;xsl:when test="c='RETURN'"&gt;
+            &lt;br/&gt;
+          &lt;/xsl:when&gt;
+          &lt;xsl:when test="f='£' or f='#'"&gt; &lt;/xsl:when&gt;
+          &lt;xsl:otherwise&gt;
+            &lt;span class="forme"&gt;
+              &lt;xsl:value-of select="f"/&gt;
+            &lt;/span&gt;
+          &lt;/xsl:otherwise&gt;
+        &lt;/xsl:choose&gt;
+      &lt;/xsl:otherwise&gt;
+    &lt;/xsl:choose&gt;
+  &lt;/xsl:template&gt;
+
+&lt;/xsl:stylesheet&gt;
+
+</code>
+		         <resultat fichier="exo13_XSLT_q6.html"/>   
+            </reponse>
+        </question>
+    </partie>
+    <partie titre="XQuery (via BASEX)">
+        <question id="xq_1">
+            <consignes>
+                <consigne type="simple">
+                Construire une requête pour extraire les items portant une relation de dépendance syntaxique de type OBJ
+                </consigne>
+            </consignes>
+            <reponse type="code-resultat">
+            <note><b>base de travail</b> : la base entière; les résultats (fichiers xml) sont également transformés par feuilles de style</note>
+	            <code langage="markup">(:exo13_XQuery_q1 Construire une requête pour extraire les items portant une relation de dépendance syntaxique de type OBJ:)
+let $fName := "./exo13_XQuery_q1_OBJ.xml"
+let $params := &lt;output:serialization-parameters xmlns:output="http://www.w3.org/2010/xslt-xquery-serialization"&gt;
+&lt;output:method value='xml'/&gt;
+&lt;output:omit-xml-declaration value="no"/&gt;
+&lt;/output:serialization-parameters&gt;
+return 
+file:write($fName,&lt;base nom="TrameurFromRhapsodie" cat="OBJ"&gt;
+{
+   let $base:=doc("TrameurFromRhapsodie")/baselexicometrique/trame/items
+   for $item in $base/item[a[7][contains(.,"OBJ")]]
+   return &lt;item pos="{$item/@pos}"&gt;{$item/f}{$item/c}{$item/l}&lt;/item&gt;   
+}
+&lt;/base&gt;,$params)
+</code>
+	            <resultat fichier="exo13_XQuery_q1_OBJ.xml"/>
+            </reponse>
+        </question>
+        <question id="xq_2">
+            <consignes>
+                <consigne type="simple">
+                Construire une requête pour extraire les items en relation de dépendance syntaxique de type OBJ (on affichera les formes ou les lemmes connectés par cette relation)
+                </consigne>
+            </consignes>
+            <reponse type="code-resultat">
+	            <code langage="markup">(:exo13_XQuery_q2 Construire une requête pour extraire les items en relation de dépendance syntaxique de type
+OBJ (on affichera les formes ou les lemmes connectés par cette relation):)
+let $fName := "./exo13_XQuery_q2_OBJ.xml"
+let $params := &lt;output:serialization-parameters xmlns:output="http://www.w3.org/2010/xslt-xquery-serialization"&gt;
+&lt;output:method value='xml'/&gt;
+&lt;output:omit-xml-declaration value="no"/&gt;
+&lt;/output:serialization-parameters&gt;
+return 
+file:write($fName,&lt;base nom="TrameurFromRhapsodie" cat="OBJ"&gt;
+{
+   let $base:=doc("TrameurFromRhapsodie")/baselexicometrique/trame/items
+   for $item in $base/item[a[7][matches(.,"OBJ")]]
+   let $dep_pos:=number($item/@pos)
+   let $dependant:=&lt;dependant pos="{$dep_pos}"&gt;{$item/f}{$item/c}{$item/l}&lt;/dependant&gt;
+   let $gov_pos:=number($item/a[7]/replace($item/a[7],'OBJ\((\d+)\)','$1'))
+   let $diff:=number($gov_pos - $dep_pos)
+   let $gov_item:=
+   if ($diff &gt; 0) then $item/following-sibling::item[$diff]
+   else $item/preceding-sibling::item[abs($diff)]
+   let $governor:=&lt;gouverneur pos="{$gov_pos}"&gt;{$gov_item/f}{$gov_item/c}{$gov_item/l}&lt;/gouverneur&gt;  
+   return &lt;dependance&gt;{$governor}{$dependant}&lt;/dependance&gt;   
+}
+&lt;/base&gt;
+,$params)
+</code>
+	            <resultat fichier="exo13_XQuery_q2_OBJ.xml"/>
+            </reponse>
+        </question>
+    </partie>
+    <appendice>
+    	  <fichier src="XSLT.zip" type="XSLT" />
+        <fichier src="XQUERY.zip" type="XQUERY" />
+    </appendice>
+</exercice>

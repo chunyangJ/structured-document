@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="exo.xsl"?>
+<exercice id="exo_5">
+    <titre>Exploration d’un fichier TEI</titre>
+    <question>
+        <consignes>
+            <consigne type="simple">
+                Le fichier de travail a l’allure suivante :
+            </consigne>
+            <consigne type="code" langage="markup">
+&lt;?xml version="1.0" encoding="iso-8859-1"?&gt;
+&lt;?xml-stylesheet type="text/xsl" href="q7.xsl"?&gt;
+&lt;TEI&gt;
+    &lt;teiHeader&gt;
+        &lt;fileDesc&gt;
+            &lt;titleStmt&gt;
+                &lt;title&gt;Poésies&lt;/title&gt;
+                &lt;author&gt;Arthur Rimbaud&lt;/author&gt;
+            &lt;/titleStmt&gt;
+        &lt;/fileDesc&gt;
+    &lt;/teiHeader&gt;
+    &lt;text&gt;
+        &lt;group&gt;
+            &lt;text&gt;
+                &lt;front&gt;
+                    &lt;head&gt;Le Dormeur du Val&lt;/head&gt;
+                    &lt;dateline&gt;7 octobre 1870&lt;/dateline&gt;
+                &lt;/front&gt;
+                &lt;body&gt;
+                    &lt;lg&gt;
+                        &lt;lg&gt;
+                            &lt;l&gt;C'est un trou de verdure où chante une rivière&lt;/l&gt;
+                            &lt;l&gt;Accrochant follement aux herbes des haillons&lt;/l&gt;
+                            &lt;l&gt;D'argent ; où le soleil, de la montagne fière,&lt;/l&gt;
+                            &lt;l&gt;Luit : c'est un petit val qui mousse de rayons.&lt;/l&gt;
+                        &lt;/lg&gt;
+                        &lt;lg&gt;
+                            &lt;l&gt;Un soldat jeune, bouche ouverte, tête nue,&lt;/l&gt;
+                            &lt;l&gt;Et la nuque baignant dans le frais cresson bleu,&lt;/l&gt;
+                            &lt;l&gt;Dort ; il est étendu dans l'herbe, sous la nue,&lt;/l&gt;
+                            &lt;l&gt;Pâle dans son lit vert où la lumière pleut.&lt;/l&gt;
+                        &lt;/lg&gt;
+                        &lt;lg&gt;
+                            &lt;l&gt;Les pieds dans les glaïeuls, il dort. Souriant comme&lt;/l&gt;
+                            &lt;l&gt;Sourirait un enfant malade, il fait un somme :&lt;/l&gt;
+                            &lt;l&gt;Nature, berce-le chaudement : il a froid.&lt;/l&gt;
+                            &lt;/lg&gt;
+                        &lt;lg&gt;
+                            &lt;l&gt;Les parfums ne font pas frissonner sa narine ;&lt;/l&gt;
+                            &lt;l&gt;Il dort dans le soleil, la main sur sa poitrine&lt;/l&gt;
+                            &lt;l&gt;Tranquille. Il a deux trous rouges au côté droit.&lt;/l&gt;
+                        &lt;/lg&gt;
+                    &lt;/lg&gt;
+                &lt;/body&gt;
+            &lt;/text&gt;
+        &lt;/group&gt;
+    &lt;/text&gt;
+&lt;/TEI&gt;
+            </consigne>
+            <consigne type="simple">
+                Chacune des questions suivantes doit conduire à construire une (voire plusieurs) feuille de styles pour réaliser les traitements visés :
+            </consigne>
+        </consignes>
+    </question>
+    <question id="q_1">
+        <consignes>
+            <consigne type="simple">Afficher le nom de l'auteur, le titre du poème, la date, et le recueil, dans cet ordre et au sein d'une page HTML bien formée.</consigne>
+        </consignes>
+        <reponse type="code-resultat">
+            <code langage="markup">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+    &lt;xsl:output method="html"
+                encoding="UTF-8"
+                doctype-system="about:legacy-compat"
+                indent="yes"/&gt;
+    &lt;xsl:template match="/"&gt;
+        &lt;html&gt;
+            &lt;head&gt;&lt;title&gt;EXERCICE 5 : QUESTION 1&lt;/title&gt;&lt;/head&gt;
+            &lt;body&gt;
+                &lt;p&gt;&lt;strong&gt;Auteur : &lt;/strong&gt;&lt;xsl:value-of select="TEI/teiHeader/fileDesc/titleStmt/author"/&gt;&lt;/p&gt;
+                &lt;p&gt;&lt;strong&gt;Titre : &lt;/strong&gt;&lt;xsl:value-of select="TEI/text/group/text/front/head"/&gt;&lt;/p&gt;
+                &lt;p&gt;&lt;strong&gt;Date : &lt;/strong&gt;&lt;xsl:value-of select="TEI/text/group/text/front/dateline"/&gt;&lt;/p&gt;
+                &lt;p&gt;&lt;strong&gt;Recueil : &lt;/strong&gt;&lt;xsl:value-of select="TEI/teiHeader/fileDesc/titleStmt/title"/&gt;&lt;/p&gt;
+            &lt;/body&gt;
+        &lt;/html&gt;
+    &lt;/xsl:template&gt;
+&lt;/xsl:stylesheet&gt;</code>
+            <resultat fichier="exo_5_q1.xml" />
+        </reponse>
+    </question>
+    <question id="q_2">
+        <consignes>
+            <consigne type="simple">Afficher le titre et la date du poème, les vers les uns après les autres, sans balise (sortie texte brut)</consigne>
+        </consignes>
+        <reponse type="code-resultat">
+            <code langage="markup">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+    &lt;xsl:output method="text" encoding="utf-8"/&gt;
+    &lt;xsl:template match="/"&gt;
+    Titre :&lt;xsl:value-of select="TEI/text/group/text/front/head"/&gt;
+    Date : &lt;xsl:value-of select="TEI/text/group/text/front/dateline"/&gt;&lt;xsl:text&gt;  
+    
+    &lt;/xsl:text&gt;
+    &lt;xsl:apply-templates select="TEI/text/group/text/body/lg/lg/l"/&gt;
+    &lt;/xsl:template&gt;
+    
+    &lt;xsl:template match="l"&gt;
+    &lt;xsl:value-of select="."/&gt;&lt;xsl:text&gt;
+    &lt;/xsl:text&gt;
+    &lt;/xsl:template&gt;
+&lt;/xsl:stylesheet&gt;</code>
+            <resultat fichier="exo_5_q2.xml" />
+        </reponse>
+    </question>
+    <question id="q_3">
+        <consignes>
+            <consigne type="simple">Afficher le 3 ème vers de chaque groupe de vers au sein d'une page HTML bien formée.</consigne>
+        </consignes>
+        <reponse type="code-resultat">
+            <code langage="markup">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+    &lt;xsl:output method="html"
+                encoding="UTF-8"
+                doctype-system="about:legacy-compat"
+                indent="yes"/&gt;
+&lt;xsl:template match="/"&gt;
+    &lt;html&gt;
+        &lt;head&gt;&lt;title&gt;EXERCICE 5 : QUESTION 3&lt;/title&gt;&lt;/head&gt;
+        &lt;body&gt;
+            &lt;xsl:apply-templates select="TEI/text/group/text/body/lg/lg"/&gt;
+        &lt;/body&gt;
+    &lt;/html&gt;
+
+    &lt;/xsl:template&gt;
+    
+    &lt;xsl:template match="lg"&gt;
+        &lt;p&gt;&lt;xsl:value-of select="l[3]"/&gt;&lt;/p&gt;
+    &lt;/xsl:template&gt;
+ 
+&lt;/xsl:stylesheet&gt;</code>
+            <resultat fichier="exo_5_q3.xml" />
+        </reponse>
+    </question>
+    <question id="q_4">
+        <consignes>
+            <consigne type="simple">Afficher seulement le 1 er quatrain au sein d'une page HTML bien formée.</consigne>
+        </consignes>
+        <reponse type="code-resultat">
+            <code langage="markup">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+    &lt;xsl:output method="html"
+                encoding="UTF-8"
+                doctype-system="about:legacy-compat"
+                indent="yes"/&gt;
+    &lt;xsl:template match="/"&gt;
+        &lt;html&gt;
+            &lt;head&gt;&lt;title&gt;EXERCICE 5 : QUESTION 4&lt;/title&gt;&lt;/head&gt;
+            &lt;body&gt;
+                &lt;xsl:apply-templates select="TEI/text/group/text/body/lg/lg[count(child::l)=4][1]"/&gt;
+            &lt;/body&gt;
+        &lt;/html&gt;
+    &lt;/xsl:template&gt;
+    &lt;xsl:template match="lg"&gt;
+        &lt;p&gt;
+        &lt;xsl:for-each select="l"&gt;
+            &lt;xsl:value-of select="."/&gt;&lt;br /&gt;
+        &lt;/xsl:for-each&gt;
+        &lt;/p&gt;
+    &lt;/xsl:template&gt;
+&lt;/xsl:stylesheet&gt;</code>
+            <resultat fichier="exo_5_q4.xml" />
+        </reponse>
+    </question>
+    <question id="q_5">
+        <consignes>
+            <consigne type="simple">Afficher chaque vers précédé de son numéro d'ordre au sein du groupe de vers (&lt;lg>).</consigne>
+        </consignes>
+        <reponse type="code-resultat">
+            <code langage="markup">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+    &lt;xsl:output method="html"
+                encoding="UTF-8"
+                doctype-system="about:legacy-compat"
+                indent="yes"/&gt;
+    &lt;xsl:template match="/"&gt;
+        &lt;html&gt;
+            &lt;head&gt;&lt;title&gt;EXERCICE 5 : QUESTION 5&lt;/title&gt;&lt;/head&gt;
+            &lt;body&gt;
+                &lt;xsl:apply-templates select="TEI/text/group/text/body/lg/lg"/&gt;
+            &lt;/body&gt;
+        &lt;/html&gt;
+    &lt;/xsl:template&gt;
+
+    &lt;xsl:template match="lg"&gt;
+        &lt;p&gt;
+        &lt;xsl:for-each select="l"&gt;
+            &lt;xsl:value-of select="position()"/&gt;.&lt;xsl:value-of select="."/&gt;&lt;br/&gt;
+        &lt;/xsl:for-each&gt;
+        &lt;/p&gt;
+    &lt;/xsl:template&gt;
+&lt;/xsl:stylesheet&gt;</code>
+            <resultat fichier="exo_5_q5.xml" />
+        </reponse>
+    </question>
+    <question id="q_6">
+        <consignes>
+            <consigne type="simple">Idem en ajoutant à chaque groupe de vers son numéro d'ordre.</consigne>
+        </consignes>
+        <reponse type="code-resultat">
+            <code langage="markup">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+    &lt;xsl:output method="html"
+                encoding="UTF-8"
+                doctype-system="about:legacy-compat"
+                indent="yes"/&gt;
+    &lt;xsl:template match="/"&gt;
+        &lt;html&gt;
+            &lt;head&gt;&lt;title&gt;EXERCICE 5 : QUESTION 6&lt;/title&gt;&lt;/head&gt;
+            &lt;body&gt;
+                &lt;xsl:apply-templates select="TEI/text/group/text/body/lg/lg"/&gt;
+            &lt;/body&gt;
+        &lt;/html&gt;
+    &lt;/xsl:template&gt;
+
+    &lt;xsl:template match="lg"&gt;
+        &lt;strong&gt;&lt;em&gt;&lt;xsl:value-of select="position()"/&gt;&lt;/em&gt;&lt;/strong&gt;
+        &lt;p&gt;
+        &lt;xsl:for-each select="l"&gt;
+            &lt;xsl:value-of select="position()"/&gt;.&lt;xsl:value-of select="."/&gt;&lt;br /&gt;
+        &lt;/xsl:for-each&gt;
+        &lt;/p&gt;
+    &lt;/xsl:template&gt;
+&lt;/xsl:stylesheet&gt;</code>
+            <resultat fichier="exo_5_q6.xml" />
+        </reponse>
+    </question>
+    <question id="q_7">
+        <consignes>
+            <consigne type="simple">Engendrer une page HTML bien formée dans laquelle le poème (seul, sans titre) est au sein d'un tableau, avec une ligne par vers, et une ligne entre chaque strophe. Penser à aligner les lignes à gauche.</consigne>
+        </consignes>
+        <reponse type="code-resultat">
+            <code langage="markup">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+    &lt;xsl:output method="html"
+                encoding="UTF-8"
+                doctype-system="about:legacy-compat"
+                indent="yes"/&gt;
+&lt;xsl:template match="/"&gt;
+    &lt;html&gt;
+        &lt;head&gt;
+            &lt;title&gt;EXERCICE 5 : QUESTION 7&lt;/title&gt;
+        &lt;/head&gt;
+        &lt;body&gt;
+            &lt;table border="1px" align="center"&gt;&lt;xsl:apply-templates select="TEI/text/group/text/body/lg/lg"/&gt;&lt;/table&gt;
+        &lt;/body&gt;
+    &lt;/html&gt;
+&lt;/xsl:template&gt;
+
+&lt;xsl:template match="lg"&gt;
+    &lt;xsl:for-each select="l"&gt;
+        &lt;tr&gt;&lt;td&gt;&lt;xsl:value-of select="."/&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;/xsl:for-each&gt;
+    &lt;xsl:if test="position()!=last()"&gt;&lt;tr&gt;&lt;td&gt;&lt;br/&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/xsl:if&gt;
+&lt;/xsl:template&gt;
+&lt;/xsl:stylesheet&gt;</code>
+            <resultat fichier="exo_5_q7.xml" />
+        </reponse>
+    </question>
+    <question id="q_8">
+        <consignes>
+            <consigne type="simple">Afficher les vers qui contiennent un point-virgule ou deux points (:) (format texte brut)</consigne>
+        </consignes>
+        <reponse type="code-resultat">
+            <code langage="markup">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+&lt;xsl:output method="text" encoding="UTF-8" /&gt;
+&lt;xsl:template match="/"&gt;
+&lt;xsl:apply-templates select="TEI/text/group/text/body/lg/lg/l[contains(text(),';') or contains(text(),':')]"/&gt;
+&lt;/xsl:template&gt;
+
+&lt;xsl:template match="l"&gt;
+&lt;xsl:value-of select="." /&gt;&lt;xsl:text&gt;
+&lt;/xsl:text&gt;
+&lt;/xsl:template&gt;
+&lt;/xsl:stylesheet&gt;</code>
+            <resultat fichier="exo_5_q8.xml" />
+        </reponse>
+    </question>
+    <question id="q_9">
+        <consignes>
+            <consigne type="simple">Afficher les quatrains en gras et les tercets en italiques au sein d'une page HTML bien formée.</consigne>
+        </consignes>
+        <reponse type="code-resultat">
+            <code langage="markup">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+    &lt;xsl:output method="html"
+                encoding="UTF-8"
+                doctype-system="about:legacy-compat"
+                indent="yes"/&gt;
+    &lt;xsl:template match="/"&gt;
+        &lt;html&gt;
+            &lt;head&gt;&lt;title&gt;EXERCICE 5 : QUESTION 9&lt;/title&gt;&lt;/head&gt;
+            &lt;body&gt;
+                &lt;xsl:apply-templates select="TEI/text/group/text/body/lg/lg"/&gt;
+            &lt;/body&gt;
+        &lt;/html&gt;
+    &lt;/xsl:template&gt;
+    &lt;xsl:template match="lg[count(child::l)=4]"&gt;
+        &lt;p&gt;
+        &lt;xsl:for-each select="l"&gt;
+            &lt;b&gt;&lt;xsl:value-of select="."/&gt;&lt;/b&gt;&lt;br /&gt;
+        &lt;/xsl:for-each&gt;
+        &lt;/p&gt;
+    &lt;/xsl:template&gt;
+    &lt;xsl:template match="lg[count(child::l)=3]"&gt;
+        &lt;p&gt;
+        &lt;xsl:for-each select="l"&gt;
+            &lt;i&gt;&lt;xsl:value-of select="."/&gt;&lt;/i&gt;&lt;br /&gt;
+        &lt;/xsl:for-each&gt;
+        &lt;/p&gt;
+    &lt;/xsl:template&gt;
+&lt;/xsl:stylesheet&gt;</code>
+            <resultat fichier="exo_5_q9.xml" />
+        </reponse>
+    </question>
+    <appendice>
+        <fichier src="exo_5.xml" type="fhichier de travail" />
+        <fichier src="EXERCICE_5_fichiers_produits.zip" type="fhichiers produits" />
+    </appendice>
+</exercice>
